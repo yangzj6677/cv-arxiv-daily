@@ -1291,6 +1291,36 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
+## KG
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**WikiCoder: Learning to Write Knowledge-Powered Code**|Théo Matricon et.al.|[2303.08574](http://arxiv.org/abs/2303.08574)|null|
+|**2023-03-15**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph: Principle, Implementation, and Performance Evaluation**|Fuhui Zhou et.al.|[2303.08546](http://arxiv.org/abs/2303.08546)|null|
+|**2023-03-16**|**FactReranker: Fact-guided Reranker for Faithful Radiology Report Summarization**|Qianqian Xie et.al.|[2303.08335](http://arxiv.org/abs/2303.08335)|null|
+|**2023-03-14**|**Relational Multi-Task Learning: Modeling Relations between Data and Tasks**|Kaidi Cao et.al.|[2303.07666](http://arxiv.org/abs/2303.07666)|**[link](https://github.com/snap-stanford/graphgym)**|
+|**2023-03-12**|**ALIST: Associative Logic for Inference, Storage and Transfer. A Lingua Franca for Inference on the Web**|Kwabena Nuamah et.al.|[2303.06691](http://arxiv.org/abs/2303.06691)|null|
+|**2023-03-12**|**LUKE-Graph: A Transformer-based Approach with Gated Relational Graph Attention for Cloze-style Reading Comprehension**|Shima Foolad et.al.|[2303.06675](http://arxiv.org/abs/2303.06675)|null|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496](http://arxiv.org/abs/2303.05496)|null|
+|**2023-03-09**|**Knowledge-augmented Few-shot Visual Relation Detection**|Tianyu Yu et.al.|[2303.05342](http://arxiv.org/abs/2303.05342)|null|
+|**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794](http://arxiv.org/abs/2303.04794)|null|
+|**2023-03-13**|**NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker**|Nicolas Heist et.al.|[2303.04426](http://arxiv.org/abs/2303.04426)|null|
+
+## RS
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**Measuring the Impact of Explanation Bias: A Study of Natural Language Justifications for Recommender Systems**|Krisztian Balog et.al.|[2303.09498](http://arxiv.org/abs/2303.09498)|null|
+|**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816](http://arxiv.org/abs/2303.08816)|null|
+|**2023-03-15**|**Dually Enhanced Propensity Score Estimation in Sequential Recommendation**|Chen Xu et.al.|[2303.08722](http://arxiv.org/abs/2303.08722)|**[link](https://github.com/xuchen0427/dually-enhanced-propensity-score-estimation-in-sequential-recommendation)**|
+|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810](http://arxiv.org/abs/2303.07810)|null|
+|**2023-03-13**|**Neural Group Recommendation Based on a Probabilistic Semantic Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001](http://arxiv.org/abs/2303.07001)|**[link](https://github.com/knodis-research-group/neural-cf-for-groups)**|
+|**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791](http://arxiv.org/abs/2303.06791)|null|
+|**2023-03-12**|**P-MMF: Provider Max-min Fairness Re-ranking in Recommender System**|Chen Xu et.al.|[2303.06660](http://arxiv.org/abs/2303.06660)|**[link](https://github.com/xuchen0427/p-mmf)**|
+|**2023-03-12**|**AutoDenoise: Automatic Data Instance Denoising for Recommendations**|Weilin Lin et.al.|[2303.06611](http://arxiv.org/abs/2303.06611)|null|
+|**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
+|**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
