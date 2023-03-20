@@ -619,7 +619,7 @@
 |**2022-11-09**|**Visual Named Entity Linking: A New Dataset and A Baseline**|Wenxiang Sun et.al.|[2211.04872v1](http://arxiv.org/abs/2211.04872v1)|**[link](https://github.com/ict-bigdatalab/vnel)**|
 |**2022-11-07**|**Ultrafast Image Retrieval from a Holographic Memory Disc for High-Speed Operation of a Shift, Scale, and Rotation Invariant Target Recognition System**|Julian Gamboa et.al.|[2211.03881v1](http://arxiv.org/abs/2211.03881v1)|null|
 |**2022-11-06**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang et.al.|[2211.03007v1](http://arxiv.org/abs/2211.03007v1)|null|
-|**2022-11-02**|**Optimizing Fiducial Marker Placement for Improved Visual Localization**|Qiangqiang Huang et.al.|[2211.01513v1](http://arxiv.org/abs/2211.01513v1)|null|
+|**2022-11-02**|**Optimizing Fiducial Marker Placement for Improved Visual Localization**|Qiangqiang Huang et.al.|[2211.01513v1](http://arxiv.org/abs/2211.01513v1)|**[link](https://github.com/doublestrong/omp)**|
 |**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi et.al.|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-11-02**|**M-SpeechCLIP: Leveraging Large-Scale, Pre-Trained Models for Multilingual Speech to Image Retrieval**|Layne Berry et.al.|[2211.01180v1](http://arxiv.org/abs/2211.01180v1)|null|
 |**2022-11-11**|**Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**|Anuj Diwan et.al.|[2211.00768v3](http://arxiv.org/abs/2211.00768v3)|**[link](https://github.com/ajd12342/why-winoground-hard)**|
