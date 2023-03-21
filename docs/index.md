@@ -1295,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|null|
+|**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871](http://arxiv.org/abs/2303.10871)|null|
+|**2023-03-20**|**IMF: Interactive Multimodal Fusion Model for Link Prediction**|Xinhang Li et.al.|[2303.10816](http://arxiv.org/abs/2303.10816)|**[link](https://github.com/hestiasky/imf-pytorch)**|
+|**2023-03-19**|**FVQA 2.0: Introducing Adversarial Samples into Fact-based Visual Question Answering**|Weizhe Lin et.al.|[2303.10699](http://arxiv.org/abs/2303.10699)|null|
+|**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395](http://arxiv.org/abs/2303.10395)|null|
+|**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368](http://arxiv.org/abs/2303.10368)|**[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)**|
+|**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323](http://arxiv.org/abs/2303.10323)|**[link](https://github.com/mlii0117/dcl)**|
 |**2023-03-17**|**QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting**|Koichiro Yawata et.al.|[2303.09772](http://arxiv.org/abs/2303.09772)|null|
 |**2023-03-15**|**WikiCoder: Learning to Write Knowledge-Powered Code**|Théo Matricon et.al.|[2303.08574](http://arxiv.org/abs/2303.08574)|null|
 |**2023-03-15**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph: Principle, Implementation, and Performance Evaluation**|Fuhui Zhou et.al.|[2303.08546](http://arxiv.org/abs/2303.08546)|null|
@@ -1311,6 +1318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Explaining Recommendation System Using Counterfactual Textual Explanations**|Niloofar Ranjbar et.al.|[2303.11160](http://arxiv.org/abs/2303.11160)|null|
+|**2023-03-17**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230](http://arxiv.org/abs/2303.10230)|**[link](https://github.com/irecsys/recdata)**|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
 |**2023-03-16**|**Measuring the Impact of Explanation Bias: A Study of Natural Language Justifications for Recommender Systems**|Krisztian Balog et.al.|[2303.09498](http://arxiv.org/abs/2303.09498)|null|
 |**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816](http://arxiv.org/abs/2303.08816)|null|
