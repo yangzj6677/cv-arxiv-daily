@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858](http://arxiv.org/abs/2303.11858)|null|
 |**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|null|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871](http://arxiv.org/abs/2303.10871)|null|
 |**2023-03-20**|**IMF: Interactive Multimodal Fusion Model for Link Prediction**|Xinhang Li et.al.|[2303.10816](http://arxiv.org/abs/2303.10816)|**[link](https://github.com/hestiasky/imf-pytorch)**|
@@ -1335,6 +1336,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879](http://arxiv.org/abs/2303.11879)|null|
+|**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780](http://arxiv.org/abs/2303.11780)|**[link](https://github.com/hkuds/dcrec)**|
+|**2023-03-21**|**Recommendation Systems in Libraries: an Application with Heterogeneous Data Sources**|Alessandro Speciale et.al.|[2303.11746](http://arxiv.org/abs/2303.11746)|null|
+|**2023-03-21**|**Dynamically Expandable Graph Convolution for Streaming Recommendation**|Bowei He et.al.|[2303.11700](http://arxiv.org/abs/2303.11700)|**[link](https://github.com/bokwaiho/degc)**|
+|**2023-03-21**|**A Survey on Causal Inference for Recommendation**|Huishi Luo et.al.|[2303.11666](http://arxiv.org/abs/2303.11666)|null|
+|**2023-03-21**|**Bounding System-Induced Biases in Recommender Systems with A Randomized Dataset**|Dugang Liu et.al.|[2303.11574](http://arxiv.org/abs/2303.11574)|null|
 |**2023-03-14**|**Explaining Recommendation System Using Counterfactual Textual Explanations**|Niloofar Ranjbar et.al.|[2303.11160](http://arxiv.org/abs/2303.11160)|null|
 |**2023-03-17**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230](http://arxiv.org/abs/2303.10230)|**[link](https://github.com/irecsys/recdata)**|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
