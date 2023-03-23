@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423](http://arxiv.org/abs/2303.12423)|null|
+|**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320](http://arxiv.org/abs/2303.12320)|null|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
 |**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858](http://arxiv.org/abs/2303.11858)|null|
 |**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|null|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871](http://arxiv.org/abs/2303.10871)|null|
@@ -1336,6 +1339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Self-Reflection as a Tool to Foster Profound Sustainable Consumption Decisions**|Florian Bemmann et.al.|[2303.12434](http://arxiv.org/abs/2303.12434)|null|
 |**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879](http://arxiv.org/abs/2303.11879)|null|
 |**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780](http://arxiv.org/abs/2303.11780)|**[link](https://github.com/hkuds/dcrec)**|
 |**2023-03-21**|**Recommendation Systems in Libraries: an Application with Heterogeneous Data Sources**|Alessandro Speciale et.al.|[2303.11746](http://arxiv.org/abs/2303.11746)|null|
