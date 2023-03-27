@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-24**|**Knowledge Graphs: Opportunities and Challenges**|Ciyuan Peng et.al.|[2303.13948](http://arxiv.org/abs/2303.13948)|null|
+|**2023-03-24**|**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays**|Yiheng Xiong et.al.|[2303.13818](http://arxiv.org/abs/2303.13818)|null|
+|**2023-03-23**|**Enhancing Embedding Representations of Biomedical Data using Logic Knowledge**|Michelangelo Diligenti et.al.|[2303.13566](http://arxiv.org/abs/2303.13566)|null|
 |**2023-03-24**|**Towards Transparent, Reusable, and Customizable Data Science in Computational Notebooks**|Frederick Choi et.al.|[2303.13447](http://arxiv.org/abs/2303.13447)|**[link](https://github.com/megagonlabs/magneton)**|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351](http://arxiv.org/abs/2303.13351)|null|
 |**2023-03-24**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284](http://arxiv.org/abs/2303.13284)|**[link](https://github.com/debayan/gett-qa)**|
@@ -1343,6 +1346,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-24**|**Where to Go Next for Recommender Systems? ID- vs. Modality-based recommender models revisited**|Zheng Yuan et.al.|[2303.13835](http://arxiv.org/abs/2303.13835)|null|
+|**2023-03-24**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|null|
 |**2023-03-23**|**GiveMeLabeledIssues: An Open Source Issue Recommendation System**|Joseph Vargovich et.al.|[2303.13418](http://arxiv.org/abs/2303.13418)|null|
 |**2023-03-23**|**Limits of Predictability in Top-N Recommendation**|En Xu et.al.|[2303.13091](http://arxiv.org/abs/2303.13091)|null|
 |**2023-03-23**|**Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation**|Wenbo Hu et.al.|[2303.12973](http://arxiv.org/abs/2303.12973)|null|
