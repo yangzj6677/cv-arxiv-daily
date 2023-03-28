@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,13 +1296,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-24**|**Knowledge Graphs: Opportunities and Challenges**|Ciyuan Peng et.al.|[2303.13948](http://arxiv.org/abs/2303.13948)|null|
-|**2023-03-24**|**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays**|Yiheng Xiong et.al.|[2303.13818](http://arxiv.org/abs/2303.13818)|null|
+|**2023-03-27**|**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays**|Yiheng Xiong et.al.|[2303.13818](http://arxiv.org/abs/2303.13818)|null|
 |**2023-03-23**|**Enhancing Embedding Representations of Biomedical Data using Logic Knowledge**|Michelangelo Diligenti et.al.|[2303.13566](http://arxiv.org/abs/2303.13566)|null|
 |**2023-03-24**|**Towards Transparent, Reusable, and Customizable Data Science in Computational Notebooks**|Frederick Choi et.al.|[2303.13447](http://arxiv.org/abs/2303.13447)|**[link](https://github.com/megagonlabs/magneton)**|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351](http://arxiv.org/abs/2303.13351)|null|
 |**2023-03-24**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284](http://arxiv.org/abs/2303.13284)|**[link](https://github.com/debayan/gett-qa)**|
 |**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816](http://arxiv.org/abs/2303.12816)|null|
-|**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423](http://arxiv.org/abs/2303.12423)|null|
+|**2023-03-25**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423](http://arxiv.org/abs/2303.12423)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320](http://arxiv.org/abs/2303.12320)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
 |**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858](http://arxiv.org/abs/2303.11858)|null|
