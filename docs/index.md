@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Pre-training Transformers for Knowledge Graph Completion**|Sanxing Chen et.al.|[2303.15682](http://arxiv.org/abs/2303.15682)|null|
+|**2023-03-28**|**Joint embedding in Hierarchical distance and semantic representation learning for link prediction**|Jin Liu et.al.|[2303.15655](http://arxiv.org/abs/2303.15655)|null|
 |**2023-03-27**|**Describing and Organizing Semantic Web and Machine Learning Systems in the SWeMLS-KG**|Fajar J. Ekaputra et.al.|[2303.15113](http://arxiv.org/abs/2303.15113)|**[link](https://github.com/semanticsystems/swemls-toolkit)**|
 |**2023-03-27**|**Mutually-paced Knowledge Distillation for Cross-lingual Temporal Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2303.14898](http://arxiv.org/abs/2303.14898)|null|
 |**2023-03-26**|**Farspredict: A benchmark dataset for link prediction**|Najmeh Torabian et.al.|[2303.14647](http://arxiv.org/abs/2303.14647)|null|
@@ -1334,6 +1336,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Causal Disentangled Recommendation Against User Preference Shifts**|Wenjie Wang et.al.|[2303.16068](http://arxiv.org/abs/2303.16068)|null|
+|**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946](http://arxiv.org/abs/2303.15946)|null|
 |**2023-03-27**|**Can Few Lines of Code Change Society ? Beyond fack-checking and moderation : how recommender systems toxifies social networking sites**|David Chavalarias et.al.|[2303.15035](http://arxiv.org/abs/2303.15035)|null|
 |**2023-03-26**|**PORE: Provably Robust Recommender Systems against Data Poisoning Attacks**|Jinyuan Jia et.al.|[2303.14601](http://arxiv.org/abs/2303.14601)|null|
 |**2023-03-25**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524](http://arxiv.org/abs/2303.14524)|null|
