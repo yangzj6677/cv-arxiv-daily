@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230](http://arxiv.org/abs/2303.18230)|**[link](https://github.com/salesforce/paprika)**|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537](http://arxiv.org/abs/2303.16537)|null|
 |**2023-03-29**|**Building a Knowledge Graph of Distributed Ledger Technologies**|Lukas König et.al.|[2303.16528](http://arxiv.org/abs/2303.16528)|null|
 |**2023-03-28**|**Pre-training Transformers for Knowledge Graph Completion**|Sanxing Chen et.al.|[2303.15682](http://arxiv.org/abs/2303.15682)|null|
