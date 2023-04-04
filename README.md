@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|null|
+|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/iiot-tbb/dialogue_dde)**|
+|**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378](http://arxiv.org/abs/2304.00378)|null|
+|**2023-04-01**|**Company Competition Graph**|Yanci Zhang et.al.|[2304.00323](http://arxiv.org/abs/2304.00323)|null|
+|**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215](http://arxiv.org/abs/2304.00215)|null|
+|**2023-04-01**|**Leveraging Neo4j and deep learning for traffic congestion simulation & optimization**|Shyam Pratap Singh et.al.|[2304.00192](http://arxiv.org/abs/2304.00192)|null|
 |**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230](http://arxiv.org/abs/2303.18230)|**[link](https://github.com/salesforce/paprika)**|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537](http://arxiv.org/abs/2303.16537)|null|
 |**2023-03-29**|**Building a Knowledge Graph of Distributed Ledger Technologies**|Lukas König et.al.|[2303.16528](http://arxiv.org/abs/2303.16528)|null|
@@ -1356,6 +1362,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Is More Always Better? The Effects of Personal Characteristics and Level of Detail on the Perception of Explanations in a Recommender System**|Mohamed Amine Chatti et.al.|[2304.00969](http://arxiv.org/abs/2304.00969)|null|
+|**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578](http://arxiv.org/abs/2304.00578)|null|
+|**2023-04-02**|**Risk-Sensitive and Robust Model-Based Reinforcement Learning and Planning**|Marc Rigter et.al.|[2304.00573](http://arxiv.org/abs/2304.00573)|null|
+|**2023-04-01**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295](http://arxiv.org/abs/2304.00295)|null|
 |**2023-03-28**|**Causal Disentangled Recommendation Against User Preference Shifts**|Wenjie Wang et.al.|[2303.16068](http://arxiv.org/abs/2303.16068)|**[link](https://github.com/linxyhaha/cdr)**|
 |**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946](http://arxiv.org/abs/2303.15946)|**[link](https://github.com/damicoedoardo/igccf)**|
 |**2023-03-27**|**Can Few Lines of Code Change Society ? Beyond fack-checking and moderation : how recommender systems toxifies social networking sites**|David Chavalarias et.al.|[2303.15035](http://arxiv.org/abs/2303.15035)|null|
