@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|null|
-|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/iiot-tbb/dialogue_dde)**|
+|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/davendw49/PK-Chat)**|
 |**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378](http://arxiv.org/abs/2304.00378)|null|
 |**2023-04-01**|**Company Competition Graph**|Yanci Zhang et.al.|[2304.00323](http://arxiv.org/abs/2304.00323)|null|
 |**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215](http://arxiv.org/abs/2304.00215)|null|
@@ -1353,7 +1353,7 @@ layout: default
 |**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946](http://arxiv.org/abs/2303.15946)|**[link](https://github.com/damicoedoardo/igccf)**|
 |**2023-03-27**|**Can Few Lines of Code Change Society ? Beyond fack-checking and moderation : how recommender systems toxifies social networking sites**|David Chavalarias et.al.|[2303.15035](http://arxiv.org/abs/2303.15035)|null|
 |**2023-03-26**|**PORE: Provably Robust Recommender Systems against Data Poisoning Attacks**|Jinyuan Jia et.al.|[2303.14601](http://arxiv.org/abs/2303.14601)|null|
-|**2023-03-25**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524](http://arxiv.org/abs/2303.14524)|null|
+|**2023-04-04**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524](http://arxiv.org/abs/2303.14524)|null|
 |**2023-03-25**|**Evolution of the Online Rating Platform Data Structures and its Implications for Recommender Systems**|Hao Wang et.al.|[2303.14419](http://arxiv.org/abs/2303.14419)|null|
 |**2023-03-25**|**Analysis and Visualization of the Parameter Space of Matrix Factorization-based Recommender Systems**|Hao Wang et.al.|[2303.14417](http://arxiv.org/abs/2303.14417)|null|
 |**2023-03-25**|**Adaptive Bi-Recommendation and Self-Improving Network for Heterogeneous Domain Adaptation-Assisted IoT Intrusion Detection**|Jiashu Wu et.al.|[2303.14317](http://arxiv.org/abs/2303.14317)|null|
