@@ -1366,6 +1366,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572](http://arxiv.org/abs/2304.02572)|null|
+|**2023-04-05**|**A dynamic Bayesian optimized active recommender system for curiosity-driven Human-in-the-loop automated experiments**|Arpan Biswas et.al.|[2304.02484](http://arxiv.org/abs/2304.02484)|**[link](https://github.com/arpanbiswas52/vartbo)**|
+|**2023-04-05**|**Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search**|Kim Yong Tan et.al.|[2304.02350](http://arxiv.org/abs/2304.02350)|null|
 |**2023-04-03**|**Is More Always Better? The Effects of Personal Characteristics and Level of Detail on the Perception of Explanations in a Recommender System**|Mohamed Amine Chatti et.al.|[2304.00969](http://arxiv.org/abs/2304.00969)|null|
 |**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578](http://arxiv.org/abs/2304.00578)|null|
 |**2023-04-02**|**Risk-Sensitive and Robust Model-Based Reinforcement Learning and Planning**|Marc Rigter et.al.|[2304.00573](http://arxiv.org/abs/2304.00573)|null|
