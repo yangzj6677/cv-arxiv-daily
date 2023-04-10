@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563](http://arxiv.org/abs/2304.01563)|null|
@@ -1350,6 +1352,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Generative Recommendation: Towards Next-generation Recommender Paradigm**|Wenjie Wang et.al.|[2304.03516](http://arxiv.org/abs/2304.03516)|**[link](https://github.com/linxyhaha/generec)**|
+|**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501](http://arxiv.org/abs/2304.03501)|null|
+|**2023-04-06**|**Graph Collaborative Signals Denoising and Augmentation for Recommendation**|Ziwei Fan et.al.|[2304.03344](http://arxiv.org/abs/2304.03344)|null|
+|**2023-04-06**|**On the Learnability of Multilabel Ranking**|Vinod Raman et.al.|[2304.03337](http://arxiv.org/abs/2304.03337)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
 |**2023-04-06**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054](http://arxiv.org/abs/2304.03054)|null|
 |**2023-04-06**|**Data Processing with FPGAs on Modern Architectures**|Wenqi Jiang et.al.|[2304.03044](http://arxiv.org/abs/2304.03044)|null|
