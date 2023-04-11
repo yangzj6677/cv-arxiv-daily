@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,7 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
 |**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
