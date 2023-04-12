@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1365,7 +1365,7 @@ layout: default
 |**2023-04-08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation**|Jinming Li et.al.|[2304.03879](http://arxiv.org/abs/2304.03879)|null|
 |**2023-04-07**|**Generative Recommendation: Towards Next-generation Recommender Paradigm**|Wenjie Wang et.al.|[2304.03516](http://arxiv.org/abs/2304.03516)|**[link](https://github.com/linxyhaha/generec)**|
 |**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501](http://arxiv.org/abs/2304.03501)|null|
-|**2023-04-06**|**Graph Collaborative Signals Denoising and Augmentation for Recommendation**|Ziwei Fan et.al.|[2304.03344](http://arxiv.org/abs/2304.03344)|null|
+|**2023-04-10**|**Graph Collaborative Signals Denoising and Augmentation for Recommendation**|Ziwei Fan et.al.|[2304.03344](http://arxiv.org/abs/2304.03344)|null|
 |**2023-04-06**|**On the Learnability of Multilabel Ranking**|Vinod Raman et.al.|[2304.03337](http://arxiv.org/abs/2304.03337)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
 |**2023-04-06**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054](http://arxiv.org/abs/2304.03054)|null|
