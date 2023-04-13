@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
+|**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
 |**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|null|
 |**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277](http://arxiv.org/abs/2304.05277)|**[link](https://github.com/opendrivelab/toponet)**|
 |**2023-04-10**|**EVKG: An Interlinked and Interoperable Electric Vehicle Knowledge Graph for Smart Transportation System**|Yanlin Qi et.al.|[2304.04893](http://arxiv.org/abs/2304.04893)|**[link](https://github.com/evkg/evkg)**|
@@ -1360,6 +1362,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871](http://arxiv.org/abs/2304.05871)|null|
+|**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729](http://arxiv.org/abs/2304.05729)|null|
 |**2023-04-11**|**Unbiased Pairwise Learning from Implicit Feedback for Recommender Systems without Biased Variance Control**|Yi Ren et.al.|[2304.05066](http://arxiv.org/abs/2304.05066)|null|
 |**2023-04-11**|**A Data Set of Generalizable Python Code Change Patterns**|Akalanka Galappaththi et.al.|[2304.04983](http://arxiv.org/abs/2304.04983)|null|
 |**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
