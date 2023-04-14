@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.13
+## Updated on 2023.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1297,7 +1297,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
-|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|null|
+|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|**[link](https://github.com/christof93/scikgtex)**|
 |**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277](http://arxiv.org/abs/2304.05277)|**[link](https://github.com/opendrivelab/toponet)**|
 |**2023-04-10**|**EVKG: An Interlinked and Interoperable Electric Vehicle Knowledge Graph for Smart Transportation System**|Yanlin Qi et.al.|[2304.04893](http://arxiv.org/abs/2304.04893)|**[link](https://github.com/evkg/evkg)**|
 |**2023-04-10**|**Investigating Graph Structure Information for Entity Alignment with Dangling Cases**|Jin Xu et.al.|[2304.04718](http://arxiv.org/abs/2304.04718)|null|
