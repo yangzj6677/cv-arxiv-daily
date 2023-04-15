@@ -1380,7 +1380,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-12**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182](http://arxiv.org/abs/2304.06182)|**[link](https://github.com/jackmedda/rs-bgexplainer)**|
+|**2023-04-12**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182](http://arxiv.org/abs/2304.06182)|null|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871](http://arxiv.org/abs/2304.05871)|null|
 |**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729](http://arxiv.org/abs/2304.05729)|null|
 |**2023-04-11**|**Unbiased Pairwise Learning from Implicit Feedback for Recommender Systems without Biased Variance Control**|Yi Ren et.al.|[2304.05066](http://arxiv.org/abs/2304.05066)|null|
