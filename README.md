@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
+|**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
+|**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|null|
 |**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136](http://arxiv.org/abs/2304.06136)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
@@ -1380,6 +1383,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**EvalRS 2023. Well-Rounded Recommender Systems For Real-World Deployments**|Federico Bianchi et.al.|[2304.07145](http://arxiv.org/abs/2304.07145)|null|
+|**2023-04-14**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030](http://arxiv.org/abs/2304.07030)|**[link](https://github.com/grey-z/fairrec)**|
+|**2023-04-14**|**SpChar: Characterizing the Sparse Puzzle via Decision Trees**|Francesco Sgherzi et.al.|[2304.06944](http://arxiv.org/abs/2304.06944)|null|
+|**2023-04-13**|**PIE: Personalized Interest Exploration for Large-Scale Recommender Systems**|Khushhall Chandra Mahajan et.al.|[2304.06844](http://arxiv.org/abs/2304.06844)|null|
 |**2023-04-14**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182](http://arxiv.org/abs/2304.06182)|null|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871](http://arxiv.org/abs/2304.05871)|null|
 |**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729](http://arxiv.org/abs/2304.05729)|null|
