@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
+|**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
+|**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
 |**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
 |**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
 |**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|null|
@@ -1366,6 +1369,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**CAViaR: Context Aware Video Recommendations**|Khushhall Chandra Mahajan et.al.|[2304.08435](http://arxiv.org/abs/2304.08435)|null|
+|**2023-04-17**|**MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation**|Kibum Kim et.al.|[2304.08382](http://arxiv.org/abs/2304.08382)|**[link](https://github.com/rlqja1107/melt)**|
+|**2023-04-17**|**Do you MIND? Reflections on the MIND dataset for research on diversity in news recommendations**|Sanne Vrijenhoek et.al.|[2304.08253](http://arxiv.org/abs/2304.08253)|null|
+|**2023-04-17**|**Attention Mixtures for Time-Aware Sequential Recommendation**|Viet-Anh Tran et.al.|[2304.08158](http://arxiv.org/abs/2304.08158)|**[link](https://github.com/deezer/sigir23-mojito)**|
+|**2023-04-17**|**Trust and Transparency in Recommender Systems**|Clara Siepmann et.al.|[2304.08094](http://arxiv.org/abs/2304.08094)|null|
+|**2023-04-17**|**Collaborative Residual Metric Learning**|Tianjun Wei et.al.|[2304.07971](http://arxiv.org/abs/2304.07971)|**[link](https://github.com/Joinn99/CoRML)**|
+|**2023-04-17**|**PerCoNet: News Recommendation with Explicit Persona and Contrastive Learning**|Rui Liu et.al.|[2304.07923](http://arxiv.org/abs/2304.07923)|null|
+|**2023-04-17**|**Causal Disentangled Variational Auto-Encoder for Preference Understanding in Recommendation**|Siyu Wang et.al.|[2304.07922](http://arxiv.org/abs/2304.07922)|null|
+|**2023-04-17**|**Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning**|Siyu Wang et.al.|[2304.07920](http://arxiv.org/abs/2304.07920)|null|
+|**2023-04-16**|**M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation**|Zepeng Huai et.al.|[2304.07911](http://arxiv.org/abs/2304.07911)|**[link](https://github.com/huaizepeng2020/m2gnn_git)**|
 |**2023-04-14**|**EvalRS 2023. Well-Rounded Recommender Systems For Real-World Deployments**|Federico Bianchi et.al.|[2304.07145](http://arxiv.org/abs/2304.07145)|null|
 |**2023-04-14**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030](http://arxiv.org/abs/2304.07030)|**[link](https://github.com/grey-z/fairrec)**|
 |**2023-04-14**|**SpChar: Characterizing the Sparse Puzzle via Decision Trees**|Francesco Sgherzi et.al.|[2304.06944](http://arxiv.org/abs/2304.06944)|null|
