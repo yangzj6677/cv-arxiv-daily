@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048](http://arxiv.org/abs/2304.09048)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
+|**2023-04-18**|**Knowledge Graph Building Blocks: An easy-to-use Framework for developing FAIREr Knowledge Graphs**|Lars Vogt et.al.|[2304.09029](http://arxiv.org/abs/2304.09029)|null|
+|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|null|
 |**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
 |**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
@@ -1369,6 +1372,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations**|Haoxuan Li et.al.|[2304.09085](http://arxiv.org/abs/2304.09085)|null|
+|**2023-04-17**|**DRIFT: A Federated Recommender System with Implicit Feedback on the Items**|Theo Nommay et.al.|[2304.09084](http://arxiv.org/abs/2304.09084)|null|
+|**2023-04-17**|**Always Strengthen Your Strengths: A Drift-Aware Incremental Learning Framework for CTR Prediction**|Congcong Liu et.al.|[2304.09062](http://arxiv.org/abs/2304.09062)|null|
+|**2023-04-18**|**Dual-Ganularity Contrastive Learning for Session-based Recommendation**|Zihan Wang et.al.|[2304.08873](http://arxiv.org/abs/2304.08873)|null|
+|**2023-04-17**|**CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale Recommender Systems**|Ameya Raul et.al.|[2304.08562](http://arxiv.org/abs/2304.08562)|null|
 |**2023-04-17**|**CAViaR: Context Aware Video Recommendations**|Khushhall Chandra Mahajan et.al.|[2304.08435](http://arxiv.org/abs/2304.08435)|null|
 |**2023-04-17**|**MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation**|Kibum Kim et.al.|[2304.08382](http://arxiv.org/abs/2304.08382)|**[link](https://github.com/rlqja1107/melt)**|
 |**2023-04-17**|**Do you MIND? Reflections on the MIND dataset for research on diversity in news recommendations**|Sanne Vrijenhoek et.al.|[2304.08253](http://arxiv.org/abs/2304.08253)|null|
