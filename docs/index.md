@@ -1295,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
+|**2023-04-24**|**Geometric Relational Embeddings: A Survey**|Bo Xiong et.al.|[2304.11949](http://arxiv.org/abs/2304.11949)|null|
+|**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
+|**2023-04-23**|**CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment**|Zijian Wang et.al.|[2304.11672](http://arxiv.org/abs/2304.11672)|null|
+|**2023-04-23**|**Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2304.11618](http://arxiv.org/abs/2304.11618)|**[link](https://github.com/zjukg/mans)**|
+|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|null|
+|**2023-04-21**|**A Group-Specific Approach to NLP for Hate Speech Detection**|Karina Halevy et.al.|[2304.11223](http://arxiv.org/abs/2304.11223)|**[link](https://github.com/enscma2/knowledje)**|
 |**2023-04-21**|**Semantics, Ontology and Explanation**|Giancarlo Guizzardi et.al.|[2304.11124](http://arxiv.org/abs/2304.11124)|null|
 |**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996](http://arxiv.org/abs/2304.10996)|null|
 |**2023-04-21**|**RPLKG: Robust Prompt Learning with Knowledge Graph**|Yewon Kim et.al.|[2304.10805](http://arxiv.org/abs/2304.10805)|null|
@@ -1382,6 +1389,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
+|**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
+|**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
+|**2023-04-21**|**Challenges and Opportunities in Providing Small Farmers Equal Access to Wealth via Rural Credit in Brazil**|Vagner Figueredo de Santana et.al.|[2304.11255](http://arxiv.org/abs/2304.11255)|null|
 |**2023-04-20**|**E Pluribus Unum: Guidelines on Multi-Objective Evaluation of Recommender Systems**|Patrick John Chia et.al.|[2304.10621](http://arxiv.org/abs/2304.10621)|**[link](https://github.com/reclist/e-pluribus-unum-evalrs-2022)**|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
 |**2023-04-20**|**Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?**|Phuong T. Nguyen et.al.|[2304.10409](http://arxiv.org/abs/2304.10409)|null|
