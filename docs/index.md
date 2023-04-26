@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1300,7 +1300,7 @@ layout: default
 |**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
 |**2023-04-23**|**CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment**|Zijian Wang et.al.|[2304.11672](http://arxiv.org/abs/2304.11672)|null|
 |**2023-04-23**|**Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2304.11618](http://arxiv.org/abs/2304.11618)|**[link](https://github.com/zjukg/mans)**|
-|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|null|
+|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|**[link](https://github.com/chahak13/tuitus)**|
 |**2023-04-21**|**A Group-Specific Approach to NLP for Hate Speech Detection**|Karina Halevy et.al.|[2304.11223](http://arxiv.org/abs/2304.11223)|**[link](https://github.com/enscma2/knowledje)**|
 |**2023-04-21**|**Semantics, Ontology and Explanation**|Giancarlo Guizzardi et.al.|[2304.11124](http://arxiv.org/abs/2304.11124)|null|
 |**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996](http://arxiv.org/abs/2304.10996)|null|
@@ -1395,7 +1395,7 @@ layout: default
 |**2023-04-21**|**Challenges and Opportunities in Providing Small Farmers Equal Access to Wealth via Rural Credit in Brazil**|Vagner Figueredo de Santana et.al.|[2304.11255](http://arxiv.org/abs/2304.11255)|null|
 |**2023-04-20**|**E Pluribus Unum: Guidelines on Multi-Objective Evaluation of Recommender Systems**|Patrick John Chia et.al.|[2304.10621](http://arxiv.org/abs/2304.10621)|**[link](https://github.com/reclist/e-pluribus-unum-evalrs-2022)**|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
-|**2023-04-20**|**Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?**|Phuong T. Nguyen et.al.|[2304.10409](http://arxiv.org/abs/2304.10409)|null|
+|**2023-04-20**|**Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?**|Phuong T. Nguyen et.al.|[2304.10409](http://arxiv.org/abs/2304.10409)|**[link](https://github.com/mdegroup/biasinrsse)**|
 |**2023-04-20**|**Selective and Collaborative Influence Function for Efficient Recommendation Unlearning**|Yuyuan Li et.al.|[2304.10199](http://arxiv.org/abs/2304.10199)|null|
 |**2023-04-20**|**Is ChatGPT a Good Recommender? A Preliminary Study**|Junling Liu et.al.|[2304.10149](http://arxiv.org/abs/2304.10149)|null|
 |**2023-04-18**|**From RSSE to BotSE: Potentials and Challenges Revisited after 15 Years**|Walid Maalej et.al.|[2304.09308](http://arxiv.org/abs/2304.09308)|null|
