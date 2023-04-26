@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604](http://arxiv.org/abs/2304.12604)|null|
+|**2023-04-24**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395](http://arxiv.org/abs/2304.12395)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
 |**2023-04-24**|**Geometric Relational Embeddings: A Survey**|Bo Xiong et.al.|[2304.11949](http://arxiv.org/abs/2304.11949)|null|
 |**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
@@ -1389,6 +1391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**COUPA: An Industrial Recommender System for Online to Offline Service Platforms**|Sicong Xie et.al.|[2304.12549](http://arxiv.org/abs/2304.12549)|null|
 |**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
 |**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
