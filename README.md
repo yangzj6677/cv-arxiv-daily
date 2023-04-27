@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240](http://arxiv.org/abs/2304.13240)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195](http://arxiv.org/abs/2304.13195)|null|
+|**2023-04-25**|**Modeling Spoken Information Queries for Virtual Assistants: Open Problems, Challenges and Opportunities**|Christophe Van Gysel et.al.|[2304.13149](http://arxiv.org/abs/2304.13149)|null|
 |**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604](http://arxiv.org/abs/2304.12604)|null|
 |**2023-04-24**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395](http://arxiv.org/abs/2304.12395)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
@@ -1408,6 +1411,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643](http://arxiv.org/abs/2304.13643)|**[link](https://github.com/zyang1580/dil)**|
+|**2023-04-26**|**Improvements on Recommender System based on Mathematical Principles**|Fu Chen et.al.|[2304.13579](http://arxiv.org/abs/2304.13579)|null|
+|**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277](http://arxiv.org/abs/2304.13277)|null|
 |**2023-04-25**|**COUPA: An Industrial Recommender System for Online to Offline Service Platforms**|Sicong Xie et.al.|[2304.12549](http://arxiv.org/abs/2304.12549)|null|
 |**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
