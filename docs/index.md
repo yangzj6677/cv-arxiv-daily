@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923](http://arxiv.org/abs/2304.13923)|null|
+|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854](http://arxiv.org/abs/2304.13854)|null|
 |**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240](http://arxiv.org/abs/2304.13240)|null|
 |**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195](http://arxiv.org/abs/2304.13195)|**[link](https://github.com/nslab-cuk/connector)**|
 |**2023-04-25**|**Modeling Spoken Information Queries for Virtual Assistants: Open Problems, Challenges and Opportunities**|Christophe Van Gysel et.al.|[2304.13149](http://arxiv.org/abs/2304.13149)|null|
@@ -1394,6 +1396,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326](http://arxiv.org/abs/2304.14326)|null|
+|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937](http://arxiv.org/abs/2304.13937)|**[link](https://github.com/zealscott/ecf)**|
 |**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643](http://arxiv.org/abs/2304.13643)|**[link](https://github.com/zyang1580/dil)**|
 |**2023-04-26**|**Improvements on Recommender System based on Mathematical Principles**|Fu Chen et.al.|[2304.13579](http://arxiv.org/abs/2304.13579)|null|
 |**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277](http://arxiv.org/abs/2304.13277)|**[link](https://github.com/kz-song/mmsrec)**|
