@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
+|**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880](http://arxiv.org/abs/2304.14880)|**[link](https://github.com/sayands/sgaligner)**|
+|**2023-04-27**|**Visual Diagrammatic Queries in ViziQuer: Overview and Implementation**|Jūlija Ovčiņņikiva et.al.|[2304.14825](http://arxiv.org/abs/2304.14825)|null|
+|**2023-04-28**|**LitCQD: Multi-Hop Reasoning in Incomplete Knowledge Graphs with Numeric Literals**|Caglar Demir et.al.|[2304.14742](http://arxiv.org/abs/2304.14742)|null|
+|**2023-04-28**|**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**|Wen Zhang et.al.|[2304.14678](http://arxiv.org/abs/2304.14678)|**[link](https://github.com/zjukg/neuralkg)**|
+|**2023-04-28**|**Improving Knowledge Graph Entity Alignment with Graph Augmentation**|Feng Xie et.al.|[2304.14585](http://arxiv.org/abs/2304.14585)|**[link](https://github.com/xiefeng69/gaea)**|
 |**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923](http://arxiv.org/abs/2304.13923)|null|
 |**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854](http://arxiv.org/abs/2304.13854)|null|
 |**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240](http://arxiv.org/abs/2304.13240)|null|
@@ -1413,6 +1419,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**MCPrioQ: A lock-free algorithm for online sparse markov-chains**|Jesper Derehag et.al.|[2304.14801](http://arxiv.org/abs/2304.14801)|null|
 |**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326](http://arxiv.org/abs/2304.14326)|null|
 |**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937](http://arxiv.org/abs/2304.13937)|**[link](https://github.com/zealscott/ecf)**|
 |**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643](http://arxiv.org/abs/2304.13643)|**[link](https://github.com/zyang1580/dil)**|
