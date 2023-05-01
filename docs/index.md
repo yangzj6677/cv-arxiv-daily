@@ -611,7 +611,7 @@ layout: default
 |**2022-10-24**|**Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval**|Zhaopeng Dou et.al.|[2210.13440v1](http://arxiv.org/abs/2210.13440v1)|**[link](https://github.com/dcp15/ual)**|
 |**2022-10-23**|**Neural Eigenfunctions Are Structured Representation Learners**|Zhijie Deng et.al.|[2210.12637v1](http://arxiv.org/abs/2210.12637v1)|**[link](https://github.com/thudzj/NEigenmaps)**|
 |**2022-10-21**|**Boosting vision transformers for image retrieval**|Chull Hwan Song et.al.|[2210.11909v1](http://arxiv.org/abs/2210.11909v1)|**[link](https://github.com/dealicious-inc/dtop)**|
-|**2022-10-20**|**Communication breakdown: On the low mutual intelligibility between human and neural captioning**|Roberto Dessì et.al.|[2210.11512v1](http://arxiv.org/abs/2210.11512v1)|null|
+|**2022-10-20**|**Communication breakdown: On the low mutual intelligibility between human and neural captioning**|Roberto Dessì et.al.|[2210.11512v1](http://arxiv.org/abs/2210.11512v1)|**[link](https://github.com/franfranz/emecomm_context)**|
 |**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
 |**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|**[link](https://github.com/ivanaer/g-universal-clip)**|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
