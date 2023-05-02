@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
+|**2023-05-01**|**Uncovering CWE-CVE-CPE Relations with Threat Knowledge Graphs**|Zhenpeng Shi et.al.|[2305.00632](http://arxiv.org/abs/2305.00632)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382](http://arxiv.org/abs/2305.00382)|null|
 |**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
 |**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880](http://arxiv.org/abs/2304.14880)|**[link](https://github.com/sayands/sgaligner)**|
 |**2023-04-27**|**Visual Diagrammatic Queries in ViziQuer: Overview and Implementation**|Jūlija Ovčiņņikiva et.al.|[2304.14825](http://arxiv.org/abs/2304.14825)|null|
@@ -1402,6 +1405,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
+|**2023-04-30**|**Contextual Response Interpretation for Automated Structured Interviews: A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577](http://arxiv.org/abs/2305.00577)|null|
+|**2023-04-30**|**The Dark Side of Explanations: Poisoning Recommender Systems with Counterfactual Examples**|Ziheng Chen et.al.|[2305.00574](http://arxiv.org/abs/2305.00574)|null|
+|**2023-04-30**|**TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**|Keqin Bao et.al.|[2305.00447](http://arxiv.org/abs/2305.00447)|null|
 |**2023-04-28**|**MCPrioQ: A lock-free algorithm for online sparse markov-chains**|Jesper Derehag et.al.|[2304.14801](http://arxiv.org/abs/2304.14801)|null|
 |**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326](http://arxiv.org/abs/2304.14326)|null|
 |**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937](http://arxiv.org/abs/2304.13937)|**[link](https://github.com/zealscott/ecf)**|
