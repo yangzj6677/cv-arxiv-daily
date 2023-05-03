@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561](http://arxiv.org/abs/2305.01561)|null|
+|**2023-05-02**|**Type-enhanced Ensemble Triple Representation via Triple-aware Attention for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01556](http://arxiv.org/abs/2305.01556)|null|
+|**2023-05-02**|**Complex Logical Reasoning over Knowledge Graphs using Large Language Models**|Nurendra Choudhary et.al.|[2305.01157](http://arxiv.org/abs/2305.01157)|**[link](https://github.com/akirato/llm-kg-reasoning)**|
+|**2023-05-02**|**Ripple Knowledge Graph Convolutional Networks For Recommendation Systems**|Chen Li et.al.|[2305.01147](http://arxiv.org/abs/2305.01147)|null|
 |**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
 |**2023-05-01**|**Uncovering CWE-CVE-CPE Relations with Threat Knowledge Graphs**|Zhenpeng Shi et.al.|[2305.00632](http://arxiv.org/abs/2305.00632)|null|
 |**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382](http://arxiv.org/abs/2305.00382)|null|
@@ -1422,6 +1426,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Structure Aware Incremental Learning with Personalized Imitation Weights for Recommender Systems**|Yuening Wang et.al.|[2305.01204](http://arxiv.org/abs/2305.01204)|null|
+|**2023-05-02**|**Ripple Knowledge Graph Convolutional Networks For Recommendation Systems**|Chen Li et.al.|[2305.01147](http://arxiv.org/abs/2305.01147)|null|
 |**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
 |**2023-04-30**|**Contextual Response Interpretation for Automated Structured Interviews: A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577](http://arxiv.org/abs/2305.00577)|null|
 |**2023-04-30**|**The Dark Side of Explanations: Poisoning Recommender Systems with Counterfactual Examples**|Ziheng Chen et.al.|[2305.00574](http://arxiv.org/abs/2305.00574)|null|
