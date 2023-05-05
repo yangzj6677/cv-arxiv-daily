@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
+|**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
+|**2023-05-03**|**On the Security Risks of Knowledge Graph Reasoning**|Zhaohan Xi et.al.|[2305.02383](http://arxiv.org/abs/2305.02383)|null|
+|**2023-05-03**|**PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives**|Silin Gao et.al.|[2305.02364](http://arxiv.org/abs/2305.02364)|**[link](https://github.com/silin159/peacok)**|
 |**2023-05-03**|**Evaluating BERT-based Scientific Relation Classifiers for Scholarly Knowledge Graph Construction on Digital Library Collections**|Ming Jiang et.al.|[2305.02291](http://arxiv.org/abs/2305.02291)|null|
 |**2023-05-04**|**Causality-aware Concept Extraction based on Knowledge-guided Prompting**|Siyu Yuan et.al.|[2305.01876](http://arxiv.org/abs/2305.01876)|**[link](https://github.com/siyuyuan/kpce)**|
 |**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561](http://arxiv.org/abs/2305.01561)|**[link](https://github.com/codesfornlp/otiea)**|
@@ -1428,6 +1432,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Weighted Tallying Bandits: Overcoming Intractability via Repeated Exposure Optimality**|Dhruv Malik et.al.|[2305.02955](http://arxiv.org/abs/2305.02955)|null|
+|**2023-05-03**|**Maximizing Submodular Functions for Recommendation in the Presence of Biases**|Anay Mehrotra et.al.|[2305.02806](http://arxiv.org/abs/2305.02806)|null|
+|**2023-05-04**|**Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning**|Sen Zhao1 et.al.|[2305.02575](http://arxiv.org/abs/2305.02575)|null|
 |**2023-05-03**|**Uncovering ChatGPT's Capabilities in Recommender Systems**|Sunhao Dai et.al.|[2305.02182](http://arxiv.org/abs/2305.02182)|**[link](https://github.com/rainym00d/llm4rs)**|
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915](http://arxiv.org/abs/2305.01915)|null|
 |**2023-05-02**|**When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback?**|Yushun Dong et.al.|[2305.01801](http://arxiv.org/abs/2305.01801)|null|
