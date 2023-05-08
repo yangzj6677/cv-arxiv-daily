@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513](http://arxiv.org/abs/2305.03513)|null|
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 |**2023-05-03**|**On the Security Risks of Knowledge Graph Reasoning**|Zhaohan Xi et.al.|[2305.02383](http://arxiv.org/abs/2305.02383)|null|
@@ -1432,6 +1433,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Retraining A Graph-based Recommender with Interests Disentanglement**|Yitong Ji et.al.|[2305.03624](http://arxiv.org/abs/2305.03624)|null|
+|**2023-05-03**|**CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**|Mann Khatri et.al.|[2305.03508](http://arxiv.org/abs/2305.03508)|null|
+|**2023-05-04**|**Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching**|Tim Kaler et.al.|[2305.03152](http://arxiv.org/abs/2305.03152)|**[link](https://github.com/mitibmxgraph/salient_plusplus_artifact)**|
 |**2023-05-04**|**Weighted Tallying Bandits: Overcoming Intractability via Repeated Exposure Optimality**|Dhruv Malik et.al.|[2305.02955](http://arxiv.org/abs/2305.02955)|null|
 |**2023-05-03**|**Maximizing Submodular Functions for Recommendation in the Presence of Biases**|Anay Mehrotra et.al.|[2305.02806](http://arxiv.org/abs/2305.02806)|null|
 |**2023-05-04**|**Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning**|Sen Zhao1 et.al.|[2305.02575](http://arxiv.org/abs/2305.02575)|null|
