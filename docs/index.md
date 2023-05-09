@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1301,7 +1301,7 @@ layout: default
 |**2023-05-03**|**On the Security Risks of Knowledge Graph Reasoning**|Zhaohan Xi et.al.|[2305.02383](http://arxiv.org/abs/2305.02383)|null|
 |**2023-05-03**|**PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives**|Silin Gao et.al.|[2305.02364](http://arxiv.org/abs/2305.02364)|**[link](https://github.com/silin159/peacok)**|
 |**2023-05-03**|**Evaluating BERT-based Scientific Relation Classifiers for Scholarly Knowledge Graph Construction on Digital Library Collections**|Ming Jiang et.al.|[2305.02291](http://arxiv.org/abs/2305.02291)|null|
-|**2023-05-04**|**Causality-aware Concept Extraction based on Knowledge-guided Prompting**|Siyu Yuan et.al.|[2305.01876](http://arxiv.org/abs/2305.01876)|**[link](https://github.com/siyuyuan/kpce)**|
+|**2023-05-07**|**Causality-aware Concept Extraction based on Knowledge-guided Prompting**|Siyu Yuan et.al.|[2305.01876](http://arxiv.org/abs/2305.01876)|**[link](https://github.com/siyuyuan/kpce)**|
 |**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561](http://arxiv.org/abs/2305.01561)|**[link](https://github.com/codesfornlp/otiea)**|
 |**2023-05-02**|**Type-enhanced Ensemble Triple Representation via Triple-aware Attention for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01556](http://arxiv.org/abs/2305.01556)|**[link](https://github.com/codesfornlp/ttea)**|
 |**2023-05-02**|**Complex Logical Reasoning over Knowledge Graphs using Large Language Models**|Nurendra Choudhary et.al.|[2305.01157](http://arxiv.org/abs/2305.01157)|**[link](https://github.com/akirato/llm-kg-reasoning)**|
