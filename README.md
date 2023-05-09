@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798](http://arxiv.org/abs/2305.04798)|**[link](https://github.com/rucaibox/mhim)**|
+|**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676](http://arxiv.org/abs/2305.04676)|null|
+|**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
+|**2023-05-08**|**Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach**|Xuan Son Nguyen et.al.|[2305.04560](http://arxiv.org/abs/2305.04560)|null|
+|**2023-05-06**|**SRTK: A Toolkit for Semantic-relevant Subgraph Retrieval**|Yuanchun Shen et.al.|[2305.04101](http://arxiv.org/abs/2305.04101)|**[link](https://github.com/happen2me/subgraph-retrieval-toolkit)**|
+|**2023-05-06**|**A Minimal Approach for Natural Language Action Space in Text-based Games**|Dongwon Kelvin Ryu et.al.|[2305.04082](http://arxiv.org/abs/2305.04082)|null|
+|**2023-05-06**|**Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport**|Zihao Wang et.al.|[2305.04034](http://arxiv.org/abs/2305.04034)|**[link](https://github.com/hkust-knowcomp/wfre)**|
 |**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513](http://arxiv.org/abs/2305.03513)|null|
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
@@ -1433,6 +1440,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**The Application of Affective Measures in Text-based Emotion Aware Recommender Systems**|John Kalung Leung et.al.|[2305.04796](http://arxiv.org/abs/2305.04796)|null|
+|**2023-05-05**|**U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation**|Yuanxing Liu et.al.|[2305.04774](http://arxiv.org/abs/2305.04774)|null|
+|**2023-05-08**|**Evaluating Impact of User-Cluster Targeted Attacks in Matrix Factorisation Recommenders**|Sulthana Shams et.al.|[2305.04694](http://arxiv.org/abs/2305.04694)|null|
+|**2023-05-07**|**MIReAD: Simple Method for Learning High-quality Representations from Scientific Documents**|Anastasia Razdaibiedina et.al.|[2305.04177](http://arxiv.org/abs/2305.04177)|**[link](https://github.com/arazd/miread)**|
+|**2023-05-06**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995](http://arxiv.org/abs/2305.03995)|null|
+|**2023-05-06**|**On High-dimensional and Low-rank Tensor Bandits**|Chengshuai Shi et.al.|[2305.03884](http://arxiv.org/abs/2305.03884)|null|
+|**2023-05-06**|**SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds**|Junda Ye et.al.|[2305.03883](http://arxiv.org/abs/2305.03883)|null|
 |**2023-05-05**|**Retraining A Graph-based Recommender with Interests Disentanglement**|Yitong Ji et.al.|[2305.03624](http://arxiv.org/abs/2305.03624)|null|
 |**2023-05-03**|**CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**|Mann Khatri et.al.|[2305.03508](http://arxiv.org/abs/2305.03508)|null|
 |**2023-05-04**|**Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching**|Tim Kaler et.al.|[2305.03152](http://arxiv.org/abs/2305.03152)|**[link](https://github.com/mitibmxgraph/salient_plusplus_artifact)**|
