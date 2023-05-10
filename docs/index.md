@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091](http://arxiv.org/abs/2305.05091)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989](http://arxiv.org/abs/2305.04989)|null|
 |**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798](http://arxiv.org/abs/2305.04798)|**[link](https://github.com/rucaibox/mhim)**|
 |**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676](http://arxiv.org/abs/2305.04676)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
@@ -1423,9 +1427,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment**|Xin Xin et.al.|[2305.05585](http://arxiv.org/abs/2305.05585)|**[link](https://github.com/liuxiangyuan/mba)**|
+|**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355](http://arxiv.org/abs/2305.05355)|null|
+|**2023-05-09**|**Variational Bayesian Inference for Bipartite Mixed-membership Stochastic Block Model with Applications to Collaborative Filtering**|Jie Liu et.al.|[2305.05350](http://arxiv.org/abs/2305.05350)|null|
+|**2023-05-09**|**Explainable Recommender with Geometric Information Bottleneck**|Hanqi Yan et.al.|[2305.05331](http://arxiv.org/abs/2305.05331)|null|
+|**2023-05-09**|**Survey of Federated Learning Models for Spatial-Temporal Mobility Applications**|Yacine Belal et.al.|[2305.05257](http://arxiv.org/abs/2305.05257)|null|
+|**2023-05-09**|**Popularity Debiasing from Exposure to Interaction in Collaborative Filtering**|Yuanhao Liu et.al.|[2305.05204](http://arxiv.org/abs/2305.05204)|**[link](https://github.com/unitdan/ipl)**|
+|**2023-05-08**|**Recommender Systems with Generative Retrieval**|Shashank Rajput et.al.|[2305.05065](http://arxiv.org/abs/2305.05065)|null|
 |**2023-05-04**|**The Application of Affective Measures in Text-based Emotion Aware Recommender Systems**|John Kalung Leung et.al.|[2305.04796](http://arxiv.org/abs/2305.04796)|null|
 |**2023-05-05**|**U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation**|Yuanxing Liu et.al.|[2305.04774](http://arxiv.org/abs/2305.04774)|null|
 |**2023-05-08**|**Evaluating Impact of User-Cluster Targeted Attacks in Matrix Factorisation Recommenders**|Sulthana Shams et.al.|[2305.04694](http://arxiv.org/abs/2305.04694)|null|
+|**2023-05-09**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619](http://arxiv.org/abs/2305.04619)|**[link](https://github.com/hkuds/maerec)**|
 |**2023-05-07**|**MIReAD: Simple Method for Learning High-quality Representations from Scientific Documents**|Anastasia Razdaibiedina et.al.|[2305.04177](http://arxiv.org/abs/2305.04177)|**[link](https://github.com/arazd/miread)**|
 |**2023-05-06**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995](http://arxiv.org/abs/2305.03995)|null|
 |**2023-05-06**|**On High-dimensional and Low-rank Tensor Bandits**|Chengshuai Shi et.al.|[2305.03884](http://arxiv.org/abs/2305.03884)|null|
