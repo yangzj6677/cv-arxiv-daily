@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|null|
+|**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
+|**2023-05-11**|**A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment**|Jianheng Tang et.al.|[2305.06574](http://arxiv.org/abs/2305.06574)|**[link](https://github.com/squareroot3/fusedgw-entity-alignment)**|
+|**2023-05-10**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|Anastasiia Sedova et.al.|[2305.06395](http://arxiv.org/abs/2305.06395)|null|
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|null|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
@@ -1449,7 +1453,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-11**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125](http://arxiv.org/abs/2305.06125)|null|
+|**2023-05-11**|**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**|Junjie Zhang et.al.|[2305.07001](http://arxiv.org/abs/2305.07001)|null|
+|**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622](http://arxiv.org/abs/2305.06622)|null|
+|**2023-05-11**|**A First Look at LLM-Powered Generative News Recommendation**|Qijiong Liu et.al.|[2305.06566](http://arxiv.org/abs/2305.06566)|**[link](https://github.com/jyonn/genre-requests)**|
+|**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398](http://arxiv.org/abs/2305.06398)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
+|**2023-05-10**|**Exploring the Landscape of Machine Unlearning: A Survey and Taxonomy**|Thanveer Shaik et.al.|[2305.06360](http://arxiv.org/abs/2305.06360)|null|
+|**2023-05-11**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125](http://arxiv.org/abs/2305.06125)|**[link](https://github.com/gc540/twitter-amplification-eval)**|
 |**2023-05-10**|**A Classification of Feedback Loops and Their Relation to Biases in Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055](http://arxiv.org/abs/2305.06055)|**[link](https://github.com/paganick/feedback-loops-and-biases)**|
 |**2023-05-10**|**Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models**|Aldo Gael Carranza et.al.|[2305.05973](http://arxiv.org/abs/2305.05973)|null|
 |**2023-05-10**|**Auditing Cross-Cultural Consistency of Human-Annotated Labels for Recommendation Systems**|Rock Yuren Pang et.al.|[2305.05917](http://arxiv.org/abs/2305.05917)|**[link](https://github.com/koenecke/crosscultural_labelconsistency)**|
