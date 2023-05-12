@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1432,7 +1432,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-10**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125](http://arxiv.org/abs/2305.06125)|null|
+|**2023-05-11**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125](http://arxiv.org/abs/2305.06125)|null|
 |**2023-05-10**|**A Classification of Feedback Loops and Their Relation to Biases in Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055](http://arxiv.org/abs/2305.06055)|**[link](https://github.com/paganick/feedback-loops-and-biases)**|
 |**2023-05-10**|**Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models**|Aldo Gael Carranza et.al.|[2305.05973](http://arxiv.org/abs/2305.05973)|null|
 |**2023-05-10**|**Auditing Cross-Cultural Consistency of Human-Annotated Labels for Recommendation Systems**|Rock Yuren Pang et.al.|[2305.05917](http://arxiv.org/abs/2305.05917)|**[link](https://github.com/koenecke/crosscultural_labelconsistency)**|
