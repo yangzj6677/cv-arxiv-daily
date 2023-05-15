@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
 |**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|null|
 |**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
 |**2023-05-11**|**A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment**|Jianheng Tang et.al.|[2305.06574](http://arxiv.org/abs/2305.06574)|**[link](https://github.com/squareroot3/fusedgw-entity-alignment)**|
@@ -1436,6 +1437,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
+|**2023-05-12**|**PALR: Personalization Aware LLMs for Recommendation**|Zheng Chen et.al.|[2305.07622](http://arxiv.org/abs/2305.07622)|null|
+|**2023-05-12**|**Dish detection in food platters: A framework for automated diet logging and nutrition management**|Mansi Goel et.al.|[2305.07552](http://arxiv.org/abs/2305.07552)|null|
+|**2023-05-12**|**Eye Tracking as a Source of Implicit Feedback in Recommender Systems: A Preliminary Analysis**|Santiago de Leon-Martinez et.al.|[2305.07516](http://arxiv.org/abs/2305.07516)|null|
+|**2023-05-12**|**Knowledge Soft Integration for Multimodal Recommendation**|Kai Ouyang et.al.|[2305.07419](http://arxiv.org/abs/2305.07419)|null|
+|**2023-05-12**|**Mem-Rec: Memory Efficient Recommendation System using Alternative Representation**|Gopu Krishna Jha et.al.|[2305.07205](http://arxiv.org/abs/2305.07205)|null|
+|**2023-05-11**|**Local Life: Stay Informed Around You, A Scalable Geoparsing and Geotagging Approach to Serve Local News Worldwide**|Deven Santosh Shah et.al.|[2305.07168](http://arxiv.org/abs/2305.07168)|null|
+|**2023-05-11**|**The Privacy-Utility Tradeoff in Rank-Preserving Dataset Obfuscation**|Mahshad Shariatnasab et.al.|[2305.07079](http://arxiv.org/abs/2305.07079)|null|
+|**2023-05-11**|**Automated Data Denoising for Recommendation**|Yingqiang Ge et.al.|[2305.07070](http://arxiv.org/abs/2305.07070)|null|
 |**2023-05-11**|**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**|Junjie Zhang et.al.|[2305.07001](http://arxiv.org/abs/2305.07001)|null|
 |**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622](http://arxiv.org/abs/2305.06622)|null|
 |**2023-05-11**|**A First Look at LLM-Powered Generative News Recommendation**|Qijiong Liu et.al.|[2305.06566](http://arxiv.org/abs/2305.06566)|**[link](https://github.com/jyonn/genre-requests)**|
