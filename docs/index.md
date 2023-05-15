@@ -763,7 +763,7 @@ layout: default
 |**2022-04-18**|**Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**|Tingyu Wang et.al.|[2204.08381v1](http://arxiv.org/abs/2204.08381v1)|null|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
 |**2022-04-14**|**Composite Code Sparse Autoencoders for first stage retrieval**|Carlos Lassance et.al.|[2204.07023v1](http://arxiv.org/abs/2204.07023v1)|null|
-|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
+|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|**[link](https://github.com/jmorlana/dran)**|
 |**2022-04-12**|**Probabilistic Compositional Embeddings for Multimodal Image Retrieval**|Andrei Neculai et.al.|[2204.05845v1](http://arxiv.org/abs/2204.05845v1)|**[link](https://github.com/andreineculai/mpc)**|
 |**2022-04-12**|**Three-Stream Joint Network for Zero-Shot Sketch-Based Image Retrieval**|Yu-Wei Zhan et.al.|[2204.05666v1](http://arxiv.org/abs/2204.05666v1)|null|
 |**2022-04-12**|**HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**|Zhixing Hou et.al.|[2204.05481v1](http://arxiv.org/abs/2204.05481v1)|null|
@@ -1572,7 +1572,7 @@ layout: default
 |**2023-03-15**|**Dually Enhanced Propensity Score Estimation in Sequential Recommendation**|Chen Xu et.al.|[2303.08722](http://arxiv.org/abs/2303.08722)|**[link](https://github.com/xuchen0427/dually-enhanced-propensity-score-estimation-in-sequential-recommendation)**|
 |**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810](http://arxiv.org/abs/2303.07810)|**[link](https://github.com/hkuds/dgnn)**|
 |**2023-03-13**|**Neural Group Recommendation Based on a Probabilistic Semantic Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001](http://arxiv.org/abs/2303.07001)|**[link](https://github.com/knodis-research-group/neural-cf-for-groups)**|
-|**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791](http://arxiv.org/abs/2303.06791)|null|
+|**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791](http://arxiv.org/abs/2303.06791)|**[link](https://github.com/google-research-datasets/cpcd)**|
 |**2023-03-12**|**P-MMF: Provider Max-min Fairness Re-ranking in Recommender System**|Chen Xu et.al.|[2303.06660](http://arxiv.org/abs/2303.06660)|**[link](https://github.com/xuchen0427/p-mmf)**|
 |**2023-03-12**|**AutoDenoise: Automatic Data Instance Denoising for Recommendations**|Weilin Lin et.al.|[2303.06611](http://arxiv.org/abs/2303.06611)|null|
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
