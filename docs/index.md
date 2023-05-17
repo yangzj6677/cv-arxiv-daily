@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.16
+## Updated on 2023.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1300,7 +1300,7 @@ layout: default
 |**2023-05-15**|**Continual Multimodal Knowledge Graph Construction**|Xiang Chen et.al.|[2305.08698](http://arxiv.org/abs/2305.08698)|**[link](https://github.com/zjunlp/ContinueMKGC)**|
 |**2023-05-15**|**A Knowledge Graph Perspective on Supply Chain Resilience**|Yushan Liu et.al.|[2305.08506](http://arxiv.org/abs/2305.08506)|null|
 |**2023-05-15**|**Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks**|Moritz Plenz et.al.|[2305.08495](http://arxiv.org/abs/2305.08495)|**[link](https://github.com/heidelberg-nlp/cckg)**|
-|**2023-05-14**|**The Structure and Dynamics of Knowledge Graphs, with Superficiality**|Loïck Lhote et.al.|[2305.08116](http://arxiv.org/abs/2305.08116)|null|
+|**2023-05-16**|**The Structure and Dynamics of Knowledge Graphs, with Superficiality**|Loïck Lhote et.al.|[2305.08116](http://arxiv.org/abs/2305.08116)|null|
 |**2023-05-13**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|Wenjie Xu et.al.|[2305.07912](http://arxiv.org/abs/2305.07912)|**[link](https://github.com/jaysaligia/ppt)**|
 |**2023-05-12**|**Answering Complex Questions over Text by Hybrid Question Parsing and Execution**|Ye Liu et.al.|[2305.07789](http://arxiv.org/abs/2305.07789)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
