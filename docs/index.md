@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|null|
+|**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974](http://arxiv.org/abs/2305.09974)|null|
+|**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
+|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
 |**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464](http://arxiv.org/abs/2305.09464)|null|
 |**2023-05-16**|**Constructing and Interpreting Causal Knowledge Graphs from News**|Fiona Anting Tan et.al.|[2305.09359](http://arxiv.org/abs/2305.09359)|null|
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804](http://arxiv.org/abs/2305.08804)|null|
@@ -1447,6 +1451,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
 |**2023-05-16**|**Consumer-side Fairness in Recommender Systems: A Systematic Survey of Methods and Evaluation**|Bjørnar Vassøy et.al.|[2305.09330](http://arxiv.org/abs/2305.09330)|null|
 |**2023-05-16**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319](http://arxiv.org/abs/2305.09319)|null|
 |**2023-05-15**|**Large Language Models are Zero-Shot Rankers for Recommender Systems**|Yupeng Hou et.al.|[2305.08845](http://arxiv.org/abs/2305.08845)|**[link](https://github.com/rucaibox/llmrank)**|
