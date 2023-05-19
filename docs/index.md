@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1457,7 +1457,7 @@ layout: default
 |**2023-05-15**|**Large Language Models are Zero-Shot Rankers for Recommender Systems**|Yupeng Hou et.al.|[2305.08845](http://arxiv.org/abs/2305.08845)|**[link](https://github.com/rucaibox/llmrank)**|
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804](http://arxiv.org/abs/2305.08804)|null|
 |**2023-05-15**|**sustain.AI: a Recommender System to analyze Sustainability Reports**|Lars Hillebrand et.al.|[2305.08711](http://arxiv.org/abs/2305.08711)|**[link](https://github.com/larshill/dnk-dataset)**|
-|**2023-05-14**|**Decoupled Graph Neural Networks for Large Dynamic Graphs**|Yanping Zheng et.al.|[2305.08273](http://arxiv.org/abs/2305.08273)|null|
+|**2023-05-14**|**Decoupled Graph Neural Networks for Large Dynamic Graphs**|Yanping Zheng et.al.|[2305.08273](http://arxiv.org/abs/2305.08273)|**[link](https://github.com/zheng-yp/decoupleddgnn)**|
 |**2023-05-16**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183](http://arxiv.org/abs/2305.08183)|null|
 |**2023-05-16**|**Leveraging Large Language Models in Conversational Recommender Systems**|Luke Friedman et.al.|[2305.07961](http://arxiv.org/abs/2305.07961)|null|
 |**2023-05-12**|**Value of Exploration: Measurements, Findings and Algorithms**|Yi Su et.al.|[2305.07764](http://arxiv.org/abs/2305.07764)|null|
