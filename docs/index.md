@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
+|**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
+|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531](http://arxiv.org/abs/2305.10531)|null|
+|**2023-05-17**|**Analysing Biomedical Knowledge Graphs using Prime Adjacency Matrices**|Konstantinos Bougiatiotis et.al.|[2305.10467](http://arxiv.org/abs/2305.10467)|**[link](https://github.com/kbogas/pam_cbms)**|
 |**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|null|
 |**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974](http://arxiv.org/abs/2305.09974)|null|
 |**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
@@ -1451,6 +1456,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081](http://arxiv.org/abs/2305.11081)|**[link](https://github.com/hn-rs/csa)**|
+|**2023-05-18**|**Improving Recommendation System Serendipity Through Lexicase Selection**|Ryan Boldi et.al.|[2305.11044](http://arxiv.org/abs/2305.11044)|null|
+|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837](http://arxiv.org/abs/2305.10837)|**[link](https://github.com/zzmeei/adaptivegcl)**|
+|**2023-05-18**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824](http://arxiv.org/abs/2305.10824)|null|
+|**2023-05-18**|**Machine Learning Recommendation System For Health Insurance Decision Making In Nigeria**|Ayomide Owoyemi et.al.|[2305.10708](http://arxiv.org/abs/2305.10708)|null|
+|**2023-05-17**|**Dynamic Matrix Recovery**|Ziyuan Chen et.al.|[2305.10524](http://arxiv.org/abs/2305.10524)|null|
 |**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
 |**2023-05-16**|**Consumer-side Fairness in Recommender Systems: A Systematic Survey of Methods and Evaluation**|Bjørnar Vassøy et.al.|[2305.09330](http://arxiv.org/abs/2305.09330)|null|
 |**2023-05-16**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319](http://arxiv.org/abs/2305.09319)|null|
