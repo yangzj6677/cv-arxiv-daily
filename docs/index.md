@@ -1295,6 +1295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**NeSy4VRD: A Multifaceted Resource for Neurosymbolic AI Research using Knowledge Graphs in Visual Relationship Detection**|David Herron et.al.|[2305.13258](http://arxiv.org/abs/2305.13258)|null|
+|**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168](http://arxiv.org/abs/2305.13168)|**[link](https://github.com/zjunlp/autokg)**|
+|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059](http://arxiv.org/abs/2305.13059)|null|
+|**2023-05-22**|**3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding**|Yihua Zhu et.al.|[2305.13015](http://arxiv.org/abs/2305.13015)|null|
+|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900](http://arxiv.org/abs/2305.12900)|null|
+|**2023-05-22**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788](http://arxiv.org/abs/2305.12788)|null|
+|**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738](http://arxiv.org/abs/2305.12738)|**[link](https://github.com/glaciohound/lerp)**|
+|**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600](http://arxiv.org/abs/2305.12600)|null|
+|**2023-05-21**|**Direct Fact Retrieval from Knowledge Graphs without Entity Linking**|Jinheon Baek et.al.|[2305.12416](http://arxiv.org/abs/2305.12416)|null|
+|**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209](http://arxiv.org/abs/2305.12209)|**[link](https://github.com/pldlgb/MetaSD)**|
 |**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501](http://arxiv.org/abs/2305.11501)|null|
 |**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
 |**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
@@ -1457,6 +1467,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models**|Xiaolei Wang et.al.|[2305.13112](http://arxiv.org/abs/2305.13112)|**[link](https://github.com/rucaibox/ievalm-crs)**|
+|**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|null|
+|**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|null|
+|**2023-05-21**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420](http://arxiv.org/abs/2305.12420)|null|
+|**2023-05-21**|**PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation**|Eli Chien et.al.|[2305.12349](http://arxiv.org/abs/2305.12349)|null|
+|**2023-05-21**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319](http://arxiv.org/abs/2305.12319)|null|
+|**2023-05-20**|**Unified Embedding: Battle-Tested Feature Representations for Web-Scale ML Systems**|Benjamin Coleman et.al.|[2305.12102](http://arxiv.org/abs/2305.12102)|null|
+|**2023-05-20**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090](http://arxiv.org/abs/2305.12090)|null|
+|**2023-05-20**|**DADIN: Domain Adversarial Deep Interest Network for Cross Domain Recommender Systems**|Menglin Kong et.al.|[2305.12058](http://arxiv.org/abs/2305.12058)|null|
 |**2023-05-19**|**Visualization for Recommendation Explainability: A Survey and New Perspectives**|Mohamed Amine Chatti et.al.|[2305.11755](http://arxiv.org/abs/2305.11755)|null|
 |**2023-05-19**|**Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights**|Ruyu Li et.al.|[2305.11700](http://arxiv.org/abs/2305.11700)|null|
 |**2023-05-19**|**Online Learning in a Creator Economy**|Banghua Zhu et.al.|[2305.11381](http://arxiv.org/abs/2305.11381)|null|
