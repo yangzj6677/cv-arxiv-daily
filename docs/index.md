@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259](http://arxiv.org/abs/2305.14259)|**[link](https://github.com/eaglew/clbd)**|
+|**2023-05-23**|**Complementing GPT-3 with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata**|Silei Xu et.al.|[2305.14202](http://arxiv.org/abs/2305.14202)|null|
+|**2023-05-23**|**To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion**|Rui Li et.al.|[2305.14126](http://arxiv.org/abs/2305.14126)|**[link](https://github.com/rui9812/vlp)**|
+|**2023-05-23**|**Message Intercommunication for Inductive Relation Reasoning**|Ke Liang et.al.|[2305.14074](http://arxiv.org/abs/2305.14074)|null|
+|**2023-05-23**|**Conversational Recommendation as Retrieval: A Simple, Strong Baseline**|Raghav Gupta et.al.|[2305.13725](http://arxiv.org/abs/2305.13725)|null|
+|**2023-05-23**|**Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs**|Siyuan Wang et.al.|[2305.13585](http://arxiv.org/abs/2305.13585)|**[link](https://github.com/wangsygit/inductivelr)**|
 |**2023-05-22**|**NeSy4VRD: A Multifaceted Resource for Neurosymbolic AI Research using Knowledge Graphs in Visual Relationship Detection**|David Herron et.al.|[2305.13258](http://arxiv.org/abs/2305.13258)|null|
 |**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168](http://arxiv.org/abs/2305.13168)|**[link](https://github.com/zjunlp/autokg)**|
 |**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059](http://arxiv.org/abs/2305.13059)|null|
@@ -1467,6 +1473,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**VIP5: Towards Multimodal Foundation Models for Recommendation**|Shijie Geng et.al.|[2305.14302](http://arxiv.org/abs/2305.14302)|null|
+|**2023-05-23**|**Simulating News Recommendation Ecosystem for Fun and Profit**|Guangping Zhang et.al.|[2305.14103](http://arxiv.org/abs/2305.14103)|null|
+|**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
+|**2023-05-23**|**Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey**|Mingzhu Zhang et.al.|[2305.13843](http://arxiv.org/abs/2305.13843)|null|
+|**2023-05-23**|**Optimizing Long-term Value for Auction-Based Recommender Systems via On-Policy Reinforcement Learning**|Ruiyang Xu et.al.|[2305.13747](http://arxiv.org/abs/2305.13747)|null|
+|**2023-05-23**|**Conversational Recommendation as Retrieval: A Simple, Strong Baseline**|Raghav Gupta et.al.|[2305.13725](http://arxiv.org/abs/2305.13725)|null|
+|**2023-05-23**|**Curse of "Low" Dimensionality in Recommender Systems**|Naoto Ohsaka et.al.|[2305.13597](http://arxiv.org/abs/2305.13597)|null|
+|**2023-05-22**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399](http://arxiv.org/abs/2305.13399)|null|
 |**2023-05-22**|**Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models**|Xiaolei Wang et.al.|[2305.13112](http://arxiv.org/abs/2305.13112)|**[link](https://github.com/rucaibox/ievalm-crs)**|
 |**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|null|
 |**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|null|
