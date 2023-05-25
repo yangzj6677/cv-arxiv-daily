@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
+|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|null|
+|**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
+|**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
+|**2023-05-23**|**Knowledge Graphs Querying**|Arijit Khan et.al.|[2305.14485](http://arxiv.org/abs/2305.14485)|null|
 |**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259](http://arxiv.org/abs/2305.14259)|**[link](https://github.com/eaglew/clbd)**|
 |**2023-05-23**|**Complementing GPT-3 with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata**|Silei Xu et.al.|[2305.14202](http://arxiv.org/abs/2305.14202)|null|
 |**2023-05-23**|**To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion**|Rui Li et.al.|[2305.14126](http://arxiv.org/abs/2305.14126)|**[link](https://github.com/rui9812/vlp)**|
@@ -1490,6 +1495,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time**|Kiarash Banihashem et.al.|[2305.15192](http://arxiv.org/abs/2305.15192)|null|
+|**2023-05-24**|**GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking**|Jiayan Guo et.al.|[2305.15066](http://arxiv.org/abs/2305.15066)|null|
+|**2023-05-24**|**Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights**|Junchen Fu et.al.|[2305.15036](http://arxiv.org/abs/2305.15036)|null|
+|**2023-05-24**|**Identifying Informational Sources in News Articles**|Alexander Spangher et.al.|[2305.14904](http://arxiv.org/abs/2305.14904)|null|
+|**2023-05-24**|**How Graph Convolutions Amplify Popularity Bias for Recommendation?**|Jiajia Chen et.al.|[2305.14886](http://arxiv.org/abs/2305.14886)|null|
+|**2023-05-23**|**Basis Function Encoding of Numerical Features in Factorization Machines for Improved Accuracy**|Alex Shtoff et.al.|[2305.14528](http://arxiv.org/abs/2305.14528)|null|
 |**2023-05-23**|**VIP5: Towards Multimodal Foundation Models for Recommendation**|Shijie Geng et.al.|[2305.14302](http://arxiv.org/abs/2305.14302)|null|
 |**2023-05-23**|**Simulating News Recommendation Ecosystem for Fun and Profit**|Guangping Zhang et.al.|[2305.14103](http://arxiv.org/abs/2305.14103)|null|
 |**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
