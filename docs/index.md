@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
 |**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
 |**2023-05-25**|**Collective Knowledge Graph Completion with Mutual Knowledge Distillation**|Weihang Zhang et.al.|[2305.15895](http://arxiv.org/abs/2305.15895)|null|
@@ -1483,6 +1485,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Justification vs. Transparency: Why and How Visual Explanations in a Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2305.17034](http://arxiv.org/abs/2305.17034)|null|
+|**2023-05-26**|**FARA: Future-aware Ranking Algorithm for Fairness Optimization**|Tao Yang et.al.|[2305.16637](http://arxiv.org/abs/2305.16637)|null|
+|**2023-05-26**|**Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware Empirical Bayes Approach**|Tao Yang et.al.|[2305.16606](http://arxiv.org/abs/2305.16606)|null|
+|**2023-05-26**|**CARAMEL: A Succinct Read-Only Lookup Table via Compressed Static Functions**|Benjamin Coleman et.al.|[2305.16545](http://arxiv.org/abs/2305.16545)|null|
+|**2023-05-25**|**Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems**|Xiaohui Chen et.al.|[2305.16391](http://arxiv.org/abs/2305.16391)|null|
 |**2023-05-25**|**On Influence Functions, Classification Influence, Relative Influence, Memorization and Generalization**|Michael Kounavis et.al.|[2305.16094](http://arxiv.org/abs/2305.16094)|null|
 |**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
 |**2023-05-25**|**BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model**|Aakas Zhiyuli et.al.|[2305.15673](http://arxiv.org/abs/2305.15673)|null|
