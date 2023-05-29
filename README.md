@@ -50,7 +50,7 @@
 |**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600](http://arxiv.org/abs/2305.12600)|null|
 |**2023-05-21**|**Direct Fact Retrieval from Knowledge Graphs without Entity Linking**|Jinheon Baek et.al.|[2305.12416](http://arxiv.org/abs/2305.12416)|null|
 |**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209](http://arxiv.org/abs/2305.12209)|**[link](https://github.com/pldlgb/MetaSD)**|
-|**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501](http://arxiv.org/abs/2305.11501)|null|
+|**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501](http://arxiv.org/abs/2305.11501)|**[link](https://github.com/oreozhao/tea)**|
 |**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
 |**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
 |**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
@@ -143,7 +143,7 @@
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
 |**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
 |**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
-|**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|null|
+|**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|**[link](https://github.com/hkust-knowcomp/fit)**|
 |**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136](http://arxiv.org/abs/2304.06136)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
@@ -182,7 +182,7 @@
 |**2023-03-27**|**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays**|Yiheng Xiong et.al.|[2303.13818](http://arxiv.org/abs/2303.13818)|null|
 |**2023-03-23**|**Enhancing Embedding Representations of Biomedical Data using Logic Knowledge**|Michelangelo Diligenti et.al.|[2303.13566](http://arxiv.org/abs/2303.13566)|null|
 |**2023-03-24**|**Towards Transparent, Reusable, and Customizable Data Science in Computational Notebooks**|Frederick Choi et.al.|[2303.13447](http://arxiv.org/abs/2303.13447)|**[link](https://github.com/megagonlabs/magneton)**|
-|**2023-03-28**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351](http://arxiv.org/abs/2303.13351)|null|
+|**2023-03-28**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351](http://arxiv.org/abs/2303.13351)|**[link](https://github.com/awalesushil/DBLP-QuAD)**|
 |**2023-03-28**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284](http://arxiv.org/abs/2303.13284)|**[link](https://github.com/debayan/gett-qa)**|
 |**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816](http://arxiv.org/abs/2303.12816)|null|
 |**2023-03-25**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423](http://arxiv.org/abs/2303.12423)|null|
@@ -283,7 +283,7 @@
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
-|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|**[link](https://github.com/hitsz-nrsl/iglov)**|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|**[link](https://github.com/ignaciotb/uwexploration)**|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
@@ -1523,7 +1523,7 @@
 |**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|null|
 |**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|null|
 |**2023-05-21**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420](http://arxiv.org/abs/2305.12420)|null|
-|**2023-05-21**|**PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation**|Eli Chien et.al.|[2305.12349](http://arxiv.org/abs/2305.12349)|null|
+|**2023-05-21**|**PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation**|Eli Chien et.al.|[2305.12349](http://arxiv.org/abs/2305.12349)|**[link](https://github.com/amzn/pecos)**|
 |**2023-05-21**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319](http://arxiv.org/abs/2305.12319)|null|
 |**2023-05-20**|**Unified Embedding: Battle-Tested Feature Representations for Web-Scale ML Systems**|Benjamin Coleman et.al.|[2305.12102](http://arxiv.org/abs/2305.12102)|null|
 |**2023-05-20**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090](http://arxiv.org/abs/2305.12090)|null|
