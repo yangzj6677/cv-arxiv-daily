@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997](http://arxiv.org/abs/2305.19997)|null|
+|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|null|
+|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979](http://arxiv.org/abs/2305.19979)|**[link](https://github.com/aryopg/biokge)**|
 |**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
 |**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846](http://arxiv.org/abs/2305.18846)|null|
 |**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742](http://arxiv.org/abs/2305.18742)|null|
@@ -1496,6 +1499,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Representer Point Selection for Explaining Regularized High-dimensional Models**|Che-Ping Tsai et.al.|[2305.20002](http://arxiv.org/abs/2305.20002)|null|
+|**2023-05-31**|**Handling Large Discrete Action Spaces via Dynamic Neighborhood Construction**|Fabian Akkerman et.al.|[2305.19891](http://arxiv.org/abs/2305.19891)|**[link](https://github.com/tumbais/dynamicneighborhoodconstruction)**|
+|**2023-05-31**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860](http://arxiv.org/abs/2305.19860)|null|
 |**2023-05-30**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885](http://arxiv.org/abs/2305.18885)|**[link](https://github.com/jindeok/cpa-lgc-recbole)**|
 |**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|null|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
