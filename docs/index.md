@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,7 +1298,7 @@ layout: default
 |**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
 |**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846](http://arxiv.org/abs/2305.18846)|null|
 |**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742](http://arxiv.org/abs/2305.18742)|null|
-|**2023-05-30**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731](http://arxiv.org/abs/2305.18731)|null|
+|**2023-05-31**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731](http://arxiv.org/abs/2305.18731)|null|
 |**2023-05-30**|**History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion**|Mehrnoosh Mirtaheri et.al.|[2305.18675](http://arxiv.org/abs/2305.18675)|null|
 |**2023-05-28**|**MemeGraphs: Linking Memes to Knowledge Graphs**|Vasiliki Kougia et.al.|[2305.18391](http://arxiv.org/abs/2305.18391)|**[link](https://github.com/vasilikikou/memegraphs)**|
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|null|
