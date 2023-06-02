@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997](http://arxiv.org/abs/2305.19997)|null|
-|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|null|
+|**2023-06-01**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|null|
 |**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979](http://arxiv.org/abs/2305.19979)|**[link](https://github.com/aryopg/biokge)**|
 |**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
 |**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846](http://arxiv.org/abs/2305.18846)|null|
@@ -1304,7 +1304,7 @@ layout: default
 |**2023-05-31**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731](http://arxiv.org/abs/2305.18731)|null|
 |**2023-05-30**|**History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion**|Mehrnoosh Mirtaheri et.al.|[2305.18675](http://arxiv.org/abs/2305.18675)|null|
 |**2023-05-28**|**MemeGraphs: Linking Memes to Knowledge Graphs**|Vasiliki Kougia et.al.|[2305.18391](http://arxiv.org/abs/2305.18391)|**[link](https://github.com/vasilikikou/memegraphs)**|
-|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|null|
+|**2023-06-01**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|null|
 |**2023-05-29**|**Sequential Condition Evolved Interaction Knowledge Graph for Traditional Chinese Medicine Recommendation**|Jingjin Liu et.al.|[2305.17866](http://arxiv.org/abs/2305.17866)|null|
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
@@ -1501,8 +1501,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-31**|**Representer Point Selection for Explaining Regularized High-dimensional Models**|Che-Ping Tsai et.al.|[2305.20002](http://arxiv.org/abs/2305.20002)|null|
 |**2023-05-31**|**Handling Large Discrete Action Spaces via Dynamic Neighborhood Construction**|Fabian Akkerman et.al.|[2305.19891](http://arxiv.org/abs/2305.19891)|**[link](https://github.com/tumbais/dynamicneighborhoodconstruction)**|
-|**2023-05-31**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860](http://arxiv.org/abs/2305.19860)|null|
-|**2023-05-30**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885](http://arxiv.org/abs/2305.18885)|**[link](https://github.com/jindeok/cpa-lgc-recbole)**|
+|**2023-06-01**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860](http://arxiv.org/abs/2305.19860)|**[link](https://github.com/wlik/llm4rec)**|
+|**2023-06-01**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885](http://arxiv.org/abs/2305.18885)|**[link](https://github.com/jindeok/cpa-lgc-recbole)**|
 |**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|null|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
 |**2023-05-28**|**Optimizing Airbnb Search Journey with Multi-task Learning**|Chun How Tan et.al.|[2305.18431](http://arxiv.org/abs/2305.18431)|null|
