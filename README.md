@@ -27,7 +27,7 @@
 |**2023-06-01**|**Column Type Annotation using ChatGPT**|Keti Korini et.al.|[2306.00745](http://arxiv.org/abs/2306.00745)|null|
 |**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997](http://arxiv.org/abs/2305.19997)|null|
-|**2023-06-01**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|null|
+|**2023-06-01**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|**[link](https://github.com/bdi-lab/ingram)**|
 |**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979](http://arxiv.org/abs/2305.19979)|**[link](https://github.com/aryopg/biokge)**|
 |**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
 |**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846](http://arxiv.org/abs/2305.18846)|null|
