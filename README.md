@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631](http://arxiv.org/abs/2306.01631)|null|
+|**2023-06-02**|**CLIPGraphs: Multimodal Graph Networks to Infer Object-Room Affinities**|Ayush Agrawal et.al.|[2306.01540](http://arxiv.org/abs/2306.01540)|null|
+|**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399](http://arxiv.org/abs/2306.01399)|**[link](https://github.com/hkust-knowcomp/nrn)**|
 |**2023-06-01**|**Column Type Annotation using ChatGPT**|Keti Korini et.al.|[2306.00745](http://arxiv.org/abs/2306.00745)|null|
 |**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997](http://arxiv.org/abs/2305.19997)|null|
@@ -1518,6 +1521,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation**|Jianling Wang et.al.|[2306.01720](http://arxiv.org/abs/2306.01720)|null|
+|**2023-06-02**|**Système de recommandations basé sur les contraintes pour les simulations de gestion de crise**|Ngoc Luyen Le et.al.|[2306.01504](http://arxiv.org/abs/2306.01504)|null|
+|**2023-06-02**|**Hierarchical Reinforcement Learning for Modeling User Novelty-Seeking Intent in Recommender Systems**|Pan Li et.al.|[2306.01476](http://arxiv.org/abs/2306.01476)|null|
+|**2023-06-02**|**Reducing Popularity Bias in Recommender Systems through AUC-Optimal Negative Sampling**|Bin Liu et.al.|[2306.01348](http://arxiv.org/abs/2306.01348)|**[link](https://github.com/studentcej/auc_ns)**|
+|**2023-06-02**|**Self Contrastive Learning for Session-based Recommendation**|Zhengxiang Shi et.al.|[2306.01266](http://arxiv.org/abs/2306.01266)|null|
+|**2023-06-01**|**A Multi-Modal Latent-Features based Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163](http://arxiv.org/abs/2306.01163)|null|
+|**2023-06-01**|**Semi-supervised Community Detection via Structural Similarity Metrics**|Yicong Jiang et.al.|[2306.01089](http://arxiv.org/abs/2306.01089)|null|
+|**2023-05-31**|**Scaling Evidence-based Instructional Design Expertise through Large Language Models**|Gautam Yadav et.al.|[2306.01006](http://arxiv.org/abs/2306.01006)|null|
 |**2023-06-01**|**A Survey on Fairness-aware Recommender Systems**|Di Jin et.al.|[2306.00403](http://arxiv.org/abs/2306.00403)|null|
 |**2023-05-31**|**TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest**|Xue Xia et.al.|[2306.00248](http://arxiv.org/abs/2306.00248)|**[link](https://github.com/pinterest/transformer_user_action)**|
 |**2023-05-29**|**Graph Exploration Matters: Improving both individual-level and system-level diversity in WeChat Feed Recommender**|Shuai Yang et.al.|[2306.00009](http://arxiv.org/abs/2306.00009)|null|
