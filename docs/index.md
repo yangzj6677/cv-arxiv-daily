@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Patient Dropout Prediction in Virtual Health: A Multimodal Dynamic Knowledge Graph and Text Mining Approach**|Shuang Geng et.al.|[2306.03833](http://arxiv.org/abs/2306.03833)|null|
+|**2023-06-06**|**Schema First! Learn Versatile Knowledge Graph Embeddings by Capturing Semantics with MASCHInE**|Nicolas Hubert et.al.|[2306.03659](http://arxiv.org/abs/2306.03659)|**[link](https://github.com/nicolas-hbt/versatile-embeddings)**|
+|**2023-06-06**|**BioBLP: A Modular Framework for Learning on Multimodal Biomedical Knowledge Graphs**|Daniel Daza et.al.|[2306.03606](http://arxiv.org/abs/2306.03606)|**[link](https://github.com/elsevier-ai-lab/bioblp)**|
+|**2023-06-06**|**Logic Diffusion for Knowledge Graph Reasoning**|Xiaoying Xie et.al.|[2306.03515](http://arxiv.org/abs/2306.03515)|null|
+|**2023-06-05**|**Construction d'un système de recommandation basé sur des contraintes via des graphes de connaissances**|Ngoc Luyen Le et.al.|[2306.03247](http://arxiv.org/abs/2306.03247)|null|
 |**2023-06-05**|**Text-To-KG Alignment: Comparing Current Methods on Classification Tasks**|Sondre Wold et.al.|[2306.02871](http://arxiv.org/abs/2306.02871)|null|
 |**2023-06-05**|**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**|Zequn Sun et.al.|[2306.02679](http://arxiv.org/abs/2306.02679)|**[link](https://github.com/nju-websoft/mukge)**|
 |**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622](http://arxiv.org/abs/2306.02622)|**[link](https://github.com/nju-websoft/unify-ea-sf)**|
@@ -1510,6 +1515,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624](http://arxiv.org/abs/2306.03624)|**[link](https://github.com/spacelearner/jgcf)**|
+|**2023-06-06**|**Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation**|Xiao Lin et.al.|[2306.03392](http://arxiv.org/abs/2306.03392)|null|
+|**2023-06-06**|**ColdNAS: Search to Modulate for User Cold-Start Recommendation**|Shiguang Wu et.al.|[2306.03387](http://arxiv.org/abs/2306.03387)|**[link](https://github.com/lars-research/coldnas)**|
+|**2023-06-05**|**Construction d'un système de recommandation basé sur des contraintes via des graphes de connaissances**|Ngoc Luyen Le et.al.|[2306.03247](http://arxiv.org/abs/2306.03247)|null|
+|**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191](http://arxiv.org/abs/2306.03191)|null|
 |**2023-06-05**|**Gen-IR @ SIGIR 2023: The First Workshop on Generative Information Retrieval**|Gabriel Bénédict et.al.|[2306.02887](http://arxiv.org/abs/2306.02887)|null|
 |**2023-06-05**|**Improving Conversational Recommendation Systems via Counterfactual Data Simulation**|Xiaolei Wang et.al.|[2306.02842](http://arxiv.org/abs/2306.02842)|**[link](https://github.com/rucaibox/cfcrs)**|
 |**2023-06-05**|**CTRL: Connect Tabular and Language Model for CTR Prediction**|Xiangyang Li et.al.|[2306.02841](http://arxiv.org/abs/2306.02841)|null|
