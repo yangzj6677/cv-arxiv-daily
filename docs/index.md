@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1523,7 +1523,7 @@ layout: default
 |**2023-06-07**|**Modeling Dual Period-Varying Preferences for Takeaway Recommendation**|Yuting Zhang et.al.|[2306.04370](http://arxiv.org/abs/2306.04370)|null|
 |**2023-06-07**|**Set-to-Sequence Ranking-based Concept-aware Learning Path Recommendation**|Xianyu Chen et.al.|[2306.04234](http://arxiv.org/abs/2306.04234)|null|
 |**2023-06-07**|**Answering Compositional Queries with Set-Theoretic Embeddings**|Shib Dasgupta et.al.|[2306.04133](http://arxiv.org/abs/2306.04133)|null|
-|**2023-06-07**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation**|Ziyang Liu et.al.|[2306.04095](http://arxiv.org/abs/2306.04095)|null|
+|**2023-06-08**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation**|Ziyang Liu et.al.|[2306.04095](http://arxiv.org/abs/2306.04095)|null|
 |**2023-06-06**|**Transferable Adversarial Robustness for Categorical Data via Universal Robust Embeddings**|Klim Kireev et.al.|[2306.04064](http://arxiv.org/abs/2306.04064)|null|
 |**2023-06-06**|**NFT.mine: An xDeepFM-based Recommender System for Non-fungible Token (NFT) Buyers**|Shuwei Li et.al.|[2306.03942](http://arxiv.org/abs/2306.03942)|null|
 |**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624](http://arxiv.org/abs/2306.03624)|**[link](https://github.com/spacelearner/jgcf)**|
