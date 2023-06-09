@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
+|**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
+|**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766](http://arxiv.org/abs/2306.04766)|null|
+|**2023-06-07**|**SKG: A Versatile Information Retrieval and Analysis Framework for Academic Papers with Semantic Knowledge Graphs**|Yamei Tu et.al.|[2306.04758](http://arxiv.org/abs/2306.04758)|null|
 |**2023-06-07**|**Leveraging Knowledge Graph Embeddings to Enhance Contextual Representations for Relation Extraction**|Fréjus A. A. Laleye et.al.|[2306.04203](http://arxiv.org/abs/2306.04203)|null|
 |**2023-06-07**|**Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering**|Jinheon Baek et.al.|[2306.04136](http://arxiv.org/abs/2306.04136)|null|
 |**2023-06-06**|**Triggering Multi-Hop Reasoning for Question Answering in Language Models using Soft Prompts and Random Walks**|Kanishka Misra et.al.|[2306.04009](http://arxiv.org/abs/2306.04009)|null|
@@ -1535,6 +1539,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
+|**2023-06-08**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118](http://arxiv.org/abs/2306.05118)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
+|**2023-06-08**|**When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming**|Hussein Mozannar et.al.|[2306.04930](http://arxiv.org/abs/2306.04930)|null|
+|**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791](http://arxiv.org/abs/2306.04791)|null|
 |**2023-06-07**|**Constraint-based recommender system for crisis management simulations**|Ngoc Luyen Le et.al.|[2306.04553](http://arxiv.org/abs/2306.04553)|null|
 |**2023-06-07**|**Embracing Uncertainty: Adaptive Vague Preference Policy Learning for Multi-round Conversational Recommendation**|Gangyi Zhang et.al.|[2306.04487](http://arxiv.org/abs/2306.04487)|null|
 |**2023-06-07**|**Modeling Dual Period-Varying Preferences for Takeaway Recommendation**|Yuting Zhang et.al.|[2306.04370](http://arxiv.org/abs/2306.04370)|null|
