@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
 |**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766](http://arxiv.org/abs/2306.04766)|null|
@@ -1522,6 +1523,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**How Can Recommender Systems Benefit from Large Language Models: A Survey**|Jianghao Lin et.al.|[2306.05817](http://arxiv.org/abs/2306.05817)|**[link](https://github.com/chiangel/awesome-llm-for-recsys)**|
+|**2023-06-09**|**Interactive Explanation with Varying Level of Details in an Explainable Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2306.05809](http://arxiv.org/abs/2306.05809)|null|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
 |**2023-06-08**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118](http://arxiv.org/abs/2306.05118)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
 |**2023-06-08**|**When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming**|Hussein Mozannar et.al.|[2306.04930](http://arxiv.org/abs/2306.04930)|null|
