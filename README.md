@@ -113,7 +113,7 @@
 |**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|**[link](https://github.com/jiho283/FactKG)**|
 |**2023-05-15**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
 |**2023-05-11**|**A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment**|Jianheng Tang et.al.|[2305.06574](http://arxiv.org/abs/2305.06574)|**[link](https://github.com/squareroot3/fusedgw-entity-alignment)**|
-|**2023-05-10**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|Anastasiia Sedova et.al.|[2305.06395](http://arxiv.org/abs/2305.06395)|null|
+|**2023-05-10**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|Anastasiia Sedova et.al.|[2305.06395](http://arxiv.org/abs/2305.06395)|**[link](https://github.com/anasedova/actc)**|
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|**[link](https://github.com/stevenzhb/cadge)**|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
@@ -228,7 +228,7 @@
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320](http://arxiv.org/abs/2303.12320)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
 |**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858](http://arxiv.org/abs/2303.11858)|null|
-|**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|null|
+|**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|**[link](https://github.com/nets4geeks/dockercomposedataset)**|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871](http://arxiv.org/abs/2303.10871)|null|
 |**2023-03-20**|**IMF: Interactive Multimodal Fusion Model for Link Prediction**|Xinhang Li et.al.|[2303.10816](http://arxiv.org/abs/2303.10816)|**[link](https://github.com/hestiasky/imf-pytorch)**|
 |**2023-03-19**|**FVQA 2.0: Introducing Adversarial Samples into Fact-based Visual Question Answering**|Weizhe Lin et.al.|[2303.10699](http://arxiv.org/abs/2303.10699)|null|
@@ -1325,7 +1325,7 @@
 |**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653](http://arxiv.org/abs/2303.07653)|null|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596](http://arxiv.org/abs/2303.07596)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418](http://arxiv.org/abs/2303.07418)|**[link](https://github.com/jiawei-yang/freenerf)**|
-|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919](http://arxiv.org/abs/2303.06919)|null|
+|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919](http://arxiv.org/abs/2303.06919)|**[link](https://github.com/redrock303/NeRFLiX_CPVR2023)**|
 |**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335](http://arxiv.org/abs/2303.06335)|**[link](https://github.com/minjae-lulu/just-flip)**|
 |**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226](http://arxiv.org/abs/2303.06226)|**[link](https://github.com/wojtekz4/nerflame)**|
 |**2023-03-10**|**You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**|Jaehyeok Kim et.al.|[2303.05835](http://arxiv.org/abs/2303.05835)|null|
@@ -1550,7 +1550,7 @@
 |**2023-06-07**|**Answering Compositional Queries with Set-Theoretic Embeddings**|Shib Dasgupta et.al.|[2306.04133](http://arxiv.org/abs/2306.04133)|null|
 |**2023-06-08**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation**|Ziyang Liu et.al.|[2306.04095](http://arxiv.org/abs/2306.04095)|null|
 |**2023-06-06**|**Transferable Adversarial Robustness for Categorical Data via Universal Robust Embeddings**|Klim Kireev et.al.|[2306.04064](http://arxiv.org/abs/2306.04064)|null|
-|**2023-06-06**|**NFT.mine: An xDeepFM-based Recommender System for Non-fungible Token (NFT) Buyers**|Shuwei Li et.al.|[2306.03942](http://arxiv.org/abs/2306.03942)|null|
+|**2023-06-06**|**NFT.mine: An xDeepFM-based Recommender System for Non-fungible Token (NFT) Buyers**|Shuwei Li et.al.|[2306.03942](http://arxiv.org/abs/2306.03942)|**[link](https://github.com/wallerli/nft.mine)**|
 |**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624](http://arxiv.org/abs/2306.03624)|**[link](https://github.com/spacelearner/jgcf)**|
 |**2023-06-06**|**Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation**|Xiao Lin et.al.|[2306.03392](http://arxiv.org/abs/2306.03392)|null|
 |**2023-06-06**|**ColdNAS: Search to Modulate for User Cold-Start Recommendation**|Shiguang Wu et.al.|[2306.03387](http://arxiv.org/abs/2306.03387)|**[link](https://github.com/lars-research/coldnas)**|
@@ -1561,7 +1561,7 @@
 |**2023-06-05**|**CTRL: Connect Tabular and Language Model for CTR Prediction**|Xiangyang Li et.al.|[2306.02841](http://arxiv.org/abs/2306.02841)|null|
 |**2023-06-05**|**COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search**|Shibal Ibrahim et.al.|[2306.02824](http://arxiv.org/abs/2306.02824)|**[link](https://github.com/mazumder-lab/comet)**|
 |**2023-06-05**|**Path-Specific Counterfactual Fairness for Recommender Systems**|Yaochen Zhu et.al.|[2306.02615](http://arxiv.org/abs/2306.02615)|**[link](https://github.com/yaochenzhu/psf-vae)**|
-|**2023-06-05**|**RecAgent: A Novel Simulation Paradigm for Recommender Systems**|Lei Wang et.al.|[2306.02552](http://arxiv.org/abs/2306.02552)|null|
+|**2023-06-05**|**RecAgent: A Novel Simulation Paradigm for Recommender Systems**|Lei Wang et.al.|[2306.02552](http://arxiv.org/abs/2306.02552)|**[link](https://github.com/ruc-gsai/yulan-rec)**|
 |**2023-06-04**|**Graph Transformer for Recommendation**|Chaoliu Li et.al.|[2306.02330](http://arxiv.org/abs/2306.02330)|**[link](https://github.com/hkuds/gformer)**|
 |**2023-06-04**|**Large Language Model Augmented Narrative Driven Recommendations**|Sheshera Mysore et.al.|[2306.02250](http://arxiv.org/abs/2306.02250)|null|
 |**2023-06-06**|**Generative Flow Network for Listwise Recommendation**|Shuchang Liu et.al.|[2306.02239](http://arxiv.org/abs/2306.02239)|null|
@@ -1570,7 +1570,7 @@
 |**2023-06-02**|**Système de recommandations basé sur les contraintes pour les simulations de gestion de crise**|Ngoc Luyen Le et.al.|[2306.01504](http://arxiv.org/abs/2306.01504)|null|
 |**2023-06-02**|**Hierarchical Reinforcement Learning for Modeling User Novelty-Seeking Intent in Recommender Systems**|Pan Li et.al.|[2306.01476](http://arxiv.org/abs/2306.01476)|null|
 |**2023-06-02**|**Reducing Popularity Bias in Recommender Systems through AUC-Optimal Negative Sampling**|Bin Liu et.al.|[2306.01348](http://arxiv.org/abs/2306.01348)|**[link](https://github.com/studentcej/auc_ns)**|
-|**2023-06-02**|**Self Contrastive Learning for Session-based Recommendation**|Zhengxiang Shi et.al.|[2306.01266](http://arxiv.org/abs/2306.01266)|null|
+|**2023-06-02**|**Self Contrastive Learning for Session-based Recommendation**|Zhengxiang Shi et.al.|[2306.01266](http://arxiv.org/abs/2306.01266)|**[link](https://github.com/zhengxiangshi/selfcontrastivelearningrecsys)**|
 |**2023-06-01**|**A Multi-Modal Latent-Features based Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163](http://arxiv.org/abs/2306.01163)|null|
 |**2023-06-01**|**Semi-supervised Community Detection via Structural Similarity Metrics**|Yicong Jiang et.al.|[2306.01089](http://arxiv.org/abs/2306.01089)|null|
 |**2023-05-31**|**Scaling Evidence-based Instructional Design Expertise through Large Language Models**|Gautam Yadav et.al.|[2306.01006](http://arxiv.org/abs/2306.01006)|null|
@@ -1614,7 +1614,7 @@
 |**2023-05-23**|**Curse of "Low" Dimensionality in Recommender Systems**|Naoto Ohsaka et.al.|[2305.13597](http://arxiv.org/abs/2305.13597)|null|
 |**2023-05-24**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399](http://arxiv.org/abs/2305.13399)|null|
 |**2023-05-22**|**Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models**|Xiaolei Wang et.al.|[2305.13112](http://arxiv.org/abs/2305.13112)|**[link](https://github.com/rucaibox/ievalm-crs)**|
-|**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|null|
+|**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|**[link](https://github.com/mingmtc/hdr)**|
 |**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|null|
 |**2023-05-21**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420](http://arxiv.org/abs/2305.12420)|null|
 |**2023-05-21**|**PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation**|Eli Chien et.al.|[2305.12349](http://arxiv.org/abs/2305.12349)|**[link](https://github.com/amzn/pecos)**|
