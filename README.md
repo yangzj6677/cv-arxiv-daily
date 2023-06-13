@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
@@ -1540,6 +1541,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-11**|**Skellam Rank: Fair Learning to Rank Algorithm Based on Poisson Process and Skellam Distribution for Recommender Systems**|Hao Wang et.al.|[2306.06607](http://arxiv.org/abs/2306.06607)|null|
+|**2023-06-11**|**Mean-Variance Efficient Collaborative Filtering for Stock Recommendation**|Munki Chung et.al.|[2306.06590](http://arxiv.org/abs/2306.06590)|null|
+|**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
+|**2023-06-09**|**Spectral gap-based deterministic tensor completion**|Kameron Decker Harris et.al.|[2306.06262](http://arxiv.org/abs/2306.06262)|null|
 |**2023-06-12**|**How Can Recommender Systems Benefit from Large Language Models: A Survey**|Jianghao Lin et.al.|[2306.05817](http://arxiv.org/abs/2306.05817)|**[link](https://github.com/chiangel/awesome-llm-for-recsys)**|
 |**2023-06-09**|**Interactive Explanation with Varying Level of Details in an Explainable Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2306.05809](http://arxiv.org/abs/2306.05809)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
