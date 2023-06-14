@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1532,7 +1532,7 @@ layout: default
 |**2023-06-09**|**Interactive Explanation with Varying Level of Details in an Explainable Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2306.05809](http://arxiv.org/abs/2306.05809)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
-|**2023-06-08**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118](http://arxiv.org/abs/2306.05118)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
+|**2023-06-13**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118](http://arxiv.org/abs/2306.05118)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
 |**2023-06-08**|**When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming**|Hussein Mozannar et.al.|[2306.04930](http://arxiv.org/abs/2306.04930)|null|
 |**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791](http://arxiv.org/abs/2306.04791)|null|
 |**2023-06-07**|**Constraint-based recommender system for crisis management simulations**|Ngoc Luyen Le et.al.|[2306.04553](http://arxiv.org/abs/2306.04553)|null|
