@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.18
+## Updated on 2023.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1535,8 +1535,8 @@ layout: default
 |**2023-06-14**|**Katakomba: Tools and Benchmarks for Data-Driven NetHack**|Vladislav Kurenkov et.al.|[2306.08772](http://arxiv.org/abs/2306.08772)|**[link](https://github.com/tinkoff-ai/katakomba)**|
 |**2023-06-14**|**Using Wikipedia Editor Information to Build High-performance Recommender Systems**|Katsuhiko Hayashi et.al.|[2306.08636](http://arxiv.org/abs/2306.08636)|null|
 |**2023-06-14**|**User Simulation for Evaluating Information Access Systems**|Krisztian Balog et.al.|[2306.08550](http://arxiv.org/abs/2306.08550)|null|
-|**2023-06-14**|**Analysis and Approximate Inference of Large and Dense Random Kronecker Graphs**|Zhenyu Liao et.al.|[2306.08489](http://arxiv.org/abs/2306.08489)|null|
-|**2023-06-14**|**Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions, and Prospects**|Xinghua Qu et.al.|[2306.08219](http://arxiv.org/abs/2306.08219)|null|
+|**2023-06-14**|**Analysis and Approximate Inference of Large and Dense Random Kronecker Graphs**|Zhenyu Liao et.al.|[2306.08489](http://arxiv.org/abs/2306.08489)|**[link](https://github.com/yqian108/inference-of-kronecker-graph)**|
+|**2023-06-14**|**Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions, and Prospects**|Xinghua Qu et.al.|[2306.08219](http://arxiv.org/abs/2306.08219)|**[link](https://github.com/hyllll/vcrs)**|
 |**2023-06-13**|**Better Generalization with Semantic IDs: A case study in Ranking for Recommendations**|Anima Singh et.al.|[2306.08121](http://arxiv.org/abs/2306.08121)|null|
 |**2023-06-13**|**Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?**|Fan Yao et.al.|[2306.07893](http://arxiv.org/abs/2306.07893)|null|
 |**2023-06-13**|**Topic-Centric Explanations for News Recommendation**|Dairui Liu et.al.|[2306.07506](http://arxiv.org/abs/2306.07506)|**[link](https://github.com/ruixinhua/explainednrs)**|
