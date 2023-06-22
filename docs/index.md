@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,6 +1295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**|Linyao Yang et.al.|[2306.11489](http://arxiv.org/abs/2306.11489)|null|
+|**2023-06-20**|**UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction**|Yansong Ning et.al.|[2306.11443](http://arxiv.org/abs/2306.11443)|**[link](https://github.com/usail-hkust/uukg)**|
+|**2023-06-19**|**BioREx: Improving Biomedical Relation Extraction by Leveraging Heterogeneous Datasets**|Po-Ting Lai et.al.|[2306.11189](http://arxiv.org/abs/2306.11189)|**[link](https://github.com/ncbi/biorex)**|
+|**2023-06-19**|**Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting**|Xinli Yu et.al.|[2306.11025](http://arxiv.org/abs/2306.11025)|null|
+|**2023-06-19**|**Tourist Attractions Recommendation based on Attention Knowledge Graph Convolution Network**|Ahmad A. Mubarak et.al.|[2306.10946](http://arxiv.org/abs/2306.10946)|null|
+|**2023-06-19**|**Fine-tuning Large Enterprise Language Models via Ontological Reasoning**|Teodoro Baldazzi et.al.|[2306.10723](http://arxiv.org/abs/2306.10723)|null|
+|**2023-06-18**|**CompanyKG: A Large-Scale Heterogeneous Graph for Company Similarity Quantification**|Lele Cao et.al.|[2306.10649](http://arxiv.org/abs/2306.10649)|**[link](https://github.com/eqtpartners/companykg)**|
+|**2023-06-17**|**Query2GMM: Learning Representation with Gaussian Mixture Model for Reasoning over Knowledge Graphs**|Yuhan Wu et.al.|[2306.10367](http://arxiv.org/abs/2306.10367)|null|
+|**2023-06-17**|**Do as I can, not as I get: Topology-aware multi-hop reasoning on multi-modal knowledge graphs**|Shangfei Zheng et.al.|[2306.10345](http://arxiv.org/abs/2306.10345)|null|
+|**2023-06-17**|**DsMtGCN: A Direction-sensitive Multi-task framework for Knowledge Graph Completion**|Jining Wang et.al.|[2306.10290](http://arxiv.org/abs/2306.10290)|null|
 |**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
 |**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519](http://arxiv.org/abs/2306.09519)|null|
 |**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482](http://arxiv.org/abs/2306.09482)|null|
@@ -1531,6 +1541,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**CAPRI: Context-Aware Interpretable Point-of-Interest Recommendation Framework**|Ali Tourani et.al.|[2306.11395](http://arxiv.org/abs/2306.11395)|**[link](https://github.com/caprirecsys/capri)**|
+|**2023-06-20**|**Less Can Be More: Exploring Population Rating Dispositions with Partitioned Models in Recommender Systems**|Ruixuan Sun et.al.|[2306.11279](http://arxiv.org/abs/2306.11279)|null|
+|**2023-06-20**|**Hybrid Multi-Criteria Preference Ranking by Subsorting**|Yong Zheng et.al.|[2306.11233](http://arxiv.org/abs/2306.11233)|null|
+|**2023-06-19**|**OpenP5: Benchmarking Foundation Models for Recommendation**|Shuyuan Xu et.al.|[2306.11134](http://arxiv.org/abs/2306.11134)|**[link](https://github.com/agiresearch/openp5)**|
+|**2023-06-19**|**Tourist Attractions Recommendation based on Attention Knowledge Graph Convolution Network**|Ahmad A. Mubarak et.al.|[2306.10946](http://arxiv.org/abs/2306.10946)|null|
+|**2023-06-19**|**Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models**|Yunjia Xi et.al.|[2306.10933](http://arxiv.org/abs/2306.10933)|null|
+|**2023-06-19**|**MB-HGCN: A Hierarchical Graph Convolutional Network for Multi-behavior Recommendation**|Mingshi Yan et.al.|[2306.10679](http://arxiv.org/abs/2306.10679)|null|
 |**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
 |**2023-06-15**|**Graph Extraction for Assisting Crash Simulation Data Analysis**|Anahita Pakiman et.al.|[2306.09538](http://arxiv.org/abs/2306.09538)|null|
 |**2023-06-15**|**Fast and Examination-agnostic Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2306.09060](http://arxiv.org/abs/2306.09060)|null|
