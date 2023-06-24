@@ -25,7 +25,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-22**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
-|**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|null|
+|**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|**[link](https://github.com/liseda-lab/seek)**|
 |**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
 |**2023-06-21**|**ICAR, a categorical framework to connect vulnerability, threat and asset managements**|Arnaud Valence et.al.|[2306.12240](http://arxiv.org/abs/2306.12240)|null|
 |**2023-06-20**|**Agreeing and Disagreeing in Collaborative Knowledge Graph Construction: An Analysis of Wikidata**|Elisavet Koutsiana et.al.|[2306.11766](http://arxiv.org/abs/2306.11766)|null|
@@ -1566,7 +1566,7 @@
 |**2023-06-22**|**Data augmentation for recommender system: A semi-supervised approach using maximum margin matrix factorization**|Shamal Shaikh et.al.|[2306.13050](http://arxiv.org/abs/2306.13050)|null|
 |**2023-06-22**|**Don't Treat the Symptom, Find the Cause! Efficient Artificial-Intelligence Methods for (Interactive) Debugging**|Patrick Rodler et.al.|[2306.12850](http://arxiv.org/abs/2306.12850)|null|
 |**2023-06-22**|**AI could create a perfect storm of climate misinformation**|Victor Galaz et.al.|[2306.12807](http://arxiv.org/abs/2306.12807)|null|
-|**2023-06-22**|**HypeRS: Building a Hypergraph-driven ensemble Recommender System**|Alireza Gharahighehi et.al.|[2306.12800](http://arxiv.org/abs/2306.12800)|null|
+|**2023-06-22**|**HypeRS: Building a Hypergraph-driven ensemble Recommender System**|Alireza Gharahighehi et.al.|[2306.12800](http://arxiv.org/abs/2306.12800)|**[link](https://github.com/alirezagharahi/ensemble_hypergraph)**|
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
 |**2023-06-21**|**Knowledge-based Multimodal Music Similarity**|Andrea Poltronieri et.al.|[2306.12249](http://arxiv.org/abs/2306.12249)|null|
 |**2023-06-21**|**STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation**|Wanda Li et.al.|[2306.12232](http://arxiv.org/abs/2306.12232)|null|
