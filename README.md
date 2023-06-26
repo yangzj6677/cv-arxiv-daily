@@ -85,7 +85,7 @@
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
 |**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208](http://arxiv.org/abs/2305.17208)|null|
-|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|**[link](https://github.com/nustm/cpnc)**|
 |**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
 |**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
@@ -1626,7 +1626,7 @@
 |**2023-06-05**|**RecAgent: A Novel Simulation Paradigm for Recommender Systems**|Lei Wang et.al.|[2306.02552](http://arxiv.org/abs/2306.02552)|**[link](https://github.com/ruc-gsai/yulan-rec)**|
 |**2023-06-04**|**Graph Transformer for Recommendation**|Chaoliu Li et.al.|[2306.02330](http://arxiv.org/abs/2306.02330)|**[link](https://github.com/hkuds/gformer)**|
 |**2023-06-04**|**Large Language Model Augmented Narrative Driven Recommendations**|Sheshera Mysore et.al.|[2306.02250](http://arxiv.org/abs/2306.02250)|null|
-|**2023-06-06**|**Generative Flow Network for Listwise Recommendation**|Shuchang Liu et.al.|[2306.02239](http://arxiv.org/abs/2306.02239)|null|
+|**2023-06-06**|**Generative Flow Network for Listwise Recommendation**|Shuchang Liu et.al.|[2306.02239](http://arxiv.org/abs/2306.02239)|**[link](https://github.com/charliemat/gfn4rec)**|
 |**2023-06-02**|**A Survey on Explainability of Graph Neural Networks**|Jaykumar Kakkad et.al.|[2306.01958](http://arxiv.org/abs/2306.01958)|null|
 |**2023-06-02**|**Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation**|Jianling Wang et.al.|[2306.01720](http://arxiv.org/abs/2306.01720)|null|
 |**2023-06-02**|**Système de recommandations basé sur les contraintes pour les simulations de gestion de crise**|Ngoc Luyen Le et.al.|[2306.01504](http://arxiv.org/abs/2306.01504)|null|
@@ -1643,7 +1643,7 @@
 |**2023-05-31**|**Handling Large Discrete Action Spaces via Dynamic Neighborhood Construction**|Fabian Akkerman et.al.|[2305.19891](http://arxiv.org/abs/2305.19891)|**[link](https://github.com/tumbais/dynamicneighborhoodconstruction)**|
 |**2023-06-01**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860](http://arxiv.org/abs/2305.19860)|**[link](https://github.com/wlik/llm4rec)**|
 |**2023-06-01**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885](http://arxiv.org/abs/2305.18885)|**[link](https://github.com/jindeok/cpa-lgc-recbole)**|
-|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|null|
+|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|**[link](https://github.com/melfm/sasrec-ccql)**|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
 |**2023-05-28**|**Optimizing Airbnb Search Journey with Multi-task Learning**|Chun How Tan et.al.|[2305.18431](http://arxiv.org/abs/2305.18431)|null|
 |**2023-05-28**|**Pure Spectral Graph Embeddings: Reinterpreting Graph Convolution for Top-N Recommendation**|Edoardo D'Amico et.al.|[2305.18374](http://arxiv.org/abs/2305.18374)|**[link](https://github.com/damicoedoardo/psge)**|
