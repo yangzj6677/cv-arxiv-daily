@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,7 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-22**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
+|**2023-06-23**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
 |**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|**[link](https://github.com/liseda-lab/seek)**|
 |**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
 |**2023-06-21**|**ICAR, a categorical framework to connect vulnerability, threat and asset managements**|Arnaud Valence et.al.|[2306.12240](http://arxiv.org/abs/2306.12240)|null|
