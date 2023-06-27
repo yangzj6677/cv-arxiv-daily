@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1297,7 +1297,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-23**|**Knowledge-Infused Self Attention Transformers**|Kaushik Roy et.al.|[2306.13501](http://arxiv.org/abs/2306.13501)|null|
 |**2023-06-23**|**Mutually Guided Few-shot Learning for Relational Triple Extraction**|Chengmei Yang et.al.|[2306.13310](http://arxiv.org/abs/2306.13310)|**[link](https://github.com/ycm094/mg-fte-main)**|
-|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186](http://arxiv.org/abs/2306.13186)|null|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186](http://arxiv.org/abs/2306.13186)|**[link](https://github.com/data-engineering-and-semantics/openkgbiblio)**|
 |**2023-06-23**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|**[link](https://github.com/ibm/otter-knowledge)**|
 |**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|**[link](https://github.com/liseda-lab/seek)**|
 |**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
@@ -1551,7 +1551,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-22**|**Data augmentation for recommender system: A semi-supervised approach using maximum margin matrix factorization**|Shamal Shaikh et.al.|[2306.13050](http://arxiv.org/abs/2306.13050)|null|
 |**2023-06-22**|**Don't Treat the Symptom, Find the Cause! Efficient Artificial-Intelligence Methods for (Interactive) Debugging**|Patrick Rodler et.al.|[2306.12850](http://arxiv.org/abs/2306.12850)|null|
-|**2023-06-22**|**AI could create a perfect storm of climate misinformation**|Victor Galaz et.al.|[2306.12807](http://arxiv.org/abs/2306.12807)|null|
+|**2023-06-26**|**AI could create a perfect storm of climate misinformation**|Victor Galaz et.al.|[2306.12807](http://arxiv.org/abs/2306.12807)|null|
 |**2023-06-22**|**HypeRS: Building a Hypergraph-driven ensemble Recommender System**|Alireza Gharahighehi et.al.|[2306.12800](http://arxiv.org/abs/2306.12800)|**[link](https://github.com/alirezagharahi/ensemble_hypergraph)**|
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
 |**2023-06-21**|**Knowledge-based Multimodal Music Similarity**|Andrea Poltronieri et.al.|[2306.12249](http://arxiv.org/abs/2306.12249)|null|
