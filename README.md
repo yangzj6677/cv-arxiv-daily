@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**TransERR: Translation-based Knowledge Graph Completion via Efficient Relation Rotation**|Jiang Li et.al.|[2306.14580](http://arxiv.org/abs/2306.14580)|**[link](https://github.com/dellixx/transerr)**|
+|**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470](http://arxiv.org/abs/2306.14470)|null|
+|**2023-06-24**|**IERL: Interpretable Ensemble Representation Learning -- Combining CrowdSourced Knowledge and Distributed Semantic Representations**|Yuxin Zi et.al.|[2306.13865](http://arxiv.org/abs/2306.13865)|null|
+|**2023-06-24**|**DEKGCI: A double-sided recommendation model for integrating knowledge graph and user-item interaction graph**|Yajing Yang et.al.|[2306.13837](http://arxiv.org/abs/2306.13837)|null|
 |**2023-06-23**|**Knowledge-Infused Self Attention Transformers**|Kaushik Roy et.al.|[2306.13501](http://arxiv.org/abs/2306.13501)|null|
 |**2023-06-23**|**Mutually Guided Few-shot Learning for Relational Triple Extraction**|Chengmei Yang et.al.|[2306.13310](http://arxiv.org/abs/2306.13310)|**[link](https://github.com/ycm094/mg-fte-main)**|
 |**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186](http://arxiv.org/abs/2306.13186)|**[link](https://github.com/data-engineering-and-semantics/openkgbiblio)**|
@@ -1566,6 +1570,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Scalable Neural Contextual Bandit for Recommender Systems**|Zheqing Zhu et.al.|[2306.14834](http://arxiv.org/abs/2306.14834)|null|
+|**2023-06-26**|**Reciprocal Sequential Recommendation**|Bowen Zheng et.al.|[2306.14712](http://arxiv.org/abs/2306.14712)|**[link](https://github.com/rucaibox/reseq)**|
+|**2023-06-26**|**Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation**|Yuwei Cao et.al.|[2306.14462](http://arxiv.org/abs/2306.14462)|**[link](https://github.com/yuweicao-uic/coldgpt)**|
+|**2023-06-24**|**Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles**|Paul Tarau et.al.|[2306.14077](http://arxiv.org/abs/2306.14077)|**[link](https://github.com/ptarau/recursors)**|
+|**2023-06-24**|**Cross-domain Recommender Systems via Multimodal Domain Adaptation**|Ramya Kamani et.al.|[2306.13887](http://arxiv.org/abs/2306.13887)|null|
+|**2023-06-24**|**DEKGCI: A double-sided recommendation model for integrating knowledge graph and user-item interaction graph**|Yajing Yang et.al.|[2306.13837](http://arxiv.org/abs/2306.13837)|null|
+|**2023-06-23**|**Review of compressed embedding layers and their applications for recommender systems**|Tamas Hajgato et.al.|[2306.13724](http://arxiv.org/abs/2306.13724)|null|
 |**2023-06-22**|**Data augmentation for recommender system: A semi-supervised approach using maximum margin matrix factorization**|Shamal Shaikh et.al.|[2306.13050](http://arxiv.org/abs/2306.13050)|null|
 |**2023-06-22**|**Don't Treat the Symptom, Find the Cause! Efficient Artificial-Intelligence Methods for (Interactive) Debugging**|Patrick Rodler et.al.|[2306.12850](http://arxiv.org/abs/2306.12850)|null|
 |**2023-06-26**|**AI could create a perfect storm of climate misinformation**|Victor Galaz et.al.|[2306.12807](http://arxiv.org/abs/2306.12807)|null|
