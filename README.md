@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
+|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
+|**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946](http://arxiv.org/abs/2306.15946)|null|
 |**2023-06-26**|**TransERR: Translation-based Knowledge Graph Completion via Efficient Relation Rotation**|Jiang Li et.al.|[2306.14580](http://arxiv.org/abs/2306.14580)|**[link](https://github.com/dellixx/transerr)**|
 |**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470](http://arxiv.org/abs/2306.14470)|null|
 |**2023-06-24**|**IERL: Interpretable Ensemble Representation Learning -- Combining CrowdSourced Knowledge and Distributed Semantic Representations**|Yuxin Zi et.al.|[2306.13865](http://arxiv.org/abs/2306.13865)|null|
@@ -1570,6 +1573,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**MyDigitalFootprint: an extensive context dataset for pervasive computing applications at the edge**|Mattia Giovanni Campana et.al.|[2306.15990](http://arxiv.org/abs/2306.15990)|**[link](https://github.com/contextkit/mydigitalfootprint)**|
+|**2023-06-28**|**Disentangled Variational Auto-encoder Enhanced by Counterfactual Data for Debiasing Recommendation**|Yupu Guo et.al.|[2306.15961](http://arxiv.org/abs/2306.15961)|null|
+|**2023-06-28**|**Blockwise Feature Interaction in Recommendation Systems**|Weijie Zhao et.al.|[2306.15881](http://arxiv.org/abs/2306.15881)|null|
 |**2023-06-26**|**Scalable Neural Contextual Bandit for Recommender Systems**|Zheqing Zhu et.al.|[2306.14834](http://arxiv.org/abs/2306.14834)|null|
 |**2023-06-26**|**Reciprocal Sequential Recommendation**|Bowen Zheng et.al.|[2306.14712](http://arxiv.org/abs/2306.14712)|**[link](https://github.com/rucaibox/reseq)**|
 |**2023-06-26**|**Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation**|Yuwei Cao et.al.|[2306.14462](http://arxiv.org/abs/2306.14462)|**[link](https://github.com/yuweicao-uic/coldgpt)**|
