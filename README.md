@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**An end-to-end framework for gene expression classification by integrating a background knowledge graph: application to cancer prognosis prediction**|Kazuma Inoue et.al.|[2306.17202](http://arxiv.org/abs/2306.17202)|null|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034](http://arxiv.org/abs/2306.17034)|null|
 |**2023-06-29**|**Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2306.16791](http://arxiv.org/abs/2306.16791)|**[link](https://github.com/okarras/empire-analysis)**|
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
@@ -1575,6 +1576,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework**|Yang Zhang et.al.|[2306.17426](http://arxiv.org/abs/2306.17426)|null|
+|**2023-06-29**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256](http://arxiv.org/abs/2306.17256)|null|
 |**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916](http://arxiv.org/abs/2306.16916)|**[link](https://github.com/sighellan/syne-tune)**|
 |**2023-06-26**|**A Food Recommender System in Academic Environments Based on Machine Learning Models**|Abolfazl Ajami et.al.|[2306.16528](http://arxiv.org/abs/2306.16528)|null|
 |**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526](http://arxiv.org/abs/2306.16526)|null|
