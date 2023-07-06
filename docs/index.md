@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243](http://arxiv.org/abs/2307.02243)|null|
+|**2023-07-05**|**Combating Confirmation Bias: A Unified Pseudo-Labeling Framework for Entity Alignment**|Qijie Ding et.al.|[2307.02075](http://arxiv.org/abs/2307.02075)|null|
+|**2023-07-04**|**Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**|Zijie Huang et.al.|[2307.01933](http://arxiv.org/abs/2307.01933)|null|
+|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|null|
+|**2023-07-04**|**Knowledge Graph for NLG in the context of conversational agents**|Hussam Ghanem et.al.|[2307.01548](http://arxiv.org/abs/2307.01548)|null|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128](http://arxiv.org/abs/2307.01128)|null|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|null|
 |**2023-07-02**|**Semi-automated Thermal Envelope Model Setup for Adaptive Model Predictive Control with Event-triggered System Identification**|Lu Wan et.al.|[2307.00638](http://arxiv.org/abs/2307.00638)|null|
@@ -1564,6 +1569,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**An Equivalent Graph Reconstruction Model and its Application in Recommendation Prediction**|Guangrui Yang et.al.|[2307.02183](http://arxiv.org/abs/2307.02183)|null|
+|**2023-07-05**|**Generative Job Recommendations with Large Language Model**|Zhi Zheng et.al.|[2307.02157](http://arxiv.org/abs/2307.02157)|null|
+|**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
+|**2023-07-04**|**Understanding User Behavior in Carousel Recommendation Systems for Click Modeling and Learning to Rank**|Santiago de Leon-Martinez et.al.|[2307.01866](http://arxiv.org/abs/2307.01866)|null|
+|**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782](http://arxiv.org/abs/2307.01782)|null|
+|**2023-07-04**|**Web3Recommend: Decentralised recommendations with trust and relevance**|Rohan Madhwal et.al.|[2307.01411](http://arxiv.org/abs/2307.01411)|null|
+|**2023-07-02**|**Filter Bubbles in Recommender Systems: Fact or Fallacy -- A Systematic Review**|Qazi Mohammad Areeb et.al.|[2307.01221](http://arxiv.org/abs/2307.01221)|null|
 |**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000](http://arxiv.org/abs/2307.01000)|null|
 |**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654](http://arxiv.org/abs/2307.00654)|null|
 |**2023-07-04**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|**[link](https://github.com/rutgerswiselab/genrec)**|
