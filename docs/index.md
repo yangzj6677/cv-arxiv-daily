@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.05
+## Updated on 2023.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1566,10 +1566,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000](http://arxiv.org/abs/2307.01000)|null|
 |**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654](http://arxiv.org/abs/2307.00654)|null|
-|**2023-07-02**|**Text based Large Language Model for Recommendation**|Jianchao Ji et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
+|**2023-07-04**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|**[link](https://github.com/rutgerswiselab/genrec)**|
 |**2023-06-30**|**Counterfactual Collaborative Reasoning**|Jianchao Ji et.al.|[2307.00165](http://arxiv.org/abs/2307.00165)|null|
 |**2023-06-30**|**Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework**|Yang Zhang et.al.|[2306.17426](http://arxiv.org/abs/2306.17426)|null|
-|**2023-06-29**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256](http://arxiv.org/abs/2306.17256)|null|
+|**2023-07-05**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256](http://arxiv.org/abs/2306.17256)|**[link](https://github.com/jacksonwuxs/promptrec)**|
 |**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916](http://arxiv.org/abs/2306.16916)|**[link](https://github.com/sighellan/syne-tune)**|
 |**2023-06-26**|**A Food Recommender System in Academic Environments Based on Machine Learning Models**|Abolfazl Ajami et.al.|[2306.16528](http://arxiv.org/abs/2306.16528)|null|
 |**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526](http://arxiv.org/abs/2306.16526)|null|
