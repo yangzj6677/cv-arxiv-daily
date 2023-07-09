@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.08
+## Updated on 2023.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1580,7 +1580,7 @@ layout: default
 |**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-04**|**Understanding User Behavior in Carousel Recommendation Systems for Click Modeling and Learning to Rank**|Santiago de Leon-Martinez et.al.|[2307.01866](http://arxiv.org/abs/2307.01866)|null|
 |**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782](http://arxiv.org/abs/2307.01782)|null|
-|**2023-07-04**|**Web3Recommend: Decentralised recommendations with trust and relevance**|Rohan Madhwal et.al.|[2307.01411](http://arxiv.org/abs/2307.01411)|null|
+|**2023-07-04**|**Web3Recommend: Decentralised recommendations with trust and relevance**|Rohan Madhwal et.al.|[2307.01411](http://arxiv.org/abs/2307.01411)|**[link](https://github.com/rmadhwal/trustchain-superapp)**|
 |**2023-07-02**|**Filter Bubbles in Recommender Systems: Fact or Fallacy -- A Systematic Review**|Qazi Mohammad Areeb et.al.|[2307.01221](http://arxiv.org/abs/2307.01221)|null|
 |**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000](http://arxiv.org/abs/2307.01000)|null|
 |**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654](http://arxiv.org/abs/2307.00654)|null|
