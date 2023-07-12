@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
+|**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772](http://arxiv.org/abs/2307.04772)|null|
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514](http://arxiv.org/abs/2307.04514)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461](http://arxiv.org/abs/2307.04461)|null|
 |**2023-07-09**|**DebateKG: Automatic Policy Debate Case Creation with Semantic Knowledge Graphs**|Allen Roush et.al.|[2307.04090](http://arxiv.org/abs/2307.04090)|**[link](https://github.com/hellisotherpeople/debatekg)**|
@@ -1575,6 +1577,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469](http://arxiv.org/abs/2307.05469)|null|
+|**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036](http://arxiv.org/abs/2307.05036)|**[link](https://github.com/hanzo2020/gnnlr)**|
+|**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
+|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|null|
 |**2023-07-10**|**Fairness and Diversity in Recommender Systems: A Survey**|Yuying Zhao et.al.|[2307.04644](http://arxiv.org/abs/2307.04644)|null|
 |**2023-07-10**|**Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation**|Chongming Gao et.al.|[2307.04571](http://arxiv.org/abs/2307.04571)|**[link](https://github.com/chongminggao/dorl-codes)**|
 |**2023-07-10**|**Causal Neural Graph Collaborative Filtering**|Xiangmeng Wang et.al.|[2307.04384](http://arxiv.org/abs/2307.04384)|null|
