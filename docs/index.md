@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
+|**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727](http://arxiv.org/abs/2307.05727)|null|
+|**2023-07-11**|**Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion**|Chen Chen et.al.|[2307.05627](http://arxiv.org/abs/2307.05627)|null|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
 |**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772](http://arxiv.org/abs/2307.04772)|null|
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514](http://arxiv.org/abs/2307.04514)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
@@ -1577,6 +1581,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722](http://arxiv.org/abs/2307.05722)|null|
 |**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469](http://arxiv.org/abs/2307.05469)|null|
 |**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036](http://arxiv.org/abs/2307.05036)|**[link](https://github.com/hanzo2020/gnnlr)**|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
