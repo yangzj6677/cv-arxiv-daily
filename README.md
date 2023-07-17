@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
+|**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
 |**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|null|
 |**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
@@ -1600,6 +1603,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**|Qi-Wei Wang et.al.|[2307.07509](http://arxiv.org/abs/2307.07509)|null|
+|**2023-07-13**|**NS4AR: A new, focused on sampling areas sampling method in graphical recommendation Systems**|Xiangqi Wang et.al.|[2307.07321](http://arxiv.org/abs/2307.07321)|null|
+|**2023-07-14**|**Hybrid moderation in the newsroom: Recommending featured posts to content moderators**|Cedric Waterschoot et.al.|[2307.07317](http://arxiv.org/abs/2307.07317)|null|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576](http://arxiv.org/abs/2307.06576)|**[link](https://github.com/tinyrolls/glory)**|
 |**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722](http://arxiv.org/abs/2307.05722)|null|
 |**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469](http://arxiv.org/abs/2307.05469)|null|
