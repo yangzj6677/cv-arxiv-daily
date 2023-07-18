@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
+|**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
+|**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
+|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|null|
+|**2023-07-15**|**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph**|Jiashuo Sun et.al.|[2307.07697](http://arxiv.org/abs/2307.07697)|null|
 |**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
 |**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
 |**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
@@ -1603,6 +1608,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669](http://arxiv.org/abs/2307.08669)|null|
+|**2023-07-17**|**Measuring Item Global Residual Value for Fair Recommendation**|Jiayin Wang et.al.|[2307.08259](http://arxiv.org/abs/2307.08259)|**[link](https://github.com/alice1998/tafr)**|
+|**2023-07-15**|**AIOptimizer -- A reinforcement learning-based software performance optimisation prototype for cost minimisation**|Noopur Zambare et.al.|[2307.07846](http://arxiv.org/abs/2307.07846)|null|
+|**2023-07-15**|**Opinion mining using Double Channel CNN for Recommender System**|Minoo Sayyadpour et.al.|[2307.07798](http://arxiv.org/abs/2307.07798)|null|
 |**2023-07-14**|**Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**|Qi-Wei Wang et.al.|[2307.07509](http://arxiv.org/abs/2307.07509)|null|
 |**2023-07-13**|**NS4AR: A new, focused on sampling areas sampling method in graphical recommendation Systems**|Xiangqi Wang et.al.|[2307.07321](http://arxiv.org/abs/2307.07321)|null|
 |**2023-07-14**|**Hybrid moderation in the newsroom: Recommending featured posts to content moderators**|Cedric Waterschoot et.al.|[2307.07317](http://arxiv.org/abs/2307.07317)|null|
