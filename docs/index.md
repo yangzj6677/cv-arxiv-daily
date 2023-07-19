@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1591,7 +1591,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-17**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669](http://arxiv.org/abs/2307.08669)|null|
+|**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447](http://arxiv.org/abs/2307.09447)|null|
+|**2023-07-18**|**ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint**|Zhenhao Jiang et.al.|[2307.09193](http://arxiv.org/abs/2307.09193)|null|
+|**2023-07-17**|**An Admissible Shift-Consistent Method for Recommender Systems**|Tung Nguyen et.al.|[2307.08857](http://arxiv.org/abs/2307.08857)|null|
+|**2023-07-17**|**Imposing Consistency Properties on Blackbox Systems with Applications to SVD-Based Recommender Systems**|Tung Nguyen et.al.|[2307.08760](http://arxiv.org/abs/2307.08760)|null|
+|**2023-07-18**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669](http://arxiv.org/abs/2307.08669)|null|
 |**2023-07-17**|**Measuring Item Global Residual Value for Fair Recommendation**|Jiayin Wang et.al.|[2307.08259](http://arxiv.org/abs/2307.08259)|**[link](https://github.com/alice1998/tafr)**|
 |**2023-07-15**|**AIOptimizer -- A reinforcement learning-based software performance optimisation prototype for cost minimisation**|Noopur Zambare et.al.|[2307.07846](http://arxiv.org/abs/2307.07846)|null|
 |**2023-07-15**|**Opinion mining using Double Channel CNN for Recommender System**|Minoo Sayyadpour et.al.|[2307.07798](http://arxiv.org/abs/2307.07798)|null|
