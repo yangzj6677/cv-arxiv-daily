@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1594,7 +1594,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-19**|**Modeling Rabbit-Holes on YouTube**|Erwan Le Merrer et.al.|[2307.09986](http://arxiv.org/abs/2307.09986)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985](http://arxiv.org/abs/2307.09985)|null|
-|**2023-07-19**|**Impatient Bandits: Optimizing for the Long-Term Without Delay**|Thomas McDonald et.al.|[2307.09943](http://arxiv.org/abs/2307.09943)|null|
+|**2023-07-20**|**Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay**|Thomas M. McDonald et.al.|[2307.09943](http://arxiv.org/abs/2307.09943)|**[link](https://github.com/spotify-research/impatient-bandits)**|
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447](http://arxiv.org/abs/2307.09447)|null|
 |**2023-07-18**|**ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint**|Zhenhao Jiang et.al.|[2307.09193](http://arxiv.org/abs/2307.09193)|null|
 |**2023-07-17**|**An Admissible Shift-Consistent Method for Recommender Systems**|Tung Nguyen et.al.|[2307.08857](http://arxiv.org/abs/2307.08857)|null|
