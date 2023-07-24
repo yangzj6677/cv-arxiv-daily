@@ -54,7 +54,7 @@
 |**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243](http://arxiv.org/abs/2307.02243)|null|
 |**2023-07-05**|**Combating Confirmation Bias: A Unified Pseudo-Labeling Framework for Entity Alignment**|Qijie Ding et.al.|[2307.02075](http://arxiv.org/abs/2307.02075)|null|
 |**2023-07-04**|**Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**|Zijie Huang et.al.|[2307.01933](http://arxiv.org/abs/2307.01933)|null|
-|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|null|
+|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|**[link](https://github.com/chenchens190009/csprom-kg)**|
 |**2023-07-04**|**Knowledge Graph for NLG in the context of conversational agents**|Hussam Ghanem et.al.|[2307.01548](http://arxiv.org/abs/2307.01548)|null|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128](http://arxiv.org/abs/2307.01128)|null|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|null|
@@ -1444,7 +1444,7 @@
 |**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520v1](http://arxiv.org/abs/2301.11520v1)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
 |**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941v1](http://arxiv.org/abs/2301.10941v1)|null|
-|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
+|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|**[link](https://github.com/Caoang327/HexPlane)**|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
 |**2023-01-19**|**RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|[2301.07958v1](http://arxiv.org/abs/2301.07958v1)|null|
@@ -1857,7 +1857,7 @@
 |**2023-05-03**|**CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**|Mann Khatri et.al.|[2305.03508](http://arxiv.org/abs/2305.03508)|null|
 |**2023-05-04**|**Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching**|Tim Kaler et.al.|[2305.03152](http://arxiv.org/abs/2305.03152)|**[link](https://github.com/mitibmxgraph/salient_plusplus_artifact)**|
 |**2023-05-04**|**Weighted Tallying Bandits: Overcoming Intractability via Repeated Exposure Optimality**|Dhruv Malik et.al.|[2305.02955](http://arxiv.org/abs/2305.02955)|null|
-|**2023-05-03**|**Maximizing Submodular Functions for Recommendation in the Presence of Biases**|Anay Mehrotra et.al.|[2305.02806](http://arxiv.org/abs/2305.02806)|null|
+|**2023-05-03**|**Maximizing Submodular Functions for Recommendation in the Presence of Biases**|Anay Mehrotra et.al.|[2305.02806](http://arxiv.org/abs/2305.02806)|**[link](https://github.com/anaymehrotra/submodular-maximization-in-the-presence-of-biases)**|
 |**2023-05-04**|**Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning**|Sen Zhao1 et.al.|[2305.02575](http://arxiv.org/abs/2305.02575)|null|
 |**2023-05-03**|**Uncovering ChatGPT's Capabilities in Recommender Systems**|Sunhao Dai et.al.|[2305.02182](http://arxiv.org/abs/2305.02182)|**[link](https://github.com/rainym00d/llm4rs)**|
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915](http://arxiv.org/abs/2305.01915)|null|
@@ -1913,7 +1913,7 @@
 |**2023-04-11**|**A Data Set of Generalizable Python Code Change Patterns**|Akalanka Galappaththi et.al.|[2304.04983](http://arxiv.org/abs/2304.04983)|null|
 |**2023-04-17**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
 |**2023-04-11**|**Robust Dequantization of the Quantum Singular value Transformation and Quantum Machine Learning Algorithms**|François Le Gall et.al.|[2304.04932](http://arxiv.org/abs/2304.04932)|null|
-|**2023-04-09**|**Editable User Profiles for Controllable Text Recommendation**|Sheshera Mysore et.al.|[2304.04250](http://arxiv.org/abs/2304.04250)|null|
+|**2023-04-09**|**Editable User Profiles for Controllable Text Recommendation**|Sheshera Mysore et.al.|[2304.04250](http://arxiv.org/abs/2304.04250)|**[link](https://github.com/iesl/editable_user_profiles-lace)**|
 |**2023-04-09**|**Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation**|Lei Guo et.al.|[2304.04218](http://arxiv.org/abs/2304.04218)|null|
 |**2023-04-08**|**No Code AI: Automatic generation of Function Block Diagrams from documentation and associated heuristic for context-aware ML algorithm training**|Oluwatosin Ogundare et.al.|[2304.04117](http://arxiv.org/abs/2304.04117)|null|
 |**2023-04-08**|**A Recommender System Approach for Very Large-scale Multiobjective Optimization**|Haokai Hong et.al.|[2304.04067](http://arxiv.org/abs/2304.04067)|null|
