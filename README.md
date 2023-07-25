@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
+|**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
+|**2023-07-22**|**Named Entity Resolution in Personal Knowledge Graphs**|Mayank Kejriwal et.al.|[2307.12173](http://arxiv.org/abs/2307.12173)|null|
+|**2023-07-22**|**Fast Knowledge Graph Completion using Graphics Processing Units**|Chun-Hee Lee et.al.|[2307.12059](http://arxiv.org/abs/2307.12059)|null|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719](http://arxiv.org/abs/2307.11719)|null|
 |**2023-07-24**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|null|
 |**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346](http://arxiv.org/abs/2307.11346)|null|
@@ -1617,6 +1621,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Visual Analytics for Understanding Draco's Knowledge Base**|Johanna Schmidt et.al.|[2307.12866](http://arxiv.org/abs/2307.12866)|null|
+|**2023-07-24**|**HeteFedRec: Federated Recommender Systems with Model Heterogeneity**|Wei Yuan et.al.|[2307.12810](http://arxiv.org/abs/2307.12810)|null|
+|**2023-07-24**|**DEPHN: Different Expression Parallel Heterogeneous Network using virtual gradient optimization for Multi-task Learning**|Menglin Kong et.al.|[2307.12519](http://arxiv.org/abs/2307.12519)|null|
+|**2023-07-23**|**Interface Design to Mitigate Inflation in Recommender Systems**|Rana Shahout et.al.|[2307.12424](http://arxiv.org/abs/2307.12424)|null|
+|**2023-07-23**|**Scalable solution to crossed random effects model with random slopes**|Disha Ghandwani et.al.|[2307.12378](http://arxiv.org/abs/2307.12378)|null|
+|**2023-07-22**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034](http://arxiv.org/abs/2307.12034)|null|
+|**2023-07-22**|**XWalk: Random Walk Based Candidate Retrieval for Product Search**|Jon Eskreis-Winkler et.al.|[2307.12019](http://arxiv.org/abs/2307.12019)|null|
+|**2023-07-22**|**HTP: Exploiting Holistic Temporal Patterns for Sequential Recommendation**|Chen Rui et.al.|[2307.11994](http://arxiv.org/abs/2307.11994)|**[link](https://github.com/623851394/htp)**|
 |**2023-07-21**|**Bandits with Deterministically Evolving States**|Khashayar Khosravi et.al.|[2307.11655](http://arxiv.org/abs/2307.11655)|null|
 |**2023-07-21**|**Alleviating the Long-Tail Problem in Conversational Recommender Systems**|Zhipeng Zhao et.al.|[2307.11650](http://arxiv.org/abs/2307.11650)|null|
 |**2023-07-21**|**A First Look at Fairness of Machine Learning Based Code Reviewer Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298](http://arxiv.org/abs/2307.11298)|null|
