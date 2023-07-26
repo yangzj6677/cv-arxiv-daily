@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
 |**2023-07-22**|**Named Entity Resolution in Personal Knowledge Graphs**|Mayank Kejriwal et.al.|[2307.12173](http://arxiv.org/abs/2307.12173)|null|
@@ -1604,10 +1605,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning**|Roger Zhe Li et.al.|[2307.13632](http://arxiv.org/abs/2307.13632)|**[link](https://github.com/roger-zhe-li/ictir23-cost-sensitive)**|
+|**2023-07-25**|**Argument Attribution Explanations in Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2307.13582](http://arxiv.org/abs/2307.13582)|null|
+|**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
 |**2023-07-24**|**Visual Analytics for Understanding Draco's Knowledge Base**|Johanna Schmidt et.al.|[2307.12866](http://arxiv.org/abs/2307.12866)|null|
 |**2023-07-24**|**HeteFedRec: Federated Recommender Systems with Model Heterogeneity**|Wei Yuan et.al.|[2307.12810](http://arxiv.org/abs/2307.12810)|null|
 |**2023-07-24**|**DEPHN: Different Expression Parallel Heterogeneous Network using virtual gradient optimization for Multi-task Learning**|Menglin Kong et.al.|[2307.12519](http://arxiv.org/abs/2307.12519)|null|
-|**2023-07-23**|**Interface Design to Mitigate Inflation in Recommender Systems**|Rana Shahout et.al.|[2307.12424](http://arxiv.org/abs/2307.12424)|null|
+|**2023-07-23**|**Interface Design to Mitigate Inflation in Recommender Systems**|Rana Shahout et.al.|[2307.12424](http://arxiv.org/abs/2307.12424)|**[link](https://github.com/sstoikov/piki-music-dataset)**|
 |**2023-07-23**|**Scalable solution to crossed random effects model with random slopes**|Disha Ghandwani et.al.|[2307.12378](http://arxiv.org/abs/2307.12378)|null|
 |**2023-07-22**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034](http://arxiv.org/abs/2307.12034)|null|
 |**2023-07-22**|**XWalk: Random Walk Based Candidate Retrieval for Product Search**|Jon Eskreis-Winkler et.al.|[2307.12019](http://arxiv.org/abs/2307.12019)|null|
