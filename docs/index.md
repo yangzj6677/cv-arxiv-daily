@@ -1605,6 +1605,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**ChatGPT and Persuasive Technologies for the Management and Delivery of Personalized Recommendations in Hotel Hospitality**|Manolis Remountakis et.al.|[2307.14298](http://arxiv.org/abs/2307.14298)|null|
+|**2023-07-26**|**Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences**|Scott Sanner et.al.|[2307.14225](http://arxiv.org/abs/2307.14225)|null|
+|**2023-07-26**|**A Probabilistic Position Bias Model for Short-Video Recommendation Feeds**|Olivier Jeunen et.al.|[2307.14059](http://arxiv.org/abs/2307.14059)|**[link](https://github.com/olivierjeunen/c-3po-recsys-2023)**|
+|**2023-07-26**|**Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation**|Sen Zhao et.al.|[2307.14024](http://arxiv.org/abs/2307.14024)|null|
+|**2023-07-26**|**Human Culture: A History Irrelevant and Predictable Experience**|Hao Wang et.al.|[2307.13882](http://arxiv.org/abs/2307.13882)|null|
+|**2023-07-25**|**The GANfather: Controllable generation of malicious activity to improve defence systems**|Ricardo Ribeiro Pereira et.al.|[2307.13787](http://arxiv.org/abs/2307.13787)|null|
+|**2023-07-25**|**ClusterSeq: Enhancing Sequential Recommender Systems with Clustering based Meta-Learning**|Mohammmadmahdi Maheri et.al.|[2307.13766](http://arxiv.org/abs/2307.13766)|null|
 |**2023-07-25**|**Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning**|Roger Zhe Li et.al.|[2307.13632](http://arxiv.org/abs/2307.13632)|**[link](https://github.com/roger-zhe-li/ictir23-cost-sensitive)**|
 |**2023-07-25**|**Argument Attribution Explanations in Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2307.13582](http://arxiv.org/abs/2307.13582)|null|
 |**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
