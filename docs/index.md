@@ -1605,6 +1605,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956](http://arxiv.org/abs/2307.14956)|null|
+|**2023-07-27**|**Widespread Flaws in Offline Evaluation of Recommender Systems**|Balázs Hidasi et.al.|[2307.14951](http://arxiv.org/abs/2307.14951)|**[link](https://github.com/hidasib/recsys_eval_flaws)**|
+|**2023-07-27**|**Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions**|Timo Wilm et.al.|[2307.14906](http://arxiv.org/abs/2307.14906)|**[link](https://github.com/otto-de/tron)**|
+|**2023-07-27**|**How to Train Your YouTube Recommender**|Alexander Liu et.al.|[2307.14551](http://arxiv.org/abs/2307.14551)|null|
+|**2023-07-27**|**Adversarial Sleeping Bandit Problems with Multiple Plays: Algorithm and Ranking Application**|Jianjun Yuan et.al.|[2307.14549](http://arxiv.org/abs/2307.14549)|null|
 |**2023-07-26**|**ChatGPT and Persuasive Technologies for the Management and Delivery of Personalized Recommendations in Hotel Hospitality**|Manolis Remountakis et.al.|[2307.14298](http://arxiv.org/abs/2307.14298)|null|
 |**2023-07-26**|**Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences**|Scott Sanner et.al.|[2307.14225](http://arxiv.org/abs/2307.14225)|null|
 |**2023-07-26**|**A Probabilistic Position Bias Model for Short-Video Recommendation Feeds**|Olivier Jeunen et.al.|[2307.14059](http://arxiv.org/abs/2307.14059)|**[link](https://github.com/olivierjeunen/c-3po-recsys-2023)**|
