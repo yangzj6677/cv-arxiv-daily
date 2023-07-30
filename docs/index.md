@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.29
+## Updated on 2023.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1605,7 +1605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956](http://arxiv.org/abs/2307.14956)|**[link](https://github.com/hidasib/gru4rec_third_party_comparison)**|
+|**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956](http://arxiv.org/abs/2307.14956)|**[link](https://github.com/hidasib/gru4rec_pytorch_official)**|
 |**2023-07-27**|**Widespread Flaws in Offline Evaluation of Recommender Systems**|Balázs Hidasi et.al.|[2307.14951](http://arxiv.org/abs/2307.14951)|**[link](https://github.com/hidasib/recsys_eval_flaws)**|
 |**2023-07-27**|**Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions**|Timo Wilm et.al.|[2307.14906](http://arxiv.org/abs/2307.14906)|**[link](https://github.com/otto-de/tron)**|
 |**2023-07-27**|**How to Train Your YouTube Recommender**|Alexander Liu et.al.|[2307.14551](http://arxiv.org/abs/2307.14551)|null|
