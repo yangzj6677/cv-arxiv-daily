@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663](http://arxiv.org/abs/2307.16663)|null|
+|**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659](http://arxiv.org/abs/2307.16659)|null|
+|**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214](http://arxiv.org/abs/2307.16214)|**[link](https://github.com/omrivm/uncle-bert)**|
+|**2023-07-30**|**Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment**|Zhuo Chen et.al.|[2307.16210](http://arxiv.org/abs/2307.16210)|**[link](https://github.com/zjukg/umaea)**|
+|**2023-07-30**|**Around the GLOBE: Numerical Aggregation Question-Answering on Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208](http://arxiv.org/abs/2307.16208)|null|
+|**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206](http://arxiv.org/abs/2307.16206)|**[link](https://github.com/aistairc/virtualhome2kg)**|
+|**2023-07-28**|**Dialogue Shaping: Empowering Agents through NPC Interaction**|Wei Zhou et.al.|[2307.15833](http://arxiv.org/abs/2307.15833)|null|
+|**2023-07-28**|**Select and Augment: Enhanced Dense Retrieval Knowledge Graph Augmentation**|Micheal Abaho et.al.|[2307.15776](http://arxiv.org/abs/2307.15776)|null|
 |**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
@@ -1623,6 +1631,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Metric@CustomerN: Evaluating Metrics at a Customer Level in E-Commerce**|Mayank Singh et.al.|[2307.16832](http://arxiv.org/abs/2307.16832)|null|
+|**2023-07-31**|**The Decimation Scheme for Symmetric Matrix Factorization**|Francesco Camilli et.al.|[2307.16564](http://arxiv.org/abs/2307.16564)|null|
+|**2023-07-29**|**Recommendation Unlearning via Matrix Correction**|Jiahao Liu et.al.|[2307.15960](http://arxiv.org/abs/2307.15960)|null|
+|**2023-07-29**|**Online Matching: A Real-time Bandit System for Large-scale Recommendations**|Xinyang Yi et.al.|[2307.15893](http://arxiv.org/abs/2307.15893)|null|
+|**2023-07-29**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876](http://arxiv.org/abs/2307.15876)|**[link](https://github.com/kefenge2022/graphdac)**|
 |**2023-07-28**|**Improving Social Media Popularity Prediction with Multiple Post Dependencies**|Zhizhen Zhang et.al.|[2307.15413](http://arxiv.org/abs/2307.15413)|null|
 |**2023-07-27**|**Reconciling the accuracy-diversity trade-off in recommendations**|Kenny Peng et.al.|[2307.15142](http://arxiv.org/abs/2307.15142)|null|
 |**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956](http://arxiv.org/abs/2307.14956)|**[link](https://github.com/hidasib/gru4rec_pytorch_official)**|
