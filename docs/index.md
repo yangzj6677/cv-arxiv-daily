@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116](http://arxiv.org/abs/2308.00116)|null|
-|**2023-07-31**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081](http://arxiv.org/abs/2308.00081)|null|
+|**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081](http://arxiv.org/abs/2308.00081)|null|
 |**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663](http://arxiv.org/abs/2307.16663)|null|
 |**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659](http://arxiv.org/abs/2307.16659)|null|
 |**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214](http://arxiv.org/abs/2307.16214)|**[link](https://github.com/omrivm/uncle-bert)**|
@@ -1617,7 +1617,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404](http://arxiv.org/abs/2308.00404)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
-|**2023-07-31**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137](http://arxiv.org/abs/2308.00137)|null|
+|**2023-08-02**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137](http://arxiv.org/abs/2308.00137)|null|
 |**2023-07-31**|**Metric@CustomerN: Evaluating Metrics at a Customer Level in E-Commerce**|Mayank Singh et.al.|[2307.16832](http://arxiv.org/abs/2307.16832)|null|
 |**2023-07-31**|**The Decimation Scheme for Symmetric Matrix Factorization**|Francesco Camilli et.al.|[2307.16564](http://arxiv.org/abs/2307.16564)|null|
 |**2023-07-29**|**Recommendation Unlearning via Matrix Correction**|Jiahao Liu et.al.|[2307.15960](http://arxiv.org/abs/2307.15960)|null|
