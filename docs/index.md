@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105](http://arxiv.org/abs/2308.01105)|null|
 |**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116](http://arxiv.org/abs/2308.00116)|null|
 |**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081](http://arxiv.org/abs/2308.00081)|null|
 |**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663](http://arxiv.org/abs/2307.16663)|null|
@@ -1616,6 +1617,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation**|Ashraf Ghiye et.al.|[2308.01208](http://arxiv.org/abs/2308.01208)|null|
+|**2023-08-02**|**A Survey on Popularity Bias in Recommender Systems**|Anastasiia Klimashevskaia et.al.|[2308.01118](http://arxiv.org/abs/2308.01118)|null|
+|**2023-08-02**|**User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**|Juntao Tan et.al.|[2308.00894](http://arxiv.org/abs/2308.00894)|**[link](https://github.com/chrisjtan/ucr)**|
 |**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404](http://arxiv.org/abs/2308.00404)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
 |**2023-08-02**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137](http://arxiv.org/abs/2308.00137)|null|
 |**2023-07-31**|**Metric@CustomerN: Evaluating Metrics at a Customer Level in E-Commerce**|Mayank Singh et.al.|[2307.16832](http://arxiv.org/abs/2307.16832)|null|
