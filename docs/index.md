@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732](http://arxiv.org/abs/2308.01732)|null|
-|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|null|
+|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105](http://arxiv.org/abs/2308.01105)|null|
 |**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116](http://arxiv.org/abs/2308.00116)|null|
 |**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081](http://arxiv.org/abs/2308.00081)|null|
