@@ -24,8 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
+|**2023-08-07**|**A Polystore Architecture Using Knowledge Graphs to Support Queries on Heterogeneous Data Stores**|Leonardo Guerreiro Azevedo et.al.|[2308.03584](http://arxiv.org/abs/2308.03584)|null|
+|**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447](http://arxiv.org/abs/2308.03447)|**[link](https://github.com/liseda-lab/truewalks)**|
+|**2023-08-07**|**Simple Rule Injection for ComplEx Embeddings**|Haodi Ma et.al.|[2308.03269](http://arxiv.org/abs/2308.03269)|null|
+|**2023-08-06**|**Decision Knowledge Graphs: Construction of and Usage in Question Answering for Clinical Practice Guidelines**|Vasudhan Varma Kandula et.al.|[2308.02984](http://arxiv.org/abs/2308.02984)|null|
+|**2023-08-04**|**Creating Android Malware Knowledge Graph Based on a Malware Ontology**|Ahmed Sabbah et.al.|[2308.02640](http://arxiv.org/abs/2308.02640)|null|
+|**2023-08-04**|**Harnessing the Web and Knowledge Graphs for Automated Impact Investing Scoring**|Qingzhi Hu et.al.|[2308.02622](http://arxiv.org/abs/2308.02622)|null|
 |**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|null|
-|**2023-08-04**|**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text**|Nandana Mihindukulasooriya et.al.|[2308.02357](http://arxiv.org/abs/2308.02357)|null|
+|**2023-08-04**|**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text**|Nandana Mihindukulasooriya et.al.|[2308.02357](http://arxiv.org/abs/2308.02357)|**[link](https://zenodo.org/record/7916716)**|
 |**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732](http://arxiv.org/abs/2308.01732)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105](http://arxiv.org/abs/2308.01105)|null|
@@ -1638,7 +1645,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|null|
+|**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
+|**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470](http://arxiv.org/abs/2308.03470)|null|
+|**2023-08-07**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333](http://arxiv.org/abs/2308.03333)|null|
+|**2023-08-06**|**A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions**|Norman Knyazev et.al.|[2308.03186](http://arxiv.org/abs/2308.03186)|**[link](https://github.com/nkny/confidencerecsys2023)**|
+|**2023-08-06**|**Predicting Group Choices from Group Profiles**|Hanif Emamgholizadeh et.al.|[2308.03083](http://arxiv.org/abs/2308.03083)|null|
+|**2023-08-05**|**ConvFormer: Revisiting Transformer for Sequential User Modeling**|Hao Wang et.al.|[2308.02925](http://arxiv.org/abs/2308.02925)|null|
+|**2023-08-05**|**Disentangled Counterfactual Reasoning for Unbiased Sequential Recommendation**|Yi Ren et.al.|[2308.02900](http://arxiv.org/abs/2308.02900)|null|
+|**2023-08-05**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887](http://arxiv.org/abs/2308.02887)|null|
+|**2023-08-05**|**OBESEYE: Interpretable Diet Recommender for Obesity Management using Machine Learning and Explainable AI**|Mrinmoy Roy et.al.|[2308.02796](http://arxiv.org/abs/2308.02796)|null|
+|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|**[link](https://github.com/maps-research/gemrec)**|
 |**2023-08-04**|**Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness**|Mohit Singhal et.al.|[2308.02129](http://arxiv.org/abs/2308.02129)|null|
 |**2023-08-03**|**Incorporating Recklessness to Collaborative Filtering based Recommender Systems**|Diego Pérez-López et.al.|[2308.02058](http://arxiv.org/abs/2308.02058)|**[link](https://github.com/knodis-research-group/recklessness-regularization)**|
 |**2023-08-03**|**DaphneSched: A Scheduler for Integrated Data Analysis Pipelines**|Ahmed Eleliemy et.al.|[2308.01607](http://arxiv.org/abs/2308.01607)|null|
