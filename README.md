@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
+|**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961](http://arxiv.org/abs/2308.03961)|null|
+|**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929](http://arxiv.org/abs/2308.03929)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
 |**2023-08-07**|**A Polystore Architecture Using Knowledge Graphs to Support Queries on Heterogeneous Data Stores**|Leonardo Guerreiro Azevedo et.al.|[2308.03584](http://arxiv.org/abs/2308.03584)|null|
 |**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447](http://arxiv.org/abs/2308.03447)|**[link](https://github.com/liseda-lab/truewalks)**|
@@ -1645,6 +1648,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247](http://arxiv.org/abs/2308.04247)|null|
+|**2023-08-08**|**Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086](http://arxiv.org/abs/2308.04086)|null|
+|**2023-08-08**|**Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation**|Wei Ji et.al.|[2308.04067](http://arxiv.org/abs/2308.04067)|**[link](https://github.com/xyliugo/odmt)**|
+|**2023-08-07**|**Average Estimates in Line Graphs Are Biased Toward Areas of Higher Variability**|Dominik Moritz et.al.|[2308.03903](http://arxiv.org/abs/2308.03903)|null|
+|**2023-08-07**|**Mobile Supply: The Last Piece of Jigsaw of Recommender System**|Zhenhao Jiang et.al.|[2308.03855](http://arxiv.org/abs/2308.03855)|null|
+|**2023-08-07**|**Search Engine and Recommendation System for the Music Industry built with JinaAI**|Ishita Gopalakrishnan et.al.|[2308.03842](http://arxiv.org/abs/2308.03842)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470](http://arxiv.org/abs/2308.03470)|null|
 |**2023-08-07**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333](http://arxiv.org/abs/2308.03333)|null|
