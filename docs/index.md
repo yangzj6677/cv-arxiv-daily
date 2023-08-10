@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1635,7 +1635,7 @@ layout: default
 |**2023-08-08**|**Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086](http://arxiv.org/abs/2308.04086)|null|
 |**2023-08-08**|**Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation**|Wei Ji et.al.|[2308.04067](http://arxiv.org/abs/2308.04067)|**[link](https://github.com/xyliugo/odmt)**|
 |**2023-08-07**|**Average Estimates in Line Graphs Are Biased Toward Areas of Higher Variability**|Dominik Moritz et.al.|[2308.03903](http://arxiv.org/abs/2308.03903)|null|
-|**2023-08-07**|**Mobile Supply: The Last Piece of Jigsaw of Recommender System**|Zhenhao Jiang et.al.|[2308.03855](http://arxiv.org/abs/2308.03855)|null|
+|**2023-08-09**|**Mobile Supply: The Last Piece of Jigsaw of Recommender System**|Zhenhao Jiang et.al.|[2308.03855](http://arxiv.org/abs/2308.03855)|null|
 |**2023-08-07**|**Search Engine and Recommendation System for the Music Industry built with JinaAI**|Ishita Gopalakrishnan et.al.|[2308.03842](http://arxiv.org/abs/2308.03842)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470](http://arxiv.org/abs/2308.03470)|null|
