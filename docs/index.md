@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**C5: Towards Better Conversation Comprehension and Contextual Continuity for ChatGPT**|Pan Liang et.al.|[2308.05567](http://arxiv.org/abs/2308.05567)|null|
+|**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
@@ -1633,6 +1635,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697](http://arxiv.org/abs/2308.05697)|**[link](https://github.com/hkuds/sslrec)**|
+|**2023-08-09**|**Dupo: A Mixed-Initiative Authoring Tool for Responsive Visualization**|Hyeok Kim et.al.|[2308.05136](http://arxiv.org/abs/2308.05136)|null|
 |**2023-08-09**|**Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction**|Yunfeng Zhao et.al.|[2308.04768](http://arxiv.org/abs/2308.04768)|null|
 |**2023-08-09**|**Unified Matrix Factorization with Dynamic Multi-view Clustering**|Shangde Gao et.al.|[2308.04661](http://arxiv.org/abs/2308.04661)|null|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
