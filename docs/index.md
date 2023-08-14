@@ -1110,7 +1110,7 @@ layout: default
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231](http://arxiv.org/abs/2302.12231)|**[link](https://github.com/nianticlabs/diffusionerf)**|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109](http://arxiv.org/abs/2302.10109)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
-|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788](http://arxiv.org/abs/2302.08788)|null|
+|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788](http://arxiv.org/abs/2302.08788)|**[link](https://github.com/shawn615/MixNeRF)**|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
@@ -1162,7 +1162,7 @@ layout: default
 |**2022-12-07**|**SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields**|Siddhant Ranade et.al.|[2212.03406v1](http://arxiv.org/abs/2212.03406v1)|null|
 |**2022-12-06**|**NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors**|Congyue Deng et.al.|[2212.03267v1](http://arxiv.org/abs/2212.03267v1)|null|
 |**2022-12-05**|**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**|Anh-Quan Cao et.al.|[2212.02501v1](http://arxiv.org/abs/2212.02501v1)|**[link](https://github.com/astra-vision/SceneRF)**|
-|**2022-12-05**|**Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields**|Rohith Agaram et.al.|[2212.02493v1](http://arxiv.org/abs/2212.02493v1)|null|
+|**2022-12-05**|**Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields**|Rohith Agaram et.al.|[2212.02493v1](http://arxiv.org/abs/2212.02493v1)|**[link](https://github.com/brown-ivl/Cafi-Net)**|
 |**2022-12-06**|**D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**|Hankyu Jang et.al.|[2212.02375v2](http://arxiv.org/abs/2212.02375v2)|null|
 |**2022-12-07**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280v2](http://arxiv.org/abs/2212.02280v2)|null|
 |**2022-12-05**|**INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**|Chaojian Li et.al.|[2212.01959v1](http://arxiv.org/abs/2212.01959v1)|null|
@@ -1309,7 +1309,7 @@ layout: default
 |**2023-08-06**|**Decision Knowledge Graphs: Construction of and Usage in Question Answering for Clinical Practice Guidelines**|Vasudhan Varma Kandula et.al.|[2308.02984](http://arxiv.org/abs/2308.02984)|null|
 |**2023-08-04**|**Creating Android Malware Knowledge Graph Based on a Malware Ontology**|Ahmed Sabbah et.al.|[2308.02640](http://arxiv.org/abs/2308.02640)|null|
 |**2023-08-04**|**Harnessing the Web and Knowledge Graphs for Automated Impact Investing Scoring**|Qingzhi Hu et.al.|[2308.02622](http://arxiv.org/abs/2308.02622)|null|
-|**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|null|
+|**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|**[link](https://github.com/jiapuwang/awesome-tkgc)**|
 |**2023-08-04**|**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text**|Nandana Mihindukulasooriya et.al.|[2308.02357](http://arxiv.org/abs/2308.02357)|**[link](https://zenodo.org/record/7916716)**|
 |**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732](http://arxiv.org/abs/2308.01732)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
@@ -1656,7 +1656,7 @@ layout: default
 |**2023-08-05**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887](http://arxiv.org/abs/2308.02887)|null|
 |**2023-08-05**|**OBESEYE: Interpretable Diet Recommender for Obesity Management using Machine Learning and Explainable AI**|Mrinmoy Roy et.al.|[2308.02796](http://arxiv.org/abs/2308.02796)|null|
 |**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|**[link](https://github.com/maps-research/gemrec)**|
-|**2023-08-04**|**Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness**|Mohit Singhal et.al.|[2308.02129](http://arxiv.org/abs/2308.02129)|null|
+|**2023-08-04**|**Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness**|Mohit Singhal et.al.|[2308.02129](http://arxiv.org/abs/2308.02129)|**[link](https://github.com/msinghal10/yelp-unfairness)**|
 |**2023-08-03**|**Incorporating Recklessness to Collaborative Filtering based Recommender Systems**|Diego Pérez-López et.al.|[2308.02058](http://arxiv.org/abs/2308.02058)|**[link](https://github.com/knodis-research-group/recklessness-regularization)**|
 |**2023-08-03**|**DaphneSched: A Scheduler for Integrated Data Analysis Pipelines**|Ahmed Eleliemy et.al.|[2308.01607](http://arxiv.org/abs/2308.01607)|null|
 |**2023-08-03**|**Fast Slate Policy Optimization: Going Beyond Plackett-Luce**|Otmane Sakhi et.al.|[2308.01566](http://arxiv.org/abs/2308.01566)|null|
