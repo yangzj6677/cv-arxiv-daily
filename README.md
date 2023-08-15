@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
+|**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
+|**2023-08-12**|**Approximate Answering of Graph Queries**|Michael Cochez et.al.|[2308.06585](http://arxiv.org/abs/2308.06585)|null|
+|**2023-08-12**|**HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion**|Zhiwei Hu et.al.|[2308.06512](http://arxiv.org/abs/2308.06512)|**[link](https://github.com/zhiweihu1103/hkgc-hyperformer)**|
+|**2023-08-12**|**Generating Faithful Text From a Knowledge Graph with Noisy Reference Text**|Tahsina Hashem et.al.|[2308.06488](http://arxiv.org/abs/2308.06488)|null|
+|**2023-08-11**|**Large Language Models and Knowledge Graphs: Opportunities and Challenges**|Jeff Z. Pan et.al.|[2308.06374](http://arxiv.org/abs/2308.06374)|null|
 |**2023-08-10**|**C5: Towards Better Conversation Comprehension and Contextual Continuity for ChatGPT**|Pan Liang et.al.|[2308.05567](http://arxiv.org/abs/2308.05567)|null|
 |**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
@@ -1652,6 +1659,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Cross-Attribute Matrix Factorization Model with Shared User Embedding**|Wen Liang et.al.|[2308.07284](http://arxiv.org/abs/2308.07284)|null|
+|**2023-08-14**|**MM-GEF: Multi-modal representation meet collaborative filtering**|Hao Wu et.al.|[2308.07222](http://arxiv.org/abs/2308.07222)|null|
+|**2023-08-14**|**Large Language Models for Information Retrieval: A Survey**|Yutao Zhu et.al.|[2308.07107](http://arxiv.org/abs/2308.07107)|**[link](https://github.com/ruc-nlpir/llm4ir-survey)**|
+|**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
+|**2023-08-14**|**AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation**|Ziru Liu et.al.|[2308.06965](http://arxiv.org/abs/2308.06965)|null|
+|**2023-08-14**|**Bridging Offline-Online Evaluation with a Time-dependent and Popularity Bias-free Offline Metric for Recommenders**|Petr Kasalický et.al.|[2308.06885](http://arxiv.org/abs/2308.06885)|null|
+|**2023-08-12**|**Human Behavior-based Personalized Meal Recommendation and Menu Planning Social System**|Tanvir Islam et.al.|[2308.06549](http://arxiv.org/abs/2308.06549)|null|
+|**2023-08-11**|**Topic-Level Bayesian Surprise and Serendipity for Recommender Systems**|Tonmoy Hasan et.al.|[2308.06368](http://arxiv.org/abs/2308.06368)|**[link](https://github.com/ton-moy/surprise-and-serendipity)**|
 |**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212](http://arxiv.org/abs/2308.06212)|null|
 |**2023-08-14**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111](http://arxiv.org/abs/2308.06111)|null|
 |**2023-08-11**|**Toward a Better Understanding of Loss Functions for Collaborative Filtering**|Seongmin Park et.al.|[2308.06091](http://arxiv.org/abs/2308.06091)|**[link](https://github.com/psm1206/mawu)**|
