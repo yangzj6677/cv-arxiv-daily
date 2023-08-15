@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1636,14 +1636,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212](http://arxiv.org/abs/2308.06212)|null|
-|**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111](http://arxiv.org/abs/2308.06111)|null|
+|**2023-08-14**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111](http://arxiv.org/abs/2308.06111)|null|
 |**2023-08-11**|**Toward a Better Understanding of Loss Functions for Collaborative Filtering**|Seongmin Park et.al.|[2308.06091](http://arxiv.org/abs/2308.06091)|**[link](https://github.com/psm1206/mawu)**|
 |**2023-08-11**|**Deep Task-specific Bottom Representation Network for Multi-Task Recommendation**|Qi Liu et.al.|[2308.05996](http://arxiv.org/abs/2308.05996)|null|
-|**2023-08-11**|**LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops**|Chen Xu et.al.|[2308.05902](http://arxiv.org/abs/2308.05902)|null|
+|**2023-08-11**|**LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops**|Chen Xu et.al.|[2308.05902](http://arxiv.org/abs/2308.05902)|**[link](https://github.com/xuchen0427/ltp-mmf)**|
 |**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697](http://arxiv.org/abs/2308.05697)|**[link](https://github.com/hkuds/sslrec)**|
 |**2023-08-09**|**Dupo: A Mixed-Initiative Authoring Tool for Responsive Visualization**|Hyeok Kim et.al.|[2308.05136](http://arxiv.org/abs/2308.05136)|null|
 |**2023-08-09**|**Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction**|Yunfeng Zhao et.al.|[2308.04768](http://arxiv.org/abs/2308.04768)|null|
-|**2023-08-09**|**Unified Matrix Factorization with Dynamic Multi-view Clustering**|Shangde Gao et.al.|[2308.04661](http://arxiv.org/abs/2308.04661)|null|
+|**2023-08-13**|**Unified Matrix Factorization with Dynamic Multi-view Clustering**|Shangde Gao et.al.|[2308.04661](http://arxiv.org/abs/2308.04661)|null|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
 |**2023-08-08**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247](http://arxiv.org/abs/2308.04247)|null|
 |**2023-08-08**|**Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086](http://arxiv.org/abs/2308.04086)|null|
