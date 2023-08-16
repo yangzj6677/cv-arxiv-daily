@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1644,7 +1644,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-14**|**Cross-Attribute Matrix Factorization Model with Shared User Embedding**|Wen Liang et.al.|[2308.07284](http://arxiv.org/abs/2308.07284)|null|
 |**2023-08-14**|**MM-GEF: Multi-modal representation meet collaborative filtering**|Hao Wu et.al.|[2308.07222](http://arxiv.org/abs/2308.07222)|null|
-|**2023-08-14**|**Large Language Models for Information Retrieval: A Survey**|Yutao Zhu et.al.|[2308.07107](http://arxiv.org/abs/2308.07107)|**[link](https://github.com/ruc-nlpir/llm4ir-survey)**|
+|**2023-08-15**|**Large Language Models for Information Retrieval: A Survey**|Yutao Zhu et.al.|[2308.07107](http://arxiv.org/abs/2308.07107)|**[link](https://github.com/ruc-nlpir/llm4ir-survey)**|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
 |**2023-08-14**|**AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation**|Ziru Liu et.al.|[2308.06965](http://arxiv.org/abs/2308.06965)|null|
 |**2023-08-14**|**Bridging Offline-Online Evaluation with a Time-dependent and Popularity Bias-free Offline Metric for Recommenders**|Petr Kasalický et.al.|[2308.06885](http://arxiv.org/abs/2308.06885)|null|
