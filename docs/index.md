@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1647,7 +1647,7 @@ layout: default
 |**2023-08-15**|**Impression-Aware Recommender Systems**|Fernando B. Pérez Maurera et.al.|[2308.07857](http://arxiv.org/abs/2308.07857)|null|
 |**2023-08-15**|**Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System**|Bowei He et.al.|[2308.07760](http://arxiv.org/abs/2308.07760)|null|
 |**2023-08-15**|**Learning from All Sides: Diversified Positive Augmentation via Self-distillation in Recommendation**|Chong Liu et.al.|[2308.07629](http://arxiv.org/abs/2308.07629)|null|
-|**2023-08-14**|**A Survey on Point-of-Interest Recommendations Leveraging Heterogeneous Data**|Zehui Wang et.al.|[2308.07426](http://arxiv.org/abs/2308.07426)|null|
+|**2023-08-16**|**A Survey on Point-of-Interest Recommendations Leveraging Heterogeneous Data**|Zehui Wang et.al.|[2308.07426](http://arxiv.org/abs/2308.07426)|null|
 |**2023-08-14**|**Cross-Attribute Matrix Factorization Model with Shared User Embedding**|Wen Liang et.al.|[2308.07284](http://arxiv.org/abs/2308.07284)|null|
 |**2023-08-14**|**MM-GEF: Multi-modal representation meet collaborative filtering**|Hao Wu et.al.|[2308.07222](http://arxiv.org/abs/2308.07222)|null|
 |**2023-08-15**|**Large Language Models for Information Retrieval: A Survey**|Yutao Zhu et.al.|[2308.07107](http://arxiv.org/abs/2308.07107)|**[link](https://github.com/ruc-nlpir/llm4ir-survey)**|
