@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
+|**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|null|
+|**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
+|**2023-08-14**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942](http://arxiv.org/abs/2308.07942)|null|
 |**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
 |**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
@@ -1644,6 +1648,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Context-Aware Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2308.08499](http://arxiv.org/abs/2308.08499)|null|
+|**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|null|
+|**2023-08-16**|**Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?**|Davide Buffelli et.al.|[2308.08354](http://arxiv.org/abs/2308.08354)|null|
+|**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072](http://arxiv.org/abs/2308.08072)|null|
 |**2023-08-15**|**Impression-Aware Recommender Systems**|Fernando B. Pérez Maurera et.al.|[2308.07857](http://arxiv.org/abs/2308.07857)|null|
 |**2023-08-15**|**Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System**|Bowei He et.al.|[2308.07760](http://arxiv.org/abs/2308.07760)|null|
 |**2023-08-15**|**Learning from All Sides: Diversified Positive Augmentation via Self-distillation in Recommendation**|Chong Liu et.al.|[2308.07629](http://arxiv.org/abs/2308.07629)|null|
