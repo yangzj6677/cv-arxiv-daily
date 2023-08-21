@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
+|**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
+|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
+|**2023-08-15**|**KMF: Knowledge-Aware Multi-Faceted Representation Learning for Zero-Shot Node Classification**|Likang Wu et.al.|[2308.08563](http://arxiv.org/abs/2308.08563)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
@@ -1648,6 +1652,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement**|Yunhak Oh et.al.|[2308.09649](http://arxiv.org/abs/2308.09649)|**[link](https://github.com/yunhak0/muse)**|
+|**2023-08-18**|**ReCon: Reducing Congestion in Job Recommendation using Optimal Transport**|Yoosof Mashayekhi et.al.|[2308.09516](http://arxiv.org/abs/2308.09516)|**[link](https://github.com/aida-ugent/recon)**|
+|**2023-08-18**|**SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems**|Beichuan Zhang et.al.|[2308.09395](http://arxiv.org/abs/2308.09395)|null|
+|**2023-08-18**|**Graph-based Alignment and Uniformity for Recommendation**|Liangwei Yang et.al.|[2308.09292](http://arxiv.org/abs/2308.09292)|**[link](https://github.com/yangliangwei/graphau)**|
+|**2023-08-17**|**A Model-Agnostic Framework for Recommendation via Interest-aware Item Embeddings**|Amit Kumar Jaiswal et.al.|[2308.09202](http://arxiv.org/abs/2308.09202)|null|
+|**2023-08-17**|**Learning the hub graphical Lasso model with the structured sparsity via an efficient algorithm**|Chengjing Wang et.al.|[2308.08852](http://arxiv.org/abs/2308.08852)|null|
+|**2023-08-17**|**Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation**|Jiazheng Jing et.al.|[2308.08799](http://arxiv.org/abs/2308.08799)|**[link](https://github.com/jingxiaoyi/pare)**|
+|**2023-08-16**|**Non-monotone Sequential Submodular Maximization**|Shaojie Tang et.al.|[2308.08641](http://arxiv.org/abs/2308.08641)|null|
+|**2023-08-16**|**Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620](http://arxiv.org/abs/2308.08620)|null|
 |**2023-08-14**|**Context-Aware Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2308.08499](http://arxiv.org/abs/2308.08499)|null|
 |**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
 |**2023-08-16**|**Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?**|Davide Buffelli et.al.|[2308.08354](http://arxiv.org/abs/2308.08354)|null|
