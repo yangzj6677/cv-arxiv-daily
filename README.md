@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
+|**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
+|**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
+|**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
+|**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|null|
 |**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
 |**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
@@ -1669,6 +1674,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Leveraging Large Language Models for Pre-trained Recommender Systems**|Zhixuan Chu et.al.|[2308.10837](http://arxiv.org/abs/2308.10837)|null|
+|**2023-08-21**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835](http://arxiv.org/abs/2308.10835)|null|
+|**2023-08-21**|**A Topology-aware Analysis of Graph Collaborative Filtering**|Daniele Malitesta et.al.|[2308.10778](http://arxiv.org/abs/2308.10778)|**[link](https://github.com/sisinflab/graph-characteristics)**|
+|**2023-08-21**|**Contrastive Graph Prompt-tuning for Cross-domain Recommendation**|Zixuan Yi et.al.|[2308.10685](http://arxiv.org/abs/2308.10685)|null|
+|**2023-08-21**|**Single-User Injection for Invisible Shilling Attack against Recommender Systems**|Chengzhi Huang et.al.|[2308.10467](http://arxiv.org/abs/2308.10467)|null|
+|**2023-08-21**|**Causally estimating the effect of YouTube's recommender system using counterfactual bots**|Homa Hosseinmardi et.al.|[2308.10398](http://arxiv.org/abs/2308.10398)|null|
+|**2023-08-19**|**Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2308.09966](http://arxiv.org/abs/2308.09966)|null|
+|**2023-08-19**|**printf: Preference Modeling Based on User Reviews with Item Images and Textual Information via Graph Learning**|Hao-Lun Lin et.al.|[2308.09943](http://arxiv.org/abs/2308.09943)|null|
+|**2023-08-19**|**RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models**|Yubo Shu et.al.|[2308.09904](http://arxiv.org/abs/2308.09904)|null|
 |**2023-08-18**|**MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement**|Yunhak Oh et.al.|[2308.09649](http://arxiv.org/abs/2308.09649)|**[link](https://github.com/yunhak0/muse)**|
 |**2023-08-18**|**ReCon: Reducing Congestion in Job Recommendation using Optimal Transport**|Yoosof Mashayekhi et.al.|[2308.09516](http://arxiv.org/abs/2308.09516)|**[link](https://github.com/aida-ugent/recon)**|
 |**2023-08-18**|**SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems**|Beichuan Zhang et.al.|[2308.09395](http://arxiv.org/abs/2308.09395)|null|
