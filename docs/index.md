@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1299,7 +1299,7 @@ layout: default
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
 |**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
 |**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
-|**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|null|
+|**2023-08-22**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|null|
 |**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
 |**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
