@@ -1661,6 +1661,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis**|Daniele Malitesta et.al.|[2308.12911](http://arxiv.org/abs/2308.12911)|**[link](https://github.com/sisinflab/multimod-popularity-bias)**|
+|**2023-08-24**|**Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation**|Xin Xia et.al.|[2308.12777](http://arxiv.org/abs/2308.12777)|null|
+|**2023-08-24**|**On the Consistency of Average Embeddings for Item Recommendation**|Walid Bendada et.al.|[2308.12767](http://arxiv.org/abs/2308.12767)|null|
+|**2023-08-24**|**Video Recommendation Using Social Network Analysis and User Viewing Patterns**|Mehrdad Maghsoudi et.al.|[2308.12743](http://arxiv.org/abs/2308.12743)|null|
+|**2023-08-24**|**Privacy engineering through obfuscation**|Ero Balsa et.al.|[2308.12514](http://arxiv.org/abs/2308.12514)|null|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256](http://arxiv.org/abs/2308.12256)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241](http://arxiv.org/abs/2308.12241)|**[link](https://github.com/williamliujl/llmrec)**|
 |**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095](http://arxiv.org/abs/2308.12095)|null|
