@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
+|**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433](http://arxiv.org/abs/2308.13433)|null|
+|**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
+|**2023-08-23**|**An approach based on Open Research Knowledge Graph for Knowledge Acquisition from scientific papers**|Azanzi Jiomekong et.al.|[2308.12981](http://arxiv.org/abs/2308.12981)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
@@ -1678,6 +1682,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts**|Racquel Fygenson et.al.|[2308.13321](http://arxiv.org/abs/2308.13321)|null|
+|**2023-08-25**|**Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System**|Yunzhu Pan et.al.|[2308.13249](http://arxiv.org/abs/2308.13249)|null|
+|**2023-08-25**|**Model-free Reinforcement Learning with Stochastic Reward Stabilization for Recommender Systems**|Tianchi Cai et.al.|[2308.13246](http://arxiv.org/abs/2308.13246)|null|
+|**2023-08-25**|**MMBAttn: Max-Mean and Bit-wise Attention for CTR Prediction**|Hasan Saribas et.al.|[2308.13187](http://arxiv.org/abs/2308.13187)|null|
+|**2023-08-24**|**A Heuristic Approach for Dual Expert/End-User Evaluation of Guidance in Visual Analytics**|Davide Ceneda et.al.|[2308.13052](http://arxiv.org/abs/2308.13052)|null|
+|**2023-08-24**|**Multi-BERT for Embeddings for Recommendation System**|Shashidhar Reddy Javaji et.al.|[2308.13050](http://arxiv.org/abs/2308.13050)|null|
 |**2023-08-24**|**On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis**|Daniele Malitesta et.al.|[2308.12911](http://arxiv.org/abs/2308.12911)|**[link](https://github.com/sisinflab/multimod-popularity-bias)**|
 |**2023-08-24**|**Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation**|Xin Xia et.al.|[2308.12777](http://arxiv.org/abs/2308.12777)|null|
 |**2023-08-24**|**On the Consistency of Average Embeddings for Item Recommendation**|Walid Bendada et.al.|[2308.12767](http://arxiv.org/abs/2308.12767)|null|
