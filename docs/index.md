@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1668,7 +1668,7 @@ layout: default
 |**2023-08-24**|**Privacy engineering through obfuscation**|Ero Balsa et.al.|[2308.12514](http://arxiv.org/abs/2308.12514)|null|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256](http://arxiv.org/abs/2308.12256)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241](http://arxiv.org/abs/2308.12241)|**[link](https://github.com/williamliujl/llmrec)**|
-|**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095](http://arxiv.org/abs/2308.12095)|null|
+|**2023-08-25**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095](http://arxiv.org/abs/2308.12095)|null|
 |**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083](http://arxiv.org/abs/2308.12083)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Economic Recommender Systems -- A Systematic Review**|Alvise De Biasio et.al.|[2308.11998](http://arxiv.org/abs/2308.11998)|null|
