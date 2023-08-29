@@ -24,6 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659](http://arxiv.org/abs/2308.14659)|null|
+|**2023-08-28**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521](http://arxiv.org/abs/2308.14521)|**[link](https://github.com/nmerkle/sw_journal)**|
+|**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429](http://arxiv.org/abs/2308.14429)|null|
+|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|null|
+|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321](http://arxiv.org/abs/2308.14321)|null|
+|**2023-08-27**|**Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact**|Xin Luna Dong et.al.|[2308.14217](http://arxiv.org/abs/2308.14217)|null|
+|**2023-08-26**|**Exploring Large Language Models for Knowledge Graph Completion**|Liang Yao et.al.|[2308.13916](http://arxiv.org/abs/2308.13916)|**[link](https://github.com/yao8839836/kg-llm)**|
+|**2023-08-26**|**i-Align: an interpretable knowledge graph alignment model**|Bayu Distiawan Trisedya et.al.|[2308.13755](http://arxiv.org/abs/2308.13755)|null|
+|**2023-08-25**|**Rethinking Language Models as Symbolic Knowledge Graphs**|Vishwas Mruthyunjaya et.al.|[2308.13676](http://arxiv.org/abs/2308.13676)|null|
 |**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
 |**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433](http://arxiv.org/abs/2308.13433)|null|
 |**2023-08-28**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
@@ -1682,6 +1691,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music Discovery**|Rebecca Salganik et.al.|[2308.14601](http://arxiv.org/abs/2308.14601)|null|
+|**2023-08-27**|**Only Encode Once: Making Content-based News Recommender Greener**|Qijiong Liu et.al.|[2308.14155](http://arxiv.org/abs/2308.14155)|null|
+|**2023-08-27**|**CTR is not Enough: a Novel Reinforcement Learning based Ranking Approach for Optimizing Session Clicks**|Shaowei Liu et.al.|[2308.14056](http://arxiv.org/abs/2308.14056)|null|
+|**2023-08-27**|**Text Matching Improves Sequential Recommendation by Reducing Popularity Biases**|Zhenghao Liu et.al.|[2308.14029](http://arxiv.org/abs/2308.14029)|**[link](https://github.com/openmatch/taste)**|
+|**2023-08-26**|**ResyDuo: Combining data models and CF-based recommender systems to develop Arduino projects**|Juri Di Rocco et.al.|[2308.13808](http://arxiv.org/abs/2308.13808)|null|
 |**2023-08-25**|**The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts**|Racquel Fygenson et.al.|[2308.13321](http://arxiv.org/abs/2308.13321)|null|
 |**2023-08-25**|**Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System**|Yunzhu Pan et.al.|[2308.13249](http://arxiv.org/abs/2308.13249)|null|
 |**2023-08-25**|**Model-free Reinforcement Learning with Stochastic Reward Stabilization for Recommender Systems**|Tianchi Cai et.al.|[2308.13246](http://arxiv.org/abs/2308.13246)|null|
