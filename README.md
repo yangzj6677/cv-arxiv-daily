@@ -24,10 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
+|**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
+|**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047](http://arxiv.org/abs/2308.15047)|null|
+|**2023-08-29**|**Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation**|Yi Xu et.al.|[2308.15002](http://arxiv.org/abs/2308.15002)|null|
 |**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659](http://arxiv.org/abs/2308.14659)|null|
 |**2023-08-28**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521](http://arxiv.org/abs/2308.14521)|**[link](https://github.com/nmerkle/sw_journal)**|
 |**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429](http://arxiv.org/abs/2308.14429)|null|
-|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|null|
+|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|**[link](https://github.com/fudandisc/disc-medllm)**|
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321](http://arxiv.org/abs/2308.14321)|null|
 |**2023-08-27**|**Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact**|Xin Luna Dong et.al.|[2308.14217](http://arxiv.org/abs/2308.14217)|null|
 |**2023-08-26**|**Exploring Large Language Models for Knowledge Graph Completion**|Liang Yao et.al.|[2308.13916](http://arxiv.org/abs/2308.13916)|**[link](https://github.com/yao8839836/kg-llm)**|
@@ -1691,6 +1696,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders**|Bjørnar Vassøy et.al.|[2308.15230](http://arxiv.org/abs/2308.15230)|**[link](https://github.com/bjornarvass/fair-vae-rec)**|
+|**2023-08-29**|**CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs**|Hiroyuki Ootomo et.al.|[2308.15136](http://arxiv.org/abs/2308.15136)|null|
+|**2023-08-29**|**STEC: See-Through Transformer-based Encoder for CTR Prediction**|Serdarcan Dilbaz et.al.|[2308.15033](http://arxiv.org/abs/2308.15033)|null|
+|**2023-08-28**|**RecRec: Algorithmic Recourse for Recommender Systems**|Sahil Verma et.al.|[2308.14916](http://arxiv.org/abs/2308.14916)|null|
 |**2023-08-28**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music Discovery**|Rebecca Salganik et.al.|[2308.14601](http://arxiv.org/abs/2308.14601)|null|
 |**2023-08-27**|**Only Encode Once: Making Content-based News Recommender Greener**|Qijiong Liu et.al.|[2308.14155](http://arxiv.org/abs/2308.14155)|null|
 |**2023-08-27**|**CTR is not Enough: a Novel Reinforcement Learning based Ranking Approach for Optimizing Session Clicks**|Shaowei Liu et.al.|[2308.14056](http://arxiv.org/abs/2308.14056)|null|
