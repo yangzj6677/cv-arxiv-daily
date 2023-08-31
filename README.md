@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
+|**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
+|**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
+|**2023-08-30**|**A Logic Programming Approach to Global Logistics in a Co-Design Environment**|Emmanuelle Dietz et.al.|[2308.15892](http://arxiv.org/abs/2308.15892)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|null|
 |**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
 |**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
@@ -1696,6 +1702,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980](http://arxiv.org/abs/2308.15980)|**[link](https://github.com/holdenhu/mmsr)**|
+|**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926](http://arxiv.org/abs/2308.15926)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
+|**2023-08-30**|**Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction**|Jun Li et.al.|[2308.15703](http://arxiv.org/abs/2308.15703)|null|
+|**2023-08-30**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701](http://arxiv.org/abs/2308.15701)|null|
+|**2023-08-29**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651](http://arxiv.org/abs/2308.15651)|null|
+|**2023-08-29**|**Everything Perturbed All at Once: Enabling Differentiable Graph Attacks**|Haoran Liu et.al.|[2308.15614](http://arxiv.org/abs/2308.15614)|null|
+|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568](http://arxiv.org/abs/2308.15568)|null|
 |**2023-08-29**|**Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders**|Bjørnar Vassøy et.al.|[2308.15230](http://arxiv.org/abs/2308.15230)|**[link](https://github.com/bjornarvass/fair-vae-rec)**|
 |**2023-08-29**|**CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs**|Hiroyuki Ootomo et.al.|[2308.15136](http://arxiv.org/abs/2308.15136)|null|
 |**2023-08-29**|**STEC: See-Through Transformer-based Encoder for CTR Prediction**|Serdarcan Dilbaz et.al.|[2308.15033](http://arxiv.org/abs/2308.15033)|null|
