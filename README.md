@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
@@ -1702,6 +1703,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774](http://arxiv.org/abs/2308.16774)|null|
+|**2023-08-31**|**Concentrating on the Impact: Consequence-based Explanations in Recommender Systems**|Sebastian Lubos et.al.|[2308.16708](http://arxiv.org/abs/2308.16708)|null|
+|**2023-08-31**|**Context based learning: a survey of contextual indicators for personalized and adaptive learning recommendations. A pedagogical and technical perspective**|Hasan Abu-Rasheed et.al.|[2308.16661](http://arxiv.org/abs/2308.16661)|null|
+|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505](http://arxiv.org/abs/2308.16505)|null|
+|**2023-08-31**|**AntM $^{2}$ C: A Large Scale Dataset For Multi-Scenario Multi-Modal CTR Prediction**|Zhaoxin Huan et.al.|[2308.16437](http://arxiv.org/abs/2308.16437)|null|
 |**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980](http://arxiv.org/abs/2308.15980)|**[link](https://github.com/holdenhu/mmsr)**|
 |**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926](http://arxiv.org/abs/2308.15926)|null|
 |**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
