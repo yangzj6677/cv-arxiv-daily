@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1301,7 +1301,7 @@ layout: default
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
 |**2023-08-30**|**A Logic Programming Approach to Global Logistics in a Co-Design Environment**|Emmanuelle Dietz et.al.|[2308.15892](http://arxiv.org/abs/2308.15892)|null|
 |**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
-|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|**[link](https://github.com/sabsconstantino/emb-comp-aps)**|
 |**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
 |**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
@@ -1689,7 +1689,7 @@ layout: default
 |**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774](http://arxiv.org/abs/2308.16774)|null|
 |**2023-08-31**|**Concentrating on the Impact: Consequence-based Explanations in Recommender Systems**|Sebastian Lubos et.al.|[2308.16708](http://arxiv.org/abs/2308.16708)|null|
 |**2023-08-31**|**Context based learning: a survey of contextual indicators for personalized and adaptive learning recommendations. A pedagogical and technical perspective**|Hasan Abu-Rasheed et.al.|[2308.16661](http://arxiv.org/abs/2308.16661)|null|
-|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505](http://arxiv.org/abs/2308.16505)|null|
+|**2023-09-01**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505](http://arxiv.org/abs/2308.16505)|null|
 |**2023-08-31**|**AntM $^{2}$ C: A Large Scale Dataset For Multi-Scenario Multi-Modal CTR Prediction**|Zhaoxin Huan et.al.|[2308.16437](http://arxiv.org/abs/2308.16437)|null|
 |**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980](http://arxiv.org/abs/2308.15980)|**[link](https://github.com/holdenhu/mmsr)**|
 |**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926](http://arxiv.org/abs/2308.15926)|null|
