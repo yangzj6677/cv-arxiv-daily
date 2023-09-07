@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1695,7 +1695,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-05**|**Fairness of Exposure in Dynamic Recommendation**|Masoud Mansoury et.al.|[2309.02322](http://arxiv.org/abs/2309.02322)|null|
-|**2023-09-05**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|null|
+|**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-09-05**|**Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2309.02052](http://arxiv.org/abs/2309.02052)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
