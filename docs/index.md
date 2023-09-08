@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1696,7 +1696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
+|**2023-09-07**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
 |**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978](http://arxiv.org/abs/2309.02978)|null|
 |**2023-09-05**|**Tidying Up the Conversational Recommender Systems' Biases**|Armin Moradi et.al.|[2309.02550](http://arxiv.org/abs/2309.02550)|null|
 |**2023-09-05**|**Fairness of Exposure in Dynamic Recommendation**|Masoud Mansoury et.al.|[2309.02322](http://arxiv.org/abs/2309.02322)|null|
