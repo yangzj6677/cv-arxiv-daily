@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
-|**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|null|
+|**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
 |**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227](http://arxiv.org/abs/2309.03227)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
