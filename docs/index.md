@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
@@ -1700,6 +1701,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity**|Casper van Engelenburg et.al.|[2309.04357](http://arxiv.org/abs/2309.04357)|null|
+|**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350](http://arxiv.org/abs/2309.04350)|null|
+|**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250](http://arxiv.org/abs/2309.04250)|null|
+|**2023-09-08**|**Offline Recommender System Evaluation under Unobserved Confounding**|Olivier Jeunen et.al.|[2309.04222](http://arxiv.org/abs/2309.04222)|null|
 |**2023-09-07**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808](http://arxiv.org/abs/2309.03808)|null|
 |**2023-09-07**|**VideolandGPT: A User Study on a Conversational Recommender System**|Mateo Gutierrez Granada et.al.|[2309.03645](http://arxiv.org/abs/2309.03645)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613](http://arxiv.org/abs/2309.03613)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
