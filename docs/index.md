@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1703,7 +1703,7 @@ layout: default
 |**2023-09-07**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808](http://arxiv.org/abs/2309.03808)|null|
 |**2023-09-07**|**VideolandGPT: A User Study on a Conversational Recommender System**|Mateo Gutierrez Granada et.al.|[2309.03645](http://arxiv.org/abs/2309.03645)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613](http://arxiv.org/abs/2309.03613)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
-|**2023-09-07**|**Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation**|Xurong Liang et.al.|[2309.03518](http://arxiv.org/abs/2309.03518)|null|
+|**2023-09-08**|**Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation**|Xurong Liang et.al.|[2309.03518](http://arxiv.org/abs/2309.03518)|null|
 |**2023-09-07**|**Behind Recommender Systems: the Geography of the ACM RecSys Community**|Lorenzo Porcaro et.al.|[2309.03512](http://arxiv.org/abs/2309.03512)|null|
 |**2023-09-07**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
 |**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978](http://arxiv.org/abs/2309.02978)|null|
