@@ -1295,13 +1295,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs**|Yide Qiu et.al.|[2309.05269](http://arxiv.org/abs/2309.05269)|**[link](https://github.com/yide-qiu/unikg)**|
+|**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|null|
 |**2023-09-08**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
 |**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227](http://arxiv.org/abs/2309.03227)|**[link](https://github.com/ysjegal/ysjegal-drug-repositioning)**|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
-|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|null|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|**[link](https://gitlab.com/patryk.preisner/mkga)**|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538](http://arxiv.org/abs/2309.01538)|null|
 |**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|null|
@@ -1701,9 +1703,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**A Co-design Study for Multi-Stakeholder Job Recommender System Explanations**|Roan Schellingerhout et.al.|[2309.05507](http://arxiv.org/abs/2309.05507)|**[link](https://github.com/roan-schellingerhout/jrs_explanations)**|
+|**2023-09-11**|**Career Path Recommendations for Long-term Income Maximization: A Reinforcement Learning Approach**|Spyros Avlonitis et.al.|[2309.05391](http://arxiv.org/abs/2309.05391)|null|
+|**2023-09-11**|**Formalizing Multimedia Recommendation through Multimodal Deep Learning**|Daniele Malitesta et.al.|[2309.05273](http://arxiv.org/abs/2309.05273)|**[link](https://github.com/sisinflab/formal-multimod-rec)**|
+|**2023-09-09**|**RecAD: Towards A Unified Library for Recommender Attack and Defense**|Changsheng Wang et.al.|[2309.04884](http://arxiv.org/abs/2309.04884)|**[link](https://github.com/gusye1234/recad)**|
+|**2023-09-09**|**CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802](http://arxiv.org/abs/2309.04802)|**[link](https://github.com/dimarziobian/cpmr)**|
 |**2023-09-08**|**SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity**|Casper van Engelenburg et.al.|[2309.04357](http://arxiv.org/abs/2309.04357)|null|
 |**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350](http://arxiv.org/abs/2309.04350)|null|
-|**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250](http://arxiv.org/abs/2309.04250)|null|
+|**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250](http://arxiv.org/abs/2309.04250)|**[link](https://github.com/rahmanidashti/BeyondAccProvider)**|
 |**2023-09-08**|**Offline Recommender System Evaluation under Unobserved Confounding**|Olivier Jeunen et.al.|[2309.04222](http://arxiv.org/abs/2309.04222)|**[link](https://github.com/olivierjeunen/confounding-consequences-2023)**|
 |**2023-09-10**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808](http://arxiv.org/abs/2309.03808)|null|
 |**2023-09-07**|**VideolandGPT: A User Study on a Conversational Recommender System**|Mateo Gutierrez Granada et.al.|[2309.03645](http://arxiv.org/abs/2309.03645)|null|
