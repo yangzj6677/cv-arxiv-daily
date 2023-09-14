@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Modeling Dislocation Dynamics Data Using Semantic Web Technologies**|Ahmad Zainul Ihsan et.al.|[2309.06930](http://arxiv.org/abs/2309.06930)|null|
+|**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814](http://arxiv.org/abs/2309.06814)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081](http://arxiv.org/abs/2309.06081)|null|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-10**|**Knowledge-based Refinement of Scientific Publication Knowledge Graphs**|Siwen Yan et.al.|[2309.05681](http://arxiv.org/abs/2309.05681)|null|
@@ -1723,6 +1725,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Beyond original Research Articles Categorization via NLP**|Rosanna Turrisi et.al.|[2309.07020](http://arxiv.org/abs/2309.07020)|**[link](https://github.com/rturrisige/textclassification)**|
+|**2023-09-13**|**Résumé Parsing as Hierarchical Sequence Labeling: An Empirical Study**|Federico Retyk et.al.|[2309.07015](http://arxiv.org/abs/2309.07015)|**[link](https://github.com/federetyk/resume-parsing)**|
+|**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912](http://arxiv.org/abs/2309.06912)|null|
+|**2023-09-13**|**An Image Dataset for Benchmarking Recommender Systems with Raw Pixels**|Yu Cheng et.al.|[2309.06789](http://arxiv.org/abs/2309.06789)|**[link](https://github.com/website-pixelrec/pixelrec)**|
+|**2023-09-12**|**Hierarchical Multi-Task Learning Framework for Session-based Recommendations**|Sejoon Oh et.al.|[2309.06533](http://arxiv.org/abs/2309.06533)|null|
 |**2023-09-12**|**C4CAM: A Compiler for CAM-based In-memory Accelerators**|Hamid Farzaneh et.al.|[2309.06418](http://arxiv.org/abs/2309.06418)|null|
 |**2023-09-12**|**Rethinking Evaluation Metric for Probability Estimation Models Using Esports Data**|Euihyeon Choi et.al.|[2309.06248](http://arxiv.org/abs/2309.06248)|null|
 |**2023-09-12**|**Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains**|Alessandra Polimeno et.al.|[2309.06192](http://arxiv.org/abs/2309.06192)|null|
