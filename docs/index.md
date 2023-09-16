@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1712,7 +1712,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-14**|**Choosing a Proxy Metric from Past Experiments**|Nilesh Tripuraneni et.al.|[2309.07893](http://arxiv.org/abs/2309.07893)|null|
-|**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705](http://arxiv.org/abs/2309.07705)|null|
+|**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705](http://arxiv.org/abs/2309.07705)|**[link](https://github.com/anonymous-ninerec/ninerec)**|
 |**2023-09-14**|**A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems**|Chuang Li et.al.|[2309.07682](http://arxiv.org/abs/2309.07682)|**[link](https://github.com/lichuangnus/crs-paper-list)**|
 |**2023-09-14**|**Turning Dross Into Gold Loss: is BERT4Rec really better than SASRec?**|Anton Klenitskiy et.al.|[2309.07602](http://arxiv.org/abs/2309.07602)|**[link](https://github.com/antklen/sasrec-bert4rec-recsys23)**|
 |**2023-09-14**|**Neuro-Symbolic Recommendation Model based on Logic Query**|Maonian Wu et.al.|[2309.07594](http://arxiv.org/abs/2309.07594)|null|
