@@ -35,7 +35,7 @@
 |**2023-09-11**|**UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs**|Yide Qiu et.al.|[2309.05269](http://arxiv.org/abs/2309.05269)|**[link](https://github.com/yide-qiu/unikg)**|
 |**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|**[link](https://gitlab.com/ijskrajncgroup1/neovm)**|
 |**2023-09-12**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|**[link](https://github.com/scir-hi/huatuo-llama-med-chinese)**|
-|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
+|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|**[link](https://github.com/tgebhart/sheaf_kg_transind)**|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
 |**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227](http://arxiv.org/abs/2309.03227)|**[link](https://github.com/ysjegal/ysjegal-drug-repositioning)**|
@@ -43,10 +43,10 @@
 |**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|**[link](https://gitlab.com/patryk.preisner/mkga)**|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538](http://arxiv.org/abs/2309.01538)|null|
-|**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|null|
+|**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|**[link](https://github.com/kracr/reonto-relation-extraction)**|
 |**2023-09-03**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
-|**2023-09-03**|**End-to-End Learning on Multimodal Knowledge Graphs**|W. X. Wilcke et.al.|[2309.01169](http://arxiv.org/abs/2309.01169)|null|
-|**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917](http://arxiv.org/abs/2309.00917)|null|
+|**2023-09-03**|**End-to-End Learning on Multimodal Knowledge Graphs**|W. X. Wilcke et.al.|[2309.01169](http://arxiv.org/abs/2309.01169)|**[link](https://gitlab.com/wxwilcke/mrgcn)**|
+|**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917](http://arxiv.org/abs/2309.00917)|**[link](https://github.com/tjvsonsbeek/knowledge_graphs_for_radiology_reports)**|
 |**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
 |**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306](http://arxiv.org/abs/2309.00306)|null|
 |**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
@@ -156,7 +156,7 @@
 |**2023-07-19**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
-|**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727](http://arxiv.org/abs/2307.05727)|null|
+|**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727](http://arxiv.org/abs/2307.05727)|**[link](https://github.com/callahantiff/PheKnowLator)**|
 |**2023-07-11**|**Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion**|Chen Chen et.al.|[2307.05627](http://arxiv.org/abs/2307.05627)|null|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
 |**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772](http://arxiv.org/abs/2307.04772)|null|
@@ -388,7 +388,7 @@
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563](http://arxiv.org/abs/2304.01563)|null|
-|**2023-04-06**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311](http://arxiv.org/abs/2304.01311)|null|
+|**2023-04-06**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311](http://arxiv.org/abs/2304.01311)|**[link](https://github.com/tuftsvalt/kgsinpractice)**|
 |**2023-04-03**|**Enhancing Clinical Evidence Recommendation with Multi-Channel Heterogeneous Learning on Evidence Graphs**|Maolin Luo et.al.|[2304.01242](http://arxiv.org/abs/2304.01242)|**[link](https://github.com/wds-seu/mhan)**|
 |**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|**[link](https://github.com/zifengding/fitcarl)**|
 |**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/davendw49/PK-Chat)**|
@@ -1530,7 +1530,7 @@
 |**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808](http://arxiv.org/abs/2303.03808)|**[link](https://github.com/imkanghan/nrff)**|
 |**2023-03-10**|**Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision**|Xiaoshuai Zhang et.al.|[2303.03361](http://arxiv.org/abs/2303.03361)|null|
 |**2023-03-07**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003](http://arxiv.org/abs/2303.03003)|**[link](https://github.com/zyqz97/gp-nerf)**|
-|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091](http://arxiv.org/abs/2303.02091)|null|
+|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091](http://arxiv.org/abs/2303.02091)|**[link](https://github.com/ashawkey/nerf2mesh)**|
 |**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736](http://arxiv.org/abs/2303.01736)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749](http://arxiv.org/abs/2303.00749)|null|
 |**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683](http://arxiv.org/abs/2302.14683)|null|
@@ -1756,7 +1756,7 @@
 |**2023-09-07**|**VideolandGPT: A User Study on a Conversational Recommender System**|Mateo Gutierrez Granada et.al.|[2309.03645](http://arxiv.org/abs/2309.03645)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613](http://arxiv.org/abs/2309.03613)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
 |**2023-09-08**|**Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation**|Xurong Liang et.al.|[2309.03518](http://arxiv.org/abs/2309.03518)|**[link](https://github.com/xurong-liang/cerp)**|
-|**2023-09-07**|**Behind Recommender Systems: the Geography of the ACM RecSys Community**|Lorenzo Porcaro et.al.|[2309.03512](http://arxiv.org/abs/2309.03512)|null|
+|**2023-09-07**|**Behind Recommender Systems: the Geography of the ACM RecSys Community**|Lorenzo Porcaro et.al.|[2309.03512](http://arxiv.org/abs/2309.03512)|**[link](https://gitlab.com/humaint-ec_public/divinai-datasets)**|
 |**2023-09-07**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
 |**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978](http://arxiv.org/abs/2309.02978)|null|
 |**2023-09-05**|**Tidying Up the Conversational Recommender Systems' Biases**|Armin Moradi et.al.|[2309.02550](http://arxiv.org/abs/2309.02550)|null|
@@ -1764,7 +1764,7 @@
 |**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-09-05**|**Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2309.02052](http://arxiv.org/abs/2309.02052)|null|
-|**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
+|**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
 |**2023-09-04**|**OutRank: Speeding up AutoML-based Model Search for Large Sparse Data sets with Cardinality-aware Feature Ranking**|Blaž Škrlj et.al.|[2309.01552](http://arxiv.org/abs/2309.01552)|null|
 |**2023-09-04**|**Interactive Graph Convolutional Filtering**|Jin Zhang et.al.|[2309.01453](http://arxiv.org/abs/2309.01453)|null|
 |**2023-09-04**|**In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems**|Zhongxuan Han et.al.|[2309.01335](http://arxiv.org/abs/2309.01335)|null|
