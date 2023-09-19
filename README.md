@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|null|
+|**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong et.al.|[2309.09069](http://arxiv.org/abs/2309.09069)|null|
+|**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
+|**2023-09-16**|**Semantic Information Extraction for Text Data with Probability Graph**|Zhouxiang Zhao et.al.|[2309.08879](http://arxiv.org/abs/2309.08879)|null|
+|**2023-09-15**|**Reproducible Domain-Specific Knowledge Graphs in the Life Sciences: a Systematic Literature Review**|Samira Babalou et.al.|[2309.08754](http://arxiv.org/abs/2309.08754)|null|
 |**2023-09-15**|**"Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs**|Cheng Qian et.al.|[2309.08594](http://arxiv.org/abs/2309.08594)|**[link](https://github.com/qiancheng0/ekd_impacts_pkg)**|
 |**2023-09-15**|**Research on Joint Representation Learning Methods for Entity Neighborhood Information and Description Information**|Le Xiao et.al.|[2309.08100](http://arxiv.org/abs/2309.08100)|null|
 |**2023-09-14**|**A Data Source for Reasoning Embodied Agents**|Jack Lanchantin et.al.|[2309.07974](http://arxiv.org/abs/2309.07974)|**[link](https://github.com/facebookresearch/neuralmemory)**|
@@ -1731,6 +1736,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Online Efficient Secure Logistic Regression based on Function Secret Sharing**|Jing Liu et.al.|[2309.09486](http://arxiv.org/abs/2309.09486)|null|
+|**2023-09-17**|**Fairness for All: Investigating Harms to Within-Group Individuals in Producer Fairness Re-ranking Optimization -- A Reproducibility Study**|Giovanni Pellegrini et.al.|[2309.09277](http://arxiv.org/abs/2309.09277)|null|
+|**2023-09-17**|**Leveraging Large Language Models for Sequential Recommendation**|Jesse Harte et.al.|[2309.09261](http://arxiv.org/abs/2309.09261)|**[link](https://github.com/dh-r/llm-sequential-recommendation)**|
+|**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
+|**2023-09-16**|**The Impact of Recommendation Systems on Opinion Dynamics: Microscopic versus Macroscopic Effects**|Nicolas Lanzetti et.al.|[2309.08967](http://arxiv.org/abs/2309.08967)|null|
+|**2023-09-16**|**An Unified Search and Recommendation Foundation Model for Cold-Start Scenario**|Yuqi Gong et.al.|[2309.08939](http://arxiv.org/abs/2309.08939)|null|
+|**2023-09-16**|**Contrastive Latent Space Reconstruction Learning for Audio-Text Retrieval**|Kaiyi Luo et.al.|[2309.08839](http://arxiv.org/abs/2309.08839)|null|
+|**2023-09-15**|**Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata**|Saurabh Agrawal et.al.|[2309.08787](http://arxiv.org/abs/2309.08787)|null|
 |**2023-09-14**|**iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models**|Yakun Yu et.al.|[2309.07967](http://arxiv.org/abs/2309.07967)|null|
 |**2023-09-14**|**Choosing a Proxy Metric from Past Experiments**|Nilesh Tripuraneni et.al.|[2309.07893](http://arxiv.org/abs/2309.07893)|null|
 |**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705](http://arxiv.org/abs/2309.07705)|**[link](https://github.com/anonymous-ninerec/ninerec)**|
