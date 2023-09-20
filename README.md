@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|null|
+|**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
+|**2023-09-18**|**SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback**|Christopher Richardson et.al.|[2309.10015](http://arxiv.org/abs/2309.10015)|null|
 |**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|null|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong et.al.|[2309.09069](http://arxiv.org/abs/2309.09069)|null|
 |**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
@@ -1736,6 +1739,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation**|Ning Wu et.al.|[2309.10469](http://arxiv.org/abs/2309.10469)|null|
+|**2023-09-19**|**Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling**|Junzhe Jiang et.al.|[2309.10435](http://arxiv.org/abs/2309.10435)|null|
+|**2023-09-19**|**Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning**|Yi Ren et.al.|[2309.10357](http://arxiv.org/abs/2309.10357)|null|
+|**2023-09-19**|**Decoupled Training: Return of Frustratingly Easy Multi-Domain Learning**|Ximei Wang et.al.|[2309.10302](http://arxiv.org/abs/2309.10302)|null|
+|**2023-09-19**|**Towards Measuring Fairness in Grid Layout in Recommender Systems**|Amifa Raj et.al.|[2309.10271](http://arxiv.org/abs/2309.10271)|null|
 |**2023-09-18**|**Online Efficient Secure Logistic Regression based on Function Secret Sharing**|Jing Liu et.al.|[2309.09486](http://arxiv.org/abs/2309.09486)|null|
 |**2023-09-17**|**Fairness for All: Investigating Harms to Within-Group Individuals in Producer Fairness Re-ranking Optimization -- A Reproducibility Study**|Giovanni Pellegrini et.al.|[2309.09277](http://arxiv.org/abs/2309.09277)|null|
 |**2023-09-17**|**Leveraging Large Language Models for Sequential Recommendation**|Jesse Harte et.al.|[2309.09261](http://arxiv.org/abs/2309.09261)|**[link](https://github.com/dh-r/llm-sequential-recommendation)**|
