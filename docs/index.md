@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
+|**2023-09-20**|**Knowledge Graph Question Answering for Materials Science (KGQA4MAT): Developing Natural Language Interface for Metal-Organic Frameworks Knowledge Graph (MOF-KG)**|Yuan An et.al.|[2309.11361](http://arxiv.org/abs/2309.11361)|null|
+|**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
+|**2023-09-19**|**Classifying Organizations for Food System Ontologies using Natural Language Processing**|Tianyu Jiang et.al.|[2309.10880](http://arxiv.org/abs/2309.10880)|null|
 |**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|**[link](https://github.com/chuanyus/udcea)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
 |**2023-09-18**|**SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback**|Christopher Richardson et.al.|[2309.10015](http://arxiv.org/abs/2309.10015)|null|
@@ -1722,6 +1726,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Vector database management systems: Fundamental concepts, use-cases, and current challenges**|Toni Taipalus et.al.|[2309.11322](http://arxiv.org/abs/2309.11322)|null|
+|**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
+|**2023-09-19**|**SOS TUTORIA UC: A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality**|Laura Achon et.al.|[2309.10869](http://arxiv.org/abs/2309.10869)|null|
 |**2023-09-19**|**RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation**|Ning Wu et.al.|[2309.10469](http://arxiv.org/abs/2309.10469)|null|
 |**2023-09-19**|**Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling**|Junzhe Jiang et.al.|[2309.10435](http://arxiv.org/abs/2309.10435)|null|
 |**2023-09-19**|**Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning**|Yi Ren et.al.|[2309.10357](http://arxiv.org/abs/2309.10357)|null|
