@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A knowledge representation approach for construction contract knowledge modeling**|Chunmo Zheng et.al.|[2309.12132](http://arxiv.org/abs/2309.12132)|null|
+|**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
+|**2023-09-21**|**SLHCat: Mapping Wikipedia Categories and Lists to DBpedia by Leveraging Semantic, Lexical, and Hierarchical Features**|Zhaoyi Wang et.al.|[2309.11791](http://arxiv.org/abs/2309.11791)|null|
+|**2023-09-20**|**Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation**|Ali Mousavi et.al.|[2309.11669](http://arxiv.org/abs/2309.11669)|null|
+|**2023-09-20**|**Learning Complete Topology-Aware Correlations Between Relations for Inductive Link Prediction**|Jie Wang et.al.|[2309.11528](http://arxiv.org/abs/2309.11528)|null|
 |**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
 |**2023-09-20**|**Knowledge Graph Question Answering for Materials Science (KGQA4MAT): Developing Natural Language Interface for Metal-Organic Frameworks Knowledge Graph (MOF-KG)**|Yuan An et.al.|[2309.11361](http://arxiv.org/abs/2309.11361)|null|
 |**2023-09-21**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
@@ -1743,6 +1748,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Performance Model for Similarity Caching**|Younes Ben Mazziane et.al.|[2309.12149](http://arxiv.org/abs/2309.12149)|null|
+|**2023-09-21**|**Candidate Set Sampling for Evaluating Top-N Recommendation**|Ngozi Ihemelandu et.al.|[2309.11723](http://arxiv.org/abs/2309.11723)|null|
+|**2023-09-20**|**Leveraging Negative Signals with Self-Attention for Sequential Music Recommendation**|Pavan Seshadri et.al.|[2309.11623](http://arxiv.org/abs/2309.11623)|null|
+|**2023-09-20**|**TrueLearn: A Python Library for Personalised Informational Recommendations with (Implicit) Feedback**|Yuxiang Qiu et.al.|[2309.11527](http://arxiv.org/abs/2309.11527)|null|
 |**2023-09-20**|**Vector database management systems: Fundamental concepts, use-cases, and current challenges**|Toni Taipalus et.al.|[2309.11322](http://arxiv.org/abs/2309.11322)|null|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
 |**2023-09-19**|**SOS TUTORIA UC: A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality**|Laura Achon et.al.|[2309.10869](http://arxiv.org/abs/2309.10869)|null|
