@@ -1302,7 +1302,7 @@ layout: default
 |**2023-09-20**|**Learning Complete Topology-Aware Correlations Between Relations for Inductive Link Prediction**|Jie Wang et.al.|[2309.11528](http://arxiv.org/abs/2309.11528)|null|
 |**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
 |**2023-09-20**|**Knowledge Graph Question Answering for Materials Science (KGQA4MAT): Developing Natural Language Interface for Metal-Organic Frameworks Knowledge Graph (MOF-KG)**|Yuan An et.al.|[2309.11361](http://arxiv.org/abs/2309.11361)|null|
-|**2023-09-21**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
+|**2023-09-21**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|**[link](https://github.com/wuyike2000/retrieve-rewrite-answer)**|
 |**2023-09-19**|**Classifying Organizations for Food System Ontologies using Natural Language Processing**|Tianyu Jiang et.al.|[2309.10880](http://arxiv.org/abs/2309.10880)|null|
 |**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|**[link](https://github.com/chuanyus/udcea)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
