@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**KG-MDL: Mining Graph Patterns in Knowledge Graphs with the MDL Principle**|Francesco Bariatti et.al.|[2309.12908](http://arxiv.org/abs/2309.12908)|null|
+|**2023-09-22**|**Defeasible Reasoning with Knowledge Graphs**|Dave Raggett et.al.|[2309.12731](http://arxiv.org/abs/2309.12731)|null|
+|**2023-09-21**|**Knowledge Graph Embedding: An Overview**|Xiou Ge et.al.|[2309.12501](http://arxiv.org/abs/2309.12501)|null|
+|**2023-09-21**|**Event Prediction using Case-Based Reasoning over Knowledge Graphs**|Sola Shirai et.al.|[2309.12423](http://arxiv.org/abs/2309.12423)|**[link](https://github.com/solashirai/www-evcbr)**|
 |**2023-09-21**|**A knowledge representation approach for construction contract knowledge modeling**|Chunmo Zheng et.al.|[2309.12132](http://arxiv.org/abs/2309.12132)|null|
 |**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
 |**2023-09-21**|**SLHCat: Mapping Wikipedia Categories and Lists to DBpedia by Leveraging Semantic, Lexical, and Hierarchical Features**|Zhaoyi Wang et.al.|[2309.11791](http://arxiv.org/abs/2309.11791)|null|
@@ -1731,6 +1735,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
+|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|null|
+|**2023-09-22**|**Zero-Regret Performative Prediction Under Inequality Constraints**|Wenjing Yan et.al.|[2309.12618](http://arxiv.org/abs/2309.12618)|null|
+|**2023-09-22**|**Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation**|Huixuan Chi et.al.|[2309.12565](http://arxiv.org/abs/2309.12565)|null|
 |**2023-09-21**|**Performance Model for Similarity Caching**|Younes Ben Mazziane et.al.|[2309.12149](http://arxiv.org/abs/2309.12149)|null|
 |**2023-09-21**|**Candidate Set Sampling for Evaluating Top-N Recommendation**|Ngozi Ihemelandu et.al.|[2309.11723](http://arxiv.org/abs/2309.11723)|null|
 |**2023-09-20**|**Leveraging Negative Signals with Self-Attention for Sequential Music Recommendation**|Pavan Seshadri et.al.|[2309.11623](http://arxiv.org/abs/2309.11623)|null|
