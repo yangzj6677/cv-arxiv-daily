@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1736,7 +1736,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
-|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|null|
+|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
 |**2023-09-22**|**Zero-Regret Performative Prediction Under Inequality Constraints**|Wenjing Yan et.al.|[2309.12618](http://arxiv.org/abs/2309.12618)|null|
 |**2023-09-22**|**Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation**|Huixuan Chi et.al.|[2309.12565](http://arxiv.org/abs/2309.12565)|null|
 |**2023-09-21**|**Performance Model for Similarity Caching**|Younes Ben Mazziane et.al.|[2309.12149](http://arxiv.org/abs/2309.12149)|null|
