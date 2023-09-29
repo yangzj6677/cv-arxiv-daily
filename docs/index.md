@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Navigating Healthcare Insights: A Birds Eye View of Explainability with Knowledge Graphs**|Satvik Garg et.al.|[2309.16593](http://arxiv.org/abs/2309.16593)|null|
+|**2023-09-28**|**Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs**|Duygu Sezen Islakoglu et.al.|[2309.16357](http://arxiv.org/abs/2309.16357)|null|
+|**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285](http://arxiv.org/abs/2309.16285)|null|
+|**2023-09-28**|**Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems**|Catherine Kosten et.al.|[2309.16248](http://arxiv.org/abs/2309.16248)|null|
+|**2023-09-28**|**Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain**|Qing Huang et.al.|[2309.16134](http://arxiv.org/abs/2309.16134)|null|
+|**2023-09-27**|**Clinical Trial Recommendations Using Semantics-Based Inductive Inference and Knowledge Graph Embeddings**|Murthy V. Devarakonda et.al.|[2309.15979](http://arxiv.org/abs/2309.15979)|null|
 |**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641](http://arxiv.org/abs/2309.15641)|null|
 |**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427](http://arxiv.org/abs/2309.15427)|null|
 |**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
@@ -1745,6 +1751,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation**|Chong Liu et.al.|[2309.16322](http://arxiv.org/abs/2309.16322)|null|
+|**2023-09-27**|**Enhancing Cross-Category Learning in Recommendation Systems with Multi-Layer Embedding Training**|Zihao Deng et.al.|[2309.15881](http://arxiv.org/abs/2309.15881)|null|
 |**2023-09-27**|**Cold & Warm Net: Addressing Cold-Start Users in Recommender Systems**|Xiangyu Zhang et.al.|[2309.15646](http://arxiv.org/abs/2309.15646)|null|
 |**2023-09-27**|**Automatic Feature Fairness in Recommendation via Adversaries**|Hengchang Hu et.al.|[2309.15418](http://arxiv.org/abs/2309.15418)|**[link](https://github.com/holdenhu/advfm)**|
 |**2023-09-27**|**A Content-Driven Micro-Video Recommendation Dataset at Scale**|Yongxin Ni et.al.|[2309.15379](http://arxiv.org/abs/2309.15379)|**[link](https://github.com/westlake-repl/microlens)**|
