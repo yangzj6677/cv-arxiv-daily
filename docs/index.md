@@ -1360,7 +1360,7 @@ layout: default
 |**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917](http://arxiv.org/abs/2309.00917)|**[link](https://github.com/tjvsonsbeek/knowledge_graphs_for_radiology_reports)**|
 |**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
 |**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306](http://arxiv.org/abs/2309.00306)|null|
-|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
+|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|**[link](https://github.com/aksw/llm-kg-bench)**|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
@@ -1396,7 +1396,7 @@ layout: default
 |**2023-08-22**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|**[link](https://github.com/wyl-willing/MindMap)**|
 |**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
-|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
+|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|**[link](https://github.com/jayachaturvedi/pain_in_mental_health)**|
 |**2023-08-15**|**KMF: Knowledge-Aware Multi-Faceted Representation Learning for Zero-Shot Node Classification**|Likang Wu et.al.|[2308.08563](http://arxiv.org/abs/2308.08563)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
@@ -1827,7 +1827,7 @@ layout: default
 |**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978](http://arxiv.org/abs/2309.02978)|null|
 |**2023-09-05**|**Tidying Up the Conversational Recommender Systems' Biases**|Armin Moradi et.al.|[2309.02550](http://arxiv.org/abs/2309.02550)|null|
 |**2023-09-05**|**Fairness of Exposure in Dynamic Recommendation**|Masoud Mansoury et.al.|[2309.02322](http://arxiv.org/abs/2309.02322)|null|
-|**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|null|
+|**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|**[link](https://github.com/dudwns511/mvfs_cikm23)**|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-09-05**|**Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2309.02052](http://arxiv.org/abs/2309.02052)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
