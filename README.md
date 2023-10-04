@@ -24,6 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
+|**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
+|**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|null|
+|**2023-10-02**|**Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models**|Chenhan Yuan et.al.|[2310.01074](http://arxiv.org/abs/2310.01074)|null|
+|**2023-10-02**|**KGEx: Explaining Knowledge Graph Embeddings via Subgraph Sampling and Knowledge Distillation**|Vasileios Baltatzis et.al.|[2310.01065](http://arxiv.org/abs/2310.01065)|null|
+|**2023-10-02**|**Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**|Linhao Luo et.al.|[2310.01061](http://arxiv.org/abs/2310.01061)|**[link](https://github.com/rmanluo/reasoning-on-graphs)**|
+|**2023-10-02**|**Organized Event Participant Prediction Enhanced by Social Media Retweeting Data**|Yihong Zhang et.al.|[2310.00896](http://arxiv.org/abs/2310.00896)|null|
+|**2023-10-01**|**TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation**|Yubo Gao et.al.|[2310.00569](http://arxiv.org/abs/2310.00569)|null|
+|**2023-09-30**|**DURENDAL: Graph deep learning framework for temporal heterogeneous networks**|Manuel Dileo et.al.|[2310.00336](http://arxiv.org/abs/2310.00336)|null|
+|**2023-09-30**|**RelBERT: Embedding Relations with Language Models**|Asahi Ushio et.al.|[2310.00299](http://arxiv.org/abs/2310.00299)|null|
 |**2023-09-29**|**Knowledge Graphs for the Life Sciences: Recent Developments, Challenges and Opportunities**|Jiaoyan Chen et.al.|[2309.17255](http://arxiv.org/abs/2309.17255)|null|
 |**2023-09-29**|**Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?**|Johannes Frey et.al.|[2309.17122](http://arxiv.org/abs/2309.17122)|null|
 |**2023-09-29**|**SAppKG: Mobile App Recommendation Using Knowledge Graph and Side Information-A Secure Framework**|Daksh Dave et.al.|[2309.17115](http://arxiv.org/abs/2309.17115)|null|
@@ -1772,6 +1782,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**CORec-Cri: How collaborative and social technologies can help to contextualize crises?**|Ngoc Luyen Le et.al.|[2310.02143](http://arxiv.org/abs/2310.02143)|null|
+|**2023-10-02**|**Strategic Information Attacks on Incentive-Compatible Navigational Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646](http://arxiv.org/abs/2310.01646)|null|
+|**2023-10-02**|**Variance-Aware Regret Bounds for Stochastic Contextual Dueling Bandits**|Qiwei Di et.al.|[2310.00968](http://arxiv.org/abs/2310.00968)|null|
+|**2023-10-01**|**A General Offline Reinforcement Learning Framework for Interactive Recommendation**|Teng Xiao et.al.|[2310.00678](http://arxiv.org/abs/2310.00678)|null|
+|**2023-10-01**|**Low-Rank Matrix Approximation via Nonconvex ADMM**|Zekun Liu et.al.|[2310.00660](http://arxiv.org/abs/2310.00660)|null|
+|**2023-10-01**|**TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation**|Yubo Gao et.al.|[2310.00569](http://arxiv.org/abs/2310.00569)|null|
+|**2023-09-30**|**DURENDAL: Graph deep learning framework for temporal heterogeneous networks**|Manuel Dileo et.al.|[2310.00336](http://arxiv.org/abs/2310.00336)|null|
 |**2023-09-29**|**Toward Robust Recommendation via Real-time Vicinal Defense**|Yichang Xu et.al.|[2309.17278](http://arxiv.org/abs/2309.17278)|null|
 |**2023-09-29**|**SAppKG: Mobile App Recommendation Using Knowledge Graph and Side Information-A Secure Framework**|Daksh Dave et.al.|[2309.17115](http://arxiv.org/abs/2309.17115)|null|
 |**2023-09-28**|**Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation**|Chong Liu et.al.|[2309.16322](http://arxiv.org/abs/2309.16322)|null|
