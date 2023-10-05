@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593](http://arxiv.org/abs/2310.02593)|null|
 |**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
 |**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
 |**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|null|
@@ -1782,6 +1783,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Potential Factors Leading to Popularity Unfairness in Recommender Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961](http://arxiv.org/abs/2310.02961)|null|
+|**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-10-03**|**CORec-Cri: How collaborative and social technologies can help to contextualize crises?**|Ngoc Luyen Le et.al.|[2310.02143](http://arxiv.org/abs/2310.02143)|null|
 |**2023-10-02**|**Strategic Information Attacks on Incentive-Compatible Navigational Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646](http://arxiv.org/abs/2310.01646)|null|
 |**2023-10-02**|**Variance-Aware Regret Bounds for Stochastic Contextual Dueling Bandits**|Qiwei Di et.al.|[2310.00968](http://arxiv.org/abs/2310.00968)|null|
