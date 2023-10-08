@@ -1302,7 +1302,7 @@ layout: default
 |**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593](http://arxiv.org/abs/2310.02593)|null|
 |**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
 |**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
-|**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|null|
+|**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|**[link](https://github.com/nlp-tlp/rel2graph)**|
 |**2023-10-02**|**Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models**|Chenhan Yuan et.al.|[2310.01074](http://arxiv.org/abs/2310.01074)|**[link](https://github.com/chenhan97/timellama)**|
 |**2023-10-02**|**KGEx: Explaining Knowledge Graph Embeddings via Subgraph Sampling and Knowledge Distillation**|Vasileios Baltatzis et.al.|[2310.01065](http://arxiv.org/abs/2310.01065)|null|
 |**2023-10-02**|**Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**|Linhao Luo et.al.|[2310.01061](http://arxiv.org/abs/2310.01061)|**[link](https://github.com/rmanluo/reasoning-on-graphs)**|
