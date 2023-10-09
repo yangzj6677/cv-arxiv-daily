@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
+|**2023-10-05**|**Contextualized Structural Self-supervised Learning for Ontology Matching**|Zhu Wang et.al.|[2310.03840](http://arxiv.org/abs/2310.03840)|**[link](https://github.com/ellenzhuwang/lakermap)**|
 |**2023-10-03**|**RouteKG: A knowledge graph-based framework for route prediction on road networks**|Yihong Tang et.al.|[2310.03617](http://arxiv.org/abs/2310.03617)|null|
 |**2023-10-05**|**BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**|Zifeng Wang et.al.|[2310.03320](http://arxiv.org/abs/2310.03320)|null|
 |**2023-10-05**|**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**|Zeyuan Wang et.al.|[2310.03269](http://arxiv.org/abs/2310.03269)|null|
@@ -1770,6 +1772,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Lending Interaction Wings to Recommender Systems with Conversational Agents**|Jiarui Jin et.al.|[2310.04230](http://arxiv.org/abs/2310.04230)|null|
+|**2023-10-06**|**Learning via Look-Alike Clustering: A Precise Analysis of Model Generalization**|Adel Javanmard et.al.|[2310.04015](http://arxiv.org/abs/2310.04015)|null|
+|**2023-10-06**|**AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement**|Zhenghai Xue et.al.|[2310.03984](http://arxiv.org/abs/2310.03984)|null|
+|**2023-10-05**|**Multitask Learning for Time Series Data\\with 2D Convolution**|Chin-Chia Michael Yeh et.al.|[2310.03925](http://arxiv.org/abs/2310.03925)|null|
 |**2023-10-04**|**Potential Factors Leading to Popularity Unfairness in Recommender Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961](http://arxiv.org/abs/2310.02961)|null|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-10-03**|**CORec-Cri: How collaborative and social technologies can help to contextualize crises?**|Ngoc Luyen Le et.al.|[2310.02143](http://arxiv.org/abs/2310.02143)|null|
