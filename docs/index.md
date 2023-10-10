@@ -1295,6 +1295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution**|Xinze Li et.al.|[2310.05634](http://arxiv.org/abs/2310.05634)|null|
+|**2023-10-09**|**Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths**|Bolin Zhu et.al.|[2310.05364](http://arxiv.org/abs/2310.05364)|**[link](https://github.com/blzhu0823/pathfusion)**|
+|**2023-10-08**|**A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in the Healthcare Domain**|Mayank Kejriwal et.al.|[2310.05258](http://arxiv.org/abs/2310.05258)|null|
+|**2023-10-08**|**Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction**|Haoran Luo et.al.|[2310.05185](http://arxiv.org/abs/2310.05185)|null|
+|**2023-10-08**|**An Investigation of LLMs' Inefficacy in Understanding Converse Relations**|Chengwen Qi et.al.|[2310.05163](http://arxiv.org/abs/2310.05163)|**[link](https://github.com/3b-group/convre)**|
+|**2023-10-08**|**From Data to Dialogue: Leveraging the Structure of Knowledge Graphs for Conversational Exploratory Search**|Phillip Schneider et.al.|[2310.05150](http://arxiv.org/abs/2310.05150)|**[link](https://github.com/sebischair/kg-conv-exploratory-search)**|
+|**2023-10-08**|**Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation**|Weihua Liu et.al.|[2310.05119](http://arxiv.org/abs/2310.05119)|null|
+|**2023-10-08**|**Domain Knowledge Graph Construction Via A Simple Checker**|Yueling Zeng et.al.|[2310.04949](http://arxiv.org/abs/2310.04949)|null|
+|**2023-10-07**|**Faithful Knowledge Graph Explanations for Commonsense Reasoning**|Weihe Zhai et.al.|[2310.04910](http://arxiv.org/abs/2310.04910)|null|
+|**2023-10-07**|**GradXKG: A Universal Explain-per-use Temporal Knowledge Graph Explainer**|Chenhan Yuan et.al.|[2310.04889](http://arxiv.org/abs/2310.04889)|null|
 |**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
 |**2023-10-05**|**Contextualized Structural Self-supervised Learning for Ontology Matching**|Zhu Wang et.al.|[2310.03840](http://arxiv.org/abs/2310.03840)|**[link](https://github.com/ellenzhuwang/lakermap)**|
 |**2023-10-03**|**RouteKG: A knowledge graph-based framework for route prediction on road networks**|Yihong Tang et.al.|[2310.03617](http://arxiv.org/abs/2310.03617)|null|
@@ -1772,6 +1782,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems**|Yuyuan Li et.al.|[2310.05847](http://arxiv.org/abs/2310.05847)|null|
+|**2023-10-09**|**Binary Classification with Confidence Difference**|Wei Wang et.al.|[2310.05632](http://arxiv.org/abs/2310.05632)|null|
+|**2023-10-09**|**Sequential Tag Recommendation**|Bing Liu et.al.|[2310.05423](http://arxiv.org/abs/2310.05423)|null|
+|**2023-10-07**|**Hybrid Recommendation System using Graph Neural Network and BERT Embeddings**|Shashidhar Reddy Javaji et.al.|[2310.04878](http://arxiv.org/abs/2310.04878)|null|
+|**2023-10-07**|**Epsilon non-Greedy: A Bandit Approach for Unbiased Recommendation via Uniform Data**|S. M. F. Sani et.al.|[2310.04855](http://arxiv.org/abs/2310.04855)|null|
+|**2023-10-07**|**Ten Challenges in Industrial Recommender Systems**|Zhenhua Dong et.al.|[2310.04804](http://arxiv.org/abs/2310.04804)|null|
+|**2023-10-06**|**Talk like a Graph: Encoding Graphs for Large Language Models**|Bahare Fatemi et.al.|[2310.04560](http://arxiv.org/abs/2310.04560)|null|
+|**2023-10-06**|**Demystifying Embedding Spaces using Large Language Models**|Guy Tennenholtz et.al.|[2310.04475](http://arxiv.org/abs/2310.04475)|null|
 |**2023-10-06**|**Lending Interaction Wings to Recommender Systems with Conversational Agents**|Jiarui Jin et.al.|[2310.04230](http://arxiv.org/abs/2310.04230)|null|
 |**2023-10-09**|**Anonymous Learning via Look-Alike Clustering: A Precise Analysis of Model Generalization**|Adel Javanmard et.al.|[2310.04015](http://arxiv.org/abs/2310.04015)|null|
 |**2023-10-06**|**AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement**|Zhenghai Xue et.al.|[2310.03984](http://arxiv.org/abs/2310.03984)|null|
