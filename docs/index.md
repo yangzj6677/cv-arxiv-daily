@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1773,7 +1773,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-06**|**Lending Interaction Wings to Recommender Systems with Conversational Agents**|Jiarui Jin et.al.|[2310.04230](http://arxiv.org/abs/2310.04230)|null|
-|**2023-10-06**|**Learning via Look-Alike Clustering: A Precise Analysis of Model Generalization**|Adel Javanmard et.al.|[2310.04015](http://arxiv.org/abs/2310.04015)|null|
+|**2023-10-09**|**Anonymous Learning via Look-Alike Clustering: A Precise Analysis of Model Generalization**|Adel Javanmard et.al.|[2310.04015](http://arxiv.org/abs/2310.04015)|null|
 |**2023-10-06**|**AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement**|Zhenghai Xue et.al.|[2310.03984](http://arxiv.org/abs/2310.03984)|null|
 |**2023-10-05**|**Multitask Learning for Time Series Data\\with 2D Convolution**|Chin-Chia Michael Yeh et.al.|[2310.03925](http://arxiv.org/abs/2310.03925)|null|
 |**2023-10-04**|**Potential Factors Leading to Popularity Unfairness in Recommender Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961](http://arxiv.org/abs/2310.02961)|null|
