@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**|Gustav Nikopensius et.al.|[2310.07613](http://arxiv.org/abs/2310.07613)|null|
+|**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573](http://arxiv.org/abs/2310.07573)|null|
+|**2023-10-11**|**What can knowledge graph alignment gain with Neuro-Symbolic learning approaches?**|Pedro Giesteira Cotovio et.al.|[2310.07417](http://arxiv.org/abs/2310.07417)|null|
+|**2023-10-11**|**Semantic Association Rule Learning from Time Series Data and Knowledge Graphs**|Erkan Karabulut et.al.|[2310.07348](http://arxiv.org/abs/2310.07348)|null|
+|**2023-10-11**|**PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model**|Tatsuya Ide et.al.|[2310.07170](http://arxiv.org/abs/2310.07170)|**[link](https://github.com/nlp-waseda/comet-atomic-ja)**|
+|**2023-10-10**|**Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding**|Kexun Zhang et.al.|[2310.07075](http://arxiv.org/abs/2310.07075)|**[link](https://github.com/chenhongqiao/tooldec)**|
+|**2023-10-10**|**Answer Candidate Type Selection: Text-to-Text Language Model for Closed Book Question Answering Meets Knowledge Graphs**|Mikhail Salnikov et.al.|[2310.07008](http://arxiv.org/abs/2310.07008)|null|
 |**2023-10-10**|**Making Large Language Models Perform Better in Knowledge Graph Completion**|Yichi Zhang et.al.|[2310.06671](http://arxiv.org/abs/2310.06671)|null|
 |**2023-10-10**|**Toward Semantic Publishing in Non-Invasive Brain Stimulation: A Comprehensive Analysis of rTMS Studies**|Swathi Anil et.al.|[2310.06517](http://arxiv.org/abs/2310.06517)|null|
 |**2023-10-10**|**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment**|Qian Li et.al.|[2310.06365](http://arxiv.org/abs/2310.06365)|**[link](https://github.com/xiaoqian19940510/moalign)**|
@@ -1802,6 +1809,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Byzantine-Resilient Decentralized Multi-Armed Bandits**|Jingxuan Zhu et.al.|[2310.07320](http://arxiv.org/abs/2310.07320)|null|
+|**2023-10-11**|**Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning**|He Zhang et.al.|[2310.07287](http://arxiv.org/abs/2310.07287)|null|
+|**2023-10-11**|**A Completely Locale-independent Session-based Recommender System by Leveraging Trained Model**|Yu Tokutake et.al.|[2310.07281](http://arxiv.org/abs/2310.07281)|null|
+|**2023-10-11**|**Using Learnable Physics for Real-Time Exercise Form Recommendations**|Abhishek Jaiswal et.al.|[2310.07221](http://arxiv.org/abs/2310.07221)|null|
 |**2023-10-10**|**A Multi-facet Paradigm to Bridge Large Language Model and Recommendation**|Xinyu Lin et.al.|[2310.06491](http://arxiv.org/abs/2310.06491)|null|
 |**2023-10-10**|**Memory efficient location recommendation through proximity-aware representation**|Xuan Luo et.al.|[2310.06484](http://arxiv.org/abs/2310.06484)|null|
 |**2023-10-11**|**MuseChat: A Conversational Music Recommendation System for Videos**|Zhikang Dong et.al.|[2310.06282](http://arxiv.org/abs/2310.06282)|null|
