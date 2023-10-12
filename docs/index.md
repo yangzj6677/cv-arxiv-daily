@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1787,7 +1787,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-10**|**A Multi-facet Paradigm to Bridge Large Language Model and Recommendation**|Xinyu Lin et.al.|[2310.06491](http://arxiv.org/abs/2310.06491)|null|
 |**2023-10-10**|**Memory efficient location recommendation through proximity-aware representation**|Xuan Luo et.al.|[2310.06484](http://arxiv.org/abs/2310.06484)|null|
-|**2023-10-10**|**MuseChat: A Conversational Music Recommendation System for Videos**|Zhikang Dong et.al.|[2310.06282](http://arxiv.org/abs/2310.06282)|null|
+|**2023-10-11**|**MuseChat: A Conversational Music Recommendation System for Videos**|Zhikang Dong et.al.|[2310.06282](http://arxiv.org/abs/2310.06282)|null|
 |**2023-10-09**|**Factual and Personalized Recommendations using Language Models and Reinforcement Learning**|Jihwan Jeong et.al.|[2310.06176](http://arxiv.org/abs/2310.06176)|null|
 |**2023-10-06**|**Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems**|Yuyuan Li et.al.|[2310.05847](http://arxiv.org/abs/2310.05847)|null|
 |**2023-10-09**|**Binary Classification with Confidence Difference**|Wei Wang et.al.|[2310.05632](http://arxiv.org/abs/2310.05632)|null|
