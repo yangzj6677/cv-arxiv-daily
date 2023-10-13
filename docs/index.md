@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1302,7 +1302,7 @@ layout: default
 |**2023-10-11**|**PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model**|Tatsuya Ide et.al.|[2310.07170](http://arxiv.org/abs/2310.07170)|**[link](https://github.com/nlp-waseda/comet-atomic-ja)**|
 |**2023-10-10**|**Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding**|Kexun Zhang et.al.|[2310.07075](http://arxiv.org/abs/2310.07075)|**[link](https://github.com/chenhongqiao/tooldec)**|
 |**2023-10-10**|**Answer Candidate Type Selection: Text-to-Text Language Model for Closed Book Question Answering Meets Knowledge Graphs**|Mikhail Salnikov et.al.|[2310.07008](http://arxiv.org/abs/2310.07008)|null|
-|**2023-10-10**|**Making Large Language Models Perform Better in Knowledge Graph Completion**|Yichi Zhang et.al.|[2310.06671](http://arxiv.org/abs/2310.06671)|null|
+|**2023-10-10**|**Making Large Language Models Perform Better in Knowledge Graph Completion**|Yichi Zhang et.al.|[2310.06671](http://arxiv.org/abs/2310.06671)|**[link](https://github.com/zjukg/kopa)**|
 |**2023-10-10**|**Toward Semantic Publishing in Non-Invasive Brain Stimulation: A Comprehensive Analysis of rTMS Studies**|Swathi Anil et.al.|[2310.06517](http://arxiv.org/abs/2310.06517)|null|
 |**2023-10-10**|**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment**|Qian Li et.al.|[2310.06365](http://arxiv.org/abs/2310.06365)|**[link](https://github.com/xiaoqian19940510/moalign)**|
 |**2023-10-09**|**Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution**|Xinze Li et.al.|[2310.05634](http://arxiv.org/abs/2310.05634)|null|
