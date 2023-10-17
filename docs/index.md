@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|null|
+|**2023-10-13**|**ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models**|Haoran Luo et.al.|[2310.08975](http://arxiv.org/abs/2310.08975)|**[link](https://github.com/lhrlab/chatkbqa)**|
+|**2023-10-13**|**Relation-aware Ensemble Learning for Knowledge Graph Embedding**|Ling Yue et.al.|[2310.08917](http://arxiv.org/abs/2310.08917)|**[link](https://github.com/lars-research/relens)**|
 |**2023-10-12**|**From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2310.08365](http://arxiv.org/abs/2310.08365)|null|
 |**2023-10-12**|**Expanding the Vocabulary of BERT for Knowledge Base Construction**|Dong Yang et.al.|[2310.08291](http://arxiv.org/abs/2310.08291)|**[link](https://github.com/MaastrichtU-IDS/LMKBC-2023)**|
 |**2023-10-12**|**CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models**|Rui Yang et.al.|[2310.08279](http://arxiv.org/abs/2310.08279)|null|
@@ -1799,8 +1802,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems**|Junjie Zhang et.al.|[2310.09233](http://arxiv.org/abs/2310.09233)|null|
 |**2023-10-12**|**Metrics for popularity bias in dynamic recommender systems**|Valentijn Braun et.al.|[2310.08455](http://arxiv.org/abs/2310.08455)|null|
-|**2023-10-12**|**Rethinking Large-scale Pre-ranking System: Entire-chain Cross-domain Models**|Jinbo Song et.al.|[2310.08039](http://arxiv.org/abs/2310.08039)|null|
+|**2023-10-12**|**Rethinking Large-scale Pre-ranking System: Entire-chain Cross-domain Models**|Jinbo Song et.al.|[2310.08039](http://arxiv.org/abs/2310.08039)|**[link](https://github.com/songjinbo/ECMM)**|
 |**2023-10-11**|**Byzantine-Resilient Decentralized Multi-Armed Bandits**|Jingxuan Zhu et.al.|[2310.07320](http://arxiv.org/abs/2310.07320)|null|
 |**2023-10-11**|**Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning**|He Zhang et.al.|[2310.07287](http://arxiv.org/abs/2310.07287)|null|
 |**2023-10-11**|**A Completely Locale-independent Session-based Recommender System by Leveraging Trained Model**|Yu Tokutake et.al.|[2310.07281](http://arxiv.org/abs/2310.07281)|null|
