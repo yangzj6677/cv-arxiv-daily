@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571](http://arxiv.org/abs/2310.10571)|null|
+|**2023-10-16**|**MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities**|Markus J. Buehler et.al.|[2310.10445](http://arxiv.org/abs/2310.10445)|null|
+|**2023-10-16**|**Node-based Knowledge Graph Contrastive Learning for Medical Relationship Prediction**|Zhiguang Fan et.al.|[2310.10138](http://arxiv.org/abs/2310.10138)|**[link](https://github.com/zhi520/nc-kge)**|
+|**2023-10-15**|**Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding**|Xiangnan Chen et.al.|[2310.09781](http://arxiv.org/abs/2310.09781)|**[link](https://github.com/DeMix2023/Demix)**|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|null|
 |**2023-10-13**|**ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models**|Haoran Luo et.al.|[2310.08975](http://arxiv.org/abs/2310.08975)|**[link](https://github.com/lhrlab/chatkbqa)**|
 |**2023-10-13**|**Relation-aware Ensemble Learning for Knowledge Graph Embedding**|Ling Yue et.al.|[2310.08917](http://arxiv.org/abs/2310.08917)|**[link](https://github.com/lars-research/relens)**|
@@ -909,7 +913,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## SFM
 
@@ -999,7 +1003,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1335,7 +1339,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1464,7 +1468,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1585,7 +1589,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## NeRF
 
@@ -1813,12 +1817,20 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## RS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems**|Yunli Wang et.al.|[2310.10462](http://arxiv.org/abs/2310.10462)|null|
+|**2023-10-16**|**Rethinking Financial Service Promotion With Hybrid Recommender Systems at PicPay**|Gabriel Mendonça et.al.|[2310.10268](http://arxiv.org/abs/2310.10268)|null|
+|**2023-10-16**|**Leveraging heterogeneous spillover effects in maximizing contextual bandit rewards**|Ahmed Sayeed Faruk et.al.|[2310.10259](http://arxiv.org/abs/2310.10259)|null|
+|**2023-10-16**|**On Generative Agents in Recommendation**|An Zhang et.al.|[2310.10108](http://arxiv.org/abs/2310.10108)|**[link](https://github.com/LehengTHU/Agent4Rec)**|
+|**2023-10-15**|**Algorithmic Contract Design for Crowdsourced Ranking**|Kiriaki Frangias et.al.|[2310.09974](http://arxiv.org/abs/2310.09974)|null|
+|**2023-10-15**|**Dynamic Link Prediction for New Nodes in Temporal Graph Networks**|Xiaobo Zhu et.al.|[2310.09787](http://arxiv.org/abs/2310.09787)|null|
+|**2023-10-13**|**Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model**|Chen Wang et.al.|[2310.09400](http://arxiv.org/abs/2310.09400)|null|
+|**2023-10-13**|**Addressing the cold start problem in privacy preserving content-based recommender systems using hypercube graphs**|Noa Tuval et.al.|[2310.09341](http://arxiv.org/abs/2310.09341)|null|
 |**2023-10-13**|**AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems**|Junjie Zhang et.al.|[2310.09233](http://arxiv.org/abs/2310.09233)|null|
 |**2023-10-12**|**Metrics for popularity bias in dynamic recommender systems**|Valentijn Braun et.al.|[2310.08455](http://arxiv.org/abs/2310.08455)|null|
 |**2023-10-12**|**Rethinking Large-scale Pre-ranking System: Entire-chain Cross-domain Models**|Jinbo Song et.al.|[2310.08039](http://arxiv.org/abs/2310.08039)|**[link](https://github.com/songjinbo/ECMM)**|
@@ -2444,7 +2456,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -2452,7 +2464,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
