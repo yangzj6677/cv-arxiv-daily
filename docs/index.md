@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
+|**2023-10-19**|**PSYCHIC: A Neuro-Symbolic Framework for Knowledge Graph Question-Answering Grounding**|Hanna Abi Akl et.al.|[2310.12638](http://arxiv.org/abs/2310.12638)|null|
+|**2023-10-18**|**Solving Hard Analogy Questions with Relation Embedding Chains**|Nitesh Kumar et.al.|[2310.12379](http://arxiv.org/abs/2310.12379)|**[link](https://github.com/niteshroyal/solvinghardanalogyquestions)**|
+|**2023-10-18**|**Enhancing the Performance of Automated Grade Prediction in MOOC using Graph Representation Learning**|Soheila Farokhi et.al.|[2310.12281](http://arxiv.org/abs/2310.12281)|**[link](https://github.com/dsaatusu/mooper_grade_prediction)**|
 |**2023-10-18**|**Code Book for the Annotation of Diverse Cross-Document Coreference of Entities in News Articles**|Jakob Vogel et.al.|[2310.12064](http://arxiv.org/abs/2310.12064)|null|
 |**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011](http://arxiv.org/abs/2310.12011)|**[link](https://github.com/hkust-knowcomp/gold)**|
 |**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
