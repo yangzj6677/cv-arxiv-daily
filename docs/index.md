@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1299,7 +1299,7 @@ layout: default
 |**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011](http://arxiv.org/abs/2310.12011)|**[link](https://github.com/hkust-knowcomp/gold)**|
 |**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
 |**2023-10-18**|**A Benchmark for Semi-Inductive Link Prediction in Knowledge Graphs**|Adrian Kochsiek et.al.|[2310.11917](http://arxiv.org/abs/2310.11917)|null|
-|**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|null|
+|**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|**[link](https://github.com/alexanderzsh/adavis)**|
 |**2023-10-18**|**Descriptive Knowledge Graph in Biomedical Domain**|Kerui Zhu et.al.|[2310.11681](http://arxiv.org/abs/2310.11681)|null|
 |**2023-10-18**|**Open Information Extraction: A Review of Baseline Techniques, Approaches, and Applications**|Serafina Kamp et.al.|[2310.11644](http://arxiv.org/abs/2310.11644)|null|
 |**2023-10-18**|**Systematic Assessment of Factual Knowledge in Large Language Models**|Linhao Luo et.al.|[2310.11638](http://arxiv.org/abs/2310.11638)|null|
