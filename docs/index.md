@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Retrieval-Augmented Neural Response Generation Using Logical Reasoning and Relevance Scoring**|Nicholas Thomas Walker et.al.|[2310.13566](http://arxiv.org/abs/2310.13566)|null|
+|**2023-10-20**|**Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation**|Magdalena Kaiser et.al.|[2310.13505](http://arxiv.org/abs/2310.13505)|null|
+|**2023-10-20**|**Towards Enhancing Relational Rules for Knowledge Graph Link Prediction**|Shuhan Wu et.al.|[2310.13411](http://arxiv.org/abs/2310.13411)|null|
+|**2023-10-20**|**Knowledge Graph Context-Enhanced Diversified Recommendation**|Xiaolong Liu et.al.|[2310.13253](http://arxiv.org/abs/2310.13253)|null|
+|**2023-10-19**|**From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues**|Shivani Kumar et.al.|[2310.13080](http://arxiv.org/abs/2310.13080)|**[link](https://github.com/lcs2-iiitd/emnlp-coffee)**|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
 |**2023-10-19**|**PSYCHIC: A Neuro-Symbolic Framework for Knowledge Graph Question-Answering Grounding**|Hanna Abi Akl et.al.|[2310.12638](http://arxiv.org/abs/2310.12638)|null|
 |**2023-10-18**|**Solving Hard Analogy Questions with Relation Embedding Chains**|Nitesh Kumar et.al.|[2310.12379](http://arxiv.org/abs/2310.12379)|**[link](https://github.com/niteshroyal/solvinghardanalogyquestions)**|
@@ -1823,6 +1828,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Towards Multi-Subsession Conversational Recommendation**|Yu Ji et.al.|[2310.13365](http://arxiv.org/abs/2310.13365)|null|
+|**2023-10-20**|**Unified Pretraining for Recommendation via Task Hypergraphs**|Mingdai Yang et.al.|[2310.13286](http://arxiv.org/abs/2310.13286)|**[link](https://github.com/mdyfrank/uprth)**|
+|**2023-10-20**|**A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems**|Xu Huang et.al.|[2310.13260](http://arxiv.org/abs/2310.13260)|null|
+|**2023-10-20**|**Knowledge Graph Context-Enhanced Diversified Recommendation**|Xiaolong Liu et.al.|[2310.13253](http://arxiv.org/abs/2310.13253)|null|
 |**2023-10-18**|**DCRNN: A Deep Cross approach based on RNN for Partial Parameter Sharing in Multi-task Learning**|Jie Zhou et.al.|[2310.11777](http://arxiv.org/abs/2310.11777)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
 |**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562](http://arxiv.org/abs/2310.11562)|null|
