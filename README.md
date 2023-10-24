@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Linking Surface Facts to Large-Scale Knowledge Graphs**|Gorjan Radevski et.al.|[2310.14909](http://arxiv.org/abs/2310.14909)|**[link](https://github.com/nec-research/fact-linking)**|
+|**2023-10-23**|**Universal Knowledge Graph Embeddings**|N'Dah Jean Kouagou et.al.|[2310.14899](http://arxiv.org/abs/2310.14899)|**[link](https://github.com/dice-group/universal_embeddings)**|
+|**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866](http://arxiv.org/abs/2310.14866)|**[link](https://github.com/kgrl2021/submission-one)**|
+|**2023-10-23**|**KindMed: Knowledge-Induced Medicine Prescribing Network for Medication Recommendation**|Ahmad Wisnu Mulyadi et.al.|[2310.14552](http://arxiv.org/abs/2310.14552)|null|
+|**2023-10-21**|**Leveraging Knowledge Graphs for Orphan Entity Allocation in Resume Processing**|Aagam Bakliwal et.al.|[2310.14093](http://arxiv.org/abs/2310.14093)|null|
+|**2023-10-21**|**Emulating the Human Mind: A Neural-symbolic Link Prediction Model with Fast and Slow Reasoning and Filtered Rules**|Mohammad Hossein Khojasteh et.al.|[2310.13996](http://arxiv.org/abs/2310.13996)|null|
+|**2023-10-20**|**FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction**|Priyanka Ranade et.al.|[2310.13848](http://arxiv.org/abs/2310.13848)|null|
+|**2023-10-20**|**Graph AI in Medicine**|Ruth Johnson et.al.|[2310.13767](http://arxiv.org/abs/2310.13767)|null|
 |**2023-10-20**|**Retrieval-Augmented Neural Response Generation Using Logical Reasoning and Relevance Scoring**|Nicholas Thomas Walker et.al.|[2310.13566](http://arxiv.org/abs/2310.13566)|null|
 |**2023-10-20**|**Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation**|Magdalena Kaiser et.al.|[2310.13505](http://arxiv.org/abs/2310.13505)|null|
 |**2023-10-20**|**Towards Enhancing Relational Rules for Knowledge Graph Link Prediction**|Shuhan Wu et.al.|[2310.13411](http://arxiv.org/abs/2310.13411)|null|
@@ -1845,6 +1853,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Budgeted Embedding Table For Recommender Systems**|Yunke Qu et.al.|[2310.14884](http://arxiv.org/abs/2310.14884)|null|
+|**2023-10-23**|**Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue**|Yuanxing Liu et.al.|[2310.14626](http://arxiv.org/abs/2310.14626)|null|
+|**2023-10-23**|**Long Short-Term Planning for Conversational Recommendation Systems**|Xian Li et.al.|[2310.14609](http://arxiv.org/abs/2310.14609)|null|
+|**2023-10-22**|**Offline Metrics for Evaluating Explanation Goals in Recommender Systems**|André Levi Zanon et.al.|[2310.14379](http://arxiv.org/abs/2310.14379)|null|
+|**2023-10-22**|**Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation**|Xiuyuan Qin et.al.|[2310.14318](http://arxiv.org/abs/2310.14318)|**[link](https://github.com/qinhsiu/icsrec)**|
+|**2023-10-22**|**One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems**|Zuoli Tang et.al.|[2310.14304](http://arxiv.org/abs/2310.14304)|null|
+|**2023-10-22**|**Item-Graph2vec: a Efficient and Effective Approach using Item Co-occurrence Graph Embedding for Collaborative Filtering**|Ruilin Yuan et.al.|[2310.14215](http://arxiv.org/abs/2310.14215)|null|
+|**2023-10-22**|**$α$ -Fair Contextual Bandits**|Siddhant Chaudhary et.al.|[2310.14164](http://arxiv.org/abs/2310.14164)|null|
+|**2023-10-21**|**An Offer you Cannot Refuse? Trends in the Coerciveness of Amazon Book Recommendations**|Jonathan H. Rystrøm et.al.|[2310.14060](http://arxiv.org/abs/2310.14060)|null|
 |**2023-10-20**|**Towards Multi-Subsession Conversational Recommendation**|Yu Ji et.al.|[2310.13365](http://arxiv.org/abs/2310.13365)|null|
 |**2023-10-20**|**Unified Pretraining for Recommendation via Task Hypergraphs**|Mingdai Yang et.al.|[2310.13286](http://arxiv.org/abs/2310.13286)|**[link](https://github.com/mdyfrank/uprth)**|
 |**2023-10-20**|**A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems**|Xu Huang et.al.|[2310.13260](http://arxiv.org/abs/2310.13260)|null|
