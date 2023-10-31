@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1853,7 +1853,7 @@ layout: default
 |**2023-10-27**|**Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**|Wei Fan et.al.|[2310.17922](http://arxiv.org/abs/2310.17922)|**[link](https://github.com/alexfanw/cochpl)**|
 |**2023-10-27**|**Lifting the Veil: Unlocking the Power of Depth in Q-learning**|Shao-Bo Lin et.al.|[2310.17915](http://arxiv.org/abs/2310.17915)|null|
 |**2023-10-26**|**Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems**|Lidiya Murakhovs'ka et.al.|[2310.17749](http://arxiv.org/abs/2310.17749)|null|
-|**2023-10-26**|**Tackling Interference Induced by Data Training Loops in A/B Tests: A Weighted Training Approach**|Nian Si et.al.|[2310.17496](http://arxiv.org/abs/2310.17496)|null|
+|**2023-10-29**|**Tackling Interference Induced by Data Training Loops in A/B Tests: A Weighted Training Approach**|Nian Si et.al.|[2310.17496](http://arxiv.org/abs/2310.17496)|null|
 |**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373](http://arxiv.org/abs/2310.17373)|null|
 |**2023-10-25**|**Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation**|Xi Wang et.al.|[2310.16738](http://arxiv.org/abs/2310.16738)|**[link](https://github.com/wangxieric/bias-crs)**|
 |**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
