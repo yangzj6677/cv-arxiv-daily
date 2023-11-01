@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588](http://arxiv.org/abs/2310.20588)|null|
+|**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475](http://arxiv.org/abs/2310.20475)|**[link](https://github.com/davidlamprecht/linkedpaperswithcode)**|
+|**2023-10-31**|**Ontologies for Models and Algorithms in Applied Mathematics and Related Disciplines**|Björn Schembera et.al.|[2310.20443](http://arxiv.org/abs/2310.20443)|null|
+|**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440](http://arxiv.org/abs/2310.20440)|null|
+|**2023-10-31**|**DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text**|Wenting Zhao et.al.|[2310.20170](http://arxiv.org/abs/2310.20170)|null|
+|**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998](http://arxiv.org/abs/2310.19998)|null|
+|**2023-10-31**|**Trust, Accountability, and Autonomy in Knowledge Graph-based AI for Self-determination**|Luis-Daniel Ibáñez et.al.|[2310.19503](http://arxiv.org/abs/2310.19503)|null|
 |**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055](http://arxiv.org/abs/2310.19055)|null|
 |**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951](http://arxiv.org/abs/2310.18951)|null|
 |**2023-10-27**|**Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment**|Giang Hoang Nguyen et.al.|[2310.16737](http://arxiv.org/abs/2310.16737)|null|
@@ -1867,6 +1874,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Estimating Propensity for Causality-based Recommendation without Exposure Data**|Zhongzhou Liu et.al.|[2310.20388](http://arxiv.org/abs/2310.20388)|null|
+|**2023-10-31**|**Large Multi-modal Encoders for Recommendation**|Zixuan Yi et.al.|[2310.20343](http://arxiv.org/abs/2310.20343)|null|
+|**2023-10-31**|**FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems**|Lin Wang et.al.|[2310.20193](http://arxiv.org/abs/2310.20193)|null|
+|**2023-10-31**|**LFG: A Generative Network for Real-Time Recommendation**|Junyi Liu et.al.|[2310.20189](http://arxiv.org/abs/2310.20189)|null|
+|**2023-10-31**|**Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems**|Zhendong Chu et.al.|[2310.20109](http://arxiv.org/abs/2310.20109)|null|
+|**2023-10-31**|**Density-based User Representation through Gaussian Process Regression for Multi-interest Personalized Retrieval**|Haolun Wu et.al.|[2310.20091](http://arxiv.org/abs/2310.20091)|null|
+|**2023-10-30**|**Evaluation Framework for Understanding Sensitive Attribute Association Bias in Latent Factor Recommendation Algorithms**|Lex Beattie et.al.|[2310.20061](http://arxiv.org/abs/2310.20061)|null|
+|**2023-10-30**|**BTRec: BERT-Based Trajectory Recommendation for Personalized Tours**|Ngai Lam Ho et.al.|[2310.19886](http://arxiv.org/abs/2310.19886)|**[link](https://github.com/nxh912/BTRec_RecSys23)**|
+|**2023-10-30**|**Adversarial Batch Inverse Reinforcement Learning: Learn to Reward from Imperfect Demonstration for Interactive Recommendation**|Jialin Liu et.al.|[2310.19536](http://arxiv.org/abs/2310.19536)|null|
+|**2023-10-30**|**A General Neural Causal Model for Interactive Recommendation**|Jialin Liu et.al.|[2310.19519](http://arxiv.org/abs/2310.19519)|null|
 |**2023-10-29**|**RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Active Data Manipulation**|Dzung Pham et.al.|[2310.19163](http://arxiv.org/abs/2310.19163)|**[link](https://github.com/dzungvpham/raifle)**|
 |**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951](http://arxiv.org/abs/2310.18951)|null|
 |**2023-10-28**|**Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss**|An Zhang et.al.|[2310.18700](http://arxiv.org/abs/2310.18700)|**[link](https://github.com/lehengthu/advinfonce)**|
