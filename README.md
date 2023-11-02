@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**|Peter A. Zachares et.al.|[2311.00444](http://arxiv.org/abs/2311.00444)|null|
+|**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300](http://arxiv.org/abs/2311.00300)|null|
+|**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|null|
+|**2023-10-31**|**EXTRACT: Explainable Transparent Control of Bias in Embeddings**|Zhijin Guo et.al.|[2311.00115](http://arxiv.org/abs/2311.00115)|null|
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588](http://arxiv.org/abs/2310.20588)|null|
 |**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475](http://arxiv.org/abs/2310.20475)|**[link](https://github.com/davidlamprecht/linkedpaperswithcode)**|
 |**2023-10-31**|**Ontologies for Models and Algorithms in Applied Mathematics and Related Disciplines**|Björn Schembera et.al.|[2310.20443](http://arxiv.org/abs/2310.20443)|null|
@@ -1874,6 +1878,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**GATSY: Graph Attention Network for Music Artist Similarity**|Andrea Giuseppe Di Francesco et.al.|[2311.00635](http://arxiv.org/abs/2311.00635)|null|
+|**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612](http://arxiv.org/abs/2311.00612)|null|
+|**2023-11-01**|**LLMRec: Large Language Models with Graph Augmentation for Recommendation**|Wei Wei et.al.|[2311.00423](http://arxiv.org/abs/2311.00423)|**[link](https://github.com/hkuds/llmrec)**|
+|**2023-11-01**|**Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems**|Hao Zhang et.al.|[2311.00388](http://arxiv.org/abs/2311.00388)|null|
+|**2023-11-01**|**DistDNAS: Search Efficient Feature Interactions within 2 Hours**|Tunhou Zhang et.al.|[2311.00231](http://arxiv.org/abs/2311.00231)|null|
 |**2023-11-01**|**Estimating Propensity for Causality-based Recommendation without Exposure Data**|Zhongzhou Liu et.al.|[2310.20388](http://arxiv.org/abs/2310.20388)|null|
 |**2023-10-31**|**Large Multi-modal Encoders for Recommendation**|Zixuan Yi et.al.|[2310.20343](http://arxiv.org/abs/2310.20343)|null|
 |**2023-10-31**|**FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems**|Lin Wang et.al.|[2310.20193](http://arxiv.org/abs/2310.20193)|null|
