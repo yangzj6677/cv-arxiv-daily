@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326](http://arxiv.org/abs/2311.01326)|null|
+|**2023-11-02**|**Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference**|Qing Huang et.al.|[2311.01266](http://arxiv.org/abs/2311.01266)|null|
+|**2023-11-02**|**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**|Harry Shomer et.al.|[2311.01024](http://arxiv.org/abs/2311.01024)|**[link](https://github.com/harryshomer/tagnet)**|
 |**2023-11-01**|**Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**|Peter A. Zachares et.al.|[2311.00444](http://arxiv.org/abs/2311.00444)|null|
 |**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300](http://arxiv.org/abs/2311.00300)|null|
 |**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|null|
@@ -1878,6 +1881,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
+|**2023-11-02**|**Recommendations by Concise User Profiles from Review Text**|Ghazaleh Haratinezhad Torbati et.al.|[2311.01314](http://arxiv.org/abs/2311.01314)|null|
+|**2023-11-02**|**VM-Rec: A Variational Mapping Approach for Cold-start User Recommendation**|Linan Zheng et.al.|[2311.01304](http://arxiv.org/abs/2311.01304)|null|
+|**2023-11-02**|**Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056](http://arxiv.org/abs/2311.01056)|**[link](https://github.com/zhuty16/mqsa-ted)**|
+|**2023-11-02**|**Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study**|Theresia Veronika Rampisela et.al.|[2311.01013](http://arxiv.org/abs/2311.01013)|**[link](https://github.com/theresiavr/individual-item-fairness-measures-recsys)**|
 |**2023-11-01**|**GATSY: Graph Attention Network for Music Artist Similarity**|Andrea Giuseppe Di Francesco et.al.|[2311.00635](http://arxiv.org/abs/2311.00635)|null|
 |**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612](http://arxiv.org/abs/2311.00612)|null|
 |**2023-11-01**|**LLMRec: Large Language Models with Graph Augmentation for Recommendation**|Wei Wei et.al.|[2311.00423](http://arxiv.org/abs/2311.00423)|**[link](https://github.com/hkuds/llmrec)**|
