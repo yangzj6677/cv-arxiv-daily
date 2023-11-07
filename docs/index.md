@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models**|Yunlong Chen et.al.|[2311.02956](http://arxiv.org/abs/2311.02956)|null|
+|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
 |**2023-11-03**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928](http://arxiv.org/abs/2311.01928)|**[link](https://github.com/yukw777/temporal-discrete-graph-updater)**|
 |**2023-11-03**|**$R^3$ -NL2GQL: A Hybrid Models Approach for for Accuracy Enhancing and Hallucinations Mitigation**|Yuhang Zhou et.al.|[2311.01862](http://arxiv.org/abs/2311.01862)|**[link](https://github.com/zhiqix/nl2gql)**|
 |**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326](http://arxiv.org/abs/2311.01326)|**[link](https://github.com/screemix/kgc-t5-with-neighbors)**|
@@ -1866,6 +1868,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Improving Collaborative Filtering Recommendation via Graph Learning**|Yongyu Wang et.al.|[2311.03316](http://arxiv.org/abs/2311.03316)|null|
+|**2023-11-06**|**Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It's Best to Relate Perspectives!**|Philipp Heinisch et.al.|[2311.03153](http://arxiv.org/abs/2311.03153)|**[link](https://github.com/phhei/relateperspectives-sweetspots)**|
+|**2023-11-06**|**APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation**|Mingjia Yin et.al.|[2311.02816](http://arxiv.org/abs/2311.02816)|**[link](https://github.com/graph-team/apgl4sr)**|
+|**2023-11-05**|**Extraction of Atypical Aspects from Customer Reviews: Datasets and Experiments with Language Models**|Smita Nannaware et.al.|[2311.02702](http://arxiv.org/abs/2311.02702)|**[link](https://github.com/smitanannaware/xtrata)**|
+|**2023-11-04**|**CDR-Adapter: Learning Adapters to Dig Out More Transferring Ability for Cross-Domain Recommendation Models**|Yanyu Chen et.al.|[2311.02398](http://arxiv.org/abs/2311.02398)|null|
+|**2023-11-03**|**Lost Your Style? Navigating with Semantic-Level Approach for Text-to-Outfit Retrieval**|Junkyu Jang et.al.|[2311.02122](http://arxiv.org/abs/2311.02122)|null|
 |**2023-11-03**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831](http://arxiv.org/abs/2311.01831)|null|
 |**2023-11-03**|**Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces**|Aditya Desai et.al.|[2311.01722](http://arxiv.org/abs/2311.01722)|**[link](https://github.com/apd10/flcf)**|
 |**2023-11-03**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
