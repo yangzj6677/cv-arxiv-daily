@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**OLaLa: Ontology Matching with Large Language Models**|Sven Hertling et.al.|[2311.03837](http://arxiv.org/abs/2311.03837)|null|
+|**2023-11-07**|**Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI**|Song Yaoxian et.al.|[2311.03783](http://arxiv.org/abs/2311.03783)|null|
+|**2023-11-07**|**Ensembling Textual and Structure-Based Models for Knowledge Graph Completion**|Ananjan Nandi et.al.|[2311.03780](http://arxiv.org/abs/2311.03780)|null|
 |**2023-11-06**|**In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models**|Yunlong Chen et.al.|[2311.02956](http://arxiv.org/abs/2311.02956)|null|
 |**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
 |**2023-11-03**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928](http://arxiv.org/abs/2311.01928)|**[link](https://github.com/yukw777/temporal-discrete-graph-updater)**|
@@ -1885,6 +1888,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**IC-SECURE: Intelligent System for Assisting Security Experts in Generating Playbooks for Automated Incident Response**|Ryuta Kremer et.al.|[2311.03825](http://arxiv.org/abs/2311.03825)|null|
+|**2023-11-07**|**Dynamic Non-monotone Submodular Maximization**|Kiarash Banihashem et.al.|[2311.03685](http://arxiv.org/abs/2311.03685)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|null|
 |**2023-11-06**|**Improving Collaborative Filtering Recommendation via Graph Learning**|Yongyu Wang et.al.|[2311.03316](http://arxiv.org/abs/2311.03316)|null|
 |**2023-11-06**|**Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It's Best to Relate Perspectives!**|Philipp Heinisch et.al.|[2311.03153](http://arxiv.org/abs/2311.03153)|**[link](https://github.com/phhei/relateperspectives-sweetspots)**|
 |**2023-11-06**|**APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation**|Mingjia Yin et.al.|[2311.02816](http://arxiv.org/abs/2311.02816)|**[link](https://github.com/graph-team/apgl4sr)**|
