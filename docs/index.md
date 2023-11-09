@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**FAIR Knowledge Graphs with Semantic Units: a Prototype**|Lars Vogt et.al.|[2311.04761](http://arxiv.org/abs/2311.04761)|null|
+|**2023-11-08**|**Validating ChatGPT Facts through RDF Knowledge Graphs and Sentence Similarity**|Michalis Mountantonakis et.al.|[2311.04524](http://arxiv.org/abs/2311.04524)|null|
+|**2023-11-07**|**Unifying Structure and Language Semantic for Efficient Contrastive Knowledge Graph Completion with Structured Entity Anchors**|Sang-Hyun Je et.al.|[2311.04250](http://arxiv.org/abs/2311.04250)|null|
 |**2023-11-07**|**OLaLa: Ontology Matching with Large Language Models**|Sven Hertling et.al.|[2311.03837](http://arxiv.org/abs/2311.03837)|null|
 |**2023-11-07**|**Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI**|Song Yaoxian et.al.|[2311.03783](http://arxiv.org/abs/2311.03783)|null|
 |**2023-11-07**|**Ensembling Textual and Structure-Based Models for Knowledge Graph Completion**|Ananjan Nandi et.al.|[2311.03780](http://arxiv.org/abs/2311.03780)|null|
@@ -1871,6 +1874,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760](http://arxiv.org/abs/2311.04760)|null|
+|**2023-11-08**|**Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction**|Fangye Wang et.al.|[2311.04635](http://arxiv.org/abs/2311.04635)|**[link](https://github.com/anonctr/GDCN)**|
+|**2023-11-08**|**FEIR: Quantifying and Reducing Envy and Inferiority for Fair Recommendation of Limited Resources**|Nan Li et.al.|[2311.04542](http://arxiv.org/abs/2311.04542)|null|
+|**2023-11-08**|**Bandit Learning to Rank with Position-Based Click Models: Personalized and Equal Treatments**|Tianchen Zhou et.al.|[2311.04528](http://arxiv.org/abs/2311.04528)|null|
 |**2023-11-07**|**IC-SECURE: Intelligent System for Assisting Security Experts in Generating Playbooks for Automated Incident Response**|Ryuta Kremer et.al.|[2311.03825](http://arxiv.org/abs/2311.03825)|null|
 |**2023-11-07**|**Dynamic Non-monotone Submodular Maximization**|Kiarash Banihashem et.al.|[2311.03685](http://arxiv.org/abs/2311.03685)|null|
 |**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|null|
