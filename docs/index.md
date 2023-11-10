@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1876,11 +1876,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-08**|**Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760](http://arxiv.org/abs/2311.04760)|null|
 |**2023-11-08**|**Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction**|Fangye Wang et.al.|[2311.04635](http://arxiv.org/abs/2311.04635)|**[link](https://github.com/anonctr/GDCN)**|
-|**2023-11-08**|**FEIR: Quantifying and Reducing Envy and Inferiority for Fair Recommendation of Limited Resources**|Nan Li et.al.|[2311.04542](http://arxiv.org/abs/2311.04542)|null|
+|**2023-11-08**|**FEIR: Quantifying and Reducing Envy and Inferiority for Fair Recommendation of Limited Resources**|Nan Li et.al.|[2311.04542](http://arxiv.org/abs/2311.04542)|**[link](https://github.com/aida-ugent/feir)**|
 |**2023-11-08**|**Bandit Learning to Rank with Position-Based Click Models: Personalized and Equal Treatments**|Tianchen Zhou et.al.|[2311.04528](http://arxiv.org/abs/2311.04528)|null|
 |**2023-11-07**|**IC-SECURE: Intelligent System for Assisting Security Experts in Generating Playbooks for Automated Incident Response**|Ryuta Kremer et.al.|[2311.03825](http://arxiv.org/abs/2311.03825)|null|
 |**2023-11-07**|**Dynamic Non-monotone Submodular Maximization**|Kiarash Banihashem et.al.|[2311.03685](http://arxiv.org/abs/2311.03685)|null|
-|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|**[link](https://github.com/multi-resolution-diffusion-recommender/sdrm)**|
 |**2023-11-06**|**Improving Collaborative Filtering Recommendation via Graph Learning**|Yongyu Wang et.al.|[2311.03316](http://arxiv.org/abs/2311.03316)|null|
 |**2023-11-06**|**Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It's Best to Relate Perspectives!**|Philipp Heinisch et.al.|[2311.03153](http://arxiv.org/abs/2311.03153)|**[link](https://github.com/phhei/relateperspectives-sweetspots)**|
 |**2023-11-06**|**APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation**|Mingjia Yin et.al.|[2311.02816](http://arxiv.org/abs/2311.02816)|**[link](https://github.com/graph-team/apgl4sr)**|
