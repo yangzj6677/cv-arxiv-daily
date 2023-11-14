@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509](http://arxiv.org/abs/2311.07509)|null|
+|**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180](http://arxiv.org/abs/2311.07180)|null|
+|**2023-11-12**|**Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding**|Ruyao Xu et.al.|[2311.06761](http://arxiv.org/abs/2311.06761)|null|
+|**2023-11-11**|**Towards a Personal Health Knowledge Graph Framework for Patient Monitoring**|Daniel Bloor et.al.|[2311.06524](http://arxiv.org/abs/2311.06524)|null|
+|**2023-11-11**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|**[link](https://github.com/zjukg/knowpat)**|
+|**2023-11-10**|**Knowledge Graphs are not Created Equal: Exploring the Properties and Structure of Real KGs**|Nedelina Teneva et.al.|[2311.06414](http://arxiv.org/abs/2311.06414)|null|
+|**2023-11-10**|**Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion**|Jinheon Baek et.al.|[2311.06318](http://arxiv.org/abs/2311.06318)|null|
 |**2023-11-10**|**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**|Hongyin Zhang et.al.|[2311.06015](http://arxiv.org/abs/2311.06015)|null|
 |**2023-11-08**|**FAIR Knowledge Graphs with Semantic Units: a Prototype**|Lars Vogt et.al.|[2311.04761](http://arxiv.org/abs/2311.04761)|null|
 |**2023-11-08**|**Validating ChatGPT Facts through RDF Knowledge Graphs and Sentence Similarity**|Michalis Mountantonakis et.al.|[2311.04524](http://arxiv.org/abs/2311.04524)|null|
@@ -1892,6 +1899,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127](http://arxiv.org/abs/2311.07127)|null|
+|**2023-11-13**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study**|Chen Xu et.al.|[2311.07054](http://arxiv.org/abs/2311.07054)|null|
+|**2023-11-11**|**Metric Optimization and Mainstream Bias Mitigation in Recommender Systems**|Roger Zhe Li et.al.|[2311.06689](http://arxiv.org/abs/2311.06689)|null|
+|**2023-11-10**|**Augmented Degree Correction for Bipartite Networks with Applications to Recommender Systems**|Benjamin Leinwand et.al.|[2311.06436](http://arxiv.org/abs/2311.06436)|null|
+|**2023-11-10**|**Reviewing Developments of Graph Convolutional Network Techniques for Recommendation Systems**|Haojun Zhu et.al.|[2311.06323](http://arxiv.org/abs/2311.06323)|null|
 |**2023-11-10**|**RIGA: A Regret-Based Interactive Genetic Algorithm**|Nawal Benabbou et.al.|[2311.06063](http://arxiv.org/abs/2311.06063)|null|
 |**2023-11-10**|**Hiformer: Heterogeneous Feature Interactions Learning with Transformers for Recommender Systems**|Huan Gui et.al.|[2311.05884](http://arxiv.org/abs/2311.05884)|null|
 |**2023-11-10**|**DPR: An Algorithm Mitigate Bias Accumulation in Recommendation feedback loops**|Hangtong Xu et.al.|[2311.05864](http://arxiv.org/abs/2311.05864)|null|
