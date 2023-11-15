@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
+|**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
+|**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914](http://arxiv.org/abs/2311.07914)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850](http://arxiv.org/abs/2311.07850)|null|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509](http://arxiv.org/abs/2311.07509)|null|
 |**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180](http://arxiv.org/abs/2311.07180)|null|
 |**2023-11-12**|**Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding**|Ruyao Xu et.al.|[2311.06761](http://arxiv.org/abs/2311.06761)|null|
@@ -1882,6 +1886,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
+|**2023-11-14**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272](http://arxiv.org/abs/2311.08272)|**[link](https://github.com/guanyu-lin/man)**|
+|**2023-11-14**|**Towards a Technical Debt for Recommender System**|Sergio Moreschini et.al.|[2311.07947](http://arxiv.org/abs/2311.07947)|null|
+|**2023-11-14**|**VizPut: Insight-Aware Imputation of Incomplete Data for Visualization Recommendation**|Rischan Mafrur et.al.|[2311.07926](http://arxiv.org/abs/2311.07926)|null|
+|**2023-11-12**|**Modeling User Viewing Flow using Large Language Models for Article Recommendation**|Zhenghao Liu et.al.|[2311.07619](http://arxiv.org/abs/2311.07619)|null|
 |**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127](http://arxiv.org/abs/2311.07127)|null|
 |**2023-11-13**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study**|Chen Xu et.al.|[2311.07054](http://arxiv.org/abs/2311.07054)|null|
 |**2023-11-11**|**Metric Optimization and Mainstream Bias Mitigation in Recommender Systems**|Roger Zhe Li et.al.|[2311.06689](http://arxiv.org/abs/2311.06689)|null|
