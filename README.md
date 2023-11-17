@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841](http://arxiv.org/abs/2311.09841)|null|
+|**2023-11-16**|**FairytaleCQA: Integrating a Commonsense Knowledge Graph into Children's Storybook Narratives**|Jiaju Chen et.al.|[2311.09756](http://arxiv.org/abs/2311.09756)|null|
+|**2023-11-16**|**Generating Drug Repurposing Hypotheses through the Combination of Disease-Specific Hypergraphs**|Ayush Jain et.al.|[2311.09596](http://arxiv.org/abs/2311.09596)|null|
+|**2023-11-15**|**LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction**|Jamie McCusker et.al.|[2311.09366](http://arxiv.org/abs/2311.09366)|null|
 |**2023-11-15**|**Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?**|Yusuke Sakai et.al.|[2311.09109](http://arxiv.org/abs/2311.09109)|null|
 |**2023-11-15**|**Enhancing Emergency Decision-making with Knowledge Graphs and Large Language Models**|Minze Chen et.al.|[2311.08732](http://arxiv.org/abs/2311.08732)|null|
 |**2023-11-15**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724](http://arxiv.org/abs/2311.08724)|null|
@@ -1908,6 +1912,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**AI Recommendation System for Enhanced Customer Experience: A Novel Image-to-Text Method**|Mohamaed Foued Ayedi et.al.|[2311.09624](http://arxiv.org/abs/2311.09624)|null|
+|**2023-11-16**|**Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation**|Xiaolong Liu et.al.|[2311.09577](http://arxiv.org/abs/2311.09577)|null|
 |**2023-11-15**|**Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation**|Bowen Zheng et.al.|[2311.09049](http://arxiv.org/abs/2311.09049)|null|
 |**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744](http://arxiv.org/abs/2311.08744)|null|
 |**2023-11-15**|**Enhancing Recommender System Performance by Histogram Equalization**|Hao Wang et.al.|[2311.08682](http://arxiv.org/abs/2311.08682)|null|
