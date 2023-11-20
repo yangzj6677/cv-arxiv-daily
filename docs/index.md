@@ -1307,7 +1307,7 @@ layout: default
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
 |**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914](http://arxiv.org/abs/2311.07914)|null|
-|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850](http://arxiv.org/abs/2311.07850)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850](http://arxiv.org/abs/2311.07850)|**[link](https://github.com/dhdhagar/byokg)**|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509](http://arxiv.org/abs/2311.07509)|null|
 |**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180](http://arxiv.org/abs/2311.07180)|null|
 |**2023-11-12**|**Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding**|Ruyao Xu et.al.|[2311.06761](http://arxiv.org/abs/2311.06761)|null|
@@ -1684,7 +1684,7 @@ layout: default
 |**2023-06-05**|**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**|Zequn Sun et.al.|[2306.02679](http://arxiv.org/abs/2306.02679)|**[link](https://github.com/nju-websoft/mukge)**|
 |**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622](http://arxiv.org/abs/2306.02622)|**[link](https://github.com/nju-websoft/unify-ea-sf)**|
 |**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520](http://arxiv.org/abs/2306.02520)|**[link](https://github.com/saccharomycetes/text-based-traffic-understanding)**|
-|**2023-06-03**|**Shrinking Embeddings for Hyper-Relational Knowledge Graphs**|Bo Xiong et.al.|[2306.02199](http://arxiv.org/abs/2306.02199)|null|
+|**2023-06-03**|**Shrinking Embeddings for Hyper-Relational Knowledge Graphs**|Bo Xiong et.al.|[2306.02199](http://arxiv.org/abs/2306.02199)|**[link](https://github.com/xiongbo010/shrinke)**|
 |**2023-06-06**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent Advances and New Frontiers**|Xiaoyan Zhao et.al.|[2306.02051](http://arxiv.org/abs/2306.02051)|null|
 |**2023-06-02**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631](http://arxiv.org/abs/2306.01631)|null|
 |**2023-06-02**|**CLIPGraphs: Multimodal Graph Networks to Infer Object-Room Affinities**|Ayush Agrawal et.al.|[2306.01540](http://arxiv.org/abs/2306.01540)|null|
@@ -2376,7 +2376,7 @@ layout: default
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
 |**2023-06-13**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118](http://arxiv.org/abs/2306.05118)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
-|**2023-06-08**|**When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming**|Hussein Mozannar et.al.|[2306.04930](http://arxiv.org/abs/2306.04930)|null|
+|**2023-06-08**|**When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming**|Hussein Mozannar et.al.|[2306.04930](http://arxiv.org/abs/2306.04930)|**[link](https://github.com/microsoft/coderec_programming_states)**|
 |**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791](http://arxiv.org/abs/2306.04791)|null|
 |**2023-06-07**|**Constraint-based recommender system for crisis management simulations**|Ngoc Luyen Le et.al.|[2306.04553](http://arxiv.org/abs/2306.04553)|null|
 |**2023-06-07**|**Embracing Uncertainty: Adaptive Vague Preference Policy Learning for Multi-round Conversational Recommendation**|Gangyi Zhang et.al.|[2306.04487](http://arxiv.org/abs/2306.04487)|null|
