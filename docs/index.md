@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**Using Causal Threads to Explain Changes in a Dynamic System**|Robert B. Allen et.al.|[2311.11334](http://arxiv.org/abs/2311.11334)|null|
+|**2023-11-18**|**Hate speech and hate crimes: a data-driven study of evolving discourse around marginalized groups**|Malvina Bozhidarova et.al.|[2311.11163](http://arxiv.org/abs/2311.11163)|null|
+|**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157](http://arxiv.org/abs/2311.11157)|null|
+|**2023-11-18**|**Compositional Fusion of Signals in Data Embedding**|Zhijin Guo et.al.|[2311.11085](http://arxiv.org/abs/2311.11085)|null|
 |**2023-11-17**|**Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization**|Maolin Wang et.al.|[2311.10341](http://arxiv.org/abs/2311.10341)|null|
 |**2023-11-15**|**Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models**|Zifeng Ding et.al.|[2311.10112](http://arxiv.org/abs/2311.10112)|null|
 |**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841](http://arxiv.org/abs/2311.09841)|**[link](https://github.com/huntila/scholarly-kgqa)**|
@@ -1897,6 +1901,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Graph Variational Embedding Collaborative Filtering**|Narges Sadat Fazeli Dehkordi et.al.|[2311.11824](http://arxiv.org/abs/2311.11824)|null|
+|**2023-11-19**|**Scaling Law of Large Sequential Recommendation Models**|Gaowei Zhang et.al.|[2311.11351](http://arxiv.org/abs/2311.11351)|null|
+|**2023-11-18**|**Utilizing Speech Emotion Recognition and Recommender Systems for Negative Emotion Handling in Therapy Chatbots**|Farideh Majidi et.al.|[2311.11116](http://arxiv.org/abs/2311.11116)|null|
+|**2023-11-18**|**Compositional Fusion of Signals in Data Embedding**|Zhijin Guo et.al.|[2311.11085](http://arxiv.org/abs/2311.11085)|null|
+|**2023-11-18**|**SBTRec- A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis**|Ngai Lam Ho et.al.|[2311.11071](http://arxiv.org/abs/2311.11071)|null|
+|**2023-11-18**|**RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability**|Yuxuan Lei et.al.|[2311.10947](http://arxiv.org/abs/2311.10947)|null|
+|**2023-11-17**|**Emotion-Aware Music Recommendation System: Enhancing User Experience Through Real-Time Emotional Context**|Tina Babu et.al.|[2311.10796](http://arxiv.org/abs/2311.10796)|null|
 |**2023-11-17**|**Ex2Vec: Characterizing Users and Items from the Mere Exposure Effect**|Bruno Sguerra et.al.|[2311.10635](http://arxiv.org/abs/2311.10635)|**[link](https://github.com/deezer/ex2vec)**|
 |**2023-11-17**|**Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation**|Shenghao Yang et.al.|[2311.10501](http://arxiv.org/abs/2311.10501)|**[link](https://github.com/ysh-1998/cowpirec)**|
 |**2023-11-16**|**AI Recommendation System for Enhanced Customer Experience: A Novel Image-to-Text Method**|Mohamaed Foued Ayedi et.al.|[2311.09624](http://arxiv.org/abs/2311.09624)|null|
