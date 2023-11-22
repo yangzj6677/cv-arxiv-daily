@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649](http://arxiv.org/abs/2311.12649)|null|
+|**2023-11-21**|**Towards a Gateway for Knowledge Graph Schemas Collection, Analysis, and Embedding**|Mattia Fumagalli et.al.|[2311.12465](http://arxiv.org/abs/2311.12465)|null|
 |**2023-11-19**|**Using Causal Threads to Explain Changes in a Dynamic System**|Robert B. Allen et.al.|[2311.11334](http://arxiv.org/abs/2311.11334)|null|
 |**2023-11-18**|**Hate speech and hate crimes: a data-driven study of evolving discourse around marginalized groups**|Malvina Bozhidarova et.al.|[2311.11163](http://arxiv.org/abs/2311.11163)|null|
 |**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157](http://arxiv.org/abs/2311.11157)|null|
@@ -1918,6 +1920,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Utilizing Language Models for Tour Itinerary Recommendation**|Ngai Lam Ho et.al.|[2311.12355](http://arxiv.org/abs/2311.12355)|null|
+|**2023-11-21**|**A Survey on Large Language Models for Personalized and Explainable Recommendations**|Junyi Chen et.al.|[2311.12338](http://arxiv.org/abs/2311.12338)|null|
+|**2023-11-20**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146](http://arxiv.org/abs/2311.12146)|null|
 |**2023-11-20**|**Graph Variational Embedding Collaborative Filtering**|Narges Sadat Fazeli Dehkordi et.al.|[2311.11824](http://arxiv.org/abs/2311.11824)|null|
 |**2023-11-19**|**Scaling Law of Large Sequential Recommendation Models**|Gaowei Zhang et.al.|[2311.11351](http://arxiv.org/abs/2311.11351)|null|
 |**2023-11-18**|**Utilizing Speech Emotion Recognition and Recommender Systems for Negative Emotion Handling in Therapy Chatbots**|Farideh Majidi et.al.|[2311.11116](http://arxiv.org/abs/2311.11116)|null|
