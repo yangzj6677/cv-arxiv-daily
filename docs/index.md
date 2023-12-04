@@ -1223,7 +1223,7 @@ layout: default
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann et.al.|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
 |**2022-10-21**|**RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**|Zhenggang Tang et.al.|[2210.11668v1](http://arxiv.org/abs/2210.11668v1)|null|
 |**2022-10-21**|**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**|Fukun Yin et.al.|[2210.11170v2](http://arxiv.org/abs/2210.11170v2)|**[link](https://github.com/fukunyin/coco-nerf)**|
-|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
+|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|**[link](https://github.com/NVlabs/ParallelInversion)**|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
 |**2022-10-20**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v2](http://arxiv.org/abs/2210.09420v2)|null|
 |**2022-10-15**|**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**|Ruofan Liang et.al.|[2210.08398v1](http://arxiv.org/abs/2210.08398v1)|null|
@@ -1305,7 +1305,7 @@ layout: default
 |**2023-11-27**|**A Knowledge Graph Approach for Exploratory Search in Research Institutions**|Tim Schopf et.al.|[2311.15688](http://arxiv.org/abs/2311.15688)|null|
 |**2023-11-27**|**The WebCrow French Crossword Solver**|Giovanni Angelini et.al.|[2311.15626](http://arxiv.org/abs/2311.15626)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
-|**2023-11-22**|**AutoKG: Efficient Automated Knowledge Graph Generation for Language Models**|Bohan Chen et.al.|[2311.14740](http://arxiv.org/abs/2311.14740)|null|
+|**2023-11-22**|**AutoKG: Efficient Automated Knowledge Graph Generation for Language Models**|Bohan Chen et.al.|[2311.14740](http://arxiv.org/abs/2311.14740)|**[link](https://github.com/wispcarey/autokg)**|
 |**2023-11-22**|**Dynamic Analysis Method for Hidden Dangers in Substation Based on Knowledge Graph**|Weiwei Li et.al.|[2311.13708](http://arxiv.org/abs/2311.13708)|null|
 |**2023-11-22**|**Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting**|Xinyan Guan et.al.|[2311.13314](http://arxiv.org/abs/2311.13314)|null|
 |**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649](http://arxiv.org/abs/2311.12649)|null|
@@ -1395,7 +1395,7 @@ layout: default
 |**2023-10-18**|**Code Book for the Annotation of Diverse Cross-Document Coreference of Entities in News Articles**|Jakob Vogel et.al.|[2310.12064](http://arxiv.org/abs/2310.12064)|null|
 |**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011](http://arxiv.org/abs/2310.12011)|**[link](https://github.com/hkust-knowcomp/gold)**|
 |**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
-|**2023-10-18**|**A Benchmark for Semi-Inductive Link Prediction in Knowledge Graphs**|Adrian Kochsiek et.al.|[2310.11917](http://arxiv.org/abs/2310.11917)|null|
+|**2023-10-18**|**A Benchmark for Semi-Inductive Link Prediction in Knowledge Graphs**|Adrian Kochsiek et.al.|[2310.11917](http://arxiv.org/abs/2310.11917)|**[link](https://github.com/uma-pi1/wikidata5m-si)**|
 |**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|**[link](https://github.com/alexanderzsh/adavis)**|
 |**2023-10-18**|**Descriptive Knowledge Graph in Biomedical Domain**|Kerui Zhu et.al.|[2310.11681](http://arxiv.org/abs/2310.11681)|null|
 |**2023-10-18**|**Open Information Extraction: A Review of Baseline Techniques, Approaches, and Applications**|Serafina Kamp et.al.|[2310.11644](http://arxiv.org/abs/2310.11644)|null|
@@ -1420,7 +1420,7 @@ layout: default
 |**2023-10-11**|**Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs**|Hrishikesh Terdalkar et.al.|[2310.07848](http://arxiv.org/abs/2310.07848)|null|
 |**2023-10-11**|**GenTKG: Generative Forecasting on Temporal Knowledge Graph**|Ruotong Liao et.al.|[2310.07793](http://arxiv.org/abs/2310.07793)|null|
 |**2023-10-11**|**Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**|Gustav Nikopensius et.al.|[2310.07613](http://arxiv.org/abs/2310.07613)|null|
-|**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573](http://arxiv.org/abs/2310.07573)|null|
+|**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573](http://arxiv.org/abs/2310.07573)|**[link](https://github.com/ozzyou/rp-fem)**|
 |**2023-10-11**|**What can knowledge graph alignment gain with Neuro-Symbolic learning approaches?**|Pedro Giesteira Cotovio et.al.|[2310.07417](http://arxiv.org/abs/2310.07417)|null|
 |**2023-10-11**|**Semantic Association Rule Learning from Time Series Data and Knowledge Graphs**|Erkan Karabulut et.al.|[2310.07348](http://arxiv.org/abs/2310.07348)|null|
 |**2023-10-11**|**PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model**|Tatsuya Ide et.al.|[2310.07170](http://arxiv.org/abs/2310.07170)|**[link](https://github.com/nlp-waseda/comet-atomic-ja)**|
@@ -1793,7 +1793,7 @@ layout: default
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
 |**2023-05-08**|**Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach**|Xuan Son Nguyen et.al.|[2305.04560](http://arxiv.org/abs/2305.04560)|null|
 |**2023-05-06**|**SRTK: A Toolkit for Semantic-relevant Subgraph Retrieval**|Yuanchun Shen et.al.|[2305.04101](http://arxiv.org/abs/2305.04101)|**[link](https://github.com/happen2me/subgraph-retrieval-toolkit)**|
-|**2023-05-06**|**A Minimal Approach for Natural Language Action Space in Text-based Games**|Dongwon Kelvin Ryu et.al.|[2305.04082](http://arxiv.org/abs/2305.04082)|null|
+|**2023-05-06**|**A Minimal Approach for Natural Language Action Space in Text-based Games**|Dongwon Kelvin Ryu et.al.|[2305.04082](http://arxiv.org/abs/2305.04082)|**[link](https://github.com/ktr0921/tac)**|
 |**2023-05-06**|**Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport**|Zihao Wang et.al.|[2305.04034](http://arxiv.org/abs/2305.04034)|**[link](https://github.com/hkust-knowcomp/wfre)**|
 |**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513](http://arxiv.org/abs/2305.03513)|**[link](https://github.com/sycny/chatgraph)**|
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|**[link](https://github.com/boschresearch/exekglib)**|
@@ -2035,7 +2035,7 @@ layout: default
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
 |**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562](http://arxiv.org/abs/2310.11562)|null|
 |**2023-10-17**|**Improving Operator Situation Awareness when Working with AI Recommender Systems**|Divya K. Srivastava et.al.|[2310.11370](http://arxiv.org/abs/2310.11370)|null|
-|**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
+|**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|**[link](https://github.com/sisinflab/log-2023-gnns-recsys)**|
 |**2023-10-17**|**MeKB-Rec: Personal Knowledge Graph Learning for Cross-Domain Recommendation**|Xin Su et.al.|[2310.11088](http://arxiv.org/abs/2310.11088)|null|
 |**2023-10-16**|**Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems**|Yunli Wang et.al.|[2310.10462](http://arxiv.org/abs/2310.10462)|null|
 |**2023-10-16**|**Rethinking Financial Service Promotion With Hybrid Recommender Systems at PicPay**|Gabriel Mendonça et.al.|[2310.10268](http://arxiv.org/abs/2310.10268)|null|
