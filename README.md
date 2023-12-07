@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
+|**2023-12-06**|**Dyport: Dynamic Importance-based Hypothesis Generation Benchmarking Technique**|Ilya Tyagin et.al.|[2312.03303](http://arxiv.org/abs/2312.03303)|null|
+|**2023-12-06**|**Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes**|Guoxuan Ma et.al.|[2312.03257](http://arxiv.org/abs/2312.03257)|null|
+|**2023-12-05**|**Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction**|Hongbin Ye et.al.|[2312.03022](http://arxiv.org/abs/2312.03022)|null|
 |**2023-12-05**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706](http://arxiv.org/abs/2312.02706)|null|
 |**2023-12-05**|**MKA: A Scalable Medical Knowledge Assisted Mechanism for Generative Models on Medical Conversation Tasks**|Ke Liang et.al.|[2312.02496](http://arxiv.org/abs/2312.02496)|**[link](https://github.com/liangke23/knowledge_assisted_medical_dialogue_generation_mechanism)**|
 |**2023-12-04**|**An Evaluation Framework for Mapping News Headlines to Event Classes in a Knowledge Graph**|Steve Fonin Mbouadeu et.al.|[2312.02334](http://arxiv.org/abs/2312.02334)|**[link](https://github.com/mbouadeus/news-headline-event-linking)**|
@@ -1944,6 +1948,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Rethinking E-Commerce Search**|Haixun Wang et.al.|[2312.03217](http://arxiv.org/abs/2312.03217)|null|
+|**2023-12-05**|**Adaptive spectral graph wavelets for collaborative filtering**|Osama Alshareet et.al.|[2312.03167](http://arxiv.org/abs/2312.03167)|null|
+|**2023-12-05**|**In-Storage Acceleration of Graph-Traversal-Based Approximate Nearest Neighbor Search**|Yitu Wang et.al.|[2312.03141](http://arxiv.org/abs/2312.03141)|null|
 |**2023-12-05**|**An empirical study of next-basket recommendations**|Zhufeng Shao et.al.|[2312.02550](http://arxiv.org/abs/2312.02550)|null|
 |**2023-12-05**|**E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation**|Xinhang Li et.al.|[2312.02443](http://arxiv.org/abs/2312.02443)|**[link](https://github.com/hestiasky/e4srec)**|
 |**2023-12-04**|**PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916](http://arxiv.org/abs/2312.01916)|null|
