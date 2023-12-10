@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1299,7 +1299,7 @@ layout: default
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
 |**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
 |**2023-12-06**|**Dyport: Dynamic Importance-based Hypothesis Generation Benchmarking Technique**|Ilya Tyagin et.al.|[2312.03303](http://arxiv.org/abs/2312.03303)|**[link](https://github.com/ilyatyagin/dyport)**|
-|**2023-12-06**|**Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes**|Guoxuan Ma et.al.|[2312.03257](http://arxiv.org/abs/2312.03257)|null|
+|**2023-12-06**|**Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes**|Guoxuan Ma et.al.|[2312.03257](http://arxiv.org/abs/2312.03257)|**[link](https://github.com/guoxuan-ma/baum)**|
 |**2023-12-05**|**Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction**|Hongbin Ye et.al.|[2312.03022](http://arxiv.org/abs/2312.03022)|null|
 |**2023-12-05**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706](http://arxiv.org/abs/2312.02706)|null|
 |**2023-12-05**|**MKA: A Scalable Medical Knowledge Assisted Mechanism for Generative Models on Medical Conversation Tasks**|Ke Liang et.al.|[2312.02496](http://arxiv.org/abs/2312.02496)|**[link](https://github.com/liangke23/knowledge_assisted_medical_dialogue_generation_mechanism)**|
