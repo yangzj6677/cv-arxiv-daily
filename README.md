@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Empirical Basis of Engineering Design Knowledge**|L. Siddharth et.al.|[2312.06355](http://arxiv.org/abs/2312.06355)|null|
+|**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336](http://arxiv.org/abs/2312.06336)|null|
+|**2023-12-11**|**KnowGPT: Black-Box Knowledge Injection for Large Language Models**|Qinggang Zhang et.al.|[2312.06185](http://arxiv.org/abs/2312.06185)|null|
+|**2023-12-11**|**IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions**|Ziheng Zeng et.al.|[2312.06053](http://arxiv.org/abs/2312.06053)|**[link](https://github.com/zzeng13/iekg)**|
+|**2023-12-10**|**NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation**|Peter West et.al.|[2312.05979](http://arxiv.org/abs/2312.05979)|null|
+|**2023-12-08**|**Making Large Language Models Better Knowledge Miners for Online Marketing with Progressive Prompting Augmentation**|Chunjing Gan et.al.|[2312.05276](http://arxiv.org/abs/2312.05276)|null|
 |**2023-12-08**|**Beyond Transduction: A Survey on Inductive, Few Shot, and Zero Shot Link Prediction in Knowledge Graphs**|Nicolas Hubert et.al.|[2312.04997](http://arxiv.org/abs/2312.04997)|null|
 |**2023-12-08**|**Generating Explanations to Understand and Repair Embedding-based Entity Alignment**|Xiaobin Tian et.al.|[2312.04877](http://arxiv.org/abs/2312.04877)|**[link](https://github.com/txb-nju/exea)**|
 |**2023-12-08**|**Using Program Knowledge Graph to Uncover Software Vulnerabilities**|M. Xie et.al.|[2312.04818](http://arxiv.org/abs/2312.04818)|null|
@@ -1953,6 +1959,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Cross Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction**|Ruijie Hou et.al.|[2312.06424](http://arxiv.org/abs/2312.06424)|null|
+|**2023-12-11**|**Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection**|Maximilian Böther et.al.|[2312.06254](http://arxiv.org/abs/2312.06254)|null|
+|**2023-12-11**|**RecJPQ: Training Large-Catalogue Sequential Recommenders**|Aleksandr V. Petrov et.al.|[2312.06165](http://arxiv.org/abs/2312.06165)|null|
+|**2023-12-11**|**Proxy-based Item Representation for Attribute and Context-aware Recommendation**|Jinseok Seol et.al.|[2312.06145](http://arxiv.org/abs/2312.06145)|**[link](https://github.com/theeluwin/ProxyRCA)**|
+|**2023-12-11**|**Efficient Estimation of Pairwise Effective Resistance**|Renchi Yang et.al.|[2312.06123](http://arxiv.org/abs/2312.06123)|null|
+|**2023-12-10**|**Towards Global, Socio-Economic, and Culturally Aware Recommender Systems**|Kelley Ann Yohe et.al.|[2312.05805](http://arxiv.org/abs/2312.05805)|null|
 |**2023-12-07**|**Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND**|Weihong Xu et.al.|[2312.04257](http://arxiv.org/abs/2312.04257)|null|
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
 |**2023-12-07**|**Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**|Yuni Lai et.al.|[2312.03979](http://arxiv.org/abs/2312.03979)|null|
