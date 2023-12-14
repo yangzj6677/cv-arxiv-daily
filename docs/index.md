@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868](http://arxiv.org/abs/2312.07868)|null|
+|**2023-12-11**|**ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion**|Wenbin Guo et.al.|[2312.07589](http://arxiv.org/abs/2312.07589)|null|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-12-11**|**Empirical Basis of Engineering Design Knowledge**|L. Siddharth et.al.|[2312.06355](http://arxiv.org/abs/2312.06355)|null|
 |**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336](http://arxiv.org/abs/2312.06336)|null|
@@ -1943,13 +1947,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Exploring Popularity Bias in Session-based Recommendation**|Haowen Wang et.al.|[2312.07855](http://arxiv.org/abs/2312.07855)|null|
 |**2023-12-12**|**TT-RecS: The Taxonomic Trace Recommender System**|Michael Unterkalmsteiner et.al.|[2312.07093](http://arxiv.org/abs/2312.07093)|null|
 |**2023-12-11**|**Efficient and Effective Similarity Search over Bipartite Graphs**|Renchi Yang et.al.|[2312.06724](http://arxiv.org/abs/2312.06724)|null|
 |**2023-12-11**|**Cross Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction**|Ruijie Hou et.al.|[2312.06424](http://arxiv.org/abs/2312.06424)|null|
 |**2023-12-11**|**Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection**|Maximilian Böther et.al.|[2312.06254](http://arxiv.org/abs/2312.06254)|null|
 |**2023-12-11**|**RecJPQ: Training Large-Catalogue Sequential Recommenders**|Aleksandr V. Petrov et.al.|[2312.06165](http://arxiv.org/abs/2312.06165)|null|
 |**2023-12-11**|**Proxy-based Item Representation for Attribute and Context-aware Recommendation**|Jinseok Seol et.al.|[2312.06145](http://arxiv.org/abs/2312.06145)|**[link](https://github.com/theeluwin/ProxyRCA)**|
-|**2023-12-11**|**Efficient Estimation of Pairwise Effective Resistance**|Renchi Yang et.al.|[2312.06123](http://arxiv.org/abs/2312.06123)|null|
+|**2023-12-11**|**Efficient Estimation of Pairwise Effective Resistance**|Renchi Yang et.al.|[2312.06123](http://arxiv.org/abs/2312.06123)|**[link](https://github.com/anryyang/geer)**|
 |**2023-12-10**|**Towards Global, Socio-Economic, and Culturally Aware Recommender Systems**|Kelley Ann Yohe et.al.|[2312.05805](http://arxiv.org/abs/2312.05805)|null|
 |**2023-12-07**|**Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND**|Weihong Xu et.al.|[2312.04257](http://arxiv.org/abs/2312.04257)|null|
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
