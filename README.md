@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948](http://arxiv.org/abs/2312.09948)|null|
+|**2023-12-15**|**MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation**|Liang He et.al.|[2312.09753](http://arxiv.org/abs/2312.09753)|null|
+|**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744](http://arxiv.org/abs/2312.09744)|null|
+|**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
 |**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219](http://arxiv.org/abs/2312.09219)|**[link](https://github.com/xiongbo010/neste)**|
 |**2023-12-14**|**Towards Trustworthy AI Software Development Assistance**|Daniel Maninger et.al.|[2312.09126](http://arxiv.org/abs/2312.09126)|null|
 |**2023-12-14**|**Identifying Planetary Names in Astronomy Papers: A Multi-Step Approach**|Golnaz Shapurian et.al.|[2312.08579](http://arxiv.org/abs/2312.08579)|null|
@@ -1967,6 +1971,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|null|
+|**2023-12-15**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
+|**2023-12-15**|**MONET: Modality-Embracing Graph Convolutional Network and Target-Aware Attention for Multimedia Recommendation**|Yungi Kim et.al.|[2312.09511](http://arxiv.org/abs/2312.09511)|**[link](https://github.com/kimyungi/monet)**|
 |**2023-12-14**|**Recommender systems may enhance the discovery of novelties**|Giordano De Marzo et.al.|[2312.08824](http://arxiv.org/abs/2312.08824)|null|
 |**2023-12-14**|**Hybrid Content Dynamic Recommendation System Based in Adapted Tags and Applied to Digital Library**|Thiago Bellotti Furtado et.al.|[2312.08584](http://arxiv.org/abs/2312.08584)|null|
 |**2023-12-12**|**Multi-criteria recommendation systems to foster online grocery**|Manar Mohamed Hafez et.al.|[2312.08393](http://arxiv.org/abs/2312.08393)|null|
