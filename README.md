@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**CLDR: Contrastive Learning Drug Response Models from Natural Language Supervision**|Kun Li et.al.|[2312.10707](http://arxiv.org/abs/2312.10707)|null|
+|**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645](http://arxiv.org/abs/2312.10645)|null|
+|**2023-12-17**|**HyperPIE: Hyperparameter Information Extraction from Scientific Publications**|Tarek Saier et.al.|[2312.10638](http://arxiv.org/abs/2312.10638)|**[link](https://github.com/illdepence/hyperpie)**|
+|**2023-12-16**|**Sails and Anchors: The Complementarity of Exploratory and Exploitative Scientists in Knowledge Creation**|Pierre Pelletier et.al.|[2312.10476](http://arxiv.org/abs/2312.10476)|null|
+|**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370](http://arxiv.org/abs/2312.10370)|**[link](https://github.com/nicolas-hbt/similar-embeddings)**|
+|**2023-12-16**|**Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks**|Canlin Zhang et.al.|[2312.10293](http://arxiv.org/abs/2312.10293)|null|
 |**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948](http://arxiv.org/abs/2312.09948)|null|
 |**2023-12-15**|**MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation**|Liang He et.al.|[2312.09753](http://arxiv.org/abs/2312.09753)|null|
 |**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744](http://arxiv.org/abs/2312.09744)|null|
@@ -1971,8 +1977,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
+|**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|null|
+|**2023-12-16**|**RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models**|Dairui Liu et.al.|[2312.10463](http://arxiv.org/abs/2312.10463)|null|
+|**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370](http://arxiv.org/abs/2312.10370)|**[link](https://github.com/nicolas-hbt/similar-embeddings)**|
 |**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|**[link](https://github.com/salmon1802/cetn)**|
-|**2023-12-15**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
+|**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
 |**2023-12-15**|**MONET: Modality-Embracing Graph Convolutional Network and Target-Aware Attention for Multimedia Recommendation**|Yungi Kim et.al.|[2312.09511](http://arxiv.org/abs/2312.09511)|**[link](https://github.com/kimyungi/monet)**|
 |**2023-12-14**|**Recommender systems may enhance the discovery of novelties**|Giordano De Marzo et.al.|[2312.08824](http://arxiv.org/abs/2312.08824)|null|
 |**2023-12-14**|**Hybrid Content Dynamic Recommendation System Based in Adapted Tags and Applied to Digital Library**|Thiago Bellotti Furtado et.al.|[2312.08584](http://arxiv.org/abs/2312.08584)|null|
