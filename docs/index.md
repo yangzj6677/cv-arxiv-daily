@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1968,14 +1968,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Black Content Creators' Responses and Resistance Strategies on TikTok**|Gianna Williams et.al.|[2312.12727](http://arxiv.org/abs/2312.12727)|null|
+|**2023-12-20**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697](http://arxiv.org/abs/2312.12697)|null|
 |**2023-12-19**|**VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation**|Taeri Kim et.al.|[2312.12100](http://arxiv.org/abs/2312.12100)|**[link](https://github.com/jhheo0123/vita)**|
 |**2023-12-18**|**Model Stealing Attack against Recommender System**|Zhihao Zhu et.al.|[2312.11571](http://arxiv.org/abs/2312.11571)|null|
 |**2023-12-18**|**Application of AI in Nutrition**|Ritu Ramakrishnan et.al.|[2312.11569](http://arxiv.org/abs/2312.11569)|null|
 |**2023-12-18**|**DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation**|Yu Wang et.al.|[2312.11336](http://arxiv.org/abs/2312.11336)|null|
 |**2023-12-18**|**Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems**|Zhangchi Qiu et.al.|[2312.10967](http://arxiv.org/abs/2312.10967)|null|
-|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-20**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
-|**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|null|
+|**2023-12-20**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|null|
 |**2023-12-16**|**RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models**|Dairui Liu et.al.|[2312.10463](http://arxiv.org/abs/2312.10463)|null|
 |**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370](http://arxiv.org/abs/2312.10370)|**[link](https://github.com/nicolas-hbt/similar-embeddings)**|
 |**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|**[link](https://github.com/salmon1802/cetn)**|
