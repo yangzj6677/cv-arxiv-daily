@@ -25,7 +25,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
-|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|null|
+|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
 |**2023-12-21**|**Anchoring Path for Inductive Relation Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2312.13596](http://arxiv.org/abs/2312.13596)|**[link](https://github.com/zhixiangsu/apst)**|
 |**2023-12-19**|**Knowledge Graph Error Detection with Contrastive Confidence Adaption**|Xiangyu Liu et.al.|[2312.12108](http://arxiv.org/abs/2312.12108)|**[link](https://github.com/nju-websoft/cca)**|
 |**2023-12-19**|**Relation-Aware Question Answering for Heterogeneous Knowledge Graphs**|Haowei Du et.al.|[2312.11922](http://arxiv.org/abs/2312.11922)|**[link](https://github.com/yanmenxue/rah-kbqa)**|
@@ -1990,7 +1990,7 @@
 |---|---|---|---|---|
 |**2023-12-21**|**Neural Contextual Bandits for Personalized Recommendation**|Yikun Ban et.al.|[2312.14037](http://arxiv.org/abs/2312.14037)|null|
 |**2023-12-21**|**AsyncMLD: Asynchronous Multi-LLM Framework for Dialogue Recommendation System**|Naoki Yoshimaru et.al.|[2312.13925](http://arxiv.org/abs/2312.13925)|null|
-|**2023-12-21**|**Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations**|Zhoumeng Wang et.al.|[2312.13557](http://arxiv.org/abs/2312.13557)|null|
+|**2023-12-21**|**Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations**|Zhoumeng Wang et.al.|[2312.13557](http://arxiv.org/abs/2312.13557)|**[link](https://github.com/JNY-Wang/ChatGPT-processed-representations)**|
 |**2023-12-20**|**Black Content Creators' Responses and Resistance Strategies on TikTok**|Gianna Williams et.al.|[2312.12727](http://arxiv.org/abs/2312.12727)|null|
 |**2023-12-20**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697](http://arxiv.org/abs/2312.12697)|**[link](https://github.com/pyrobits/dgcluster)**|
 |**2023-12-19**|**VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation**|Taeri Kim et.al.|[2312.12100](http://arxiv.org/abs/2312.12100)|**[link](https://github.com/jhheo0123/vita)**|
