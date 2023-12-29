@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1300,7 +1300,7 @@ layout: default
 |**2023-12-26**|**Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation**|Zi-Feng Mai et.al.|[2312.15851](http://arxiv.org/abs/2312.15851)|null|
 |**2023-12-25**|**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**|Siheng Xiong et.al.|[2312.15816](http://arxiv.org/abs/2312.15816)|null|
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643](http://arxiv.org/abs/2312.15643)|null|
-|**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626](http://arxiv.org/abs/2312.15626)|**[link](https://github.com/aistairc/RDF-star2Vec)**|
+|**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626](http://arxiv.org/abs/2312.15626)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 |**2023-12-25**|**Inference of Dependency Knowledge Graph for Electronic Health Records**|Zhiwei Xu et.al.|[2312.15611](http://arxiv.org/abs/2312.15611)|null|
 |**2023-12-22**|**ROS package search for robot software development: a knowledge graph-based approach**|Shuo Wang et.al.|[2312.14781](http://arxiv.org/abs/2312.14781)|null|
 |**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
