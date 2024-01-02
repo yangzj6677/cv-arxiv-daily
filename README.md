@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
+|**2023-12-27**|**Conversational Question Answering with Reformulations over Knowledge Graph**|Lihui Liu et.al.|[2312.17269](http://arxiv.org/abs/2312.17269)|null|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
 |**2023-12-27**|**S2M: Converting Single-Turn to Multi-Turn Datasets for Conversational Question Answering**|Baokui Li et.al.|[2312.16511](http://arxiv.org/abs/2312.16511)|null|
 |**2023-12-26**|**Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models**|Xinke Jiang et.al.|[2312.15883](http://arxiv.org/abs/2312.15883)|null|
