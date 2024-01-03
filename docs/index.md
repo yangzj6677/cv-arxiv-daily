@@ -1295,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
+|**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
+|**2023-12-31**|**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**|Chaojie Wang et.al.|[2401.00426](http://arxiv.org/abs/2401.00426)|null|
+|**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388](http://arxiv.org/abs/2401.00388)|null|
+|**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
 |**2023-12-27**|**Conversational Question Answering with Reformulations over Knowledge Graph**|Lihui Liu et.al.|[2312.17269](http://arxiv.org/abs/2312.17269)|null|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
@@ -1983,6 +1990,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces**|Li Sun et.al.|[2401.01243](http://arxiv.org/abs/2401.01243)|null|
+|**2023-12-29**|**Xorbits: Automating Operator Tiling for Distributed Data Science**|Weizheng Lu et.al.|[2401.00865](http://arxiv.org/abs/2401.00865)|null|
+|**2024-01-01**|**Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models**|Wenqi Sun et.al.|[2401.00797](http://arxiv.org/abs/2401.00797)|null|
+|**2024-01-01**|**Temporal Validity Change Prediction**|Georg Wenzel et.al.|[2401.00779](http://arxiv.org/abs/2401.00779)|null|
+|**2023-12-30**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353](http://arxiv.org/abs/2401.00353)|null|
+|**2023-12-30**|**Dual-space Hierarchical Learning for Goal-guided Conversational Recommendation**|Can Chen et.al.|[2401.00272](http://arxiv.org/abs/2401.00272)|null|
 |**2023-12-29**|**User Strategization and Trustworthy Algorithms**|Sarah H. Cen et.al.|[2312.17666](http://arxiv.org/abs/2312.17666)|null|
 |**2023-12-29**|**Break Out of a Pigeonhole: A Unified Framework for Examining Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443](http://arxiv.org/abs/2312.17443)|null|
 |**2023-12-28**|**TSPP: A Unified Benchmarking Tool for Time-series Forecasting**|Jan Bączek et.al.|[2312.17100](http://arxiv.org/abs/2312.17100)|**[link](https://github.com/NVIDIA/DeepLearningExamples)**|
