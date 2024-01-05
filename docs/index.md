@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290](http://arxiv.org/abs/2401.02290)|null|
+|**2024-01-04**|**Joint Multi-Facts Reasoning Network For Complex Temporal Question Answering Over Knowledge Graph**|Rikui Huang et.al.|[2401.02212](http://arxiv.org/abs/2401.02212)|null|
 |**2024-01-03**|**Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Phillip Schneider et.al.|[2401.01711](http://arxiv.org/abs/2401.01711)|**[link](https://github.com/sebischair/llm-sp-cqa)**|
 |**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
@@ -1991,6 +1993,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
+|**2024-01-03**|**Tailor: Size Recommendations for High-End Fashion Marketplaces**|Alexandre Candeias et.al.|[2401.01978](http://arxiv.org/abs/2401.01978)|null|
 |**2024-01-03**|**Poisoning Attacks against Recommender Systems: A Survey**|Zongwei Wang et.al.|[2401.01527](http://arxiv.org/abs/2401.01527)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-01-02**|**Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces**|Li Sun et.al.|[2401.01243](http://arxiv.org/abs/2401.01243)|null|
 |**2023-12-29**|**Xorbits: Automating Operator Tiling for Distributed Data Science**|Weizheng Lu et.al.|[2401.00865](http://arxiv.org/abs/2401.00865)|null|
