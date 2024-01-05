@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1997,7 +1997,7 @@ layout: default
 |**2024-01-01**|**Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models**|Wenqi Sun et.al.|[2401.00797](http://arxiv.org/abs/2401.00797)|null|
 |**2024-01-01**|**Temporal Validity Change Prediction**|Georg Wenzel et.al.|[2401.00779](http://arxiv.org/abs/2401.00779)|null|
 |**2023-12-30**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353](http://arxiv.org/abs/2401.00353)|null|
-|**2023-12-30**|**Dual-space Hierarchical Learning for Goal-guided Conversational Recommendation**|Can Chen et.al.|[2401.00272](http://arxiv.org/abs/2401.00272)|null|
+|**2023-12-30**|**Dual-space Hierarchical Learning for Goal-guided Conversational Recommendation**|Can Chen et.al.|[2401.00272](http://arxiv.org/abs/2401.00272)|**[link](https://github.com/ggchen1997/neurocomputing)**|
 |**2023-12-29**|**User Strategization and Trustworthy Algorithms**|Sarah H. Cen et.al.|[2312.17666](http://arxiv.org/abs/2312.17666)|null|
 |**2023-12-29**|**Break Out of a Pigeonhole: A Unified Framework for Examining Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443](http://arxiv.org/abs/2312.17443)|null|
 |**2023-12-28**|**TSPP: A Unified Benchmarking Tool for Time-series Forecasting**|Jan Bączek et.al.|[2312.17100](http://arxiv.org/abs/2312.17100)|**[link](https://github.com/NVIDIA/DeepLearningExamples)**|
