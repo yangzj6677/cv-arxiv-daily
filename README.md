@@ -588,7 +588,7 @@
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|**[link](https://github.com/stevenzhb/cadge)**|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
-|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|null|
+|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|**[link](https://github.com/siyuyuan/analogykb)**|
 |**2023-05-10**|**Multi-hop Commonsense Knowledge Injection Framework for Zero-Shot Commonsense Question Answering**|Xin Guan et.al.|[2305.05936](http://arxiv.org/abs/2305.05936)|null|
 |**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
@@ -1217,7 +1217,7 @@
 |**2023-03-01**|**A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**|Maria Waheed et.al.|[2303.00714](http://arxiv.org/abs/2303.00714)|null|
 |**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477](http://arxiv.org/abs/2303.00477)|**[link](https://github.com/cybonic/orchnet)**|
 |**2023-03-03**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304](http://arxiv.org/abs/2303.00304)|null|
-|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|**[link](https://github.com/mi-biolab/region-learner)**|
 |**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688](http://arxiv.org/abs/2302.14688)|null|
 |**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217](http://arxiv.org/abs/2302.14217)|**[link](https://github.com/amaralibey/gpm)**|
 |**2023-02-27**|**Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**|Yue Xiang et.al.|[2302.13929](http://arxiv.org/abs/2302.13929)|**[link](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**|
@@ -2022,7 +2022,7 @@
 |**2023-12-29**|**User Strategization and Trustworthy Algorithms**|Sarah H. Cen et.al.|[2312.17666](http://arxiv.org/abs/2312.17666)|null|
 |**2023-12-29**|**Break Out of a Pigeonhole: A Unified Framework for Examining Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443](http://arxiv.org/abs/2312.17443)|null|
 |**2023-12-28**|**TSPP: A Unified Benchmarking Tool for Time-series Forecasting**|Jan Bączek et.al.|[2312.17100](http://arxiv.org/abs/2312.17100)|**[link](https://github.com/NVIDIA/DeepLearningExamples)**|
-|**2023-12-28**|**Efficient High-Quality Clustering for Large Bipartite Graphs**|Renchi Yang et.al.|[2312.16926](http://arxiv.org/abs/2312.16926)|null|
+|**2023-12-28**|**Efficient High-Quality Clustering for Large Bipartite Graphs**|Renchi Yang et.al.|[2312.16926](http://arxiv.org/abs/2312.16926)|**[link](https://github.com/hkbu-lagas/hope)**|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
 |**2023-12-28**|**Pareto-based Multi-Objective Recommender System with Forgetting Curve**|Jipeng Jin et.al.|[2312.16868](http://arxiv.org/abs/2312.16868)|null|
 |**2023-12-27**|**Performance Comparison of Session-based Recommendation Algorithms based on GNNs**|Faisal Shehzad et.al.|[2312.16695](http://arxiv.org/abs/2312.16695)|null|
@@ -2032,7 +2032,7 @@
 |**2023-12-26**|**A Comprehensive Survey of Evaluation Techniques for Recommendation Systems**|Aryan Jadon et.al.|[2312.16015](http://arxiv.org/abs/2312.16015)|**[link](https://github.com/aryan-jadon/evaluation-metrics-for-recommendation-systems)**|
 |**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
-|**2023-12-25**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|null|
+|**2023-12-25**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 |**2023-12-25**|**Preliminary Study on Incremental Learning for Large Language Model-based Recommender Systems**|Tianhao Shi et.al.|[2312.15599](http://arxiv.org/abs/2312.15599)|null|
 |**2023-12-24**|**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**|Ling Li et.al.|[2312.15490](http://arxiv.org/abs/2312.15490)|null|
 |**2023-12-23**|**Monitoring the Evolution of Behavioural Embeddings in Social Media Recommendation**|Srijan Saket et.al.|[2312.15265](http://arxiv.org/abs/2312.15265)|null|
@@ -2090,7 +2090,7 @@
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
 |**2023-11-28**|**SARDINE: A Simulator for Automated Recommendation in Dynamic and Interactive Environments**|Romain Deffayet et.al.|[2311.16586](http://arxiv.org/abs/2311.16586)|**[link](https://github.com/naver/sardine)**|
 |**2023-11-28**|**ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation**|Junyan Qiu et.al.|[2311.16441](http://arxiv.org/abs/2311.16441)|null|
-|**2023-12-01**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334](http://arxiv.org/abs/2311.16334)|null|
+|**2023-12-01**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334](http://arxiv.org/abs/2311.16334)|**[link](https://github.com/xinrui17/bncl)**|
 |**2023-11-27**|**A Social-aware Gaussian Pre-trained Model for Effective Cold-start Recommendation**|Siwei Liu et.al.|[2311.15790](http://arxiv.org/abs/2311.15790)|null|
 |**2023-11-28**|**Hide Your Model: A Parameter Transmission-free Federated Recommender System**|Wei Yuan et.al.|[2311.14968](http://arxiv.org/abs/2311.14968)|null|
 |**2023-11-22**|**A Comparative Analysis of Supportive Navigation on Movie Recommenders**|Mohammad Sualeh Ali et.al.|[2311.13494](http://arxiv.org/abs/2311.13494)|null|
@@ -2165,7 +2165,7 @@
 |**2023-10-29**|**RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Active Data Manipulation**|Dzung Pham et.al.|[2310.19163](http://arxiv.org/abs/2310.19163)|**[link](https://github.com/dzungvpham/raifle)**|
 |**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951](http://arxiv.org/abs/2310.18951)|null|
 |**2023-10-28**|**Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss**|An Zhang et.al.|[2310.18700](http://arxiv.org/abs/2310.18700)|**[link](https://github.com/lehengthu/advinfonce)**|
-|**2023-10-28**|**Embedding in Recommender Systems: A Survey**|Xiangyu Zhao et.al.|[2310.18608](http://arxiv.org/abs/2310.18608)|null|
+|**2023-10-28**|**Embedding in Recommender Systems: A Survey**|Xiangyu Zhao et.al.|[2310.18608](http://arxiv.org/abs/2310.18608)|**[link](https://github.com/applied-machine-learning-lab/embedding-in-recommender-systems)**|
 |**2023-10-28**|**Improved Regret Bounds of (Multinomial) Logistic Bandits via Regret-to-Confidence-Set Conversion**|Junghyun Lee et.al.|[2310.18554](http://arxiv.org/abs/2310.18554)|null|
 |**2023-10-27**|**Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation**|Yeongseo Jung et.al.|[2310.18119](http://arxiv.org/abs/2310.18119)|null|
 |**2023-10-27**|**BitUP: Efficient Bitmap Data Storage Solution For User Profile**|Derong Tang et.al.|[2310.17990](http://arxiv.org/abs/2310.17990)|null|
@@ -2312,7 +2312,7 @@
 |**2023-09-11**|**Formalizing Multimedia Recommendation through Multimodal Deep Learning**|Daniele Malitesta et.al.|[2309.05273](http://arxiv.org/abs/2309.05273)|**[link](https://github.com/sisinflab/formal-multimod-rec)**|
 |**2023-09-09**|**RecAD: Towards A Unified Library for Recommender Attack and Defense**|Changsheng Wang et.al.|[2309.04884](http://arxiv.org/abs/2309.04884)|**[link](https://github.com/gusye1234/recad)**|
 |**2023-09-09**|**CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802](http://arxiv.org/abs/2309.04802)|**[link](https://github.com/dimarziobian/cpmr)**|
-|**2023-09-08**|**SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity**|Casper van Engelenburg et.al.|[2309.04357](http://arxiv.org/abs/2309.04357)|null|
+|**2023-09-08**|**SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity**|Casper van Engelenburg et.al.|[2309.04357](http://arxiv.org/abs/2309.04357)|**[link](https://github.com/caspervanengelenburg/ssig)**|
 |**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350](http://arxiv.org/abs/2309.04350)|null|
 |**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250](http://arxiv.org/abs/2309.04250)|**[link](https://github.com/rahmanidashti/BeyondAccProvider)**|
 |**2023-09-08**|**Offline Recommender System Evaluation under Unobserved Confounding**|Olivier Jeunen et.al.|[2309.04222](http://arxiv.org/abs/2309.04222)|**[link](https://github.com/olivierjeunen/confounding-consequences-2023)**|
