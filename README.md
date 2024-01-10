@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507](http://arxiv.org/abs/2401.04507)|**[link](https://github.com/neukg/techgpt-2.0)**|
+|**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474](http://arxiv.org/abs/2401.04474)|null|
+|**2024-01-09**|**Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning**|Jiaan Wang et.al.|[2401.04361](http://arxiv.org/abs/2401.04361)|**[link](https://github.com/kxinwang2023/enco)**|
 |**2024-01-07**|**Text Classification Based on Knowledge Graphs and Improved Attention Mechanism**|Siyu Li et.al.|[2401.03591](http://arxiv.org/abs/2401.03591)|null|
 |**2024-01-06**|**A Joint-Reasoning based Disease Q&A System**|Prakash Chandra Sukhwal et.al.|[2401.03181](http://arxiv.org/abs/2401.03181)|null|
 |**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290](http://arxiv.org/abs/2401.02290)|null|
@@ -2012,6 +2015,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474](http://arxiv.org/abs/2401.04474)|null|
+|**2024-01-09**|**Fine-Grained Embedding Dimension Optimization During Training for Recommender Systems**|Qinyi Luo et.al.|[2401.04408](http://arxiv.org/abs/2401.04408)|null|
+|**2024-01-09**|**Probabilistic emotion and sentiment modelling of patient-reported experiences**|Curtis Murray et.al.|[2401.04367](http://arxiv.org/abs/2401.04367)|**[link](https://github.com/curtis-murray/perssupplementarymaterials)**|
+|**2024-01-09**|**G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender Systems**|Youshao Xiao et.al.|[2401.04338](http://arxiv.org/abs/2401.04338)|null|
 |**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057](http://arxiv.org/abs/2401.04057)|null|
 |**2024-01-08**|**Learning-to-Rank with Nested Feedback**|Hitesh Sagtani et.al.|[2401.04053](http://arxiv.org/abs/2401.04053)|null|
 |**2024-01-08**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
