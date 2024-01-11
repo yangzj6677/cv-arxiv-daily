@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915](http://arxiv.org/abs/2401.04915)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507](http://arxiv.org/abs/2401.04507)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474](http://arxiv.org/abs/2401.04474)|null|
 |**2024-01-09**|**Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning**|Jiaan Wang et.al.|[2401.04361](http://arxiv.org/abs/2401.04361)|**[link](https://github.com/kxinwang2023/enco)**|
@@ -1998,6 +1999,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Can Probabilistic Feedback Drive User Impacts in Online Platforms?**|Jessica Dai et.al.|[2401.05304](http://arxiv.org/abs/2401.05304)|null|
+|**2024-01-10**|**Accelerating Maximal Biclique Enumeration on GPUs**|Chou-Ying Hsieh et.al.|[2401.05039](http://arxiv.org/abs/2401.05039)|null|
+|**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997](http://arxiv.org/abs/2401.04997)|null|
+|**2024-01-10**|**User Embedding Model for Personalized Language Prompting**|Sumanth Doddapaneni et.al.|[2401.04858](http://arxiv.org/abs/2401.04858)|null|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474](http://arxiv.org/abs/2401.04474)|null|
 |**2024-01-09**|**Fine-Grained Embedding Dimension Optimization During Training for Recommender Systems**|Qinyi Luo et.al.|[2401.04408](http://arxiv.org/abs/2401.04408)|null|
 |**2024-01-09**|**Probabilistic emotion and sentiment modelling of patient-reported experiences**|Curtis Murray et.al.|[2401.04367](http://arxiv.org/abs/2401.04367)|**[link](https://github.com/curtis-murray/perssupplementarymaterials)**|
