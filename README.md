@@ -284,7 +284,7 @@
 |**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427](http://arxiv.org/abs/2309.15427)|**[link](https://github.com/meettyj/gnp)**|
 |**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
 |**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
-|**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|null|
+|**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|**[link](https://github.com/lrlbbzl/unibi_ogb)**|
 |**2023-09-24**|**Multiple Relations Classification using Imbalanced Predictions Adaptation**|Sakher Khalil Alqaaidi et.al.|[2309.13718](http://arxiv.org/abs/2309.13718)|**[link](https://github.com/sa5r/mrca)**|
 |**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625](http://arxiv.org/abs/2309.13625)|**[link](https://github.com/lixinustc/graphadapter)**|
 |**2023-09-24**|**VisionKG: Unleashing the Power of Visual Datasets via Knowledge Graph**|Jicheng Yuan et.al.|[2309.13610](http://arxiv.org/abs/2309.13610)|null|
