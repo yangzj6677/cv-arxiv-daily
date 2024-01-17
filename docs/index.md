@@ -1295,6 +1295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**Leveraging External Knowledge Resources to Enable Domain-Specific Comprehension**|Saptarshi Sengupta et.al.|[2401.07977](http://arxiv.org/abs/2401.07977)|null|
+|**2024-01-15**|**A Strategy for Implementing description Temporal Dynamic Algorithms in Dynamic Knowledge Graphs by SPIN**|Alireza Shahbazi et.al.|[2401.07890](http://arxiv.org/abs/2401.07890)|null|
+|**2024-01-15**|**Wikidata as a seed for Web Extraction**|Kunpeng Guo et.al.|[2401.07812](http://arxiv.org/abs/2401.07812)|null|
+|**2024-01-15**|**Assisted Knowledge Graph Authoring: Human-Supervised Knowledge Graph Construction from Natural Language**|Marcel Gohsen et.al.|[2401.07683](http://arxiv.org/abs/2401.07683)|null|
+|**2024-01-14**|**Distilling Event Sequence Knowledge From Large Language Models**|Somin Wadhwa et.al.|[2401.07237](http://arxiv.org/abs/2401.07237)|null|
+|**2024-01-13**|**Graph Language Models**|Moritz Plenz et.al.|[2401.07105](http://arxiv.org/abs/2401.07105)|**[link](https://github.com/heidelberg-nlp/graphlanguagemodels)**|
+|**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022](http://arxiv.org/abs/2401.07022)|null|
+|**2024-01-13**|**Domain Adaptation for Large-Vocabulary Object Detectors**|Kai Jiang et.al.|[2401.06969](http://arxiv.org/abs/2401.06969)|null|
 |**2024-01-12**|**The SemIoE Ontology: A Semantic Model Solution for an IoE-based Industry**|Marco Arazzi et.al.|[2401.06667](http://arxiv.org/abs/2401.06667)|null|
 |**2024-01-11**|**A Universal Knowledge Model and Cognitive Architecture for Prototyping AGI**|Artem Sukhobokov et.al.|[2401.06256](http://arxiv.org/abs/2401.06256)|null|
 |**2024-01-11**|**Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion**|Ruilin Luo et.al.|[2401.06072](http://arxiv.org/abs/2401.06072)|null|
@@ -2003,6 +2011,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation**|Zhixuan Chu et.al.|[2401.08217](http://arxiv.org/abs/2401.08217)|null|
+|**2024-01-15**|**CREAD: A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems**|Jie Sun et.al.|[2401.07521](http://arxiv.org/abs/2401.07521)|null|
+|**2024-01-15**|**GACE: Learning Graph-Based Cross-Page Ads Embedding For Click-Through Rate Prediction**|Haowen Wang et.al.|[2401.07445](http://arxiv.org/abs/2401.07445)|null|
+|**2024-01-14**|**Learning to be Homo Economicus: Can an LLM Learn Preferences from Choice**|Jeongbin Kim et.al.|[2401.07345](http://arxiv.org/abs/2401.07345)|null|
+|**2024-01-13**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|null|
 |**2024-01-12**|**LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase**|Angela John et.al.|[2401.06676](http://arxiv.org/abs/2401.06676)|null|
 |**2024-01-12**|**Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations**|Lei Li et.al.|[2401.06633](http://arxiv.org/abs/2401.06633)|**[link](https://github.com/ll0ruc/ada-retrieval)**|
 |**2024-01-12**|**Mapping Transformer Leveraged Embeddings for Cross-Lingual Document Representation**|Tsegaye Misikir Tashu et.al.|[2401.06583](http://arxiv.org/abs/2401.06583)|**[link](https://github.com/tron404/bscthesis)**|
