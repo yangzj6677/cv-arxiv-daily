@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751](http://arxiv.org/abs/2401.10751)|null|
 |**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553](http://arxiv.org/abs/2401.09553)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175](http://arxiv.org/abs/2401.09175)|null|
 |**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070](http://arxiv.org/abs/2401.09070)|null|
@@ -2033,6 +2034,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816](http://arxiv.org/abs/2401.10816)|null|
+|**2024-01-19**|**Beyond RMSE and MAE: Introducing EAUC to unmask hidden bias and unfairness in dyadic regression models**|Jorge Paz-Ruza et.al.|[2401.10690](http://arxiv.org/abs/2401.10690)|null|
+|**2024-01-19**|**Use of topical and temporal profiles and their hybridisation for content-based recommendation**|Luis M. de Campos et.al.|[2401.10607](http://arxiv.org/abs/2401.10607)|null|
+|**2024-01-19**|**Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency**|Yashar Deldjoo et.al.|[2401.10545](http://arxiv.org/abs/2401.10545)|null|
+|**2024-01-19**|**Enhancing Scalability in Recommender Systems through Lottery Ticket Hypothesis and Knowledge Distillation-based Neural Network Pruning**|Rajaram R et.al.|[2401.10484](http://arxiv.org/abs/2401.10484)|null|
+|**2024-01-18**|**Improving One-class Recommendation with Multi-tasking on Various Preference Intensities**|Chu-Jen Shao et.al.|[2401.10316](http://arxiv.org/abs/2401.10316)|null|
 |**2024-01-18**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138](http://arxiv.org/abs/2401.10138)|null|
 |**2024-01-18**|**EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693](http://arxiv.org/abs/2401.09693)|**[link](https://github.com/quanvu0996/efficientrec)**|
 |**2024-01-17**|**Handling Large-scale Cardinality in building recommendation systems**|Dhruva Dixith Kurra et.al.|[2401.09572](http://arxiv.org/abs/2401.09572)|null|
