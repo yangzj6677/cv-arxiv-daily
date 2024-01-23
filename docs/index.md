@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075](http://arxiv.org/abs/2401.12075)|null|
+|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|null|
+|**2024-01-21**|**Graph Edits for Counterfactual Explanations: A Unified GNN Approach**|Nikolaos Chaidos et.al.|[2401.11609](http://arxiv.org/abs/2401.11609)|null|
+|**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408](http://arxiv.org/abs/2401.11408)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
+|**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089](http://arxiv.org/abs/2401.11089)|**[link](https://github.com/ttliu98/fedrkg)**|
 |**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751](http://arxiv.org/abs/2401.10751)|null|
 |**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553](http://arxiv.org/abs/2401.09553)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175](http://arxiv.org/abs/2401.09175)|null|
@@ -2017,6 +2022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075](http://arxiv.org/abs/2401.12075)|null|
+|**2024-01-22**|**Domain-Aware Cross-Attention for Cross-domain Recommendation**|Yuhao Luo et.al.|[2401.11705](http://arxiv.org/abs/2401.11705)|null|
+|**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
+|**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506](http://arxiv.org/abs/2401.11506)|null|
+|**2024-01-21**|**D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems**|Jiarui Qin et.al.|[2401.11478](http://arxiv.org/abs/2401.11478)|null|
+|**2024-01-21**|**On-Device Recommender Systems: A Comprehensive Survey**|Hongzhi Yin et.al.|[2401.11441](http://arxiv.org/abs/2401.11441)|null|
+|**2024-01-21**|**Agricultural Recommendation System based on Deep Learning: A Multivariate Weather Forecasting Approach**|Md Zubair et.al.|[2401.11410](http://arxiv.org/abs/2401.11410)|null|
+|**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408](http://arxiv.org/abs/2401.11408)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
+|**2024-01-20**|**Progress in Privacy Protection: A Review of Privacy Preserving Techniques in Recommender Systems, Edge Computing, and Cloud Computing**|Syed Raza Bashir et.al.|[2401.11305](http://arxiv.org/abs/2401.11305)|null|
+|**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089](http://arxiv.org/abs/2401.11089)|**[link](https://github.com/ttliu98/fedrkg)**|
 |**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816](http://arxiv.org/abs/2401.10816)|null|
 |**2024-01-19**|**Beyond RMSE and MAE: Introducing EAUC to unmask hidden bias and unfairness in dyadic regression models**|Jorge Paz-Ruza et.al.|[2401.10690](http://arxiv.org/abs/2401.10690)|null|
 |**2024-01-19**|**Use of topical and temporal profiles and their hybridisation for content-based recommendation**|Luis M. de Campos et.al.|[2401.10607](http://arxiv.org/abs/2401.10607)|null|
