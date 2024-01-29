@@ -704,7 +704,7 @@
 |**2023-04-10**|**Deep Active Alignment of Knowledge Graph Entities and Schemata**|Jiacheng Huang et.al.|[2304.04389](http://arxiv.org/abs/2304.04389)|**[link](https://github.com/nju-websoft/daakg)**|
 |**2023-04-08**|**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**|Shangfei Zheng et.al.|[2304.03984](http://arxiv.org/abs/2304.03984)|null|
 |**2023-04-08**|**The Short Text Matching Model Enhanced with Knowledge via Contrastive Learning**|Qiqiang Zhong et.al.|[2304.03898](http://arxiv.org/abs/2304.03898)|null|
-|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|**[link](https://github.com/IDEA-FinAI/Simple-HHEA)**|
 |**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
@@ -2103,7 +2103,7 @@
 |**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057](http://arxiv.org/abs/2401.04057)|null|
 |**2024-01-08**|**Learning-to-Rank with Nested Feedback**|Hitesh Sagtani et.al.|[2401.04053](http://arxiv.org/abs/2401.04053)|null|
 |**2024-01-08**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
-|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
+|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
 |**2024-01-07**|**ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback**|Kyle Dylan Spurlock et.al.|[2401.03605](http://arxiv.org/abs/2401.03605)|null|
 |**2024-01-07**|**Amplification of Addictive New Media Features in the Metaverse**|Ljubisa Bojic et.al.|[2401.03461](http://arxiv.org/abs/2401.03461)|null|
 |**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
