@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1299,7 +1299,7 @@ layout: default
 |**2024-01-29**|**Capturing Knowledge Graphs and Rules with Octagon Embeddings**|Victor Charpenay et.al.|[2401.16270](http://arxiv.org/abs/2401.16270)|null|
 |**2024-01-29**|**Type-based Neural Link Prediction Adapter for Complex Query Answering**|Lingning Song et.al.|[2401.16045](http://arxiv.org/abs/2401.16045)|null|
 |**2024-01-29**|**Knowledge-Aware Neuron Interpretation for Scene Classification**|Yong Guan et.al.|[2401.15820](http://arxiv.org/abs/2401.15820)|null|
-|**2024-01-27**|**Pre-training and Diagnosing Knowledge Base Completion Models**|Vid Kocijan et.al.|[2401.15439](http://arxiv.org/abs/2401.15439)|null|
+|**2024-01-27**|**Pre-training and Diagnosing Knowledge Base Completion Models**|Vid Kocijan et.al.|[2401.15439](http://arxiv.org/abs/2401.15439)|**[link](https://github.com/vid-koci/kbctransferlearning)**|
 |**2024-01-26**|**Synthetic Multimodal Dataset for Empowering Safety and Well-being in Home Environments**|Takanori Ugai et.al.|[2401.14743](http://arxiv.org/abs/2401.14743)|null|
 |**2024-01-26**|**Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs**|Nan Hu et.al.|[2401.14640](http://arxiv.org/abs/2401.14640)|null|
 |**2024-01-25**|**Parameter-Efficient Conversational Recommender System as a Language Processing Task**|Mathieu Ravaut et.al.|[2401.14194](http://arxiv.org/abs/2401.14194)|**[link](https://github.com/ravoxsg/efficient_unified_crs)**|
@@ -2043,7 +2043,7 @@ layout: default
 |**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369](http://arxiv.org/abs/2401.15369)|null|
 |**2024-01-27**|**Fair and Efficient Ridesharing: A Dynamic Programming-based Relocation Approach**|Aqsa Ashraf Makhdomi et.al.|[2401.15363](http://arxiv.org/abs/2401.15363)|null|
 |**2024-01-26**|**Expert with Clustering: Hierarchical Online Preference Learning Framework**|Tianyue Zhou et.al.|[2401.15062](http://arxiv.org/abs/2401.15062)|null|
-|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|null|
+|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|**[link](https://github.com/yuanchenbei/macgnn)**|
 |**2024-01-25**|**Parameter-Efficient Conversational Recommender System as a Language Processing Task**|Mathieu Ravaut et.al.|[2401.14194](http://arxiv.org/abs/2401.14194)|**[link](https://github.com/ravoxsg/efficient_unified_crs)**|
 |**2024-01-25**|**On the Feasibility of Simple Transformer for Dynamic Graph Modeling**|Yuxia Wu et.al.|[2401.14009](http://arxiv.org/abs/2401.14009)|null|
 |**2024-01-24**|**Algorithmically Curated Lies: How Search Engines Handle Misinformation about US Biolabs in Ukraine**|Elizaveta Kuznetsova et.al.|[2401.13832](http://arxiv.org/abs/2401.13832)|null|
