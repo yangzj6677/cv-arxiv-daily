@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment**|Yuanyi Wang et.al.|[2401.17859](http://arxiv.org/abs/2401.17859)|null|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs**|Ying Su et.al.|[2401.17536](http://arxiv.org/abs/2401.17536)|null|
 |**2024-01-30**|**Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment**|Linyao Yang et.al.|[2401.16960](http://arxiv.org/abs/2401.16960)|null|
 |**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293](http://arxiv.org/abs/2401.16293)|**[link](https://github.com/expertailab/textual-entailment-for-effective-triple-validation-in-object-prediction)**|
 |**2024-01-29**|**Capturing Knowledge Graphs and Rules with Octagon Embeddings**|Victor Charpenay et.al.|[2401.16270](http://arxiv.org/abs/2401.16270)|null|
@@ -2057,11 +2060,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**A Survey on Data-Centric Recommender Systems**|Riwei Lai et.al.|[2401.17878](http://arxiv.org/abs/2401.17878)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630](http://arxiv.org/abs/2401.17630)|null|
 |**2024-01-30**|**Taxonomy of Mathematical Plagiarism**|Ankit Satpute et.al.|[2401.16969](http://arxiv.org/abs/2401.16969)|**[link](https://github.com/gipplab/taxonomy-of-mathematical-plagiarism)**|
 |**2024-01-30**|**Fast Dual-Regularized Autoencoder for Sparse Biological Data**|Aleksandar Poleksic et.al.|[2401.16664](http://arxiv.org/abs/2401.16664)|null|
 |**2024-01-30**|**Producers Equilibria and Dynamics in Engagement-Driven Recommender Systems**|Krishna Acharya et.al.|[2401.16641](http://arxiv.org/abs/2401.16641)|**[link](https://github.com/krishnacharya/recsys_eq)**|
 |**2024-01-29**|**Effect of recommending users and opinions on the network connectivity and idea generation process**|Sriniwas Pandey et.al.|[2401.16504](http://arxiv.org/abs/2401.16504)|null|
-|**2024-01-29**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108](http://arxiv.org/abs/2401.16108)|null|
+|**2024-01-31**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108](http://arxiv.org/abs/2401.16108)|null|
 |**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369](http://arxiv.org/abs/2401.15369)|**[link](https://github.com/lachlanlin/pricdsr)**|
 |**2024-01-27**|**Fair and Efficient Ridesharing: A Dynamic Programming-based Relocation Approach**|Aqsa Ashraf Makhdomi et.al.|[2401.15363](http://arxiv.org/abs/2401.15363)|null|
 |**2024-01-26**|**Expert with Clustering: Hierarchical Online Preference Learning Framework**|Tianyue Zhou et.al.|[2401.15062](http://arxiv.org/abs/2401.15062)|null|
