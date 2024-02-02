@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**A Hoare Logic for Domain Specification (Full Version)**|Eduard Kamburjan et.al.|[2402.00452](http://arxiv.org/abs/2402.00452)|null|
+|**2024-02-01**|**Prompt-Time Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2402.00414](http://arxiv.org/abs/2402.00414)|**[link](https://github.com/haltiaai/paper-ptskc)**|
+|**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292](http://arxiv.org/abs/2402.00292)|null|
 |**2024-01-31**|**Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment**|Yuanyi Wang et.al.|[2401.17859](http://arxiv.org/abs/2401.17859)|**[link](https://github.com/wyy-code/desalign)**|
 |**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
 |**2024-01-31**|**PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs**|Ying Su et.al.|[2401.17536](http://arxiv.org/abs/2401.17536)|null|
@@ -2043,6 +2046,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485](http://arxiv.org/abs/2402.00485)|null|
+|**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
+|**2024-02-01**|**EASRec: Elastic Architecture Search for Efficient Long-term Sequential Recommender Systems**|Sheng Zhang et.al.|[2402.00390](http://arxiv.org/abs/2402.00390)|null|
+|**2024-02-01**|**Cumulative Distribution Function based General Temporal Point Processes**|Maolin Wang et.al.|[2402.00388](http://arxiv.org/abs/2402.00388)|null|
+|**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292](http://arxiv.org/abs/2402.00292)|null|
+|**2024-01-31**|**Decomposable Submodular Maximization in Federated Setting**|Akbar Rafiey et.al.|[2402.00138](http://arxiv.org/abs/2402.00138)|null|
 |**2024-01-31**|**A Survey on Data-Centric Recommender Systems**|Riwei Lai et.al.|[2401.17878](http://arxiv.org/abs/2401.17878)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
 |**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630](http://arxiv.org/abs/2401.17630)|null|
