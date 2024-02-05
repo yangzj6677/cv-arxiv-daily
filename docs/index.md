@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495](http://arxiv.org/abs/2402.01495)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
+|**2024-02-01**|**SPARQL Generation with Entity Pre-trained GPT for KG Question Answering**|Diego Bustamante et.al.|[2402.00969](http://arxiv.org/abs/2402.00969)|**[link](https://github.com/diegoemilio01/sparql-generation-with-entity-pre-trained-gpt-for-kg-question-answering)**|
 |**2024-02-01**|**A Hoare Logic for Domain Specification (Full Version)**|Eduard Kamburjan et.al.|[2402.00452](http://arxiv.org/abs/2402.00452)|null|
 |**2024-02-01**|**Prompt-Time Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2402.00414](http://arxiv.org/abs/2402.00414)|**[link](https://github.com/haltiaai/paper-ptskc)**|
 |**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292](http://arxiv.org/abs/2402.00292)|null|
@@ -2046,13 +2048,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**HimiRec: Modeling Hierarchical Multi-interest for Recommendation**|Haolei Pei et.al.|[2402.01253](http://arxiv.org/abs/2402.01253)|null|
+|**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
+|**2024-02-01**|**CF4J: Collaborative Filtering for Java**|Fernando Ortega et.al.|[2402.01008](http://arxiv.org/abs/2402.01008)|**[link](https://github.com/ferortega/cf4j)**|
 |**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485](http://arxiv.org/abs/2402.00485)|null|
 |**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
 |**2024-02-01**|**EASRec: Elastic Architecture Search for Efficient Long-term Sequential Recommender Systems**|Sheng Zhang et.al.|[2402.00390](http://arxiv.org/abs/2402.00390)|null|
 |**2024-02-01**|**Cumulative Distribution Function based General Temporal Point Processes**|Maolin Wang et.al.|[2402.00388](http://arxiv.org/abs/2402.00388)|null|
 |**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292](http://arxiv.org/abs/2402.00292)|null|
 |**2024-01-31**|**Decomposable Submodular Maximization in Federated Setting**|Akbar Rafiey et.al.|[2402.00138](http://arxiv.org/abs/2402.00138)|null|
-|**2024-01-31**|**A Survey on Data-Centric Recommender Systems**|Riwei Lai et.al.|[2401.17878](http://arxiv.org/abs/2401.17878)|null|
+|**2024-02-02**|**A Survey on Data-Centric Recommender Systems**|Riwei Lai et.al.|[2401.17878](http://arxiv.org/abs/2401.17878)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
 |**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630](http://arxiv.org/abs/2401.17630)|null|
 |**2024-01-30**|**Taxonomy of Mathematical Plagiarism**|Ankit Satpute et.al.|[2401.16969](http://arxiv.org/abs/2401.16969)|**[link](https://github.com/gipplab/taxonomy-of-mathematical-plagiarism)**|
