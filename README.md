@@ -46,7 +46,7 @@
 |**2024-01-24**|**Clue-Guided Path Exploration: An Efficient Knowledge Base Question-Answering Framework with Low Computational Resource Consumption**|Dehao Tao et.al.|[2401.13444](http://arxiv.org/abs/2401.13444)|null|
 |**2024-01-24**|**Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph**|Oliver Karras et.al.|[2401.13365](http://arxiv.org/abs/2401.13365)|null|
 |**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863](http://arxiv.org/abs/2401.12863)|null|
-|**2024-01-23**|**Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding**|Yuanyi Wang et.al.|[2401.12798](http://arxiv.org/abs/2401.12798)|null|
+|**2024-01-23**|**Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding**|Yuanyi Wang et.al.|[2401.12798](http://arxiv.org/abs/2401.12798)|**[link](https://github.com/wyy-code/TFP)**|
 |**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671](http://arxiv.org/abs/2401.12671)|null|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075](http://arxiv.org/abs/2401.12075)|null|
 |**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|**[link](https://github.com/kracr/document-level-relation-extraction)**|
@@ -1461,7 +1461,7 @@
 |**2022-07-14**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
 |**2022-07-14**|**Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732v1](http://arxiv.org/abs/2207.06732v1)|null|
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
-|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
+|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|**[link](https://github.com/82magnolia/panoramic-localization)**|
 |**2022-07-05**|**Hierarchical Average Precision Training for Pertinent Image Retrieval**|Elias Ramzi et.al.|[2207.04873v1](http://arxiv.org/abs/2207.04873v1)|**[link](https://github.com/elias-ramzi/happier)**|
 |**2022-07-11**|**A clinically motivated self-supervised approach for content-based image retrieval of CT liver images**|Kristoffer Knutsen Wickstrøm et.al.|[2207.04812v1](http://arxiv.org/abs/2207.04812v1)|**[link](https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver)**|
 |**2022-07-09**|**BOSS: Bottom-up Cross-modal Semantic Composition with Hybrid Counterfactual Training for Robust Content-based Image Retrieval**|Wenqiao Zhang et.al.|[2207.04211v1](http://arxiv.org/abs/2207.04211v1)|null|
