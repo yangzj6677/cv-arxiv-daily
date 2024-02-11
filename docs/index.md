@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2077,7 +2077,7 @@ layout: default
 |**2024-02-07**|**Hierarchical Tree-structured Knowledge Graph For Academic Insight Survey**|Jinghong Li et.al.|[2402.04854](http://arxiv.org/abs/2402.04854)|null|
 |**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527](http://arxiv.org/abs/2402.04527)|null|
 |**2024-02-06**|**Reliability quality measures for recommender systems**|Jesús Bobadilla et.al.|[2402.04457](http://arxiv.org/abs/2402.04457)|null|
-|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453](http://arxiv.org/abs/2402.04453)|null|
+|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453](http://arxiv.org/abs/2402.04453)|**[link](https://github.com/isg-siegen/automl_for_recommender_systems)**|
 |**2024-02-06**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032](http://arxiv.org/abs/2402.04032)|null|
 |**2024-02-06**|**On Practical Diversified Recommendation with Controllable Category Diversity Framework**|Tao Zhang et.al.|[2402.03801](http://arxiv.org/abs/2402.03801)|**[link](https://github.com/selous123/ccdf)**|
 |**2024-02-06**|**Agent-Based Triangle Counting and its Applications in Anonymous Graphs**|Prabhat Kumar Chand et.al.|[2402.03653](http://arxiv.org/abs/2402.03653)|null|
