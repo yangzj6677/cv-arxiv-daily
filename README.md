@@ -24,9 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
+|**2024-02-08**|**Veni, Vidi, Vici: Solving the Myriad of Challenges before Knowledge Graph Learning**|Jeffrey Sardina et.al.|[2402.06098](http://arxiv.org/abs/2402.06098)|null|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862](http://arxiv.org/abs/2402.05862)|null|
 |**2024-02-08**|**Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts**|José Alberto Benítez-Andrades et.al.|[2402.05536](http://arxiv.org/abs/2402.05536)|null|
-|**2024-02-08**|**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**|Zhuo Chen et.al.|[2402.05391](http://arxiv.org/abs/2402.05391)|**[link](https://github.com/zjukg/kg-mm-survey)**|
+|**2024-02-09**|**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**|Zhuo Chen et.al.|[2402.05391](http://arxiv.org/abs/2402.05391)|**[link](https://github.com/zjukg/kg-mm-survey)**|
 |**2024-02-07**|**A Maturity Model for Urban Dataset Meta-data**|Mark S. Fox et.al.|[2402.05211](http://arxiv.org/abs/2402.05211)|null|
 |**2024-02-06**|**CADReN: Contextual Anchor-Driven Relational Network for Controllable Cross-Graphs Node Importance Estimation**|Zijie Zhong et.al.|[2402.05135](http://arxiv.org/abs/2402.05135)|null|
 |**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978](http://arxiv.org/abs/2402.04978)|null|
@@ -2088,6 +2090,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Collaborative filtering, K-nearest neighbor and cosine similarity in home decor recommender systems**|Nanna Bach Munkholm et.al.|[2402.06233](http://arxiv.org/abs/2402.06233)|null|
 |**2024-02-08**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885](http://arxiv.org/abs/2402.05885)|null|
 |**2024-02-08**|**Natural Language User Profiles for Transparent and Scrutable Recommendations**|Jerome Ramos et.al.|[2402.05810](http://arxiv.org/abs/2402.05810)|null|
 |**2024-02-08**|**CounterCLR: Counterfactual Contrastive Learning with Non-random Missing Data in Recommendation**|Jun Wang et.al.|[2402.05740](http://arxiv.org/abs/2402.05740)|null|
