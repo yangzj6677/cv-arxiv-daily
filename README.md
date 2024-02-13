@@ -24,6 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787](http://arxiv.org/abs/2402.07787)|null|
+|**2024-02-12**|**G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering**|Xiaoxin He et.al.|[2402.07630](http://arxiv.org/abs/2402.07630)|**[link](https://github.com/xiaoxinhe/g-retriever)**|
+|**2024-02-12**|**PKG API: A Tool for Personal Knowledge Graph Management**|Nolwenn Bernard et.al.|[2402.07540](http://arxiv.org/abs/2402.07540)|**[link](https://github.com/iai-group/pkg-api)**|
+|**2024-02-12**|**Semantic Data for Humanities and Social Sciences (SDHSS): an Ecosystem of CIDOC CRM Extensions for Research Data Production and Reuse**|Francesco Beretta et.al.|[2402.07531](http://arxiv.org/abs/2402.07531)|null|
+|**2024-02-11**|**Power Transformer Fault Prediction Based on Knowledge Graphs**|Chao Wang et.al.|[2402.07283](http://arxiv.org/abs/2402.07283)|null|
+|**2024-02-11**|**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design**|Eric L. Buehler et.al.|[2402.07148](http://arxiv.org/abs/2402.07148)|**[link](https://github.com/ericlbuehler/xlora)**|
+|**2024-02-10**|**REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models**|Yinghao Zhu et.al.|[2402.07016](http://arxiv.org/abs/2402.07016)|null|
+|**2024-02-10**|**UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction**|Yansong Ning et.al.|[2402.06861](http://arxiv.org/abs/2402.06861)|**[link](https://github.com/usail-hkust/urbankgent)**|
+|**2024-02-09**|**GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**|Stefan Dernbach et.al.|[2402.06764](http://arxiv.org/abs/2402.06764)|null|
 |**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
 |**2024-02-08**|**Veni, Vidi, Vici: Solving the Myriad of Challenges before Knowledge Graph Learning**|Jeffrey Sardina et.al.|[2402.06098](http://arxiv.org/abs/2402.06098)|null|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862](http://arxiv.org/abs/2402.05862)|null|
@@ -2090,6 +2099,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**|Yijie Zhang et.al.|[2402.07659](http://arxiv.org/abs/2402.07659)|null|
+|**2024-02-12**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
+|**2024-02-12**|**Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples**|Qingkai Zeng et.al.|[2402.07386](http://arxiv.org/abs/2402.07386)|null|
+|**2024-02-10**|**Non-autoregressive Generative Models for Reranking Recommendation**|Yuxin Ren et.al.|[2402.06871](http://arxiv.org/abs/2402.06871)|null|
 |**2024-02-09**|**Collaborative filtering, K-nearest neighbor and cosine similarity in home decor recommender systems**|Nanna Bach Munkholm et.al.|[2402.06233](http://arxiv.org/abs/2402.06233)|null|
 |**2024-02-08**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885](http://arxiv.org/abs/2402.05885)|null|
 |**2024-02-08**|**Natural Language User Profiles for Transparent and Scrutable Recommendations**|Jerome Ramos et.al.|[2402.05810](http://arxiv.org/abs/2402.05810)|null|
