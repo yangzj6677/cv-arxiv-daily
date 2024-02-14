@@ -1295,7 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-12**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787](http://arxiv.org/abs/2402.07787)|**[link](https://github.com/TYZY89/EMGF)**|
+|**2024-02-13**|**Forecasting high-impact research topics via machine learning on evolving knowledge graphs**|Xuemei Gu et.al.|[2402.08640](http://arxiv.org/abs/2402.08640)|null|
+|**2024-02-13**|**A Logical Approach to Criminal Case Investigation**|Takanori Ugai et.al.|[2402.08284](http://arxiv.org/abs/2402.08284)|**[link](https://github.com/KGChallenge/Challenge)**|
+|**2024-02-13**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787](http://arxiv.org/abs/2402.07787)|**[link](https://github.com/TYZY89/EMGF)**|
 |**2024-02-12**|**G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering**|Xiaoxin He et.al.|[2402.07630](http://arxiv.org/abs/2402.07630)|**[link](https://github.com/xiaoxinhe/g-retriever)**|
 |**2024-02-12**|**PKG API: A Tool for Personal Knowledge Graph Management**|Nolwenn Bernard et.al.|[2402.07540](http://arxiv.org/abs/2402.07540)|**[link](https://github.com/iai-group/pkg-api)**|
 |**2024-02-12**|**Semantic Data for Humanities and Social Sciences (SDHSS): an Ecosystem of CIDOC CRM Extensions for Research Data Production and Reuse**|Francesco Beretta et.al.|[2402.07531](http://arxiv.org/abs/2402.07531)|null|
@@ -2082,6 +2084,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653](http://arxiv.org/abs/2402.08653)|null|
+|**2024-02-13**|**Helping university students to choose elective courses by using a hybrid multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371](http://arxiv.org/abs/2402.08371)|null|
+|**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275](http://arxiv.org/abs/2402.08275)|null|
+|**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
+|**2024-02-12**|**From Data to Decisions: The Transformational Power of Machine Learning in Business Recommendations**|Kapilya Gangadharan et.al.|[2402.08109](http://arxiv.org/abs/2402.08109)|null|
 |**2024-02-12**|**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**|Yijie Zhang et.al.|[2402.07659](http://arxiv.org/abs/2402.07659)|null|
 |**2024-02-12**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
 |**2024-02-12**|**Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples**|Qingkai Zeng et.al.|[2402.07386](http://arxiv.org/abs/2402.07386)|null|
