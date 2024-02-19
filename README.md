@@ -2076,7 +2076,7 @@
 |**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen et.al.|[2209.05277v1](http://arxiv.org/abs/2209.05277v1)|null|
 |**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
 |**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061v1](http://arxiv.org/abs/2209.04061v1)|null|
-|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|null|
+|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|**[link](https://github.com/giantai/pixtrack)**|
 |**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki et.al.|[2209.03494v1](http://arxiv.org/abs/2209.03494v1)|null|
 |**2022-08-29**|**Volume Rendering Digest (for NeRF)**|Andrea Tagliasacchi et.al.|[2209.02417v1](http://arxiv.org/abs/2209.02417v1)|null|
 |**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
@@ -2115,7 +2115,7 @@
 |**2024-02-14**|**Recommendation Algorithm Based on Recommendation Sessions**|Michał Malinowski et.al.|[2402.09130](http://arxiv.org/abs/2402.09130)|null|
 |**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
 |**2024-02-14**|**Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction**|Chen Wang et.al.|[2402.08976](http://arxiv.org/abs/2402.08976)|null|
-|**2024-02-14**|**Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems**|Tao Xiao et.al.|[2402.08920](http://arxiv.org/abs/2402.08920)|null|
+|**2024-02-14**|**Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems**|Tao Xiao et.al.|[2402.08920](http://arxiv.org/abs/2402.08920)|**[link](https://github.com/naist-se/satdclonesinbuildsystem)**|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653](http://arxiv.org/abs/2402.08653)|null|
 |**2024-02-13**|**Helping university students to choose elective courses by using a hybrid multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371](http://arxiv.org/abs/2402.08371)|null|
 |**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275](http://arxiv.org/abs/2402.08275)|null|
@@ -2309,7 +2309,7 @@
 |**2023-11-28**|**ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation**|Junyan Qiu et.al.|[2311.16441](http://arxiv.org/abs/2311.16441)|null|
 |**2023-12-01**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334](http://arxiv.org/abs/2311.16334)|**[link](https://github.com/xinrui17/bncl)**|
 |**2023-11-27**|**A Social-aware Gaussian Pre-trained Model for Effective Cold-start Recommendation**|Siwei Liu et.al.|[2311.15790](http://arxiv.org/abs/2311.15790)|null|
-|**2023-11-28**|**Hide Your Model: A Parameter Transmission-free Federated Recommender System**|Wei Yuan et.al.|[2311.14968](http://arxiv.org/abs/2311.14968)|null|
+|**2023-11-28**|**Hide Your Model: A Parameter Transmission-free Federated Recommender System**|Wei Yuan et.al.|[2311.14968](http://arxiv.org/abs/2311.14968)|**[link](https://github.com/hi-weiyuan/ptf-fedrec)**|
 |**2023-11-22**|**A Comparative Analysis of Supportive Navigation on Movie Recommenders**|Mohammad Sualeh Ali et.al.|[2311.13494](http://arxiv.org/abs/2311.13494)|null|
 |**2023-11-22**|**GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training**|Yang Li et.al.|[2311.13121](http://arxiv.org/abs/2311.13121)|null|
 |**2023-11-21**|**Utilizing Language Models for Tour Itinerary Recommendation**|Ngai Lam Ho et.al.|[2311.12355](http://arxiv.org/abs/2311.12355)|null|
