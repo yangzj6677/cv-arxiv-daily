@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**A Condensed Transition Graph Framework for Zero-shot Link Prediction with Large Language Models**|Mingchen Li et.al.|[2402.10779](http://arxiv.org/abs/2402.10779)|null|
+|**2024-02-16**|**Construction of a Syntactic Analysis Map for Yi Shui School through Text Mining and Natural Language Processing Research**|Hanqing Zhao et.al.|[2402.10743](http://arxiv.org/abs/2402.10743)|null|
 |**2024-02-15**|**Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**|Jiaxiang Liu et.al.|[2402.09911](http://arxiv.org/abs/2402.09911)|null|
 |**2024-02-15**|**EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion**|Ying Su et.al.|[2402.09666](http://arxiv.org/abs/2402.09666)|null|
 |**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242](http://arxiv.org/abs/2402.09242)|**[link](https://github.com/lancezpf/kefs)**|
@@ -2105,6 +2107,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628](http://arxiv.org/abs/2402.10628)|**[link](https://github.com/xuchen0427/fairsync)**|
+|**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551](http://arxiv.org/abs/2402.10551)|**[link](https://github.com/cdal-soc/predict-ai)**|
+|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|null|
+|**2024-02-15**|**Zastosowanie grafów i sieci w systemach rekomendacji**|Michał Malinowski et.al.|[2402.10250](http://arxiv.org/abs/2402.10250)|null|
 |**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
 |**2024-02-15**|**Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention**|Hansol Jung et.al.|[2402.09784](http://arxiv.org/abs/2402.09784)|null|
 |**2024-02-15**|**From Variability to Stability: Advancing RecSys Benchmarking Practices**|Valeriy Shevchenko et.al.|[2402.09766](http://arxiv.org/abs/2402.09766)|null|
