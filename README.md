@@ -24,6 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
+|**2024-02-19**|**TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs**|Siheng Xiong et.al.|[2402.12309](http://arxiv.org/abs/2402.12309)|**[link](https://github.com/xiongsiheng/tilp)**|
+|**2024-02-19**|**Ontology Enhanced Claim Detection**|Zehra Melce Hüsünbeyi et.al.|[2402.12282](http://arxiv.org/abs/2402.12282)|null|
+|**2024-02-19**|**SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**|Ruiyi Yang et.al.|[2402.12132](http://arxiv.org/abs/2402.12132)|null|
+|**2024-02-19**|**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**|Yongquan He et.al.|[2402.12074](http://arxiv.org/abs/2402.12074)|null|
+|**2024-02-19**|**A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions**|Xiaxia Wang et.al.|[2402.12001](http://arxiv.org/abs/2402.12001)|null|
+|**2024-02-19**|**LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs**|Kai Wang et.al.|[2402.11804](http://arxiv.org/abs/2402.11804)|null|
+|**2024-02-18**|**Question Answering Over Spatio-Temporal Knowledge Graph**|Xinbang Dai et.al.|[2402.11542](http://arxiv.org/abs/2402.11542)|null|
+|**2024-02-18**|**Counter-intuitive: Large Language Models Can Better Understand Knowledge Graphs Than We Thought**|Xinbang Dai et.al.|[2402.11541](http://arxiv.org/abs/2402.11541)|null|
+|**2024-02-18**|**InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration**|Fali Wang et.al.|[2402.11441](http://arxiv.org/abs/2402.11441)|null|
 |**2024-02-16**|**A Condensed Transition Graph Framework for Zero-shot Link Prediction with Large Language Models**|Mingchen Li et.al.|[2402.10779](http://arxiv.org/abs/2402.10779)|null|
 |**2024-02-16**|**Construction of a Syntactic Analysis Map for Yi Shui School through Text Mining and Natural Language Processing Research**|Hanqing Zhao et.al.|[2402.10743](http://arxiv.org/abs/2402.10743)|null|
 |**2024-02-15**|**Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**|Jiaxiang Liu et.al.|[2402.09911](http://arxiv.org/abs/2402.09911)|null|
@@ -2107,6 +2117,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach**|Chengyi Ju et.al.|[2402.12202](http://arxiv.org/abs/2402.12202)|null|
+|**2024-02-19**|**Mini-Hes: A Parallelizable Second-order Latent Factor Analysis Model**|Jialiang Wang et.al.|[2402.11948](http://arxiv.org/abs/2402.11948)|**[link](https://github.com/goallow/mini-hes)**|
+|**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
+|**2024-02-18**|**Poisoning Federated Recommender Systems with Fake Users**|Ming Yin et.al.|[2402.11637](http://arxiv.org/abs/2402.11637)|null|
+|**2024-02-18**|**Pattern-wise Transparent Sequential Recommendation**|Kun Ma et.al.|[2402.11480](http://arxiv.org/abs/2402.11480)|null|
+|**2024-02-17**|**Knowledge Graph-based Session Recommendation with Adaptive Propagation**|Yu Wang et.al.|[2402.11302](http://arxiv.org/abs/2402.11302)|null|
+|**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
+|**2024-02-17**|**Foundation Models for Recommender Systems: A Survey and New Perspectives**|Chengkai Huang et.al.|[2402.11143](http://arxiv.org/abs/2402.11143)|null|
 |**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628](http://arxiv.org/abs/2402.10628)|**[link](https://github.com/xuchen0427/fairsync)**|
 |**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551](http://arxiv.org/abs/2402.10551)|**[link](https://github.com/cdal-soc/predict-ai)**|
 |**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|null|
