@@ -24,11 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Question Calibration and Multi-Hop Modeling for Temporal Question Answering**|Chao Xue et.al.|[2402.13188](http://arxiv.org/abs/2402.13188)|null|
+|**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055](http://arxiv.org/abs/2402.13055)|null|
+|**2024-02-20**|**Conditional Logical Message Passing Transformer for Complex Query Answering**|Chongzhi Zhang et.al.|[2402.12954](http://arxiv.org/abs/2402.12954)|null|
+|**2024-02-20**|**Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering**|Junnan Dong et.al.|[2402.12728](http://arxiv.org/abs/2402.12728)|null|
+|**2024-02-20**|**Patient-Centric Knowledge Graphs: A Survey of Current Methods, Challenges, and Applications**|Hassan S. Al Khatib et.al.|[2402.12608](http://arxiv.org/abs/2402.12608)|null|
 |**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
 |**2024-02-19**|**TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs**|Siheng Xiong et.al.|[2402.12309](http://arxiv.org/abs/2402.12309)|**[link](https://github.com/xiongsiheng/tilp)**|
 |**2024-02-19**|**Ontology Enhanced Claim Detection**|Zehra Melce Hüsünbeyi et.al.|[2402.12282](http://arxiv.org/abs/2402.12282)|null|
 |**2024-02-19**|**SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**|Ruiyi Yang et.al.|[2402.12132](http://arxiv.org/abs/2402.12132)|null|
-|**2024-02-19**|**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**|Yongquan He et.al.|[2402.12074](http://arxiv.org/abs/2402.12074)|null|
+|**2024-02-19**|**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**|Yongquan He et.al.|[2402.12074](http://arxiv.org/abs/2402.12074)|**[link](https://github.com/Yongquan-He/HIP-network)**|
 |**2024-02-19**|**A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions**|Xiaxia Wang et.al.|[2402.12001](http://arxiv.org/abs/2402.12001)|null|
 |**2024-02-19**|**LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs**|Kai Wang et.al.|[2402.11804](http://arxiv.org/abs/2402.11804)|null|
 |**2024-02-18**|**Question Answering Over Spatio-Temporal Knowledge Graph**|Xinbang Dai et.al.|[2402.11542](http://arxiv.org/abs/2402.11542)|null|
@@ -2117,6 +2122,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994](http://arxiv.org/abs/2402.12994)|**[link](https://github.com/WANGBohaO-jpg/DR-GNN)**|
+|**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984](http://arxiv.org/abs/2402.12984)|null|
+|**2024-02-20**|**Towards MLOps: A DevOps Tools Recommender System for Machine Learning System**|Pir Sami Ullah Shah et.al.|[2402.12867](http://arxiv.org/abs/2402.12867)|null|
+|**2024-02-19**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541](http://arxiv.org/abs/2402.12541)|null|
 |**2024-02-19**|**Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach**|Chengyi Ju et.al.|[2402.12202](http://arxiv.org/abs/2402.12202)|null|
 |**2024-02-19**|**Mini-Hes: A Parallelizable Second-order Latent Factor Analysis Model**|Jialiang Wang et.al.|[2402.11948](http://arxiv.org/abs/2402.11948)|**[link](https://github.com/goallow/mini-hes)**|
 |**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
