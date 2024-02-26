@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2402.15444](http://arxiv.org/abs/2402.15444)|**[link](https://github.com/zjukg/adamf-mat)**|
+|**2024-02-23**|**A Relation-Interactive Approach for Message Passing in Hyper-relational Knowledge Graphs**|Yonglin Jing et.al.|[2402.15140](http://arxiv.org/abs/2402.15140)|null|
+|**2024-02-23**|**Unlocking the Power of Large Language Models for Entity Alignment**|Xuhui Jiang et.al.|[2402.15048](http://arxiv.org/abs/2402.15048)|null|
+|**2024-02-22**|**A Usage-centric Take on Intent Understanding in E-Commerce**|Wendi Zhou et.al.|[2402.14901](http://arxiv.org/abs/2402.14901)|null|
 |**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
 |**2024-02-22**|**Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph**|Song Tong et.al.|[2402.14424](http://arxiv.org/abs/2402.14424)|null|
 |**2024-02-22**|**Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning**|Yuwei Xia et.al.|[2402.14382](http://arxiv.org/abs/2402.14382)|null|
@@ -2129,6 +2133,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
+|**2024-02-23**|**Item-side Fairness of Large Language Model-based Recommendation System**|Meng Jiang et.al.|[2402.15215](http://arxiv.org/abs/2402.15215)|null|
+|**2024-02-23**|**EasyRL4Rec: A User-Friendly Code Library for Reinforcement Learning Based Recommender Systems**|Yuanqing Yu et.al.|[2402.15164](http://arxiv.org/abs/2402.15164)|**[link](https://github.com/chongminggao/easyrl4rec)**|
+|**2024-02-22**|**Filter Bubble or Homogenization? Disentangling the Long-Term Effects of Recommendations on User Consumption Patterns**|Md Sanzeed Anwar et.al.|[2402.15013](http://arxiv.org/abs/2402.15013)|null|
 |**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
 |**2024-02-22**|**Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations**|Jiayu Li et.al.|[2402.14440](http://arxiv.org/abs/2402.14440)|null|
 |**2024-02-22**|**Ensure Timeliness and Accuracy: A Novel Sliding Window Data Stream Paradigm for Live Streaming Recommendation**|Fengqi Liang et.al.|[2402.14399](http://arxiv.org/abs/2402.14399)|null|
