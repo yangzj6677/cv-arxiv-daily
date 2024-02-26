@@ -1354,7 +1354,7 @@ layout: default
 |**2024-02-05**|**Knowledge Acquisition and Integration with Expert-in-the-loop**|Sajjadur Rahman et.al.|[2402.03291](http://arxiv.org/abs/2402.03291)|null|
 |**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268](http://arxiv.org/abs/2402.03268)|null|
 |**2024-02-05**|**Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation**|Yuanyi Wang et.al.|[2402.03025](http://arxiv.org/abs/2402.03025)|**[link](https://github.com/wyy-code/pipea)**|
-|**2024-02-04**|**KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion**|Yanbin Wei et.al.|[2402.02389](http://arxiv.org/abs/2402.02389)|null|
+|**2024-02-04**|**KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion**|Yanbin Wei et.al.|[2402.02389](http://arxiv.org/abs/2402.02389)|**[link](https://github.com/weiyanbin1999/kicgpt)**|
 |**2024-02-03**|**SemPool: Simple, robust, and interpretable KG pooling for enhancing language models**|Costas Mavromatis et.al.|[2402.02289](http://arxiv.org/abs/2402.02289)|null|
 |**2024-02-03**|**Enhancing Complex Question Answering over Knowledge Graphs through Evidence Pattern Retrieval**|Wentao Ding et.al.|[2402.02175](http://arxiv.org/abs/2402.02175)|**[link](https://github.com/nju-websoft/epr-kgqa)**|
 |**2024-02-03**|**Rendering Graphs for Graph Reasoning in Multimodal Large Language Models**|Yanbin Wei et.al.|[2402.02130](http://arxiv.org/abs/2402.02130)|null|
@@ -1844,7 +1844,7 @@ layout: default
 |**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|**[link](https://github.com/chenchens190009/csprom-kg)**|
 |**2023-07-04**|**Knowledge Graph for NLG in the context of conversational agents**|Hussam Ghanem et.al.|[2307.01548](http://arxiv.org/abs/2307.01548)|null|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128](http://arxiv.org/abs/2307.01128)|null|
-|**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|null|
+|**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|**[link](https://github.com/cocacola-lab/collabkg)**|
 |**2023-07-02**|**Semi-automated Thermal Envelope Model Setup for Adaptive Model Predictive Control with Event-triggered System Identification**|Lu Wan et.al.|[2307.00638](http://arxiv.org/abs/2307.00638)|null|
 |**2023-07-01**|**PersonaGen: A Tool for Generating Personas from User Feedback**|Xishuo Zhang et.al.|[2307.00390](http://arxiv.org/abs/2307.00390)|null|
 |**2023-07-01**|**Hierarchical Pretraining for Biomedical Term Embeddings**|Bryan Cai et.al.|[2307.00266](http://arxiv.org/abs/2307.00266)|null|
@@ -2305,7 +2305,7 @@ layout: default
 |**2023-12-18**|**Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems**|Zhangchi Qiu et.al.|[2312.10967](http://arxiv.org/abs/2312.10967)|null|
 |**2023-12-20**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
-|**2023-12-20**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|null|
+|**2023-12-20**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|**[link](https://github.com/archersama/uni-ctr)**|
 |**2023-12-16**|**RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models**|Dairui Liu et.al.|[2312.10463](http://arxiv.org/abs/2312.10463)|null|
 |**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370](http://arxiv.org/abs/2312.10370)|**[link](https://github.com/nicolas-hbt/similar-embeddings)**|
 |**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|**[link](https://github.com/salmon1802/cetn)**|
@@ -2633,7 +2633,7 @@ layout: default
 |**2023-08-22**|**On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems**|Xiaocong Chen et.al.|[2308.11336](http://arxiv.org/abs/2308.11336)|null|
 |**2023-08-22**|**Test Time Embedding Normalization for Popularity Bias Mitigation**|Dain Kim et.al.|[2308.11288](http://arxiv.org/abs/2308.11288)|**[link](https://github.com/ml-postech/tten)**|
 |**2023-08-22**|**Towards Validating Long-Term User Feedbacks in Interactive Recommendation Systems**|Hojoon Lee et.al.|[2308.11137](http://arxiv.org/abs/2308.11137)|null|
-|**2023-08-22**|**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Jianghao Lin et.al.|[2308.11131](http://arxiv.org/abs/2308.11131)|null|
+|**2023-08-22**|**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Jianghao Lin et.al.|[2308.11131](http://arxiv.org/abs/2308.11131)|**[link](https://github.com/lavieenrose365/rella)**|
 |**2023-08-21**|**Extreme Multilabel Classification for Specialist Doctor Recommendation with Implicit Feedback and Limited Patient Metadata**|Filipa Valdeira et.al.|[2308.11022](http://arxiv.org/abs/2308.11022)|null|
 |**2023-08-21**|**Leveraging Large Language Models for Pre-trained Recommender Systems**|Zhixuan Chu et.al.|[2308.10837](http://arxiv.org/abs/2308.10837)|null|
 |**2023-08-21**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835](http://arxiv.org/abs/2308.10835)|null|
