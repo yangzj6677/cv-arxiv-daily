@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2117,11 +2117,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-26**|**Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning**|Man Wu et.al.|[2402.16374](http://arxiv.org/abs/2402.16374)|null|
 |**2024-02-26**|**Deep Rating Elicitation for New Users in Collaborative Filtering**|Wonbin Kweon et.al.|[2402.16327](http://arxiv.org/abs/2402.16327)|**[link](https://github.com/wonbinkweon/dre_www2020)**|
 |**2024-02-26**|**Confidence Calibration for Recommender Systems and Its Applications**|Wonbin Kweon et.al.|[2402.16325](http://arxiv.org/abs/2402.16325)|null|
 |**2024-02-26**|**Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding Learning**|Chaoguang Luo et.al.|[2402.16299](http://arxiv.org/abs/2402.16299)|null|
-|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|null|
+|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|**[link](https://github.com/enoche/dgvae)**|
 |**2024-02-25**|**Pfeed: Generating near real-time personalized feeds using precomputed embedding similarities**|Binyam Gebre et.al.|[2402.16073](http://arxiv.org/abs/2402.16073)|null|
 |**2024-02-25**|**Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations**|Yafei Xiang et.al.|[2402.16035](http://arxiv.org/abs/2402.16035)|null|
 |**2024-02-24**|**Debiased Model-based Interactive Recommendation**|Zijian Li et.al.|[2402.15819](http://arxiv.org/abs/2402.15819)|null|
