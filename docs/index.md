@@ -1295,9 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Label Informed Contrastive Pretraining for Node Importance Estimation on Knowledge Graphs**|Tianyu Zhang et.al.|[2402.17791](http://arxiv.org/abs/2402.17791)|**[link](https://github.com/zhangtia16/licap)**|
+|**2024-02-24**|**Stepwise Self-Consistent Mathematical Reasoning with Large Language Models**|Zilong Zhao et.al.|[2402.17786](http://arxiv.org/abs/2402.17786)|null|
 |**2024-02-27**|**Unsupervised multiple choices question answering via universal corpus**|Qin Zhang et.al.|[2402.17333](http://arxiv.org/abs/2402.17333)|null|
 |**2024-02-26**|**Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models**|Yifu Gao et.al.|[2402.16568](http://arxiv.org/abs/2402.16568)|null|
-|**2024-02-26**|**A Joint Communication and Computation Design for Probabilistic Semantic Communications**|Zhouxiang Zhao et.al.|[2402.16328](http://arxiv.org/abs/2402.16328)|null|
+|**2024-02-28**|**A Joint Communication and Computation Design for Probabilistic Semantic Communications**|Zhouxiang Zhao et.al.|[2402.16328](http://arxiv.org/abs/2402.16328)|null|
 |**2024-02-22**|**Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2402.15444](http://arxiv.org/abs/2402.15444)|**[link](https://github.com/zjukg/adamf-mat)**|
 |**2024-02-23**|**A Relation-Interactive Approach for Message Passing in Hyper-relational Knowledge Graphs**|Yonglin Jing et.al.|[2402.15140](http://arxiv.org/abs/2402.15140)|null|
 |**2024-02-23**|**Unlocking the Power of Large Language Models for Entity Alignment**|Xuhui Jiang et.al.|[2402.15048](http://arxiv.org/abs/2402.15048)|null|
@@ -2119,6 +2121,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Prospect Personalized Recommendation on Large Language Model-based Agent Platform**|Jizhi Zhang et.al.|[2402.18240](http://arxiv.org/abs/2402.18240)|**[link](https://github.com/jizhi-zhang/rec4agentverse_case)**|
+|**2024-02-28**|**Sequence-level Semantic Representation Fusion for Recommender Systems**|Lanling Xu et.al.|[2402.18166](http://arxiv.org/abs/2402.18166)|**[link](https://github.com/rucaibox/tedrec)**|
 |**2024-02-27**|**BiVRec: Bidirectional View-based Multimodal Sequential Recommendation**|Jiaxi Hu et.al.|[2402.17334](http://arxiv.org/abs/2402.17334)|null|
 |**2024-02-27**|**Does Negative Sampling Matter? A Review with Insights into its Theory and Applications**|Zhen Yang et.al.|[2402.17238](http://arxiv.org/abs/2402.17238)|null|
 |**2024-02-27**|**PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning**|Wei Wei et.al.|[2402.17188](http://arxiv.org/abs/2402.17188)|**[link](https://github.com/hkuds/promptmm)**|
