@@ -26,7 +26,7 @@
 |---|---|---|---|---|
 |**2024-02-29**|**Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification**|Delfina Sol Martinez Pandiani et.al.|[2402.19339](http://arxiv.org/abs/2402.19339)|null|
 |**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195](http://arxiv.org/abs/2402.19195)|null|
-|**2024-02-29**|**KGAMC: A Novel Knowledge Graph Driven Automatic Modulation Classification Scheme**|ike Li et.al.|[2402.19188](http://arxiv.org/abs/2402.19188)|null|
+|**2024-03-01**|**KGAMC: A Novel Knowledge Graph Driven Automatic Modulation Classification Scheme**|Yike Li et.al.|[2402.19188](http://arxiv.org/abs/2402.19188)|null|
 |**2024-02-29**|**Aligning Knowledge Graph with Visual Perception for Object-goal Navigation**|Nuo Xu et.al.|[2402.18892](http://arxiv.org/abs/2402.18892)|**[link](https://github.com/nuoxu/akgvp)**|
 |**2024-02-26**|**Label Informed Contrastive Pretraining for Node Importance Estimation on Knowledge Graphs**|Tianyu Zhang et.al.|[2402.17791](http://arxiv.org/abs/2402.17791)|**[link](https://github.com/zhangtia16/licap)**|
 |**2024-02-24**|**Stepwise Self-Consistent Mathematical Reasoning with Large Language Models**|Zilong Zhao et.al.|[2402.17786](http://arxiv.org/abs/2402.17786)|**[link](https://github.com/zhao-zilong/ssc-cot)**|
