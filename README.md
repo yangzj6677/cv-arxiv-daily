@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment**|Luyao Wang et.al.|[2403.01203](http://arxiv.org/abs/2403.01203)|null|
+|**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
+|**2024-02-28**|**Explainable Session-based Recommendation via Path Reasoning**|Yang Cao et.al.|[2403.00832](http://arxiv.org/abs/2403.00832)|null|
 |**2024-02-29**|**Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification**|Delfina Sol Martinez Pandiani et.al.|[2402.19339](http://arxiv.org/abs/2402.19339)|null|
 |**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195](http://arxiv.org/abs/2402.19195)|null|
 |**2024-03-01**|**KGAMC: A Novel Knowledge Graph Driven Automatic Modulation Classification Scheme**|Yike Li et.al.|[2402.19188](http://arxiv.org/abs/2402.19188)|null|
@@ -2142,6 +2145,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Supplier Recommendation in Online Procurement**|Victor Coscrato et.al.|[2403.01301](http://arxiv.org/abs/2403.01301)|null|
+|**2024-03-02**|**OpenGraph: Towards Open Graph Foundation Models**|Lianghao Xia et.al.|[2403.01121](http://arxiv.org/abs/2403.01121)|**[link](https://github.com/hkuds/opengraph)**|
+|**2024-03-01**|**End-to-end Graph-Sequential Representation Learning for Accurate Recommendations**|Vladimir Baikalov et.al.|[2403.00895](http://arxiv.org/abs/2403.00895)|null|
+|**2024-03-01**|**Dual-Granularity Medication Recommendation Based on Causal Inference**|Shunpan Liang et.al.|[2403.00880](http://arxiv.org/abs/2403.00880)|null|
+|**2024-03-01**|**Generalized User Representations for Transfer Learning**|Ghazal Fazelnia et.al.|[2403.00584](http://arxiv.org/abs/2403.00584)|null|
+|**2024-03-01**|**IAI MovieBot 2.0: An Enhanced Research Platform with Trainable Neural Components and Transparent User Modeling**|Nolwenn Bernard et.al.|[2403.00520](http://arxiv.org/abs/2403.00520)|null|
+|**2024-03-01**|**Recommending Target Actions Outside Sessions in the Data-poor Insurance Domain**|Simone Borg Bruun et.al.|[2403.00368](http://arxiv.org/abs/2403.00368)|null|
+|**2024-02-29**|**Impact of Decentralized Learning on Player Utilities in Stackelberg Games**|Kate Donahue et.al.|[2403.00188](http://arxiv.org/abs/2403.00188)|null|
 |**2024-02-29**|**MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation**|Jinfeng Xu et.al.|[2402.19407](http://arxiv.org/abs/2402.19407)|**[link](https://github.com/jinfeng-xu/mentor)**|
 |**2024-02-29**|**Link Recommendation to Augment Influence Diffusion with Provable Guarantees**|Xiaolong Chen et.al.|[2402.19189](http://arxiv.org/abs/2402.19189)|null|
 |**2024-02-29**|**Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization**|Aadirupa Saha et.al.|[2402.18917](http://arxiv.org/abs/2402.18917)|null|
