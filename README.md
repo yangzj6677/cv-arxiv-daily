@@ -24,6 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
+|**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966](http://arxiv.org/abs/2403.02966)|null|
+|**2024-03-05**|**iSummary: Workload-based, Personalized Summaries for Knowledge Graphs**|Giannis Vassiliou et.al.|[2403.02934](http://arxiv.org/abs/2403.02934)|null|
+|**2024-03-05**|**Fuzzy Datalog $^\exists$ over Arbitrary t-Norms**|Matthias Lanzinger et.al.|[2403.02933](http://arxiv.org/abs/2403.02933)|null|
+|**2024-03-05**|**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**|Kumaranage Ravindu Yasas Nagasinghe et.al.|[2403.02782](http://arxiv.org/abs/2403.02782)|**[link](https://github.com/ravindu-yasas-nagasinghe/kepp)**|
+|**2024-03-05**|**AceMap: Knowledge Discovery through Academic Graph**|Xinbing Wang et.al.|[2403.02576](http://arxiv.org/abs/2403.02576)|null|
+|**2024-03-04**|**KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection**|Yuexin Li et.al.|[2403.02253](http://arxiv.org/abs/2403.02253)|null|
+|**2024-03-04**|**EEE-QA: Exploring Effective and Efficient Question-Answer Representations**|Zhanghao Hu et.al.|[2403.02176](http://arxiv.org/abs/2403.02176)|null|
+|**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
+|**2024-03-04**|**Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models**|Derong Xu et.al.|[2403.01972](http://arxiv.org/abs/2403.01972)|null|
 |**2024-03-02**|**Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment**|Luyao Wang et.al.|[2403.01203](http://arxiv.org/abs/2403.01203)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
 |**2024-02-28**|**Explainable Session-based Recommendation via Path Reasoning**|Yang Cao et.al.|[2403.00832](http://arxiv.org/abs/2403.00832)|null|
@@ -2145,6 +2155,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
+|**2024-03-05**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
+|**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
+|**2024-03-05**|**Matrix Completion with Convex Optimization and Column Subset Selection**|Antonina Krajewska et.al.|[2403.01919](http://arxiv.org/abs/2403.01919)|**[link](https://github.com/ZAL-NASK/CSMC)**|
+|**2024-03-04**|**Recommending Missed Citations Identified by Reviewers: A New Task, Dataset and Baselines**|Kehan Long et.al.|[2403.01873](http://arxiv.org/abs/2403.01873)|**[link](https://github.com/chainsawm/rmc)**|
+|**2024-03-04**|**KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification**|Bo Li et.al.|[2403.01767](http://arxiv.org/abs/2403.01767)|null|
+|**2024-03-04**|**NoteLLM: A Retrievable Large Language Model for Note Recommendation**|Chao Zhang et.al.|[2403.01744](http://arxiv.org/abs/2403.01744)|null|
 |**2024-03-02**|**Supplier Recommendation in Online Procurement**|Victor Coscrato et.al.|[2403.01301](http://arxiv.org/abs/2403.01301)|null|
 |**2024-03-02**|**OpenGraph: Towards Open Graph Foundation Models**|Lianghao Xia et.al.|[2403.01121](http://arxiv.org/abs/2403.01121)|**[link](https://github.com/hkuds/opengraph)**|
 |**2024-03-01**|**End-to-end Graph-Sequential Representation Learning for Accurate Recommendations**|Vladimir Baikalov et.al.|[2403.00895](http://arxiv.org/abs/2403.00895)|null|
