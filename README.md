@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791](http://arxiv.org/abs/2403.03791)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966](http://arxiv.org/abs/2403.02966)|null|
 |**2024-03-05**|**iSummary: Workload-based, Personalized Summaries for Knowledge Graphs**|Giannis Vassiliou et.al.|[2403.02934](http://arxiv.org/abs/2403.02934)|null|
@@ -2155,6 +2156,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714](http://arxiv.org/abs/2403.03714)|null|
+|**2024-03-06**|**Learning Adversarial MDPs with Stochastic Hard Constraints**|Francesco Emanuele Stradi et.al.|[2403.03672](http://arxiv.org/abs/2403.03672)|null|
+|**2024-03-06**|**Causal Disentanglement for Regulating Social Influence Bias in Social Recommendation**|Li Wang et.al.|[2403.03578](http://arxiv.org/abs/2403.03578)|null|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
 |**2024-03-05**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
 |**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
