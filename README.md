@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
+|**2024-03-07**|**From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction**|Ang Li et.al.|[2403.04369](http://arxiv.org/abs/2403.04369)|**[link](https://github.com/liang-star177/fwgb)**|
+|**2024-03-07**|**BrainKnow -- Extracting, Linking, and Associating Neuroscience Knowledge**|Cunqing Huangfu et.al.|[2403.04346](http://arxiv.org/abs/2403.04346)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261](http://arxiv.org/abs/2403.04261)|null|
 |**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791](http://arxiv.org/abs/2403.03791)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966](http://arxiv.org/abs/2403.02966)|null|
@@ -2156,6 +2161,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Benchmarking News Recommendation in the Era of Green AI**|Qijiong Liu et.al.|[2403.04736](http://arxiv.org/abs/2403.04736)|null|
+|**2024-03-07**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video Recommendation**|Nicholas Sukiennik et.al.|[2403.04511](http://arxiv.org/abs/2403.04511)|null|
+|**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504](http://arxiv.org/abs/2403.04504)|null|
+|**2024-03-07**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460](http://arxiv.org/abs/2403.04460)|null|
+|**2024-03-07**|**The 2nd Workshop on Recommendation with Generative Models**|Wenjie Wang et.al.|[2403.04399](http://arxiv.org/abs/2403.04399)|null|
+|**2024-03-07**|**DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives**|Leilei Ding et.al.|[2403.04287](http://arxiv.org/abs/2403.04287)|null|
+|**2024-03-07**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260](http://arxiv.org/abs/2403.04260)|null|
+|**2024-03-06**|**Personalized Negative Reservoir for Incremental Learning in Recommender Systems**|Antonios Valkanas et.al.|[2403.03993](http://arxiv.org/abs/2403.03993)|null|
 |**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714](http://arxiv.org/abs/2403.03714)|null|
 |**2024-03-06**|**Learning Adversarial MDPs with Stochastic Hard Constraints**|Francesco Emanuele Stradi et.al.|[2403.03672](http://arxiv.org/abs/2403.03672)|null|
 |**2024-03-06**|**Causal Disentanglement for Regulating Social Influence Bias in Social Recommendation**|Li Wang et.al.|[2403.03578](http://arxiv.org/abs/2403.03578)|null|
