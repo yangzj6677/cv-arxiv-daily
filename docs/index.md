@@ -1366,7 +1366,7 @@ layout: default
 |**2024-02-10**|**REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models**|Yinghao Zhu et.al.|[2402.07016](http://arxiv.org/abs/2402.07016)|null|
 |**2024-02-10**|**UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction**|Yansong Ning et.al.|[2402.06861](http://arxiv.org/abs/2402.06861)|**[link](https://github.com/usail-hkust/urbankgent)**|
 |**2024-02-09**|**GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**|Stefan Dernbach et.al.|[2402.06764](http://arxiv.org/abs/2402.06764)|null|
-|**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
+|**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|**[link](https://github.com/chenxz1111/RareBench)**|
 |**2024-02-08**|**Veni, Vidi, Vici: Solving the Myriad of Challenges before Knowledge Graph Learning**|Jeffrey Sardina et.al.|[2402.06098](http://arxiv.org/abs/2402.06098)|null|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862](http://arxiv.org/abs/2402.05862)|null|
 |**2024-02-08**|**Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts**|José Alberto Benítez-Andrades et.al.|[2402.05536](http://arxiv.org/abs/2402.05536)|null|
@@ -1378,7 +1378,7 @@ layout: default
 |**2024-02-07**|**Hierarchical Tree-structured Knowledge Graph For Academic Insight Survey**|Jinghong Li et.al.|[2402.04854](http://arxiv.org/abs/2402.04854)|null|
 |**2024-02-07**|**SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph**|Julio C. Rangel et.al.|[2402.04627](http://arxiv.org/abs/2402.04627)|**[link](https://github.com/riken-dko/generation_sparql)**|
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062](http://arxiv.org/abs/2402.04062)|null|
-|**2024-02-06**|**Pro-HAN: A Heterogeneous Graph Attention Network for Profile-Based Spoken Language Understanding**|Dechuan Teng et.al.|[2402.03900](http://arxiv.org/abs/2402.03900)|null|
+|**2024-02-06**|**Pro-HAN: A Heterogeneous Graph Attention Network for Profile-Based Spoken Language Understanding**|Dechuan Teng et.al.|[2402.03900](http://arxiv.org/abs/2402.03900)|**[link](https://github.com/aarontengdechuan/pro-han)**|
 |**2024-02-06**|**Deep Outdated Fact Detection in Knowledge Graphs**|Huiling Tu et.al.|[2402.03732](http://arxiv.org/abs/2402.03732)|null|
 |**2024-02-06**|**Improving Contextual Congruence Across Modalities for Effective Multimodal Marketing using Knowledge-infused Learning**|Trilok Padhi et.al.|[2402.03607](http://arxiv.org/abs/2402.03607)|null|
 |**2024-02-07**|**MQuinE: a cure for "Z-paradox" in knowledge graph embedding models**|Yang Liu et.al.|[2402.03583](http://arxiv.org/abs/2402.03583)|null|
@@ -1431,7 +1431,7 @@ layout: default
 |**2024-01-15**|**Leveraging External Knowledge Resources to Enable Domain-Specific Comprehension**|Saptarshi Sengupta et.al.|[2401.07977](http://arxiv.org/abs/2401.07977)|null|
 |**2024-01-15**|**A Strategy for Implementing description Temporal Dynamic Algorithms in Dynamic Knowledge Graphs by SPIN**|Alireza Shahbazi et.al.|[2401.07890](http://arxiv.org/abs/2401.07890)|null|
 |**2024-01-15**|**Wikidata as a seed for Web Extraction**|Kunpeng Guo et.al.|[2401.07812](http://arxiv.org/abs/2401.07812)|null|
-|**2024-01-15**|**Assisted Knowledge Graph Authoring: Human-Supervised Knowledge Graph Construction from Natural Language**|Marcel Gohsen et.al.|[2401.07683](http://arxiv.org/abs/2401.07683)|null|
+|**2024-01-15**|**Assisted Knowledge Graph Authoring: Human-Supervised Knowledge Graph Construction from Natural Language**|Marcel Gohsen et.al.|[2401.07683](http://arxiv.org/abs/2401.07683)|**[link](https://github.com/webis-de/waka)**|
 |**2024-01-14**|**Distilling Event Sequence Knowledge From Large Language Models**|Somin Wadhwa et.al.|[2401.07237](http://arxiv.org/abs/2401.07237)|null|
 |**2024-01-13**|**Graph Language Models**|Moritz Plenz et.al.|[2401.07105](http://arxiv.org/abs/2401.07105)|**[link](https://github.com/heidelberg-nlp/graphlanguagemodels)**|
 |**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022](http://arxiv.org/abs/2401.07022)|null|
@@ -1690,7 +1690,7 @@ layout: default
 |**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113](http://arxiv.org/abs/2309.17113)|**[link](https://github.com/francescoferrini/multirelationalgnn)**|
 |**2023-09-28**|**Navigating Healthcare Insights: A Birds Eye View of Explainability with Knowledge Graphs**|Satvik Garg et.al.|[2309.16593](http://arxiv.org/abs/2309.16593)|null|
 |**2023-09-28**|**Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs**|Duygu Sezen Islakoglu et.al.|[2309.16357](http://arxiv.org/abs/2309.16357)|**[link](https://github.com/duyguislakoglu/temt)**|
-|**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285](http://arxiv.org/abs/2309.16285)|null|
+|**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285](http://arxiv.org/abs/2309.16285)|**[link](https://github.com/jendersen/kg_accountability)**|
 |**2023-09-28**|**Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems**|Catherine Kosten et.al.|[2309.16248](http://arxiv.org/abs/2309.16248)|**[link](https://github.com/ckosten/spider4sparql)**|
 |**2023-09-28**|**Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain**|Qing Huang et.al.|[2309.16134](http://arxiv.org/abs/2309.16134)|null|
 |**2023-09-27**|**Clinical Trial Recommendations Using Semantics-Based Inductive Inference and Knowledge Graph Embeddings**|Murthy V. Devarakonda et.al.|[2309.15979](http://arxiv.org/abs/2309.15979)|null|
