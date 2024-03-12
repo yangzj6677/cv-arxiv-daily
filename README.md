@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
+|**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
+|**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
+|**2024-03-09**|**KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques**|Rui Yang et.al.|[2403.05881](http://arxiv.org/abs/2403.05881)|null|
+|**2024-03-09**|**MP2D: An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs**|Yerin Hwang et.al.|[2403.05814](http://arxiv.org/abs/2403.05814)|null|
+|**2024-03-09**|**Enhancing Multi-Hop Knowledge Graph Reasoning through Reward Shaping Techniques**|Chen Li et.al.|[2403.05801](http://arxiv.org/abs/2403.05801)|null|
+|**2024-03-09**|**HDReason: Algorithm-Hardware Codesign for Hyperdimensional Knowledge Graph Reasoning**|Hanning Chen et.al.|[2403.05763](http://arxiv.org/abs/2403.05763)|null|
+|**2024-03-09**|**Task-Oriented GNNs Training on Large Knowledge Graphs for Accurate and Efficient Modeling**|Hussein Abdallah et.al.|[2403.05752](http://arxiv.org/abs/2403.05752)|**[link](https://github.com/cods-gcs/kgtosa)**|
 |**2024-03-08**|**From Chain to Tree: Refining Chain-like Rules into Tree-like Rules on Knowledge Graphs**|Wangtao Sun et.al.|[2403.05130](http://arxiv.org/abs/2403.05130)|null|
 |**2024-03-08**|**Correlation analysis technique of key parameters for transformer material inspection based on FP-tree and knowledge graph**|Jing Xu et.al.|[2403.05076](http://arxiv.org/abs/2403.05076)|null|
 |**2024-03-08**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
@@ -2164,6 +2172,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Post-Training Attribute Unlearning in Recommender Systems**|Chaochao Chen et.al.|[2403.06737](http://arxiv.org/abs/2403.06737)|null|
+|**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
+|**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
+|**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
+|**2024-03-10**|**Dynamics of Polarization Under Normative Institutions and Opinion Expression Stewarding**|Atrisha Sarkar et.al.|[2403.06264](http://arxiv.org/abs/2403.06264)|null|
+|**2024-03-10**|**Control Strategies for Recommendation Systems in Social Networks**|Ben Sprenger et.al.|[2403.06152](http://arxiv.org/abs/2403.06152)|null|
+|**2024-03-08**|**CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System**|Yashar Deldjoo et.al.|[2403.05668](http://arxiv.org/abs/2403.05668)|null|
 |**2024-03-08**|**Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks**|Marco De Nadai et.al.|[2403.05185](http://arxiv.org/abs/2403.05185)|null|
 |**2024-03-08**|**Multi-Tower Multi-Interest Recommendation with User Representation Repel**|Tianyu Xiong et.al.|[2403.05122](http://arxiv.org/abs/2403.05122)|null|
 |**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
