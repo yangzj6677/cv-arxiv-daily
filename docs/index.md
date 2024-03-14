@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1301,7 +1301,7 @@ layout: default
 |**2024-03-12**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
 |**2024-03-11**|**Narrating Causal Graphs with Large Language Models**|Atharva Phatak et.al.|[2403.07118](http://arxiv.org/abs/2403.07118)|null|
 |**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
-|**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
+|**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|**[link](https://github.com/zjukg/snag)**|
 |**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
 |**2024-03-09**|**KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques**|Rui Yang et.al.|[2403.05881](http://arxiv.org/abs/2403.05881)|null|
 |**2024-03-09**|**MP2D: An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs**|Yerin Hwang et.al.|[2403.05814](http://arxiv.org/abs/2403.05814)|null|
