@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs**|Zhanke Zhou et.al.|[2403.10231](http://arxiv.org/abs/2403.10231)|**[link](https://github.com/tmlr-group/one-shot-subgraph)**|
+|**2024-03-15**|**AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation**|Arkajit Datta et.al.|[2403.10171](http://arxiv.org/abs/2403.10171)|null|
+|**2024-03-15**|**Functional Graph Convolutional Networks: A unified multi-task and multi-modal learning framework to facilitate health and social-care insights**|Tobia Boschi et.al.|[2403.10158](http://arxiv.org/abs/2403.10158)|null|
+|**2024-03-15**|**Meta Operator for Complex Query Answering on Knowledge Graphs**|Hang Yin et.al.|[2403.10110](http://arxiv.org/abs/2403.10110)|null|
+|**2024-03-12**|**ClaimVer: Explainable Claim-Level Verification and Evidence Attribution of Text Through Knowledge Graphs**|Preetam Prabhu Srikar Dammu et.al.|[2403.09724](http://arxiv.org/abs/2403.09724)|null|
 |**2024-03-14**|**Hyper-CL: Conditioning Sentence Representations with Hypernetworks**|Young Hyun Yoo et.al.|[2403.09490](http://arxiv.org/abs/2403.09490)|null|
 |**2024-03-13**|**Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments**|Sitao Cheng et.al.|[2403.08593](http://arxiv.org/abs/2403.08593)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
@@ -2165,6 +2170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction**|Yuanbo Gao et.al.|[2403.10049](http://arxiv.org/abs/2403.10049)|null|
+|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
 |**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623](http://arxiv.org/abs/2403.07623)|null|
 |**2024-03-12**|**Proactive Recommendation with Iterative Preference Guidance**|Shuxian Bi et.al.|[2403.07571](http://arxiv.org/abs/2403.07571)|null|
 |**2024-03-12**|**Self-supervised Contrastive Learning for Implicit Collaborative Filtering**|Shipeng Song et.al.|[2403.07265](http://arxiv.org/abs/2403.07265)|null|
