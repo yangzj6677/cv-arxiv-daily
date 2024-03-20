@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
+|**2024-03-19**|**Prompt-fused framework for Inductive Logical Query Answering**|Zezhong Xu et.al.|[2403.12646](http://arxiv.org/abs/2403.12646)|null|
+|**2024-03-18**|**Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification**|Filippos Gouidis et.al.|[2403.12151](http://arxiv.org/abs/2403.12151)|null|
+|**2024-03-18**|**HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation**|Ce Zhang et.al.|[2403.12033](http://arxiv.org/abs/2403.12033)|**[link](https://github.com/zhangce01/HiKER-SGG)**|
+|**2024-03-18**|**Accelerating Scientific Discovery with Generative Knowledge Extraction, Graph-Based Representation, and Multimodal Intelligent Graph Reasoning**|Markus J. Buehler et.al.|[2403.11996](http://arxiv.org/abs/2403.11996)|null|
+|**2024-03-19**|**Bangladesh Agricultural Knowledge Graph: Enabling Semantic Integration and Data-driven Analysis--Full Version**|Rudra Pratap Deb Nath et.al.|[2403.11920](http://arxiv.org/abs/2403.11920)|null|
+|**2024-03-18**|**Construction of Hyper-Relational Knowledge Graphs Using Pre-Trained Large Language Models**|Preetha Datta et.al.|[2403.11786](http://arxiv.org/abs/2403.11786)|null|
 |**2024-03-17**|**TRELM: Towards Robust and Efficient Pre-training for Knowledge-Enhanced Language Models**|Junbing Yan et.al.|[2403.11203](http://arxiv.org/abs/2403.11203)|null|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
 |**2024-03-15**|**Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs**|Zhanke Zhou et.al.|[2403.10231](http://arxiv.org/abs/2403.10231)|**[link](https://github.com/tmlr-group/one-shot-subgraph)**|
@@ -2189,6 +2196,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
+|**2024-03-19**|**Context-based Fast Recommendation Strategy for Long User Behavior Sequence in Meituan Waimai**|Zhichao Feng et.al.|[2403.12566](http://arxiv.org/abs/2403.12566)|null|
+|**2024-03-15**|**Enriching User Shopping History: Empowering E-commerce with a Hierarchical Recommendation System**|Irem Islek et.al.|[2403.12096](http://arxiv.org/abs/2403.12096)|null|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
 |**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219](http://arxiv.org/abs/2403.11219)|null|
 |**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|null|
