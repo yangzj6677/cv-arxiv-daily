@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2179,7 +2179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
 |**2024-03-19**|**Context-based Fast Recommendation Strategy for Long User Behavior Sequence in Meituan Waimai**|Zhichao Feng et.al.|[2403.12566](http://arxiv.org/abs/2403.12566)|null|
 |**2024-03-15**|**Enriching User Shopping History: Empowering E-commerce with a Hierarchical Recommendation System**|Irem Islek et.al.|[2403.12096](http://arxiv.org/abs/2403.12096)|null|
@@ -2187,7 +2187,7 @@ layout: default
 |**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219](http://arxiv.org/abs/2403.11219)|null|
 |**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|null|
 |**2024-03-15**|**PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction**|Yuanbo Gao et.al.|[2403.10049](http://arxiv.org/abs/2403.10049)|null|
-|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
+|**2024-03-19**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
 |**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623](http://arxiv.org/abs/2403.07623)|null|
 |**2024-03-12**|**Proactive Recommendation with Iterative Preference Guidance**|Shuxian Bi et.al.|[2403.07571](http://arxiv.org/abs/2403.07571)|null|
 |**2024-03-12**|**Self-supervised Contrastive Learning for Implicit Collaborative Filtering**|Shipeng Song et.al.|[2403.07265](http://arxiv.org/abs/2403.07265)|null|
