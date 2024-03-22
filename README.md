@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
+|**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253](http://arxiv.org/abs/2403.14253)|null|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
 |**2024-03-19**|**Prompt-fused framework for Inductive Logical Query Answering**|Zezhong Xu et.al.|[2403.12646](http://arxiv.org/abs/2403.12646)|null|
 |**2024-03-18**|**Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification**|Filippos Gouidis et.al.|[2403.12151](http://arxiv.org/abs/2403.12151)|null|
@@ -2196,6 +2198,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
 |**2024-03-20**|**An AI-Assisted Skincare Routine Recommendation System in XR**|Gowravi Malalur Rajegowda et.al.|[2403.13466](http://arxiv.org/abs/2403.13466)|null|
 |**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325](http://arxiv.org/abs/2403.13325)|null|
