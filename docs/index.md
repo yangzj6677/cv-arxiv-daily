@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|null|
+|**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
+|**2024-03-21**|**Open Knowledge Base Canonicalization with Multi-task Learning**|Bingchen Liu et.al.|[2403.14733](http://arxiv.org/abs/2403.14733)|null|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
 |**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253](http://arxiv.org/abs/2403.14253)|null|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
@@ -2181,6 +2184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Cross-layer Modeling and Design of Content Addressable Memories in Advanced Technology Nodes for Similarity Search**|Siri Narla et.al.|[2403.15328](http://arxiv.org/abs/2403.15328)|null|
+|**2024-03-18**|**Use of recommendation models to provide support to dyslexic students**|Gianluca Morciano et.al.|[2403.14710](http://arxiv.org/abs/2403.14710)|null|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
 |**2024-03-20**|**An AI-Assisted Skincare Routine Recommendation System in XR**|Gowravi Malalur Rajegowda et.al.|[2403.13466](http://arxiv.org/abs/2403.13466)|null|
