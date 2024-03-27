@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1301,7 +1301,7 @@ layout: default
 |**2024-03-24**|**Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks**|Hongyin Zhu et.al.|[2403.16033](http://arxiv.org/abs/2403.16033)|null|
 |**2024-03-23**|**MRC-based Nested Medical NER with Co-prediction and Adaptive Pre-training**|Xiaojing Du et.al.|[2403.15800](http://arxiv.org/abs/2403.15800)|null|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
-|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|null|
+|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|**[link](https://github.com/nju-websoft/knowla)**|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
 |**2024-03-21**|**Open Knowledge Base Canonicalization with Multi-task Learning**|Bingchen Liu et.al.|[2403.14733](http://arxiv.org/abs/2403.14733)|null|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
@@ -2193,7 +2193,7 @@ layout: default
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
 |**2024-03-25**|**Play to Your Strengths: Collaborative Intelligence of Conventional Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378](http://arxiv.org/abs/2403.16378)|null|
-|**2024-03-24**|**Image Captioning in news report scenario**|Tianrui Liu et.al.|[2403.16209](http://arxiv.org/abs/2403.16209)|null|
+|**2024-03-26**|**Image Captioning in news report scenario**|Tianrui Liu et.al.|[2403.16209](http://arxiv.org/abs/2403.16209)|null|
 |**2024-03-24**|**IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History**|Yi Xu et.al.|[2403.16075](http://arxiv.org/abs/2403.16075)|null|
 |**2024-03-24**|**A Temporal Graph Network Framework for Dynamic Recommendation**|Yejin Kim et.al.|[2403.16066](http://arxiv.org/abs/2403.16066)|null|
 |**2024-03-23**|**Negotiating the Shared Agency between Humans & AI in the Recommender System**|Mengke Wu et.al.|[2403.15919](http://arxiv.org/abs/2403.15919)|null|
