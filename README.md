@@ -2214,6 +2214,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Fairness in Ranking: Robustness through Randomization without the Protected Attribute**|Andrii Kliachkin et.al.|[2403.19419](http://arxiv.org/abs/2403.19419)|null|
+|**2024-03-28**|**Intelligent Classification and Personalized Recommendation of E-commerce Products Based on Machine Learning**|Kangming Xu et.al.|[2403.19345](http://arxiv.org/abs/2403.19345)|null|
+|**2024-03-28**|**Enhanced Bayesian Personalized Ranking for Robust Hard Negative Sampling in Recommender Systems**|Kexin Shi et.al.|[2403.19276](http://arxiv.org/abs/2403.19276)|null|
+|**2024-03-28**|**Make Large Language Model a Better Ranker**|Wenshuo Chao et.al.|[2403.19181](http://arxiv.org/abs/2403.19181)|null|
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667](http://arxiv.org/abs/2403.18667)|null|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628](http://arxiv.org/abs/2403.18628)|null|
 |**2024-03-27**|**Modeling Sustainable City Trips: Integrating CO2 Emissions, Popularity, and Seasonality into Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2403.18604](http://arxiv.org/abs/2403.18604)|null|
