@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
 |**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437](http://arxiv.org/abs/2404.03437)|null|
 |**2024-04-04**|**Does Knowledge Graph Really Matter for Recommender Systems?**|Haonan Zhang et.al.|[2404.03164](http://arxiv.org/abs/2404.03164)|**[link](https://github.com/hotbento/kg4receval)**|
