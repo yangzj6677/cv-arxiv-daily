@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220](http://arxiv.org/abs/2404.06220)|null|
+|**2024-04-09**|**Protection of Guizhou Miao Batik Culture Based on Knowledge Graph and Deep Learning**|Huafeng Quan et.al.|[2404.06168](http://arxiv.org/abs/2404.06168)|null|
+|**2024-04-06**|**Evaluating the Effectiveness of Artificial Intelligence in Predicting Adverse Drug Reactions among Cancer Patients: A Systematic Review and Meta-Analysis**|Fatma Zahra Abdeldjouad et.al.|[2404.05762](http://arxiv.org/abs/2404.05762)|null|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
 |**2024-04-07**|**OSS Malicious Package Analysis in the Wild**|Xiaoyan Zhou et.al.|[2404.04991](http://arxiv.org/abs/2404.04991)|null|
 |**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
@@ -2238,6 +2241,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Echo Chambers in the Age of Algorithms: An Audit of Twitter's Friend Recommender System**|Kayla Duskin et.al.|[2404.06422](http://arxiv.org/abs/2404.06422)|null|
+|**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
+|**2024-04-09**|**Dimensionality Reduction in Sentence Transformer Vector Databases with Fast Fourier Transform**|Vitaly Bulgakov et.al.|[2404.06278](http://arxiv.org/abs/2404.06278)|null|
+|**2024-04-09**|**Exploring Diverse Sounds: Identifying Outliers in a Music Corpus**|Le Cai et.al.|[2404.06103](http://arxiv.org/abs/2404.06103)|null|
+|**2024-04-09**|**End-to-end training of Multimodal Model and ranking Model**|Xiuqi Deng et.al.|[2404.06078](http://arxiv.org/abs/2404.06078)|null|
+|**2024-04-09**|**Wasserstein Dependent Graph Attention Network for Collaborative Filtering with Uncertainty**|Haoxuan Li et.al.|[2404.05962](http://arxiv.org/abs/2404.05962)|null|
 |**2024-04-07**|**Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems**|Mengyan Wang et.al.|[2404.04906](http://arxiv.org/abs/2404.04906)|null|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
 |**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
