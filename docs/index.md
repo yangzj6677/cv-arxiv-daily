@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,7 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**Knowledge graphs for empirical concept retrieval**|Lenka Tětková et.al.|[2404.07008](http://arxiv.org/abs/2404.07008)|**[link](https://github.com/lenkatetkova/knowledge-graphs-for-empirical-concept-retrieval)**|
 |**2024-04-10**|**Emotion-cause pair extraction method based on multi-granularity information and multi-module interaction**|Mingrui Fu et.al.|[2404.06812](http://arxiv.org/abs/2404.06812)|null|
 |**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571](http://arxiv.org/abs/2404.06571)|null|
@@ -2233,7 +2233,7 @@ layout: default
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-09**|**Dimensionality Reduction in Sentence Transformer Vector Databases with Fast Fourier Transform**|Vitaly Bulgakov et.al.|[2404.06278](http://arxiv.org/abs/2404.06278)|null|
 |**2024-04-09**|**Exploring Diverse Sounds: Identifying Outliers in a Music Corpus**|Le Cai et.al.|[2404.06103](http://arxiv.org/abs/2404.06103)|null|
-|**2024-04-09**|**End-to-end training of Multimodal Model and ranking Model**|Xiuqi Deng et.al.|[2404.06078](http://arxiv.org/abs/2404.06078)|null|
+|**2024-04-09**|**End-to-end training of Multimodal Model and ranking Model**|Xiuqi Deng et.al.|[2404.06078](http://arxiv.org/abs/2404.06078)|**[link](https://github.com/em3e2e-anonymous/em3)**|
 |**2024-04-09**|**Wasserstein Dependent Graph Attention Network for Collaborative Filtering with Uncertainty**|Haoxuan Li et.al.|[2404.05962](http://arxiv.org/abs/2404.05962)|null|
 |**2024-04-07**|**Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems**|Mengyan Wang et.al.|[2404.04906](http://arxiv.org/abs/2404.04906)|null|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
