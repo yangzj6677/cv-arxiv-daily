@@ -1354,7 +1354,7 @@ layout: default
 |**2024-03-19**|**Prompt-fused framework for Inductive Logical Query Answering**|Zezhong Xu et.al.|[2403.12646](http://arxiv.org/abs/2403.12646)|null|
 |**2024-03-18**|**Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification**|Filippos Gouidis et.al.|[2403.12151](http://arxiv.org/abs/2403.12151)|null|
 |**2024-03-18**|**HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation**|Ce Zhang et.al.|[2403.12033](http://arxiv.org/abs/2403.12033)|**[link](https://github.com/zhangce01/HiKER-SGG)**|
-|**2024-03-18**|**Accelerating Scientific Discovery with Generative Knowledge Extraction, Graph-Based Representation, and Multimodal Intelligent Graph Reasoning**|Markus J. Buehler et.al.|[2403.11996](http://arxiv.org/abs/2403.11996)|null|
+|**2024-03-18**|**Accelerating Scientific Discovery with Generative Knowledge Extraction, Graph-Based Representation, and Multimodal Intelligent Graph Reasoning**|Markus J. Buehler et.al.|[2403.11996](http://arxiv.org/abs/2403.11996)|**[link](https://github.com/lamm-mit/graphreasoning)**|
 |**2024-03-19**|**Bangladesh Agricultural Knowledge Graph: Enabling Semantic Integration and Data-driven Analysis--Full Version**|Rudra Pratap Deb Nath et.al.|[2403.11920](http://arxiv.org/abs/2403.11920)|null|
 |**2024-03-18**|**Construction of Hyper-Relational Knowledge Graphs Using Pre-Trained Large Language Models**|Preetha Datta et.al.|[2403.11786](http://arxiv.org/abs/2403.11786)|null|
 |**2024-03-17**|**TRELM: Towards Robust and Efficient Pre-training for Knowledge-Enhanced Language Models**|Junbing Yan et.al.|[2403.11203](http://arxiv.org/abs/2403.11203)|null|
@@ -2209,7 +2209,7 @@ layout: default
 |**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816](http://arxiv.org/abs/2303.12816)|null|
 |**2023-03-25**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423](http://arxiv.org/abs/2303.12423)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320](http://arxiv.org/abs/2303.12320)|null|
-|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|**[link](https://github.com/lars-research/rule-learning-expressivity)**|
 |**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858](http://arxiv.org/abs/2303.11858)|null|
 |**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198](http://arxiv.org/abs/2303.11198)|**[link](https://github.com/nets4geeks/dockercomposedataset)**|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871](http://arxiv.org/abs/2303.10871)|null|
@@ -2272,7 +2272,7 @@ layout: default
 |**2024-03-28**|**Enhanced Bayesian Personalized Ranking for Robust Hard Negative Sampling in Recommender Systems**|Kexin Shi et.al.|[2403.19276](http://arxiv.org/abs/2403.19276)|null|
 |**2024-03-28**|**Make Large Language Model a Better Ranker**|Wenshuo Chao et.al.|[2403.19181](http://arxiv.org/abs/2403.19181)|null|
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667](http://arxiv.org/abs/2403.18667)|null|
-|**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628](http://arxiv.org/abs/2403.18628)|null|
+|**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628](http://arxiv.org/abs/2403.18628)|**[link](https://github.com/wzf2000/recommendability_dasfaa2024)**|
 |**2024-03-27**|**Modeling Sustainable City Trips: Integrating CO2 Emissions, Popularity, and Seasonality into Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2403.18604](http://arxiv.org/abs/2403.18604)|null|
 |**2024-03-27**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536](http://arxiv.org/abs/2403.18536)|null|
 |**2024-03-27**|**Enhanced Generative Recommendation via Content and Collaboration Integration**|Yidan Wang et.al.|[2403.18480](http://arxiv.org/abs/2403.18480)|null|
@@ -3033,7 +3033,7 @@ layout: default
 |**2023-07-13**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|**[link](https://github.com/spatank/curiosity-graphs)**|
 |**2023-07-10**|**Fairness and Diversity in Recommender Systems: A Survey**|Yuying Zhao et.al.|[2307.04644](http://arxiv.org/abs/2307.04644)|null|
 |**2023-07-10**|**Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation**|Chongming Gao et.al.|[2307.04571](http://arxiv.org/abs/2307.04571)|**[link](https://github.com/chongminggao/dorl-codes)**|
-|**2023-07-10**|**Causal Neural Graph Collaborative Filtering**|Xiangmeng Wang et.al.|[2307.04384](http://arxiv.org/abs/2307.04384)|null|
+|**2023-07-10**|**Causal Neural Graph Collaborative Filtering**|Xiangmeng Wang et.al.|[2307.04384](http://arxiv.org/abs/2307.04384)|**[link](https://github.com/chrystalii/cngcf)**|
 |**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336](http://arxiv.org/abs/2307.04336)|null|
 |**2023-07-08**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892](http://arxiv.org/abs/2307.03892)|null|
 |**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591](http://arxiv.org/abs/2307.03591)|null|
