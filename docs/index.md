@@ -1295,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**German Tourism Knowledge Graph**|Umutcan Serles et.al.|[2404.09587](http://arxiv.org/abs/2404.09587)|null|
+|**2024-04-15**|**MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2404.09468](http://arxiv.org/abs/2404.09468)|**[link](https://github.com/zjukg/mygo)**|
+|**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416](http://arxiv.org/abs/2404.09416)|null|
+|**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296](http://arxiv.org/abs/2404.09296)|null|
+|**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167](http://arxiv.org/abs/2404.09167)|null|
+|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155](http://arxiv.org/abs/2404.09155)|null|
+|**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077](http://arxiv.org/abs/2404.09077)|null|
 |**2024-04-12**|**Toward FAIR Semantic Publishing of Research Dataset Metadata in the Open Research Knowledge Graph**|Raia Abu Ahmad et.al.|[2404.08443](http://arxiv.org/abs/2404.08443)|null|
 |**2024-04-12**|**The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing**|Muzhi Li et.al.|[2404.08313](http://arxiv.org/abs/2404.08313)|**[link](https://github.com/raynorlee/kg-entitytyping)**|
 |**2024-04-11**|**Augmenting Knowledge Graph Hierarchies Using Neural Transformers**|Sanat Sharma et.al.|[2404.08020](http://arxiv.org/abs/2404.08020)|null|
@@ -2234,6 +2241,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-13**|**Bullion: A Column Store for Machine Learning**|Gang Liao et.al.|[2404.08901](http://arxiv.org/abs/2404.08901)|null|
+|**2024-04-12**|**LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models**|Juntaek Lim et.al.|[2404.08847](http://arxiv.org/abs/2404.08847)|null|
+|**2024-04-12**|**Measuring the Predictability of Recommender Systems using Structural Complexity Metrics**|Alfonso Valderrama et.al.|[2404.08829](http://arxiv.org/abs/2404.08829)|null|
+|**2024-04-10**|**Enhancing Adaptive Video Streaming through Fuzzy Logic-Based Content Recommendation Systems: A Comprehensive Review and Future Directions**|Koffka Khan et.al.|[2404.08691](http://arxiv.org/abs/2404.08691)|null|
+|**2024-04-09**|**A Survey of Reasoning for Substitution Relationships: Definitions, Methods, and Directions**|Anxin Yang et.al.|[2404.08687](http://arxiv.org/abs/2404.08687)|null|
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
 |**2024-04-10**|**NFARec: A Negative Feedback-Aware Recommender Model**|Xinfeng Wang et.al.|[2404.06900](http://arxiv.org/abs/2404.06900)|**[link](https://github.com/wangxfng/nfarec)**|
 |**2024-04-09**|**Echo Chambers in the Age of Algorithms: An Audit of Twitter's Friend Recommender System**|Kayla Duskin et.al.|[2404.06422](http://arxiv.org/abs/2404.06422)|null|
