@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2249,7 +2249,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-16**|**Cluster-based Graph Collaborative Filtering**|Fan Liu et.al.|[2404.10321](http://arxiv.org/abs/2404.10321)|**[link](https://github.com/zhao254014/clustergcf)**|
-|**2024-04-16**|**HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit problem and cold start problem in recommender system**|Ruibo Yang et.al.|[2404.10207](http://arxiv.org/abs/2404.10207)|null|
+|**2024-04-16**|**HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit problem and cold start problem in recommender system**|Ruibo Yang et.al.|[2404.10207](http://arxiv.org/abs/2404.10207)|**[link](https://github.com/ruy0216/hellingerucb)**|
 |**2024-04-15**|**How fair are we? From conceptualization to automated assessment of fairness definitions**|Giordano d'Aloisio et.al.|[2404.09919](http://arxiv.org/abs/2404.09919)|null|
 |**2024-04-13**|**Bullion: A Column Store for Machine Learning**|Gang Liao et.al.|[2404.08901](http://arxiv.org/abs/2404.08901)|null|
 |**2024-04-12**|**LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models**|Juntaek Lim et.al.|[2404.08847](http://arxiv.org/abs/2404.08847)|null|
