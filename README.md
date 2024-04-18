@@ -2265,6 +2265,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation**|Zhiyong Cheng et.al.|[2404.11519](http://arxiv.org/abs/2404.11519)|**[link](https://github.com/jianhuadongcs/disen-cgcn)**|
+|**2024-04-17**|**Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**|Sunhao Dai et.al.|[2404.11457](http://arxiv.org/abs/2404.11457)|**[link](https://github.com/kid-22/llm-ir-bias-fairness-survey)**|
+|**2024-04-17**|**Deep Pattern Network for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2404.11456](http://arxiv.org/abs/2404.11456)|null|
+|**2024-04-17**|**Characterizing and modeling harms from interactions with design patterns in AI interfaces**|Lujain Ibrahim et.al.|[2404.11370](http://arxiv.org/abs/2404.11370)|null|
+|**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
+|**2024-04-17**|**Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework**|Alicia Vidler et.al.|[2404.11080](http://arxiv.org/abs/2404.11080)|null|
+|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
 |**2024-04-16**|**Cluster-based Graph Collaborative Filtering**|Fan Liu et.al.|[2404.10321](http://arxiv.org/abs/2404.10321)|**[link](https://github.com/zhao254014/clustergcf)**|
 |**2024-04-16**|**HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit problem and cold start problem in recommender system**|Ruibo Yang et.al.|[2404.10207](http://arxiv.org/abs/2404.10207)|**[link](https://github.com/ruy0216/hellingerucb)**|
 |**2024-04-15**|**How fair are we? From conceptualization to automated assessment of fairness definitions**|Giordano d'Aloisio et.al.|[2404.09919](http://arxiv.org/abs/2404.09919)|null|
