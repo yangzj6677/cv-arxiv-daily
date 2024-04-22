@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**FAIR Jupyter: a knowledge graph approach to semantic sharing and granular exploration of a computational notebook reproducibility dataset**|Sheeba Samuel et.al.|[2404.12935](http://arxiv.org/abs/2404.12935)|null|
+|**2024-04-19**|**REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking**|Nacime Bouziani et.al.|[2404.12788](http://arxiv.org/abs/2404.12788)|null|
+|**2024-04-19**|**Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs**|Ngoc Quach et.al.|[2404.12587](http://arxiv.org/abs/2404.12587)|null|
+|**2024-04-18**|**EnriCo: Enriched Representation and Globally Constrained Inference for Entity and Relation Extraction**|Urchade Zaratiana et.al.|[2404.12493](http://arxiv.org/abs/2404.12493)|null|
 |**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
 |**2024-04-18**|**P-NAL: an Effective and Interpretable Entity Alignment Method**|Chuanhao Xu et.al.|[2404.11968](http://arxiv.org/abs/2404.11968)|null|
 |**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809](http://arxiv.org/abs/2404.11809)|**[link](https://github.com/xincanfeng/dimension)**|
