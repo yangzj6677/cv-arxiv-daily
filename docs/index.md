@@ -1310,8 +1310,8 @@ layout: default
 |**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416](http://arxiv.org/abs/2404.09416)|null|
 |**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296](http://arxiv.org/abs/2404.09296)|null|
 |**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167](http://arxiv.org/abs/2404.09167)|null|
-|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155](http://arxiv.org/abs/2404.09155)|null|
-|**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077](http://arxiv.org/abs/2404.09077)|null|
+|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155](http://arxiv.org/abs/2404.09155)|**[link](https://github.com/dellixx/tkbc-lie)**|
+|**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077](http://arxiv.org/abs/2404.09077)|**[link](https://github.com/zukangy/kgp-curiousllm)**|
 |**2024-04-12**|**Toward FAIR Semantic Publishing of Research Dataset Metadata in the Open Research Knowledge Graph**|Raia Abu Ahmad et.al.|[2404.08443](http://arxiv.org/abs/2404.08443)|null|
 |**2024-04-12**|**The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing**|Muzhi Li et.al.|[2404.08313](http://arxiv.org/abs/2404.08313)|**[link](https://github.com/raynorlee/kg-entitytyping)**|
 |**2024-04-11**|**Augmenting Knowledge Graph Hierarchies Using Neural Transformers**|Sanat Sharma et.al.|[2404.08020](http://arxiv.org/abs/2404.08020)|null|
@@ -1705,7 +1705,7 @@ layout: default
 |**2023-10-25**|**Open Knowledge Base Canonicalization with Multi-task Unlearning**|Bingchen Liu et.al.|[2310.16419](http://arxiv.org/abs/2310.16419)|null|
 |**2023-10-24**|**Context-aware explainable recommendations over knowledge graphs**|Jinfeng Zhong et.al.|[2310.16141](http://arxiv.org/abs/2310.16141)|null|
 |**2023-10-24**|**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**|Jiaang Li et.al.|[2310.15797](http://arxiv.org/abs/2310.15797)|**[link](https://github.com/jiaangl/randomquantization)**|
-|**2023-10-24**|**Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion**|Kunze Wang et.al.|[2310.15722](http://arxiv.org/abs/2310.15722)|null|
+|**2023-10-24**|**Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion**|Kunze Wang et.al.|[2310.15722](http://arxiv.org/abs/2310.15722)|**[link](https://github.com/adlnlp/re-temp)**|
 |**2023-10-24**|**Enhancing Biomedical Lay Summarisation with External Knowledge Graphs**|Tomas Goldsack et.al.|[2310.15702](http://arxiv.org/abs/2310.15702)|**[link](https://github.com/tgoldsack1/enhancing_biomedical_lay_summarisation_with_external_knowledge_graphs)**|
 |**2023-10-24**|**Natural Language Processing for Drug Discovery Knowledge Graphs: promises and pitfalls**|J. Charles G. Jeynes et.al.|[2310.15572](http://arxiv.org/abs/2310.15572)|null|
 |**2023-10-24**|**NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA**|Hyeong Kyu Choi et.al.|[2310.15484](http://arxiv.org/abs/2310.15484)|**[link](https://github.com/mlvlab/nutrea)**|
@@ -2399,7 +2399,7 @@ layout: default
 |**2024-02-27**|**BiVRec: Bidirectional View-based Multimodal Sequential Recommendation**|Jiaxi Hu et.al.|[2402.17334](http://arxiv.org/abs/2402.17334)|null|
 |**2024-02-27**|**Does Negative Sampling Matter? A Review with Insights into its Theory and Applications**|Zhen Yang et.al.|[2402.17238](http://arxiv.org/abs/2402.17238)|null|
 |**2024-02-27**|**PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning**|Wei Wei et.al.|[2402.17188](http://arxiv.org/abs/2402.17188)|**[link](https://github.com/hkuds/promptmm)**|
-|**2024-02-27**|**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**|Jiaqi Zhai et.al.|[2402.17152](http://arxiv.org/abs/2402.17152)|null|
+|**2024-02-27**|**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**|Jiaqi Zhai et.al.|[2402.17152](http://arxiv.org/abs/2402.17152)|**[link](https://github.com/facebookresearch/generative-recommenders)**|
 |**2024-02-26**|**Rate-Optimal Rank Aggregation with Private Pairwise Rankings**|Shirong Xu et.al.|[2402.16792](http://arxiv.org/abs/2402.16792)|null|
 |**2024-02-26**|**BOXREC: Recommending a Box of Preferred Outfits in Online Shopping**|Debopriyo Banerjee et.al.|[2402.16660](http://arxiv.org/abs/2402.16660)|**[link](https://github.com/debobanerjee/boxrec)**|
 |**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
@@ -2446,7 +2446,7 @@ layout: default
 |**2024-02-17**|**Foundation Models for Recommender Systems: A Survey and New Perspectives**|Chengkai Huang et.al.|[2402.11143](http://arxiv.org/abs/2402.11143)|null|
 |**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628](http://arxiv.org/abs/2402.10628)|**[link](https://github.com/xuchen0427/fairsync)**|
 |**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551](http://arxiv.org/abs/2402.10551)|**[link](https://github.com/cdal-soc/predict-ai)**|
-|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|null|
+|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|**[link](https://github.com/oysterqaq/umair-fps)**|
 |**2024-02-15**|**Zastosowanie grafów i sieci w systemach rekomendacji**|Michał Malinowski et.al.|[2402.10250](http://arxiv.org/abs/2402.10250)|null|
 |**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
 |**2024-02-15**|**Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention**|Hansol Jung et.al.|[2402.09784](http://arxiv.org/abs/2402.09784)|null|
@@ -2839,7 +2839,7 @@ layout: default
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
 |**2023-09-19**|**SOS TUTORIA UC: A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality**|Laura Achon et.al.|[2309.10869](http://arxiv.org/abs/2309.10869)|null|
 |**2023-09-19**|**RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation**|Ning Wu et.al.|[2309.10469](http://arxiv.org/abs/2309.10469)|null|
-|**2023-09-19**|**Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling**|Junzhe Jiang et.al.|[2309.10435](http://arxiv.org/abs/2309.10435)|null|
+|**2023-09-19**|**Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling**|Junzhe Jiang et.al.|[2309.10435](http://arxiv.org/abs/2309.10435)|**[link](https://github.com/gnimixy/lancer)**|
 |**2023-09-19**|**Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning**|Yi Ren et.al.|[2309.10357](http://arxiv.org/abs/2309.10357)|null|
 |**2023-09-19**|**Decoupled Training: Return of Frustratingly Easy Multi-Domain Learning**|Ximei Wang et.al.|[2309.10302](http://arxiv.org/abs/2309.10302)|null|
 |**2023-09-19**|**Towards Measuring Fairness in Grid Layout in Recommender Systems**|Amifa Raj et.al.|[2309.10271](http://arxiv.org/abs/2309.10271)|null|
@@ -3079,7 +3079,7 @@ layout: default
 |**2023-07-06**|**PLIERS: a Popularity-Based Recommender System for Content Dissemination in Online Social Networks**|Valerio Arnaboldi et.al.|[2307.02865](http://arxiv.org/abs/2307.02865)|null|
 |**2023-07-06**|**BHEISR: Nudging from Bias to Balance -- Promoting Belief Harmony by Eliminating Ideological Segregation in Knowledge-based Recommendations**|Mengyan Wang et.al.|[2307.02797](http://arxiv.org/abs/2307.02797)|null|
 |**2023-07-06**|**Knowledge Graph Self-Supervised Rationalization for Recommendation**|Yuhao Yang et.al.|[2307.02759](http://arxiv.org/abs/2307.02759)|**[link](https://github.com/hkuds/kgrec)**|
-|**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588](http://arxiv.org/abs/2307.02588)|null|
+|**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588](http://arxiv.org/abs/2307.02588)|**[link](https://github.com/alanjohnvarghese/TransformerG2G)**|
 |**2023-07-05**|**An Equivalent Graph Reconstruction Model and its Application in Recommendation Prediction**|Guangrui Yang et.al.|[2307.02183](http://arxiv.org/abs/2307.02183)|null|
 |**2023-07-05**|**Generative Job Recommendations with Large Language Model**|Zhi Zheng et.al.|[2307.02157](http://arxiv.org/abs/2307.02157)|null|
 |**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
