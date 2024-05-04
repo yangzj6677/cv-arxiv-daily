@@ -2303,8 +2303,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-02**|**GTX: A Transactional Graph Data System For HTAP Workloads**|Libin Zhou et.al.|[2405.01448](http://arxiv.org/abs/2405.01448)|null|
-|**2024-05-02**|**Modeling Activity-Driven Music Listening with PACE**|Lilian Marey et.al.|[2405.01417](http://arxiv.org/abs/2405.01417)|null|
-|**2024-05-02**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063](http://arxiv.org/abs/2405.01063)|null|
+|**2024-05-02**|**Modeling Activity-Driven Music Listening with PACE**|Lilian Marey et.al.|[2405.01417](http://arxiv.org/abs/2405.01417)|**[link](https://github.com/deezer/modeling_activity_pace)**|
+|**2024-05-02**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063](http://arxiv.org/abs/2405.01063)|**[link](https://github.com/TianhaoShi2001/DRFO)**|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-05-01**|**Conformalized Tensor Completion with Riemannian Optimization**|Hu Sun et.al.|[2405.00581](http://arxiv.org/abs/2405.00581)|null|
 |**2024-05-01**|**A First Look at Selection Bias in Preference Elicitation for Recommendation**|Shashank Gupta et.al.|[2405.00554](http://arxiv.org/abs/2405.00554)|**[link](https://github.com/shashankg7/bias-preference-elicitation)**|
