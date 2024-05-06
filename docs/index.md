@@ -551,7 +551,7 @@ layout: default
 |**2022-12-27**|**Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning**|Wooyoung Kang et.al.|[2212.13563v1](http://arxiv.org/abs/2212.13563v1)|**[link](https://github.com/kakaobrain/noc)**|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-24**|**GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration**|Parker C. Lusk et.al.|[2212.12745v1](http://arxiv.org/abs/2212.12745v1)|null|
-|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|null|
+|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|**[link](https://github.com/zekunqian/bevsee)**|
 |**2022-12-14**|**The Infinite Index: Information Retrieval on Generative Text-To-Image Models**|Niklas Deckers et.al.|[2212.07476v1](http://arxiv.org/abs/2212.07476v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-08**|**Group Generalized Mean Pooling for Vision Transformer**|Byungsoo Ko et.al.|[2212.04114v1](http://arxiv.org/abs/2212.04114v1)|null|
@@ -1024,7 +1024,7 @@ layout: default
 |**2022-04-22**|**Efficient Linear Attention for Fast and Accurate Keypoint Matching**|Suwichaya Suwanwimolkul et.al.|[2204.07731v3](http://arxiv.org/abs/2204.07731v3)|null|
 |**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
-|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
+|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|**[link](https://github.com/meteoswiss/photocast)**|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
 |**2022-03-28**|**S2-Net: Self-supervision Guided Feature Representation Learning for Cross-Modality Images**|Shasha Mei et.al.|[2203.14581v1](http://arxiv.org/abs/2203.14581v1)|null|
@@ -1483,7 +1483,7 @@ layout: default
 |**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
 |**2024-02-19**|**TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs**|Siheng Xiong et.al.|[2402.12309](http://arxiv.org/abs/2402.12309)|**[link](https://github.com/xiongsiheng/tilp)**|
 |**2024-02-19**|**Ontology Enhanced Claim Detection**|Zehra Melce Hüsünbeyi et.al.|[2402.12282](http://arxiv.org/abs/2402.12282)|null|
-|**2024-02-19**|**SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**|Ruiyi Yang et.al.|[2402.12132](http://arxiv.org/abs/2402.12132)|null|
+|**2024-02-19**|**SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**|Ruiyi Yang et.al.|[2402.12132](http://arxiv.org/abs/2402.12132)|**[link](https://github.com/Hippopotamus0308/SSTKG)**|
 |**2024-02-19**|**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**|Yongquan He et.al.|[2402.12074](http://arxiv.org/abs/2402.12074)|**[link](https://github.com/Yongquan-He/HIP-network)**|
 |**2024-02-19**|**A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions**|Xiaxia Wang et.al.|[2402.12001](http://arxiv.org/abs/2402.12001)|null|
 |**2024-02-19**|**LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs**|Kai Wang et.al.|[2402.11804](http://arxiv.org/abs/2402.11804)|null|
@@ -2340,7 +2340,7 @@ layout: default
 |**2024-04-20**|**Characterizing and modeling harms from interactions with design patterns in AI interfaces**|Lujain Ibrahim et.al.|[2404.11370](http://arxiv.org/abs/2404.11370)|null|
 |**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
 |**2024-04-17**|**Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework**|Alicia Vidler et.al.|[2404.11080](http://arxiv.org/abs/2404.11080)|null|
-|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
+|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|**[link](https://github.com/jibril-frej/jcrec)**|
 |**2024-04-16**|**Cluster-based Graph Collaborative Filtering**|Fan Liu et.al.|[2404.10321](http://arxiv.org/abs/2404.10321)|**[link](https://github.com/zhao254014/clustergcf)**|
 |**2024-04-16**|**HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit problem and cold start problem in recommender system**|Ruibo Yang et.al.|[2404.10207](http://arxiv.org/abs/2404.10207)|**[link](https://github.com/ruy0216/hellingerucb)**|
 |**2024-04-15**|**How fair are we? From conceptualization to automated assessment of fairness definitions**|Giordano d'Aloisio et.al.|[2404.09919](http://arxiv.org/abs/2404.09919)|null|
