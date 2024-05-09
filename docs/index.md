@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,7 +1298,7 @@ layout: default
 |**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453](http://arxiv.org/abs/2405.04453)|**[link](https://github.com/seukgcode/incde)**|
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
 |**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136](http://arxiv.org/abs/2405.04136)|null|
-|**2024-05-07**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932](http://arxiv.org/abs/2405.03932)|**[link](https://github.com/nlp-tlp/cleangraph)**|
+|**2024-05-08**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932](http://arxiv.org/abs/2405.03932)|**[link](https://github.com/nlp-tlp/cleangraph)**|
 |**2024-05-06**|**FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**|Silan Hu et.al.|[2405.03734](http://arxiv.org/abs/2405.03734)|null|
 |**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
