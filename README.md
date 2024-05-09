@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|null|
+|**2024-05-08**|**Enabling Roll-up and Drill-down Operations in News Exploration with Knowledge Graphs for Due Diligence and Risk Management**|Sha Wang et.al.|[2405.04929](http://arxiv.org/abs/2405.04929)|null|
+|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
+|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756](http://arxiv.org/abs/2405.04756)|null|
+|**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753](http://arxiv.org/abs/2405.04753)|null|
+|**2024-05-08**|**Cryptanalysis of the SIMON Cypher Using Neo4j**|Jonathan Cook et.al.|[2405.04735](http://arxiv.org/abs/2405.04735)|null|
 |**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453](http://arxiv.org/abs/2405.04453)|**[link](https://github.com/seukgcode/incde)**|
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
 |**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136](http://arxiv.org/abs/2405.04136)|null|
@@ -2314,6 +2320,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
+|**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942](http://arxiv.org/abs/2405.04942)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|null|
+|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
+|**2024-05-07**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614](http://arxiv.org/abs/2405.04614)|null|
 |**2024-05-07**|**Dataset and Models for Item Recommendation Using Multi-Modal User Interactions**|Simone Borg Bruun et.al.|[2405.04246](http://arxiv.org/abs/2405.04246)|**[link](https://github.com/simonebbruun/rs_multi_modal_user_interactions)**|
 |**2024-05-07**|**Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**|Jian Jia et.al.|[2405.03988](http://arxiv.org/abs/2405.03988)|null|
 |**2024-05-07**|**The Fault in Our Recommendations: On the Perils of Optimizing the Measurable**|Omar Besbes et.al.|[2405.03948](http://arxiv.org/abs/2405.03948)|null|
