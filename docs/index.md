@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850](http://arxiv.org/abs/2405.07850)|null|
+|**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664](http://arxiv.org/abs/2405.07664)|null|
+|**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172](http://arxiv.org/abs/2405.07172)|null|
+|**2024-05-11**|**Selecting focused digital cohorts from social media using the metric backbone of biomedical knowledge graphs**|Ziqi Guo et.al.|[2405.07072](http://arxiv.org/abs/2405.07072)|null|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
 |**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524](http://arxiv.org/abs/2405.06524)|null|
 |**2024-05-10**|**PAC-Bayesian Generalization Bounds for Knowledge Graph Representation Learning**|Jaejun Lee et.al.|[2405.06418](http://arxiv.org/abs/2405.06418)|null|
@@ -2307,6 +2311,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Is Interpretable Machine Learning Effective at Feature Selection for Neural Learning-to-Rank?**|Lijun Lyu et.al.|[2405.07782](http://arxiv.org/abs/2405.07782)|null|
+|**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
+|**2024-05-11**|**Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought**|Xiaoxiao Chi et.al.|[2405.07018](http://arxiv.org/abs/2405.07018)|null|
+|**2024-05-11**|**Multimodal Pretraining and Generation for Recommendation: A Tutorial**|Jieming Zhu et.al.|[2405.06927](http://arxiv.org/abs/2405.06927)|null|
+|**2024-05-10**|**Music Emotion Prediction Using Recurrent Neural Networks**|Xinyu Chang et.al.|[2405.06747](http://arxiv.org/abs/2405.06747)|**[link](https://github.com/XiyahC/MusicEmotionRec)**|
 |**2024-05-09**|**Optimal Baseline Corrections for Off-Policy Contextual Bandits**|Shashank Gupta et.al.|[2405.05736](http://arxiv.org/abs/2405.05736)|null|
 |**2024-05-11**|**Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives**|Emrul Hasan et.al.|[2405.05562](http://arxiv.org/abs/2405.05562)|null|
 |**2024-05-08**|**Learning Social Graph for Inactive User Recommendation**|Nian Liu et.al.|[2405.05288](http://arxiv.org/abs/2405.05288)|**[link](https://github.com/liun-online/lsir)**|
