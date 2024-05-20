@@ -24,8 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
+|**2024-05-17**|**Modeling Supply Chain Interaction and Disruption: Insights from Real-world Data and Complex Adaptive System**|Jiawei Feng et.al.|[2405.10818](http://arxiv.org/abs/2405.10818)|null|
+|**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
+|**2024-05-17**|**Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning**|Jinchuan Zhang et.al.|[2405.10621](http://arxiv.org/abs/2405.10621)|null|
+|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
+|**2024-05-16**|**AMCEN: An Attention Masking-based Contrastive Event Network for Two-stage Temporal Knowledge Graph Reasoning**|Jing Yang et.al.|[2405.10346](http://arxiv.org/abs/2405.10346)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
-|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
+|**2024-05-17**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
 |**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
 |**2024-05-14**|**Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization**|Rui Li et.al.|[2405.08540](http://arxiv.org/abs/2405.08540)|**[link](https://github.com/xxrep/golde)**|
@@ -2338,6 +2344,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
+|**2024-05-17**|**CELA: Cost-Efficient Language Model Alignment for CTR Prediction**|Xingmei Wang et.al.|[2405.10596](http://arxiv.org/abs/2405.10596)|null|
+|**2024-05-16**|**Subtractive random forests with two choices**|Francisco Calvillo et.al.|[2405.10455](http://arxiv.org/abs/2405.10455)|null|
+|**2024-05-16**|**Positional encoding is not the same as context: A study on positional encoding for Sequential recommendation**|Alejo Lopez-Avila et.al.|[2405.10436](http://arxiv.org/abs/2405.10436)|null|
 |**2024-05-16**|**Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation**|Kun Lin et.al.|[2405.10232](http://arxiv.org/abs/2405.10232)|**[link](https://github.com/nicolelin13/dynamiccalibrationumap)**|
 |**2024-05-15**|**Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering**|Yi Zhang et.al.|[2405.09042](http://arxiv.org/abs/2405.09042)|null|
 |**2024-05-14**|**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**|Jiaju Chen et.al.|[2405.08582](http://arxiv.org/abs/2405.08582)|**[link](https://github.com/Jiaju-Chen/UpliftRec)**|
