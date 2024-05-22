@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,12 +27,12 @@
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706](http://arxiv.org/abs/2405.11706)|null|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
-|**2024-05-18**|**Towards Knowledge-Infused Automated Disease Diagnosis Assistant**|Mohit Tomar et.al.|[2405.11181](http://arxiv.org/abs/2405.11181)|null|
+|**2024-05-18**|**Towards Knowledge-Infused Automated Disease Diagnosis Assistant**|Mohit Tomar et.al.|[2405.11181](http://arxiv.org/abs/2405.11181)|**[link](https://github.com/nlp-rl/ki-ddi)**|
 |**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
 |**2024-05-17**|**Modeling Supply Chain Interaction and Disruption: Insights from Real-world Data and Complex Adaptive System**|Jiawei Feng et.al.|[2405.10818](http://arxiv.org/abs/2405.10818)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
 |**2024-05-17**|**Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning**|Jinchuan Zhang et.al.|[2405.10621](http://arxiv.org/abs/2405.10621)|null|
-|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
+|**2024-05-21**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
 |**2024-05-16**|**AMCEN: An Attention Masking-based Contrastive Event Network for Two-stage Temporal Knowledge Graph Reasoning**|Jing Yang et.al.|[2405.10346](http://arxiv.org/abs/2405.10346)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
 |**2024-05-17**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
@@ -1438,7 +1438,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## SFM
 
@@ -1528,7 +1528,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1864,7 +1864,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1993,7 +1993,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2114,7 +2114,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## NeRF
 
@@ -2342,7 +2342,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## RS
 
@@ -2356,7 +2356,7 @@
 |**2024-05-19**|**EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations**|Chiyu Zhang et.al.|[2405.11441](http://arxiv.org/abs/2405.11441)|null|
 |**2024-05-18**|**Double Correction Framework for Denoising Recommendation**|Zhuangzhuang He et.al.|[2405.11272](http://arxiv.org/abs/2405.11272)|**[link](https://github.com/bruno686/dcf)**|
 |**2024-05-18**|**A User Interface Study on Sustainable City Trip Recommendations**|Ashmi Banerjee et.al.|[2405.11243](http://arxiv.org/abs/2405.11243)|null|
-|**2024-05-17**|**The MovieLens Beliefs Dataset: Collecting Pre-Choice Data for Online Recommender Systems**|Guy Aridor et.al.|[2405.11053](http://arxiv.org/abs/2405.11053)|null|
+|**2024-05-21**|**The MovieLens Beliefs Dataset: Collecting Pre-Choice Data for Online Recommender Systems**|Guy Aridor et.al.|[2405.11053](http://arxiv.org/abs/2405.11053)|null|
 |**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-17**|**CELA: Cost-Efficient Language Model Alignment for CTR Prediction**|Xingmei Wang et.al.|[2405.10596](http://arxiv.org/abs/2405.10596)|null|
 |**2024-05-16**|**Subtractive random forests with two choices**|Francisco Calvillo et.al.|[2405.10455](http://arxiv.org/abs/2405.10455)|null|
@@ -3589,7 +3589,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -3597,7 +3597,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

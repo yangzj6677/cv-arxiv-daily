@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,12 +1298,12 @@ layout: default
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706](http://arxiv.org/abs/2405.11706)|null|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
-|**2024-05-18**|**Towards Knowledge-Infused Automated Disease Diagnosis Assistant**|Mohit Tomar et.al.|[2405.11181](http://arxiv.org/abs/2405.11181)|null|
+|**2024-05-18**|**Towards Knowledge-Infused Automated Disease Diagnosis Assistant**|Mohit Tomar et.al.|[2405.11181](http://arxiv.org/abs/2405.11181)|**[link](https://github.com/nlp-rl/ki-ddi)**|
 |**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
 |**2024-05-17**|**Modeling Supply Chain Interaction and Disruption: Insights from Real-world Data and Complex Adaptive System**|Jiawei Feng et.al.|[2405.10818](http://arxiv.org/abs/2405.10818)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
 |**2024-05-17**|**Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning**|Jinchuan Zhang et.al.|[2405.10621](http://arxiv.org/abs/2405.10621)|null|
-|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
+|**2024-05-21**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
 |**2024-05-16**|**AMCEN: An Attention Masking-based Contrastive Event Network for Two-stage Temporal Knowledge Graph Reasoning**|Jing Yang et.al.|[2405.10346](http://arxiv.org/abs/2405.10346)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
 |**2024-05-17**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
@@ -2339,7 +2339,7 @@ layout: default
 |**2024-05-19**|**EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations**|Chiyu Zhang et.al.|[2405.11441](http://arxiv.org/abs/2405.11441)|null|
 |**2024-05-18**|**Double Correction Framework for Denoising Recommendation**|Zhuangzhuang He et.al.|[2405.11272](http://arxiv.org/abs/2405.11272)|**[link](https://github.com/bruno686/dcf)**|
 |**2024-05-18**|**A User Interface Study on Sustainable City Trip Recommendations**|Ashmi Banerjee et.al.|[2405.11243](http://arxiv.org/abs/2405.11243)|null|
-|**2024-05-17**|**The MovieLens Beliefs Dataset: Collecting Pre-Choice Data for Online Recommender Systems**|Guy Aridor et.al.|[2405.11053](http://arxiv.org/abs/2405.11053)|null|
+|**2024-05-21**|**The MovieLens Beliefs Dataset: Collecting Pre-Choice Data for Online Recommender Systems**|Guy Aridor et.al.|[2405.11053](http://arxiv.org/abs/2405.11053)|null|
 |**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-17**|**CELA: Cost-Efficient Language Model Alignment for CTR Prediction**|Xingmei Wang et.al.|[2405.10596](http://arxiv.org/abs/2405.10596)|null|
 |**2024-05-16**|**Subtractive random forests with two choices**|Francisco Calvillo et.al.|[2405.10455](http://arxiv.org/abs/2405.10455)|null|
