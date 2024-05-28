@@ -24,6 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
+|**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249](http://arxiv.org/abs/2405.17249)|**[link](https://github.com/ionutiga/llms-for-kgc)**|
+|**2024-05-27**|**Your decision path does matter in pre-training industrial recommenders with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132](http://arxiv.org/abs/2405.17132)|null|
+|**2024-05-27**|**Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models**|Xuemei Gu et.al.|[2405.17044](http://arxiv.org/abs/2405.17044)|null|
+|**2024-05-27**|**Uncertainty Management in the Construction of Knowledge Graphs: a Survey**|Lucas Jarnac et.al.|[2405.16929](http://arxiv.org/abs/2405.16929)|null|
+|**2024-05-27**|**Predicting from a Different Perspective in Re-ranking Model for Inductive Knowledge Graph Completion**|Yuki Iwamoto et.al.|[2405.16902](http://arxiv.org/abs/2405.16902)|null|
+|**2024-05-27**|**Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2405.16869](http://arxiv.org/abs/2405.16869)|**[link](https://github.com/zjukg/momok)**|
+|**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|null|
+|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806](http://arxiv.org/abs/2405.16806)|null|
+|**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412](http://arxiv.org/abs/2405.16412)|null|
 |**2024-05-24**|**Hybrid Context Retrieval Augmented Generation Pipeline: LLM-Augmented Knowledge Graphs and Vector Database for Accreditation Reporting Assistance**|Candace Edwards et.al.|[2405.15436](http://arxiv.org/abs/2405.15436)|**[link](https://github.com/cs-edwards/advrag)**|
 |**2024-05-24**|**A Planet Scale Spatial-Temporal Knowledge Graph Based On OpenStreetMap And H3 Grid**|Martin Böckling et.al.|[2405.15375](http://arxiv.org/abs/2405.15375)|null|
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374](http://arxiv.org/abs/2405.15374)|null|
@@ -2364,6 +2374,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Leveraging Offline Data in Linear Latent Bandits**|Chinmaya Kausik et.al.|[2405.17324](http://arxiv.org/abs/2405.17324)|null|
+|**2024-05-27**|**Graph Neural Networks on Quantum Computers**|Yidong Liao et.al.|[2405.17060](http://arxiv.org/abs/2405.17060)|null|
+|**2024-05-27**|**Uncertainty Management in the Construction of Knowledge Graphs: a Survey**|Lucas Jarnac et.al.|[2405.16929](http://arxiv.org/abs/2405.16929)|null|
+|**2024-05-26**|**ReCODE: Modeling Repeat Consumption with Neural ODE**|Sunhao Dai et.al.|[2405.16550](http://arxiv.org/abs/2405.16550)|null|
+|**2024-05-25**|**LLMs for User Interest Exploration: A Hybrid Approach**|Jianling Wang et.al.|[2405.16363](http://arxiv.org/abs/2405.16363)|null|
+|**2024-05-25**|**Finetuning Large Language Model for Personalized Ranking**|Zhuoxi Bai et.al.|[2405.16127](http://arxiv.org/abs/2405.16127)|null|
+|**2024-05-25**|**BankFair: Balancing Accuracy and Fairness under Varying User Traffic in Recommender System**|Xiaopeng Ye et.al.|[2405.16120](http://arxiv.org/abs/2405.16120)|null|
 |**2024-05-24**|**Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction**|Yuyang Xue et.al.|[2405.15517](http://arxiv.org/abs/2405.15517)|null|
 |**2024-05-24**|**Fine-Grained Dynamic Framework for Bias-Variance Joint Optimization on Data Missing Not at Random**|Mingming Ha et.al.|[2405.15403](http://arxiv.org/abs/2405.15403)|null|
 |**2024-05-24**|**Multi-Modal Recommendation Unlearning**|Yash Sinha et.al.|[2405.15328](http://arxiv.org/abs/2405.15328)|null|
