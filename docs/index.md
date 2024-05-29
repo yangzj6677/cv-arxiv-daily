@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1303,7 +1303,7 @@ layout: default
 |**2024-05-27**|**Predicting from a Different Perspective in Re-ranking Model for Inductive Knowledge Graph Completion**|Yuki Iwamoto et.al.|[2405.16902](http://arxiv.org/abs/2405.16902)|null|
 |**2024-05-27**|**Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2405.16869](http://arxiv.org/abs/2405.16869)|**[link](https://github.com/zjukg/momok)**|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|null|
-|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806](http://arxiv.org/abs/2405.16806)|null|
+|**2024-05-28**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806](http://arxiv.org/abs/2405.16806)|**[link](https://github.com/chensycn/llm4ea_official)**|
 |**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412](http://arxiv.org/abs/2405.16412)|null|
 |**2024-05-24**|**Hybrid Context Retrieval Augmented Generation Pipeline: LLM-Augmented Knowledge Graphs and Vector Database for Accreditation Reporting Assistance**|Candace Edwards et.al.|[2405.15436](http://arxiv.org/abs/2405.15436)|**[link](https://github.com/cs-edwards/advrag)**|
 |**2024-05-24**|**A Planet Scale Spatial-Temporal Knowledge Graph Based On OpenStreetMap And H3 Grid**|Martin Böckling et.al.|[2405.15375](http://arxiv.org/abs/2405.15375)|null|
