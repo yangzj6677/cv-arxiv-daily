@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163](http://arxiv.org/abs/2405.20163)|null|
+|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
+|**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877](http://arxiv.org/abs/2405.19877)|null|
+|**2024-05-30**|**The Kosmosis Use-Case of Crypto Rug Pull Detection and Prevention**|Philipp Stangl et.al.|[2405.19762](http://arxiv.org/abs/2405.19762)|null|
+|**2024-05-30**|**Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback**|Jingwei Sun et.al.|[2405.19686](http://arxiv.org/abs/2405.19686)|null|
 |**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
 |**2024-05-29**|**Towards Data-Driven Electricity Management: Multi-Region Harmonized Data and Knowledge Graph**|Vid Hanžel et.al.|[2405.18869](http://arxiv.org/abs/2405.18869)|null|
@@ -2362,6 +2367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
+|**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
+|**2024-05-29**|**Quantum Algorithms for tensor-SVD**|Jezer Jojo et.al.|[2405.19485](http://arxiv.org/abs/2405.19485)|null|
 |**2024-05-29**|**Continual Collaborative Distillation for Recommender System**|Gyuseok Lee et.al.|[2405.19046](http://arxiv.org/abs/2405.19046)|null|
 |**2024-05-29**|**SynerGraph: An Integrated Graph Convolution Network for Multimodal Recommendation**|Mert Burabak et.al.|[2405.19031](http://arxiv.org/abs/2405.19031)|null|
 |**2024-05-29**|**Mitigate Position Bias with Coupled Ranking Bias on CTR Prediction**|Yao Zhao et.al.|[2405.18971](http://arxiv.org/abs/2405.18971)|null|
