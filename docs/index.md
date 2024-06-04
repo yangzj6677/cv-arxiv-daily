@@ -1296,13 +1296,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565](http://arxiv.org/abs/2405.20565)|null|
-|**2024-05-30**|**DepesRAG: Towards Managing Software Dependencies using Large Language Models**|Mohannad Alhanahnah et.al.|[2405.20455](http://arxiv.org/abs/2405.20455)|null|
+|**2024-06-03**|**DepsRAG: Towards Managing Software Dependencies using Large Language Models**|Mohannad Alhanahnah et.al.|[2405.20455](http://arxiv.org/abs/2405.20455)|null|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163](http://arxiv.org/abs/2405.20163)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877](http://arxiv.org/abs/2405.19877)|null|
 |**2024-05-30**|**The Kosmosis Use-Case of Crypto Rug Pull Detection and Prevention**|Philipp Stangl et.al.|[2405.19762](http://arxiv.org/abs/2405.19762)|null|
 |**2024-05-30**|**Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback**|Jingwei Sun et.al.|[2405.19686](http://arxiv.org/abs/2405.19686)|null|
-|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
+|**2024-06-03**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
 |**2024-05-29**|**Towards Data-Driven Electricity Management: Multi-Region Harmonized Data and Knowledge Graph**|Vid Hanžel et.al.|[2405.18869](http://arxiv.org/abs/2405.18869)|null|
 |**2024-05-28**|**A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation**|Kai Chen et.al.|[2405.18106](http://arxiv.org/abs/2405.18106)|null|
@@ -2369,7 +2369,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-06-03**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
 |**2024-05-31**|**Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias**|Miaomiao Cai et.al.|[2405.20718](http://arxiv.org/abs/2405.20718)|**[link](https://github.com/miaomiao-cai2/kdd2024-paac)**|
 |**2024-05-31**|**Provably Efficient Interactive-Grounded Learning with Personalized Reward**|Mengxiao Zhang et.al.|[2405.20677](http://arxiv.org/abs/2405.20677)|null|
