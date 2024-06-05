@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2377,7 +2377,7 @@ layout: default
 |**2024-05-31**|**Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems**|Shengyu Zhang et.al.|[2405.20626](http://arxiv.org/abs/2405.20626)|null|
 |**2024-05-30**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483](http://arxiv.org/abs/2405.20483)|null|
 |**2024-05-30**|**Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation**|Shi Mu et.al.|[2405.20358](http://arxiv.org/abs/2405.20358)|null|
-|**2024-05-30**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
+|**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
 |**2024-05-29**|**Quantum Algorithms for tensor-SVD**|Jezer Jojo et.al.|[2405.19485](http://arxiv.org/abs/2405.19485)|null|
 |**2024-05-29**|**Continual Collaborative Distillation for Recommender System**|Gyuseok Lee et.al.|[2405.19046](http://arxiv.org/abs/2405.19046)|null|
