@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962](http://arxiv.org/abs/2406.02962)|null|
 |**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205](http://arxiv.org/abs/2406.02205)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110](http://arxiv.org/abs/2406.02110)|null|
 |**2024-06-05**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
@@ -2396,12 +2397,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Improving Users' Passwords with DPAR: a Data-driven Password Recommendation System**|Assaf Morag et.al.|[2406.03423](http://arxiv.org/abs/2406.03423)|null|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
+|**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**Uncertainty of Joint Neural Contextual Bandit**|Hongbo Guo et.al.|[2406.02515](http://arxiv.org/abs/2406.02515)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368](http://arxiv.org/abs/2406.02368)|null|
 |**2024-06-05**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163](http://arxiv.org/abs/2406.02163)|null|
 |**2024-06-03**|**Large Language Models as Recommender Systems: A Study of Popularity Bias**|Jan Malte Lichtenberg et.al.|[2406.01285](http://arxiv.org/abs/2406.01285)|null|
-|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022](http://arxiv.org/abs/2406.01022)|null|
+|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022](http://arxiv.org/abs/2406.01022)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-06-03**|**Cold-start Recommendation by Personalized Embedding Region Elicitation**|Hieu Trung Nguyen et.al.|[2406.00973](http://arxiv.org/abs/2406.00973)|null|
 |**2024-06-02**|**Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation**|Xiaocong Chen et.al.|[2406.00725](http://arxiv.org/abs/2406.00725)|null|
 |**2024-06-02**|**Making Recommender Systems More Knowledgeable: A Framework to Incorporate Side Information**|Yukun Jiang et.al.|[2406.00615](http://arxiv.org/abs/2406.00615)|**[link](https://github.com/YukunJ/11785-Final-Project-Team15)**|
