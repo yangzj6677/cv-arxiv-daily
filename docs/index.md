@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1303,7 +1303,7 @@ layout: default
 |**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205](http://arxiv.org/abs/2406.02205)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110](http://arxiv.org/abs/2406.02110)|null|
 |**2024-06-05**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
-|**2024-06-05**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|null|
+|**2024-06-05**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|**[link](https://github.com/zhangzef/ot-mel)**|
 |**2024-06-03**|**From Latent to Lucid: Transforming Knowledge Graph Embeddings into Interpretable Structures**|Christoph Wehner et.al.|[2406.01759](http://arxiv.org/abs/2406.01759)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422](http://arxiv.org/abs/2406.01422)|null|
 |**2024-06-03**|**Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery**|Zechang Sun et.al.|[2406.01391](http://arxiv.org/abs/2406.01391)|null|
@@ -2385,7 +2385,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Polyhedral Conic Classifier for CTR Prediction**|Beyza Turkmen et.al.|[2406.03892](http://arxiv.org/abs/2406.03892)|null|
-|**2024-06-05**|**Improving Users' Passwords with DPAR: a Data-driven Password Recommendation System**|Assaf Morag et.al.|[2406.03423](http://arxiv.org/abs/2406.03423)|null|
+|**2024-06-05**|**Improving Users' Passwords with DPAR: a Data-driven Password Recommendation System**|Assaf Morag et.al.|[2406.03423](http://arxiv.org/abs/2406.03423)|**[link](https://github.com/iwitlab/dpar)**|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
 |**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**Uncertainty of Joint Neural Contextual Bandit**|Hongbo Guo et.al.|[2406.02515](http://arxiv.org/abs/2406.02515)|null|
