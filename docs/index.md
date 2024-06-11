@@ -1295,7 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-07**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|null|
+|**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032](http://arxiv.org/abs/2406.06032)|null|
+|**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027](http://arxiv.org/abs/2406.06027)|null|
+|**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
+|**2024-06-10**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|null|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989](http://arxiv.org/abs/2406.04989)|null|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|null|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953](http://arxiv.org/abs/2406.03953)|null|
@@ -2387,6 +2390,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475](http://arxiv.org/abs/2406.06475)|null|
+|**2024-06-10**|**Greedy SLIM: A SLIM-Based Approach For Preference Elicitation**|Claudius Proissl et.al.|[2406.06061](http://arxiv.org/abs/2406.06061)|null|
+|**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043](http://arxiv.org/abs/2406.06043)|null|
+|**2024-06-09**|**Async Learned User Embeddings for Ads Delivery Optimization**|Mingwei Tang et.al.|[2406.05898](http://arxiv.org/abs/2406.05898)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|null|
+|**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255](http://arxiv.org/abs/2406.05255)|null|
+|**2024-06-07**|**Measuring Fairness in Large-Scale Recommendation Systems with Missing Labels**|Yulong Dong et.al.|[2406.05247](http://arxiv.org/abs/2406.05247)|null|
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
 |**2024-06-06**|**Better Late Than Never: Formulating and Benchmarking Recommendation Editing**|Chengyu Lai et.al.|[2406.04553](http://arxiv.org/abs/2406.04553)|**[link](https://github.com/cycl2018/recommendation-editing)**|
 |**2024-06-06**|**Negative Feedback for Music Personalization**|M. Jeffrey Mei et.al.|[2406.04488](http://arxiv.org/abs/2406.04488)|null|
