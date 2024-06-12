@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
+|**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402](http://arxiv.org/abs/2406.07402)|null|
+|**2024-06-11**|**Guiding Catalogue Enrichment with User Queries**|Yupei Du et.al.|[2406.07098](http://arxiv.org/abs/2406.07098)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|null|
+|**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034](http://arxiv.org/abs/2406.07034)|**[link](https://github.com/kjh9503/caqr)**|
+|**2024-06-07**|**LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering**|Harry Li et.al.|[2406.06621](http://arxiv.org/abs/2406.06621)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032](http://arxiv.org/abs/2406.06032)|null|
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027](http://arxiv.org/abs/2406.06027)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
@@ -2390,6 +2396,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Matryoshka Representation Learning for Recommendation**|Riwei Lai et.al.|[2406.07432](http://arxiv.org/abs/2406.07432)|**[link](https://github.com/riwei-heu/mrl)**|
+|**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
+|**2024-06-11**|**Optimal policy design for decision problems under social influence**|Valentina Breschi et.al.|[2406.07282](http://arxiv.org/abs/2406.07282)|null|
+|**2024-06-11**|**Personalisation of d'Hondt's algorithm and its use in recommender ecosystems**|Stepan Balcar et.al.|[2406.07264](http://arxiv.org/abs/2406.07264)|null|
+|**2024-06-11**|**ElasticRec: A Microservice-based Model Serving Architecture Enabling Elastic Resource Scaling for Recommendation Models**|Yujeong Choi et.al.|[2406.06955](http://arxiv.org/abs/2406.06955)|null|
+|**2024-06-10**|**Link Prediction in Bipartite Networks**|Şükrü Demir İnan Özer et.al.|[2406.06658](http://arxiv.org/abs/2406.06658)|null|
 |**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475](http://arxiv.org/abs/2406.06475)|null|
 |**2024-06-10**|**Greedy SLIM: A SLIM-Based Approach For Preference Elicitation**|Claudius Proissl et.al.|[2406.06061](http://arxiv.org/abs/2406.06061)|null|
 |**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043](http://arxiv.org/abs/2406.06043)|**[link](https://github.com/Applied-Machine-Learning-Lab/GFN4Retention)**|
