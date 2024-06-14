@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,7 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|null|
+|**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|**[link](https://github.com/msorkhpar/wiki-entity-summarization-preprocessor)**|
 |**2024-06-12**|**Practical, Automated Scenario-based Mobile App Testing**|Shengcheng Yu et.al.|[2406.08340](http://arxiv.org/abs/2406.08340)|null|
 |**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223](http://arxiv.org/abs/2406.08223)|null|
 |**2024-06-11**|**"It answers questions that I didn't know I had": Ph.D. Students' Evaluation of an Information Sharing Knowledge Graph**|Stanislava Gardasevic et.al.|[2406.07730](http://arxiv.org/abs/2406.07730)|null|
@@ -1304,7 +1304,7 @@ layout: default
 |**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
 |**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402](http://arxiv.org/abs/2406.07402)|null|
 |**2024-06-11**|**Guiding Catalogue Enrichment with User Queries**|Yupei Du et.al.|[2406.07098](http://arxiv.org/abs/2406.07098)|null|
-|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|**[link](https://github.com/UKPLab/acl2024-DARA)**|
 |**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034](http://arxiv.org/abs/2406.07034)|**[link](https://github.com/kjh9503/caqr)**|
 |**2024-06-07**|**LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering**|Harry Li et.al.|[2406.06621](http://arxiv.org/abs/2406.06621)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032](http://arxiv.org/abs/2406.06032)|null|
@@ -2404,9 +2404,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**|Peiyan Zhang et.al.|[2406.08229](http://arxiv.org/abs/2406.08229)|null|
-|**2024-06-12**|**Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time**|Haiyuan Zhao et.al.|[2406.07932](http://arxiv.org/abs/2406.07932)|null|
+|**2024-06-13**|**Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time**|Haiyuan Zhao et.al.|[2406.07932](http://arxiv.org/abs/2406.07932)|**[link](https://github.com/hyz20/CWM)**|
 |**2024-06-12**|**Asymptotically Optimal Regret for Black-Box Predict-then-Optimize**|Samuel Tan et.al.|[2406.07866](http://arxiv.org/abs/2406.07866)|null|
-|**2024-06-11**|**Personalized Product Assortment with Real-time 3D Perception and Bayesian Payoff Estimation**|Porter Jenkins et.al.|[2406.07769](http://arxiv.org/abs/2406.07769)|null|
+|**2024-06-13**|**Personalized Product Assortment with Real-time 3D Perception and Bayesian Payoff Estimation**|Porter Jenkins et.al.|[2406.07769](http://arxiv.org/abs/2406.07769)|null|
 |**2024-06-11**|**Matryoshka Representation Learning for Recommendation**|Riwei Lai et.al.|[2406.07432](http://arxiv.org/abs/2406.07432)|**[link](https://github.com/riwei-heu/mrl)**|
 |**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
 |**2024-06-11**|**Optimal policy design for decision problems under social influence**|Valentina Breschi et.al.|[2406.07282](http://arxiv.org/abs/2406.07282)|null|
