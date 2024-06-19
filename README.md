@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389](http://arxiv.org/abs/2406.12389)|null|
+|**2024-06-17**|**Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph**|Xiaoxiong Zhang et.al.|[2406.11943](http://arxiv.org/abs/2406.11943)|null|
 |**2024-06-17**|**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2406.11460](http://arxiv.org/abs/2406.11460)|**[link](https://github.com/jyfang6/trace)**|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400](http://arxiv.org/abs/2406.11400)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162](http://arxiv.org/abs/2406.11162)|**[link](https://github.com/victor812-hub/entity_datasets)**|
@@ -2437,6 +2439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2406.12634](http://arxiv.org/abs/2406.12634)|**[link](https://github.com/andreeaiana/nase)**|
+|**2024-06-18**|**Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation**|Chengkai Liu et.al.|[2406.12580](http://arxiv.org/abs/2406.12580)|null|
+|**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529](http://arxiv.org/abs/2406.12529)|null|
+|**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501](http://arxiv.org/abs/2406.12501)|null|
+|**2024-06-18**|**LLM-enhanced Reranking in Recommender Systems**|Jingtong Gao et.al.|[2406.12433](http://arxiv.org/abs/2406.12433)|null|
+|**2024-06-18**|**Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal**|Wenqi Jiang et.al.|[2406.12385](http://arxiv.org/abs/2406.12385)|null|
+|**2024-06-18**|**CherryRec: Enhancing News Recommendation Quality via LLM-driven Framework**|Shaohuang Wang et.al.|[2406.12243](http://arxiv.org/abs/2406.12243)|null|
+|**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052](http://arxiv.org/abs/2406.12052)|null|
+|**2024-06-17**|**Balancing Embedding Spectrum for Recommendation**|Shaowen Peng et.al.|[2406.12032](http://arxiv.org/abs/2406.12032)|null|
+|**2024-06-17**|**When Box Meets Graph Neural Network in Tag-aware Recommendation**|Fake Lin et.al.|[2406.12020](http://arxiv.org/abs/2406.12020)|**[link](https://github.com/critical88/boxgnn)**|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**Making Alice Appear Like Bob: A Probabilistic Preference Obfuscation Method For Implicit Feedback Recommendation Models**|Gustavo Escobedo et.al.|[2406.11505](http://arxiv.org/abs/2406.11505)|null|
