@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276](http://arxiv.org/abs/2406.18276)|null|
+|**2024-06-26**|**Start from Zero: Triple Set Prediction for Automatic Knowledge Graph Completion**|Wen Zhang et.al.|[2406.18166](http://arxiv.org/abs/2406.18166)|**[link](https://github.com/zjukg/gpht-for-tsp)**|
+|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|null|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085](http://arxiv.org/abs/2406.18085)|null|
 |**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|null|
 |**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|null|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
@@ -2459,6 +2463,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Effects of Using Synthetic Data on Deep Recommender Models' Performance**|Fatih Cihan Taskin et.al.|[2406.18286](http://arxiv.org/abs/2406.18286)|null|
+|**2024-06-26**|**AutoOPE: Automated Off-Policy Estimator Selection**|Nicolò Felicioni et.al.|[2406.18022](http://arxiv.org/abs/2406.18022)|null|
+|**2024-06-25**|**GraphSnapShot: Graph Machine Learning Acceleration with Fast Storage and Retrieval**|Dong Liu et.al.|[2406.17918](http://arxiv.org/abs/2406.17918)|null|
 |**2024-06-25**|**Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation**|Fan Zhang et.al.|[2406.17694](http://arxiv.org/abs/2406.17694)|null|
 |**2024-06-25**|**Performative Debias with Fair-exposure Optimization Driven by Strategic Agents in Recommender Systems**|Zhichen Xiang et.al.|[2406.17475](http://arxiv.org/abs/2406.17475)|null|
 |**2024-06-25**|**A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems**|Hung Vinh Tran et.al.|[2406.17335](http://arxiv.org/abs/2406.17335)|**[link](https://github.com/chenxing1999/recsys-benchmark)**|
