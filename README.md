@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,12 @@
 |---|---|---|---|---|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276](http://arxiv.org/abs/2406.18276)|null|
 |**2024-06-26**|**Start from Zero: Triple Set Prediction for Automatic Knowledge Graph Completion**|Wen Zhang et.al.|[2406.18166](http://arxiv.org/abs/2406.18166)|**[link](https://github.com/zjukg/gpht-for-tsp)**|
-|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|null|
-|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085](http://arxiv.org/abs/2406.18085)|null|
-|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|null|
-|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|null|
+|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|**[link](https://github.com/lukasbahr/kg-rag-fmea)**|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085](http://arxiv.org/abs/2406.18085)|**[link](https://github.com/Maxpa1n/gcplm-kgc)**|
+|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|**[link](https://github.com/AlexandreChaussard/PLN-Tree)**|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|**[link](https://github.com/tongzhou21/CogMG)**|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
-|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374](http://arxiv.org/abs/2406.16374)|null|
+|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374](http://arxiv.org/abs/2406.16374)|**[link](https://github.com/MatNLP/KEHRL)**|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294](http://arxiv.org/abs/2406.15294)|**[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)**|
@@ -1553,7 +1553,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## SFM
 
@@ -1643,7 +1643,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1979,7 +1979,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2108,7 +2108,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2229,7 +2229,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## NeRF
 
@@ -2457,7 +2457,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## RS
 
@@ -3838,7 +3838,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -3846,7 +3846,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1297,12 +1297,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276](http://arxiv.org/abs/2406.18276)|null|
 |**2024-06-26**|**Start from Zero: Triple Set Prediction for Automatic Knowledge Graph Completion**|Wen Zhang et.al.|[2406.18166](http://arxiv.org/abs/2406.18166)|**[link](https://github.com/zjukg/gpht-for-tsp)**|
-|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|null|
-|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085](http://arxiv.org/abs/2406.18085)|null|
-|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|null|
-|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|null|
+|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|**[link](https://github.com/lukasbahr/kg-rag-fmea)**|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085](http://arxiv.org/abs/2406.18085)|**[link](https://github.com/Maxpa1n/gcplm-kgc)**|
+|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|**[link](https://github.com/AlexandreChaussard/PLN-Tree)**|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|**[link](https://github.com/tongzhou21/CogMG)**|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
-|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374](http://arxiv.org/abs/2406.16374)|null|
+|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374](http://arxiv.org/abs/2406.16374)|**[link](https://github.com/MatNLP/KEHRL)**|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294](http://arxiv.org/abs/2406.15294)|**[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)**|
