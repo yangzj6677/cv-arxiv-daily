@@ -41,7 +41,7 @@ layout: default
 |**2023-01-03**|**LunarNav: Crater-based Localization for Long-range Autonomous Lunar Rover Navigation**|Shreyansh Daftry et.al.|[2301.01350](http://arxiv.org/abs/2301.01350)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
-|**2023-01-10**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v2](http://arxiv.org/abs/2301.00618v2)|null|
+|**2023-01-10**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v2](http://arxiv.org/abs/2301.00618v2)|**[link](https://github.com/m-dayani/eorb_slam)**|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772](http://arxiv.org/abs/2212.14772)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
 |**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba et.al.|[2212.13477v1](http://arxiv.org/abs/2212.13477v1)|**[link](https://github.com/gomezcuba/castro-5g)**|
@@ -1314,11 +1314,11 @@ layout: default
 |**2024-06-24**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745](http://arxiv.org/abs/2406.14745)|null|
 |**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703](http://arxiv.org/abs/2406.14703)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
-|**2024-06-20**|**Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**|Junjie Wang et.al.|[2406.14282](http://arxiv.org/abs/2406.14282)|null|
+|**2024-06-20**|**Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**|Junjie Wang et.al.|[2406.14282](http://arxiv.org/abs/2406.14282)|**[link](https://github.com/zjukg/lpkg)**|
 |**2024-06-20**|**Temporal Knowledge Graph Question Answering: A Survey**|Miao Su et.al.|[2406.14191](http://arxiv.org/abs/2406.14191)|null|
 |**2024-06-19**|**Knowledge Graph-Enhanced Large Language Models via Path Selection**|Haochen Liu et.al.|[2406.13862](http://arxiv.org/abs/2406.13862)|**[link](https://github.com/haochenliu2000/kelp)**|
 |**2024-06-19**|**IoT-Based Preventive Mental Health Using Knowledge Graphs and Standards for Better Well-Being**|Amelie Gyrard et.al.|[2406.13791](http://arxiv.org/abs/2406.13791)|null|
-|**2024-06-19**|**Root-KGD: A Novel Framework for Root Cause Diagnosis Based on Knowledge Graph and Industrial Data**|Jiyu Chen et.al.|[2406.13664](http://arxiv.org/abs/2406.13664)|null|
+|**2024-06-19**|**Root-KGD: A Novel Framework for Root Cause Diagnosis Based on Knowledge Graph and Industrial Data**|Jiyu Chen et.al.|[2406.13664](http://arxiv.org/abs/2406.13664)|**[link](https://github.com/rainstorm12/Root-KGD)**|
 |**2024-06-19**|**Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration**|Han-Cheng Yu et.al.|[2406.13578](http://arxiv.org/abs/2406.13578)|null|
 |**2024-06-19**|**Communication-Efficient Federated Knowledge Graph Embedding with Entity-Wise Top-K Sparsification**|Xiaoxiong Zhang et.al.|[2406.13225](http://arxiv.org/abs/2406.13225)|null|
 |**2024-06-19**|**Bridging Law and Data: Augmenting Reasoning via a Semi-Structured Dataset with IRAC methodology**|Xiaoxi Kang et.al.|[2406.13217](http://arxiv.org/abs/2406.13217)|null|
@@ -1338,7 +1338,7 @@ layout: default
 |**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994](http://arxiv.org/abs/2406.09994)|null|
 |**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
 |**2024-06-14**|**Block Coordinate Descent Methods for Optimization under J-Orthogonality Constraints with Applications**|Di He et.al.|[2406.09771](http://arxiv.org/abs/2406.09771)|null|
-|**2024-06-14**|**TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs**|Julia Gastinger et.al.|[2406.09639](http://arxiv.org/abs/2406.09639)|null|
+|**2024-06-14**|**TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs**|Julia Gastinger et.al.|[2406.09639](http://arxiv.org/abs/2406.09639)|**[link](https://github.com/shenyanghuang/tgb)**|
 |**2024-06-13**|**Differentiable Reasoning about Knowledge Graphs with Region-based Graph Neural Networks**|Aleksandar Pavlovic et.al.|[2406.09529](http://arxiv.org/abs/2406.09529)|null|
 |**2024-06-13**|**Master of Disaster: A Disaster-Related Event Monitoring System From News Streams**|Junbo Huang et.al.|[2406.09323](http://arxiv.org/abs/2406.09323)|**[link](https://github.com/semantic-systems/SEMS-tool-suite)**|
 |**2024-06-13**|**Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation**|Franz Georg Listl et.al.|[2406.09042](http://arxiv.org/abs/2406.09042)|null|
@@ -1585,7 +1585,7 @@ layout: default
 |**2024-03-13**|**NLQxform-UI: A Natural Language Interface for Querying DBLP Interactively**|Ruijie Wang et.al.|[2403.08475](http://arxiv.org/abs/2403.08475)|**[link](https://github.com/ruijie-wang-uzh/nlqxform-ui)**|
 |**2024-03-13**|**From human experts to machines: An LLM supported approach to ontology and knowledge graph construction**|Vamsi Krishna Kommineni et.al.|[2403.08345](http://arxiv.org/abs/2403.08345)|**[link](https://github.com/fusion-jena/automatic-kg-creation-with-llm)**|
 |**2024-03-12**|**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**|Jiawen Li et.al.|[2403.07719](http://arxiv.org/abs/2403.07719)|**[link](https://github.com/wonderlandxd/wikg)**|
-|**2024-03-12**|**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**|Tianqing Fang et.al.|[2403.07398](http://arxiv.org/abs/2403.07398)|null|
+|**2024-03-12**|**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**|Tianqing Fang et.al.|[2403.07398](http://arxiv.org/abs/2403.07398)|**[link](https://github.com/tqfang/complex-commonsense-reasoning)**|
 |**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|**[link](https://github.com/vlkeb/vlkeb)**|
 |**2024-03-13**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
 |**2024-03-11**|**Narrating Causal Graphs with Large Language Models**|Atharva Phatak et.al.|[2403.07118](http://arxiv.org/abs/2403.07118)|null|
@@ -2590,7 +2590,7 @@ layout: default
 |**2024-05-20**|**Conformal Counterfactual Inference under Hidden Confounding**|Zonghao Chen et.al.|[2405.12387](http://arxiv.org/abs/2405.12387)|null|
 |**2024-05-20**|**Diversifying by Intent in Recommender Systems**|Yuyan Wang et.al.|[2405.12327](http://arxiv.org/abs/2405.12327)|null|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
-|**2024-05-20**|**Effective Clustering on Large Attributed Bipartite Graphs**|Renchi Yang et.al.|[2405.11922](http://arxiv.org/abs/2405.11922)|null|
+|**2024-05-20**|**Effective Clustering on Large Attributed Bipartite Graphs**|Renchi Yang et.al.|[2405.11922](http://arxiv.org/abs/2405.11922)|**[link](https://github.com/hkbu-lagas/tpc)**|
 |**2024-05-20**|**Towards Graph Contrastive Learning: A Survey and Beyond**|Wei Ju et.al.|[2405.11868](http://arxiv.org/abs/2405.11868)|null|
 |**2024-05-22**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764](http://arxiv.org/abs/2405.11764)|**[link](https://github.com/tsinghua-fib-lab/sigir24-frec)**|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
@@ -2925,7 +2925,7 @@ layout: default
 |**2024-02-02**|**HimiRec: Modeling Hierarchical Multi-interest for Recommendation**|Haolei Pei et.al.|[2402.01253](http://arxiv.org/abs/2402.01253)|null|
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-01**|**CF4J: Collaborative Filtering for Java**|Fernando Ortega et.al.|[2402.01008](http://arxiv.org/abs/2402.01008)|**[link](https://github.com/ferortega/cf4j)**|
-|**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485](http://arxiv.org/abs/2402.00485)|null|
+|**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485](http://arxiv.org/abs/2402.00485)|**[link](https://github.com/rahmanidashti/cpfairrank)**|
 |**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
 |**2024-02-01**|**EASRec: Elastic Architecture Search for Efficient Long-term Sequential Recommender Systems**|Sheng Zhang et.al.|[2402.00390](http://arxiv.org/abs/2402.00390)|null|
 |**2024-02-01**|**Cumulative Distribution Function based General Temporal Point Processes**|Maolin Wang et.al.|[2402.00388](http://arxiv.org/abs/2402.00388)|null|
@@ -2971,7 +2971,7 @@ layout: default
 |**2024-01-18**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138](http://arxiv.org/abs/2401.10138)|null|
 |**2024-01-18**|**EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693](http://arxiv.org/abs/2401.09693)|**[link](https://github.com/quanvu0996/efficientrec)**|
 |**2024-01-17**|**Handling Large-scale Cardinality in building recommendation systems**|Dhruva Dixith Kurra et.al.|[2401.09572](http://arxiv.org/abs/2401.09572)|null|
-|**2024-01-17**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034](http://arxiv.org/abs/2401.09034)|null|
+|**2024-01-17**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034](http://arxiv.org/abs/2401.09034)|**[link](https://github.com/lyingCS/UOEP)**|
 |**2024-01-17**|**Cascading Reinforcement Learning**|Yihan Du et.al.|[2401.08961](http://arxiv.org/abs/2401.08961)|null|
 |**2024-01-16**|**Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems**|Lukas Wegmeth et.al.|[2401.08444](http://arxiv.org/abs/2401.08444)|null|
 |**2024-01-16**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation**|Zhixuan Chu et.al.|[2401.08217](http://arxiv.org/abs/2401.08217)|null|
@@ -3024,7 +3024,7 @@ layout: default
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2023-12-25**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 |**2023-12-25**|**Preliminary Study on Incremental Learning for Large Language Model-based Recommender Systems**|Tianhao Shi et.al.|[2312.15599](http://arxiv.org/abs/2312.15599)|null|
-|**2023-12-24**|**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**|Ling Li et.al.|[2312.15490](http://arxiv.org/abs/2312.15490)|null|
+|**2023-12-24**|**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**|Ling Li et.al.|[2312.15490](http://arxiv.org/abs/2312.15490)|**[link](https://github.com/lingli97/transformer-based-explanation)**|
 |**2023-12-23**|**Monitoring the Evolution of Behavioural Embeddings in Social Media Recommendation**|Srijan Saket et.al.|[2312.15265](http://arxiv.org/abs/2312.15265)|null|
 |**2023-12-23**|**Measuring Value Alignment**|Fazl Barez et.al.|[2312.15241](http://arxiv.org/abs/2312.15241)|null|
 |**2023-12-21**|**Social Recommendation through Heterogeneous Graph Modeling of the Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306](http://arxiv.org/abs/2312.14306)|**[link](https://github.com/BehafaridMjf/Social-Recommendation-System)**|
@@ -3093,7 +3093,7 @@ layout: default
 |**2023-11-18**|**Utilizing Speech Emotion Recognition and Recommender Systems for Negative Emotion Handling in Therapy Chatbots**|Farideh Majidi et.al.|[2311.11116](http://arxiv.org/abs/2311.11116)|null|
 |**2023-11-18**|**Compositional Fusion of Signals in Data Embedding**|Zhijin Guo et.al.|[2311.11085](http://arxiv.org/abs/2311.11085)|null|
 |**2023-11-18**|**SBTRec- A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis**|Ngai Lam Ho et.al.|[2311.11071](http://arxiv.org/abs/2311.11071)|null|
-|**2023-11-18**|**RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability**|Yuxuan Lei et.al.|[2311.10947](http://arxiv.org/abs/2311.10947)|null|
+|**2023-11-18**|**RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability**|Yuxuan Lei et.al.|[2311.10947](http://arxiv.org/abs/2311.10947)|**[link](https://github.com/microsoft/recai)**|
 |**2023-11-17**|**Emotion-Aware Music Recommendation System: Enhancing User Experience Through Real-Time Emotional Context**|Tina Babu et.al.|[2311.10796](http://arxiv.org/abs/2311.10796)|null|
 |**2023-11-17**|**Ex2Vec: Characterizing Users and Items from the Mere Exposure Effect**|Bruno Sguerra et.al.|[2311.10635](http://arxiv.org/abs/2311.10635)|**[link](https://github.com/deezer/ex2vec)**|
 |**2023-11-17**|**Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation**|Shenghao Yang et.al.|[2311.10501](http://arxiv.org/abs/2311.10501)|**[link](https://github.com/ysh-1998/cowpirec)**|
