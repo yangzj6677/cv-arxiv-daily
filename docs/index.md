@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**CBL: Compact Encoding of JSON-LD Data using CBOR and Bitmaps for Web of Things**|Prudhvi Gudla et.al.|[2407.04398](http://arxiv.org/abs/2407.04398)|null|
+|**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363](http://arxiv.org/abs/2407.04363)|**[link](https://github.com/airi-institute/arigraph)**|
+|**2024-07-05**|**Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding**|Xincan Feng et.al.|[2407.04251](http://arxiv.org/abs/2407.04251)|null|
+|**2024-07-04**|**MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks**|Elad Hirsch et.al.|[2407.03919](http://arxiv.org/abs/2407.03919)|null|
+|**2024-07-04**|**Neural Probabilistic Logic Learning for Knowledge Graph Reasoning**|Fengsong Sun et.al.|[2407.03704](http://arxiv.org/abs/2407.03704)|null|
+|**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
 |**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922](http://arxiv.org/abs/2407.02922)|null|
 |**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|null|
 |**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|null|
@@ -2465,6 +2471,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472](http://arxiv.org/abs/2407.04472)|null|
+|**2024-07-05**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
+|**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
+|**2024-07-04**|**Deep Pareto Reinforcement Learning for Multi-Objective Recommender System**|Pan Li et.al.|[2407.03580](http://arxiv.org/abs/2407.03580)|null|
 |**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|null|
 |**2024-07-03**|**CRUISE on Quantum Computing for Feature Selection in Recommender Systems**|Jiayang Niu et.al.|[2407.02839](http://arxiv.org/abs/2407.02839)|null|
 |**2024-07-03**|**LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation**|Hongke Zhao et.al.|[2407.02833](http://arxiv.org/abs/2407.02833)|null|
