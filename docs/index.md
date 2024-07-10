@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,14 +1295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|null|
+|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|**[link](https://github.com/dice-group/MST5)**|
 |**2024-07-08**|**KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions**|Yanxu Zhu et.al.|[2407.05868](http://arxiv.org/abs/2407.05868)|**[link](https://github.com/yanxuzhu/kg-fpq)**|
 |**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705](http://arxiv.org/abs/2407.05705)|**[link](https://github.com/seukgcode/fastkge)**|
 |**2024-07-07**|**KAE: A Property-based Method for Knowledge Graph Alignment and Extension**|Daqian Shi et.al.|[2407.05320](http://arxiv.org/abs/2407.05320)|null|
 |**2024-07-06**|**Database Technology Evolution III: Knowledge Graphs and Linked Data**|Malcolm Crowe et.al.|[2407.05096](http://arxiv.org/abs/2407.05096)|null|
 |**2024-07-05**|**CBL: Compact Encoding of JSON-LD Data using CBOR and Bitmaps for Web of Things**|Prudhvi Gudla et.al.|[2407.04398](http://arxiv.org/abs/2407.04398)|null|
 |**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363](http://arxiv.org/abs/2407.04363)|**[link](https://github.com/airi-institute/arigraph)**|
-|**2024-07-05**|**Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding**|Xincan Feng et.al.|[2407.04251](http://arxiv.org/abs/2407.04251)|null|
+|**2024-07-05**|**Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding**|Xincan Feng et.al.|[2407.04251](http://arxiv.org/abs/2407.04251)|**[link](https://github.com/xincanfeng/ss_kge)**|
 |**2024-07-04**|**MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks**|Elad Hirsch et.al.|[2407.03919](http://arxiv.org/abs/2407.03919)|null|
 |**2024-07-04**|**Neural Probabilistic Logic Learning for Knowledge Graph Reasoning**|Fengsong Sun et.al.|[2407.03704](http://arxiv.org/abs/2407.03704)|null|
 |**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
@@ -2476,13 +2476,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420](http://arxiv.org/abs/2407.05420)|null|
-|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221](http://arxiv.org/abs/2407.05221)|null|
-|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126](http://arxiv.org/abs/2407.05126)|null|
-|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|null|
-|**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960](http://arxiv.org/abs/2407.04960)|null|
+|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420](http://arxiv.org/abs/2407.05420)|**[link](https://github.com/WuXinglong-HIT/CLIPER)**|
+|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221](http://arxiv.org/abs/2407.05221)|**[link](https://github.com/ZainilMehta/Ensembling_of_RecSys)**|
+|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126](http://arxiv.org/abs/2407.05126)|**[link](https://github.com/foodfaust/CDR)**|
+|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|**[link](https://github.com/jeromeramos70/peapod)**|
+|**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960](http://arxiv.org/abs/2407.04960)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925](http://arxiv.org/abs/2407.04925)|null|
-|**2024-07-08**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472](http://arxiv.org/abs/2407.04472)|null|
+|**2024-07-09**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472](http://arxiv.org/abs/2407.04472)|null|
 |**2024-07-08**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
 |**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
 |**2024-07-04**|**Deep Pareto Reinforcement Learning for Multi-Objective Recommender System**|Pan Li et.al.|[2407.03580](http://arxiv.org/abs/2407.03580)|null|
