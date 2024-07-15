@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Cool URIs for FAIR Knowledge Graphs**|Andreas Thalhammer et.al.|[2407.09237](http://arxiv.org/abs/2407.09237)|null|
+|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212](http://arxiv.org/abs/2407.09212)|null|
 |**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516](http://arxiv.org/abs/2407.08516)|null|
 |**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639](http://arxiv.org/abs/2407.07639)|null|
 |**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|**[link](https://github.com/thescreamingmonkey/mbm-em)**|
@@ -2500,6 +2502,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
+|**2024-07-12**|**A Look Into News Avoidance Through AWRS: An Avoidance-Aware Recommender System**|Igor L. R. Azevedo et.al.|[2407.09137](http://arxiv.org/abs/2407.09137)|null|
+|**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
+|**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
 |**2024-07-10**|**MLRS-PDS: A Meta-learning recommendation of dynamic ensemble selection pipelines**|Hesam Jalalian et.al.|[2407.07528](http://arxiv.org/abs/2407.07528)|**[link](https://github.com/menelau/mlrs-pds)**|
 |**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487](http://arxiv.org/abs/2407.07487)|null|
