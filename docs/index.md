@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2496,11 +2496,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-17**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|null|
+|**2024-07-17**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|**[link](https://github.com/ocryrtv/cgsp)**|
 |**2024-07-17**|**Temporal receptive field in dynamic graph learning: A comprehensive analysis**|Yannis Karmim et.al.|[2407.12370](http://arxiv.org/abs/2407.12370)|null|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357](http://arxiv.org/abs/2407.12357)|null|
 |**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|null|
-|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790](http://arxiv.org/abs/2407.11790)|null|
+|**2024-07-18**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790](http://arxiv.org/abs/2407.11790)|null|
 |**2024-07-16**|**On the Need for Configurable Travel Recommender Systems: A Systematic Mapping Study**|Rickson Simioni Pereira et.al.|[2407.11575](http://arxiv.org/abs/2407.11575)|null|
 |**2024-07-15**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
 |**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714](http://arxiv.org/abs/2407.10714)|null|
