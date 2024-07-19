@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
+|**2024-07-18**|**How to quantify an examination? Evidence from physics examinations via complex networks**|Min Xia et.al.|[2407.13161](http://arxiv.org/abs/2407.13161)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
 |**2024-07-16**|**Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation**|Garima Agrawal et.al.|[2407.12216](http://arxiv.org/abs/2407.12216)|null|
@@ -2513,6 +2515,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Differential Privacy Mechanisms in Neural Tangent Kernel Regression**|Jiuxiang Gu et.al.|[2407.13621](http://arxiv.org/abs/2407.13621)|null|
+|**2024-07-18**|**Evaluating the performance-deviation of itemKNN in RecBole and LensKit**|Michael Schmidt et.al.|[2407.13531](http://arxiv.org/abs/2407.13531)|null|
+|**2024-07-18**|**Capturing Style in Author and Document Representation**|Enzo Terreau et.al.|[2407.13358](http://arxiv.org/abs/2407.13358)|null|
+|**2024-07-18**|**ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems**|Yi Zhang et.al.|[2407.13163](http://arxiv.org/abs/2407.13163)|null|
+|**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
+|**2024-07-18**|**On Causally Disentangled State Representation Learning for Reinforcement Learning based Recommender Systems**|Siyu Wang et.al.|[2407.13091](http://arxiv.org/abs/2407.13091)|null|
 |**2024-07-17**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|**[link](https://github.com/ocryrtv/cgsp)**|
 |**2024-07-17**|**Temporal receptive field in dynamic graph learning: A comprehensive analysis**|Yannis Karmim et.al.|[2407.12370](http://arxiv.org/abs/2407.12370)|null|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357](http://arxiv.org/abs/2407.12357)|null|
