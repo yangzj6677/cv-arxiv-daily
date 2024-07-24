@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1304,7 +1304,7 @@ layout: default
 |**2024-07-18**|**PRAGyan -- Connecting the Dots in Tweets**|Rahul Ravi et.al.|[2407.13909](http://arxiv.org/abs/2407.13909)|null|
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**How to quantify an examination? Evidence from physics examinations via complex networks**|Min Xia et.al.|[2407.13161](http://arxiv.org/abs/2407.13161)|null|
-|**2024-07-19**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
+|**2024-07-23**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
 |**2024-07-16**|**Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation**|Garima Agrawal et.al.|[2407.12216](http://arxiv.org/abs/2407.12216)|null|
 |**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821](http://arxiv.org/abs/2407.11821)|null|
