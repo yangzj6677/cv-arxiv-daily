@@ -2550,8 +2550,8 @@
 |**2024-07-19**|**Frontiers of Deep Learning: From Novel Application to Real-World Deployment**|Rui Xie et.al.|[2407.14386](http://arxiv.org/abs/2407.14386)|null|
 |**2024-07-19**|**User-Creator Feature Dynamics in Recommender Systems with Dual Influence**|Tao Lin et.al.|[2407.14094](http://arxiv.org/abs/2407.14094)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989](http://arxiv.org/abs/2407.13989)|null|
-|**2024-07-19**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender System**|SeongKu Kang et.al.|[2407.13952](http://arxiv.org/abs/2407.13952)|null|
-|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|null|
+|**2024-07-19**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender System**|SeongKu Kang et.al.|[2407.13952](http://arxiv.org/abs/2407.13952)|**[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)**|
+|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|**[link](https://github.com/NicholasJohnson2020/LearningLowRankMatrices)**|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
 |**2024-07-18**|**Differential Privacy Mechanisms in Neural Tangent Kernel Regression**|Jiuxiang Gu et.al.|[2407.13621](http://arxiv.org/abs/2407.13621)|null|
 |**2024-07-18**|**Evaluating the performance-deviation of itemKNN in RecBole and LensKit**|Michael Schmidt et.al.|[2407.13531](http://arxiv.org/abs/2407.13531)|null|
@@ -2777,7 +2777,7 @@
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
 |**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942](http://arxiv.org/abs/2405.04942)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
-|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
+|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|**[link](https://github.com/seoyoungh/svd-ae)**|
 |**2024-05-07**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614](http://arxiv.org/abs/2405.04614)|null|
 |**2024-05-07**|**Dataset and Models for Item Recommendation Using Multi-Modal User Interactions**|Simone Borg Bruun et.al.|[2405.04246](http://arxiv.org/abs/2405.04246)|**[link](https://github.com/simonebbruun/rs_multi_modal_user_interactions)**|
 |**2024-05-07**|**Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**|Jian Jia et.al.|[2405.03988](http://arxiv.org/abs/2405.03988)|null|
@@ -3811,7 +3811,7 @@
 |**2023-05-24**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399](http://arxiv.org/abs/2305.13399)|null|
 |**2023-05-22**|**Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models**|Xiaolei Wang et.al.|[2305.13112](http://arxiv.org/abs/2305.13112)|**[link](https://github.com/rucaibox/ievalm-crs)**|
 |**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837](http://arxiv.org/abs/2305.12837)|**[link](https://github.com/mingmtc/hdr)**|
-|**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|null|
+|**2023-05-22**|**IFedRec: Item-Guided Federated Aggregation for Cold-Start**|Chunxu Zhang et.al.|[2305.12650](http://arxiv.org/abs/2305.12650)|**[link](https://github.com/zhangcx19/ifedrec)**|
 |**2023-05-21**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420](http://arxiv.org/abs/2305.12420)|null|
 |**2023-05-21**|**PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation**|Eli Chien et.al.|[2305.12349](http://arxiv.org/abs/2305.12349)|**[link](https://github.com/amzn/pecos)**|
 |**2023-05-21**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319](http://arxiv.org/abs/2305.12319)|null|
