@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
+|**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735](http://arxiv.org/abs/2407.18735)|null|
+|**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607](http://arxiv.org/abs/2407.18607)|null|
+|**2024-07-26**|**Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs**|Saiping Guan et.al.|[2407.18556](http://arxiv.org/abs/2407.18556)|null|
+|**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479](http://arxiv.org/abs/2407.18479)|null|
+|**2024-07-26**|**Synergizing Knowledge Graphs with Large Language Models: A Comprehensive Review and Future Prospects**|DaiFeng Li et.al.|[2407.18470](http://arxiv.org/abs/2407.18470)|null|
 |**2024-07-25**|**Numerical Literals in Link Prediction: A Critical Examination of Models and Datasets**|Moritz Blum et.al.|[2407.18241](http://arxiv.org/abs/2407.18241)|**[link](https://github.com/moritzblum/literalevaluation)**|
 |**2024-07-25**|**ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model**|Linpeng Jin et.al.|[2407.18033](http://arxiv.org/abs/2407.18033)|null|
 |**2024-07-25**|**RDFGraphGen: A Synthetic RDF Graph Generator based on SHACL Constraints**|Marija Vecovska et.al.|[2407.17941](http://arxiv.org/abs/2407.17941)|**[link](https://github.com/mveco/rdfgraphgen)**|
@@ -2521,6 +2527,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
+|**2024-07-26**|**Conversational Dueling Bandits in Generalized Linear Models**|Shuhua Yang et.al.|[2407.18488](http://arxiv.org/abs/2407.18488)|null|
 |**2024-07-24**|**Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation**|Lei Sang et.al.|[2407.17234](http://arxiv.org/abs/2407.17234)|**[link](https://github.com/wangyu0627/ihgcl)**|
 |**2024-07-23**|**Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems**|Timo Wilm et.al.|[2407.16828](http://arxiv.org/abs/2407.16828)|**[link](https://github.com/otto-de/multitron)**|
 |**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594](http://arxiv.org/abs/2407.16594)|null|
