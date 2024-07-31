@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**A Scalable Tool For Analyzing Genomic Variants Of Humans Using Knowledge Graphs and Machine Learning**|Shivika Prasanna et.al.|[2407.20879](http://arxiv.org/abs/2407.20879)|null|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595](http://arxiv.org/abs/2407.20595)|null|
+|**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564](http://arxiv.org/abs/2407.20564)|null|
+|**2024-07-29**|**What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**|Navapat Nananukul et.al.|[2407.20382](http://arxiv.org/abs/2407.20382)|null|
 |**2024-07-29**|**Rosetta Statements: Lowering the Barrier for Semantic Parsing and Increasing the Cognitive Interoperability of Knowledge Graphs**|Lars Vogt et.al.|[2407.20007](http://arxiv.org/abs/2407.20007)|null|
 |**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|null|
@@ -2550,6 +2554,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Powerful A/B-Testing Metrics and Where to Find Them**|Olivier Jeunen et.al.|[2407.20665](http://arxiv.org/abs/2407.20665)|null|
 |**2024-07-29**|**EXIT: An EXplicit Interest Transfer Framework for Cross-Domain Recommendation**|Lei Huang et.al.|[2407.20121](http://arxiv.org/abs/2407.20121)|null|
 |**2024-07-29**|**AOTree: Aspect Order Tree-based Model for Explainable Recommendation**|Wenxin Zhao et.al.|[2407.19937](http://arxiv.org/abs/2407.19937)|null|
 |**2024-07-29**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation**|Zixuan Yi et.al.|[2407.19886](http://arxiv.org/abs/2407.19886)|null|
