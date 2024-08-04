@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Aligning Multiple Knowledge Graphs in a Single Pass**|Yaming Yang et.al.|[2408.00662](http://arxiv.org/abs/2408.00662)|null|
+|**2024-08-01**|**HBot: A Chatbot for Healthcare Applications in Traditional Chinese Medicine Based on Human Body 3D Visualization**|Bolin Zhang et.al.|[2408.00481](http://arxiv.org/abs/2408.00481)|null|
+|**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
 |**2024-08-01**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|null|
@@ -2541,6 +2544,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
+|**2024-08-01**|**Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity**|Hyunsoo Chung et.al.|[2408.00326](http://arxiv.org/abs/2408.00326)|null|
+|**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|null|
+|**2024-08-01**|**Simple but Efficient: A Multi-Scenario Nearline Retrieval Framework for Recommendation on Taobao**|Yingcai Ma et.al.|[2408.00247](http://arxiv.org/abs/2408.00247)|null|
+|**2024-07-31**|**Review of Explainable Graph-Based Recommender Systems**|Thanet Markchom et.al.|[2408.00166](http://arxiv.org/abs/2408.00166)|null|
+|**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
+|**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038](http://arxiv.org/abs/2408.00038)|null|
 |**2024-07-31**|**Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval**|Zhirui Kuai et.al.|[2407.21488](http://arxiv.org/abs/2407.21488)|null|
 |**2024-07-31**|**Personalized Multi-task Training for Recommender System**|Liangwei Yang et.al.|[2407.21364](http://arxiv.org/abs/2407.21364)|null|
 |**2024-07-30**|**Powerful A/B-Testing Metrics and Where to Find Them**|Olivier Jeunen et.al.|[2407.20665](http://arxiv.org/abs/2407.20665)|null|
