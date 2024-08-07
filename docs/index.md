@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
+|**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079](http://arxiv.org/abs/2408.03079)|null|
+|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010](http://arxiv.org/abs/2408.03010)|null|
+|**2024-08-05**|**SnapE -- Training Snapshot Ensembles of Link Prediction Models**|Ali Shaban et.al.|[2408.02707](http://arxiv.org/abs/2408.02707)|null|
 |**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
 |**2024-08-05**|**Enhancing Heterogeneous Knowledge Graph Completion with a Novel GAT-based Approach**|Wanxu Wei et.al.|[2408.02456](http://arxiv.org/abs/2408.02456)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
@@ -2558,6 +2562,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
+|**2024-08-06**|**Towards Smart Microfarming in an Urban Computing Continuum**|Marla Grunewald et.al.|[2408.02992](http://arxiv.org/abs/2408.02992)|null|
+|**2024-08-06**|**A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search**|Yiping Sun et.al.|[2408.02937](http://arxiv.org/abs/2408.02937)|null|
+|**2024-08-03**|**Symmetric Graph Contrastive Learning against Noisy Views for Recommendation**|Chu Zhao et.al.|[2408.02691](http://arxiv.org/abs/2408.02691)|null|
 |**2024-08-05**|**Enhancing Heterogeneous Knowledge Graph Completion with a Novel GAT-based Approach**|Wanxu Wei et.al.|[2408.02456](http://arxiv.org/abs/2408.02456)|null|
 |**2024-08-05**|**Feedback Reciprocal Graph Collaborative Filtering**|Weijun Chen et.al.|[2408.02404](http://arxiv.org/abs/2408.02404)|null|
 |**2024-08-06**|**RECE: Reduced Cross-Entropy Loss for Large-Catalogue Sequential Recommenders**|Danil Gusak et.al.|[2408.02354](http://arxiv.org/abs/2408.02354)|null|
