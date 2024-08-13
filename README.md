@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310](http://arxiv.org/abs/2408.06310)|null|
+|**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121](http://arxiv.org/abs/2408.06121)|null|
+|**2024-08-12**|**ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**|Ronak Pradeep et.al.|[2408.05948](http://arxiv.org/abs/2408.05948)|null|
+|**2024-08-11**|**Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve Partially Observable Markov Decision Processes**|Taewoon Kim et.al.|[2408.05861](http://arxiv.org/abs/2408.05861)|null|
+|**2024-08-11**|**Low-Dimensional Federated Knowledge Graph Embedding via Knowledge Distillation**|Xiaoxiong Zhang et.al.|[2408.05748](http://arxiv.org/abs/2408.05748)|null|
+|**2024-08-10**|**SHREC: a SRE Behaviour Knowledge Graph Model for Shell Command Recommendations**|Andrea Tonon et.al.|[2408.05592](http://arxiv.org/abs/2408.05592)|null|
+|**2024-08-09**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**|Pengjie Liu et.al.|[2408.05283](http://arxiv.org/abs/2408.05283)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948](http://arxiv.org/abs/2408.04948)|null|
 |**2024-08-09**|**Knowledge Base Embeddings: Semantics and Theoretical Properties**|Camille Bourgaux et.al.|[2408.04913](http://arxiv.org/abs/2408.04913)|null|
@@ -2586,6 +2593,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
+|**2024-08-12**|**Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank**|Md Momen Bhuiyan et.al.|[2408.06201](http://arxiv.org/abs/2408.06201)|null|
+|**2024-08-12**|**Scalable recommender system based on factor analysis**|Disha Ghandwani et.al.|[2408.05896](http://arxiv.org/abs/2408.05896)|null|
+|**2024-08-11**|**A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems**|Yunjia Xi et.al.|[2408.05676](http://arxiv.org/abs/2408.05676)|**[link](https://github.com/yunjiaxi/dare_code)**|
+|**2024-08-10**|**Exploring Applications of State Space Models and Advanced Training Techniques in Sequential Recommendations: A Comparative Study on Efficiency and Performance**|Mark Obozov et.al.|[2408.05606](http://arxiv.org/abs/2408.05606)|null|
+|**2024-08-10**|**Meta Clustering of Neural Bandits**|Yikun Ban et.al.|[2408.05586](http://arxiv.org/abs/2408.05586)|null|
+|**2024-08-09**|**AI-assisted Coding with Cody: Lessons from Context Retrieval and Evaluation for Code Recommendations**|Jan Hartman et.al.|[2408.05344](http://arxiv.org/abs/2408.05344)|null|
 |**2024-08-09**|**A GNN Model with Adaptive Weights for Session-Based Recommendation Systems**|Begüm Özbay et.al.|[2408.05051](http://arxiv.org/abs/2408.05051)|null|
 |**2024-08-09**|**Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation**|Junfeng Long et.al.|[2408.04838](http://arxiv.org/abs/2408.04838)|null|
 |**2024-08-08**|**Enhanced Semantic Graph Based Approach With Sentiment Analysis For User Interest Retrieval From Social Sites**|Usama Ahmed Jamal et.al.|[2408.04395](http://arxiv.org/abs/2408.04395)|null|
