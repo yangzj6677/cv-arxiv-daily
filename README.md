@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Towards a Knowledge Graph for Models and Algorithms in Applied Mathematics**|Björn Schembera et.al.|[2408.10003](http://arxiv.org/abs/2408.10003)|null|
+|**2024-08-18**|**Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path**|Xinnan Dai et.al.|[2408.09529](http://arxiv.org/abs/2408.09529)|null|
+|**2024-08-16**|**ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**|Debashis Gupta et.al.|[2408.08972](http://arxiv.org/abs/2408.08972)|null|
 |**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709](http://arxiv.org/abs/2408.08709)|null|
 |**2024-08-16**|**NFDI4DSO: Towards a BFO Compliant Ontology for Data Science**|Genet Asefa Gesese et.al.|[2408.08698](http://arxiv.org/abs/2408.08698)|null|
 |**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535](http://arxiv.org/abs/2408.08535)|null|
@@ -2610,6 +2613,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
+|**2024-08-19**|**Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method**|Chen Yang et.al.|[2408.09748](http://arxiv.org/abs/2408.09748)|**[link](https://github.com/rucaibox/crrs)**|
+|**2024-08-19**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
+|**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
+|**2024-08-19**|**Data-driven Conditional Instrumental Variables for Debiasing Recommender Systems**|Zhirong Huang et.al.|[2408.09651](http://arxiv.org/abs/2408.09651)|null|
+|**2024-08-19**|**Debiased Contrastive Representation Learning for Mitigating Dual Biases in Recommender Systems**|Zhirong Huang et.al.|[2408.09646](http://arxiv.org/abs/2408.09646)|null|
+|**2024-08-18**|**$\mathbb{BEHR}$ NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410](http://arxiv.org/abs/2408.09410)|**[link](https://github.com/chenzrg/behrmecom)**|
+|**2024-08-17**|**Towards Effective Top-N Hamming Search via Bipartite Graph Contrastive Hashing**|Yankai Chen et.al.|[2408.09239](http://arxiv.org/abs/2408.09239)|null|
+|**2024-08-17**|**Ranking Across Different Content Types: The Robust Beauty of Multinomial Blending**|Jan Malte Lichtenberg et.al.|[2408.09168](http://arxiv.org/abs/2408.09168)|null|
 |**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821](http://arxiv.org/abs/2408.08821)|**[link](https://github.com/hkuds/easyrec)**|
 |**2024-08-19**|**SC-Rec: Enhancing Generative Retrieval with Self-Consistent Reranking for Sequential Recommendation**|Tongyoung Kim et.al.|[2408.08686](http://arxiv.org/abs/2408.08686)|null|
 |**2024-08-16**|**Collaborative Cross-modal Fusion with Large Language Model for Recommendation**|Zhongzhou Liu et.al.|[2408.08564](http://arxiv.org/abs/2408.08564)|null|
