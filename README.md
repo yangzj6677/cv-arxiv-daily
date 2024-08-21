@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819](http://arxiv.org/abs/2408.10819)|null|
+|**2024-08-20**|**Is the Lecture Engaging for Learning? Lecture Voice Sentiment Analysis for Knowledge Graph-Supported Intelligent Lecturing Assistant (ILA) System**|Yuan An et.al.|[2408.10492](http://arxiv.org/abs/2408.10492)|null|
 |**2024-08-19**|**Towards a Knowledge Graph for Models and Algorithms in Applied Mathematics**|Björn Schembera et.al.|[2408.10003](http://arxiv.org/abs/2408.10003)|null|
 |**2024-08-18**|**Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path**|Xinnan Dai et.al.|[2408.09529](http://arxiv.org/abs/2408.09529)|null|
 |**2024-08-16**|**ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**|Debashis Gupta et.al.|[2408.08972](http://arxiv.org/abs/2408.08972)|null|
@@ -2613,6 +2615,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
+|**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895](http://arxiv.org/abs/2408.10895)|null|
+|**2024-08-20**|**Accelerating the Surrogate Retraining for Poisoning Attacks against Recommender Systems**|Yunfan Wu et.al.|[2408.10666](http://arxiv.org/abs/2408.10666)|null|
+|**2024-08-20**|**Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models**|Yunjia Xi et.al.|[2408.10520](http://arxiv.org/abs/2408.10520)|null|
+|**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
 |**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
 |**2024-08-19**|**Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method**|Chen Yang et.al.|[2408.09748](http://arxiv.org/abs/2408.09748)|**[link](https://github.com/rucaibox/crrs)**|
