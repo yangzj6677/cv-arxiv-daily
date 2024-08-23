@@ -1295,11 +1295,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236](http://arxiv.org/abs/2408.12236)|null|
+|**2024-08-22**|**Hardware Acceleration for Knowledge Graph Processing: Challenges & Recent Developments**|Maciej Besta et.al.|[2408.12173](http://arxiv.org/abs/2408.12173)|null|
+|**2024-08-21**|**Automatic knowledge-graph creation from historical documents: The Chilean dictatorship as a case study**|Camila Díaz et.al.|[2408.11975](http://arxiv.org/abs/2408.11975)|null|
+|**2024-08-21**|**An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards**|Julio Hernandez et.al.|[2408.11925](http://arxiv.org/abs/2408.11925)|null|
 |**2024-08-21**|**RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs**|Mayank Kharbanda et.al.|[2408.11526](http://arxiv.org/abs/2408.11526)|**[link](https://github.com/kracr/rcone-qa-mmkg)**|
 |**2024-08-21**|**Green Probabilistic Semantic Communication over Wireless Networks**|Ruopeng Xu et.al.|[2408.11446](http://arxiv.org/abs/2408.11446)|null|
 |**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819](http://arxiv.org/abs/2408.10819)|null|
-|**2024-08-20**|**Is the Lecture Engaging for Learning? Lecture Voice Sentiment Analysis for Knowledge Graph-Supported Intelligent Lecturing Assistant (ILA) System**|Yuan An et.al.|[2408.10492](http://arxiv.org/abs/2408.10492)|null|
+|**2024-08-20**|**Is the Lecture Engaging for Learning? Lecture Voice Sentiment Analysis for Knowledge Graph-Supported Intelligent Lecturing Assistant (ILA) System**|Yuan An et.al.|[2408.10492](http://arxiv.org/abs/2408.10492)|**[link](https://github.com/anyuanay/kg_ila)**|
 |**2024-08-19**|**Towards a Knowledge Graph for Models and Algorithms in Applied Mathematics**|Björn Schembera et.al.|[2408.10003](http://arxiv.org/abs/2408.10003)|null|
 |**2024-08-18**|**Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path**|Xinnan Dai et.al.|[2408.09529](http://arxiv.org/abs/2408.09529)|null|
 |**2024-08-16**|**ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**|Debashis Gupta et.al.|[2408.08972](http://arxiv.org/abs/2408.08972)|null|
@@ -2601,7 +2605,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|null|
+|**2024-08-22**|**The Importance of Cognitive Biases in the Recommendation Ecosystem**|Markus Schedl et.al.|[2408.12492](http://arxiv.org/abs/2408.12492)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**|Ádám Tibor Czapp et.al.|[2408.12392](http://arxiv.org/abs/2408.12392)|null|
+|**2024-08-22**|**DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models**|Wuchao Li et.al.|[2408.12153](http://arxiv.org/abs/2408.12153)|null|
+|**2024-08-22**|**Behavior Pattern Mining-based Multi-Behavior Recommendation**|Haojie Li et.al.|[2408.12152](http://arxiv.org/abs/2408.12152)|**[link](https://github.com/rookitkitlee/bpmr)**|
+|**2024-08-21**|**Does It Look Sequential? An Analysis of Datasets for Evaluation of Sequential Recommendations**|Anton Klenitskiy et.al.|[2408.12008](http://arxiv.org/abs/2408.12008)|**[link](https://github.com/antondfger/does-it-look-sequential)**|
+|**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|**[link](https://github.com/sisinflab/graph-missing-modalities)**|
 |**2024-08-21**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762](http://arxiv.org/abs/2408.11762)|**[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)**|
 |**2024-08-21**|**DTN: Deep Multiple Task-specific Feature Interactions Network for Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611](http://arxiv.org/abs/2408.11611)|null|
 |**2024-08-21**|**Calibrating the Predictions for Top-N Recommendations**|Masahiro Sato et.al.|[2408.11596](http://arxiv.org/abs/2408.11596)|null|
