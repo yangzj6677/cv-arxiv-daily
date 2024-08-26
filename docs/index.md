@@ -2590,7 +2590,7 @@ layout: default
 |**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368](http://arxiv.org/abs/2303.10368)|**[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)**|
 |**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323](http://arxiv.org/abs/2303.10323)|**[link](https://github.com/mlii0117/dcl)**|
 |**2023-03-17**|**QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting**|Koichiro Yawata et.al.|[2303.09772](http://arxiv.org/abs/2303.09772)|null|
-|**2023-03-15**|**WikiCoder: Learning to Write Knowledge-Powered Code**|Théo Matricon et.al.|[2303.08574](http://arxiv.org/abs/2303.08574)|null|
+|**2023-03-15**|**WikiCoder: Learning to Write Knowledge-Powered Code**|Théo Matricon et.al.|[2303.08574](http://arxiv.org/abs/2303.08574)|**[link](https://github.com/Theomat/ProgSynth)**|
 |**2023-03-15**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph: Principle, Implementation, and Performance Evaluation**|Fuhui Zhou et.al.|[2303.08546](http://arxiv.org/abs/2303.08546)|null|
 |**2023-03-16**|**FactReranker: Fact-guided Reranker for Faithful Radiology Report Summarization**|Qianqian Xie et.al.|[2303.08335](http://arxiv.org/abs/2303.08335)|null|
 |**2023-03-14**|**Relational Multi-Task Learning: Modeling Relations between Data and Tasks**|Kaidi Cao et.al.|[2303.07666](http://arxiv.org/abs/2303.07666)|**[link](https://github.com/snap-stanford/graphgym)**|
@@ -2664,7 +2664,7 @@ layout: default
 |**2024-08-08**|**Enhanced Semantic Graph Based Approach With Sentiment Analysis For User Interest Retrieval From Social Sites**|Usama Ahmed Jamal et.al.|[2408.04395](http://arxiv.org/abs/2408.04395)|null|
 |**2024-08-08**|**Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits**|Masoud Mansoury et.al.|[2408.04332](http://arxiv.org/abs/2408.04332)|**[link](https://github.com/masoudmansoury/ealinucb)**|
 |**2024-08-08**|**MMREC: LLM Based Multi-Modal Recommender System**|Jiahao Tian et.al.|[2408.04211](http://arxiv.org/abs/2408.04211)|null|
-|**2024-08-07**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053](http://arxiv.org/abs/2408.04053)|null|
+|**2024-08-07**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053](http://arxiv.org/abs/2408.04053)|**[link](https://github.com/erfmah/answering_graph_queries)**|
 |**2024-08-07**|**Retrieval Augmentation via User Interest Clustering**|Hanjia Lyu et.al.|[2408.03886](http://arxiv.org/abs/2408.03886)|null|
 |**2024-08-07**|**A Reproducible Analysis of Sequential Recommender Systems**|Filippo Betello et.al.|[2408.03873](http://arxiv.org/abs/2408.03873)|**[link](https://github.com/antoniopurificato/recsys_repro_conf)**|
 |**2024-08-07**|**Relevance meets Diversity: A User-Centric Framework for Knowledge Exploration through Recommendations**|Erica Coppolillo et.al.|[2408.03772](http://arxiv.org/abs/2408.03772)|**[link](https://github.com/ericacoppolillo/explore)**|
@@ -2804,7 +2804,7 @@ layout: default
 |**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
 |**2024-06-19**|**Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235](http://arxiv.org/abs/2406.13235)|null|
 |**2024-06-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2406.12634](http://arxiv.org/abs/2406.12634)|**[link](https://github.com/andreeaiana/nase)**|
-|**2024-06-18**|**Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation**|Chengkai Liu et.al.|[2406.12580](http://arxiv.org/abs/2406.12580)|null|
+|**2024-06-18**|**Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation**|Chengkai Liu et.al.|[2406.12580](http://arxiv.org/abs/2406.12580)|**[link](https://github.com/chengkai-liu/RecBLR)**|
 |**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529](http://arxiv.org/abs/2406.12529)|null|
 |**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501](http://arxiv.org/abs/2406.12501)|null|
 |**2024-06-18**|**LLM-enhanced Reranking in Recommender Systems**|Jingtong Gao et.al.|[2406.12433](http://arxiv.org/abs/2406.12433)|null|
@@ -2840,7 +2840,7 @@ layout: default
 |**2024-06-10**|**Greedy SLIM: A SLIM-Based Approach For Preference Elicitation**|Claudius Proissl et.al.|[2406.06061](http://arxiv.org/abs/2406.06061)|null|
 |**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043](http://arxiv.org/abs/2406.06043)|**[link](https://github.com/Applied-Machine-Learning-Lab/GFN4Retention)**|
 |**2024-06-09**|**Async Learned User Embeddings for Ads Delivery Optimization**|Mingwei Tang et.al.|[2406.05898](http://arxiv.org/abs/2406.05898)|null|
-|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|**[link](https://github.com/hi-weiyuan/PTF-FSR)**|
 |**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255](http://arxiv.org/abs/2406.05255)|null|
 |**2024-06-07**|**Measuring Fairness in Large-Scale Recommendation Systems with Missing Labels**|Yulong Dong et.al.|[2406.05247](http://arxiv.org/abs/2406.05247)|null|
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
@@ -3077,7 +3077,7 @@ layout: default
 |**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688](http://arxiv.org/abs/2403.17688)|null|
 |**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634](http://arxiv.org/abs/2403.17634)|null|
 |**2024-03-26**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation**|Yongqiang Han et.al.|[2403.17603](http://arxiv.org/abs/2403.17603)|null|
-|**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442](http://arxiv.org/abs/2403.17442)|null|
+|**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442](http://arxiv.org/abs/2403.17442)|**[link](https://github.com/fuyuanlyu/htlnet)**|
 |**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416](http://arxiv.org/abs/2403.17416)|**[link](https://github.com/u-rara/afdgcf)**|
 |**2024-03-25**|**Diffusion-based Negative Sampling on Graphs for Link Prediction**|Trung-Kien Nguyen et.al.|[2403.17259](http://arxiv.org/abs/2403.17259)|**[link](https://github.com/ntkien1904/dmns)**|
 |**2024-03-25**|**Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**|Jie Wang et.al.|[2403.16948](http://arxiv.org/abs/2403.16948)|null|
@@ -3086,7 +3086,7 @@ layout: default
 |**2024-03-25**|**Play to Your Strengths: Collaborative Intelligence of Conventional Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378](http://arxiv.org/abs/2403.16378)|null|
 |**2024-03-26**|**Image Captioning in news report scenario**|Tianrui Liu et.al.|[2403.16209](http://arxiv.org/abs/2403.16209)|null|
 |**2024-03-24**|**IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History**|Yi Xu et.al.|[2403.16075](http://arxiv.org/abs/2403.16075)|null|
-|**2024-03-24**|**A Temporal Graph Network Framework for Dynamic Recommendation**|Yejin Kim et.al.|[2403.16066](http://arxiv.org/abs/2403.16066)|null|
+|**2024-03-24**|**A Temporal Graph Network Framework for Dynamic Recommendation**|Yejin Kim et.al.|[2403.16066](http://arxiv.org/abs/2403.16066)|**[link](https://github.com/yejining99/TGN_Rec)**|
 |**2024-03-23**|**Negotiating the Shared Agency between Humans & AI in the Recommender System**|Mengke Wu et.al.|[2403.15919](http://arxiv.org/abs/2403.15919)|null|
 |**2024-03-22**|**Cross-layer Modeling and Design of Content Addressable Memories in Advanced Technology Nodes for Similarity Search**|Siri Narla et.al.|[2403.15328](http://arxiv.org/abs/2403.15328)|null|
 |**2024-03-18**|**Use of recommendation models to provide support to dyslexic students**|Gianluca Morciano et.al.|[2403.14710](http://arxiv.org/abs/2403.14710)|null|
@@ -3458,7 +3458,7 @@ layout: default
 |**2023-11-03**|**Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces**|Aditya Desai et.al.|[2311.01722](http://arxiv.org/abs/2311.01722)|**[link](https://github.com/apd10/flcf)**|
 |**2023-11-03**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
 |**2023-11-02**|**Recommendations by Concise User Profiles from Review Text**|Ghazaleh Haratinezhad Torbati et.al.|[2311.01314](http://arxiv.org/abs/2311.01314)|null|
-|**2023-11-02**|**VM-Rec: A Variational Mapping Approach for Cold-start User Recommendation**|Linan Zheng et.al.|[2311.01304](http://arxiv.org/abs/2311.01304)|null|
+|**2023-11-02**|**VM-Rec: A Variational Mapping Approach for Cold-start User Recommendation**|Linan Zheng et.al.|[2311.01304](http://arxiv.org/abs/2311.01304)|**[link](https://github.com/Linan2018/VM-Rec)**|
 |**2023-11-02**|**Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056](http://arxiv.org/abs/2311.01056)|**[link](https://github.com/zhuty16/mqsa-ted)**|
 |**2023-11-02**|**Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study**|Theresia Veronika Rampisela et.al.|[2311.01013](http://arxiv.org/abs/2311.01013)|**[link](https://github.com/theresiavr/individual-item-fairness-measures-recsys)**|
 |**2023-11-01**|**GATSY: Graph Attention Network for Music Artist Similarity**|Andrea Giuseppe Di Francesco et.al.|[2311.00635](http://arxiv.org/abs/2311.00635)|null|
