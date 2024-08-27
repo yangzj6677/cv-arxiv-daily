@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1300,7 +1300,7 @@ layout: default
 |**2024-08-22**|**Hardware Acceleration for Knowledge Graph Processing: Challenges & Recent Developments**|Maciej Besta et.al.|[2408.12173](http://arxiv.org/abs/2408.12173)|null|
 |**2024-08-21**|**Automatic knowledge-graph creation from historical documents: The Chilean dictatorship as a case study**|Camila Díaz et.al.|[2408.11975](http://arxiv.org/abs/2408.11975)|null|
 |**2024-08-21**|**An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards**|Julio Hernandez et.al.|[2408.11925](http://arxiv.org/abs/2408.11925)|null|
-|**2024-08-21**|**RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs**|Mayank Kharbanda et.al.|[2408.11526](http://arxiv.org/abs/2408.11526)|**[link](https://github.com/kracr/rcone-qa-mmkg)**|
+|**2024-08-26**|**RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs**|Mayank Kharbanda et.al.|[2408.11526](http://arxiv.org/abs/2408.11526)|**[link](https://github.com/kracr/rcone-qa-mmkg)**|
 |**2024-08-21**|**Green Probabilistic Semantic Communication over Wireless Networks**|Ruopeng Xu et.al.|[2408.11446](http://arxiv.org/abs/2408.11446)|null|
 |**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819](http://arxiv.org/abs/2408.10819)|null|
