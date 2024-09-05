@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
+|**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
+|**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331](http://arxiv.org/abs/2409.00331)|null|
+|**2024-08-30**|**Medical Report Generation Is A Multi-label Classification Problem**|Yijian Fan et.al.|[2409.00250](http://arxiv.org/abs/2409.00250)|null|
+|**2024-08-30**|**From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning**|Siling Feng et.al.|[2409.00149](http://arxiv.org/abs/2409.00149)|null|
 |**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|null|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649](http://arxiv.org/abs/2408.15649)|**[link](https://github.com/mpietrasik/hb)**|
@@ -2639,6 +2644,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Deep Adaptive Interest Network: Personalized Recommendation with Context-Aware Learning**|Shuaishuai Huang et.al.|[2409.02425](http://arxiv.org/abs/2409.02425)|null|
+|**2024-09-03**|**Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information**|Xinyu Zhang et.al.|[2409.01605](http://arxiv.org/abs/2409.01605)|null|
+|**2024-09-03**|**Blockchain-based Federated Recommendation with Incentive Mechanism**|Jianhai Chen et.al.|[2409.01563](http://arxiv.org/abs/2409.01563)|null|
+|**2024-09-02**|**SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation**|Haohao Qu et.al.|[2409.01192](http://arxiv.org/abs/2409.01192)|null|
+|**2024-09-02**|**Improved Diversity-Promoting Collaborative Metric Learning for Recommendation**|Shilong Bao et.al.|[2409.01012](http://arxiv.org/abs/2409.01012)|null|
+|**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
+|**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|null|
+|**2024-08-31**|**PSLF: A PID Controller-incorporated Second-order Latent Factor Analysis Model for Recommender System**|Jialiang Wang et.al.|[2409.00448](http://arxiv.org/abs/2409.00448)|null|
+|**2024-08-31**|**An Enhanced Batch Query Architecture in Real-time Recommendation**|Qiang Zhang et.al.|[2409.00400](http://arxiv.org/abs/2409.00400)|null|
+|**2024-08-30**|**PRADA: Proactive Risk Assessment and Mitigation of Misinformed Demand Attacks on Navigational Route Recommendations**|Ya-Ting Yang et.al.|[2409.00243](http://arxiv.org/abs/2409.00243)|null|
 |**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
 |**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
