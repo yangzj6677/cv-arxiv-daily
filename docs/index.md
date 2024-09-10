@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
+|**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
+|**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
+|**2024-09-06**|**Graph versioning for evolving urban data**|Jey Puget Gil et.al.|[2409.04498](http://arxiv.org/abs/2409.04498)|null|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
 |**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103](http://arxiv.org/abs/2409.04103)|null|
@@ -2637,6 +2642,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
+|**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546](http://arxiv.org/abs/2409.05546)|null|
+|**2024-09-09**|**RBoard: A Unified Platform for Reproducible and Reusable Recommender System Benchmarks**|Tri Kurniawan Wijaya et.al.|[2409.05526](http://arxiv.org/abs/2409.05526)|null|
+|**2024-09-09**|**Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets**|Lukas Wegmeth et.al.|[2409.05461](http://arxiv.org/abs/2409.05461)|null|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|null|
+|**2024-09-07**|**Incorporate LLMs with Influential Recommender System**|Mingze Wang et.al.|[2409.04827](http://arxiv.org/abs/2409.04827)|null|
+|**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744](http://arxiv.org/abs/2409.04744)|null|
+|**2024-09-06**|**A Unified Framework for Cross-Domain Recommendation**|Jiangxia Cao et.al.|[2409.04540](http://arxiv.org/abs/2409.04540)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
 |**2024-09-06**|**Enhancing Sequential Music Recommendation with Personalized Popularity Awareness**|Davide Abbattista et.al.|[2409.04329](http://arxiv.org/abs/2409.04329)|**[link](https://github.com/sisinflab/personalized-popularity-awareness)**|
 |**2024-09-09**|**Understanding Fairness in Recommender Systems: A Healthcare Perspective**|Veronica Kecki et.al.|[2409.03893](http://arxiv.org/abs/2409.03893)|null|
