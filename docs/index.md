@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,7 +1298,7 @@ layout: default
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433](http://arxiv.org/abs/2409.06433)|null|
 |**2024-09-09**|**Assessing SPARQL capabilities of Large Language Models**|Lars-Peter Meyer et.al.|[2409.05925](http://arxiv.org/abs/2409.05925)|**[link](https://github.com/aksw/llm-kg-bench-results)**|
-|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
 |**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
 |**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
@@ -2646,7 +2646,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297](http://arxiv.org/abs/2409.06297)|null|
-|**2024-09-09**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
+|**2024-09-11**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
 |**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546](http://arxiv.org/abs/2409.05546)|null|
 |**2024-09-10**|**RBoard: A Unified Platform for Reproducible and Reusable Recommender System Benchmarks**|Xinyang Shao et.al.|[2409.05526](http://arxiv.org/abs/2409.05526)|null|
 |**2024-09-09**|**Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets**|Lukas Wegmeth et.al.|[2409.05461](http://arxiv.org/abs/2409.05461)|null|

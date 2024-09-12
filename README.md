@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433](http://arxiv.org/abs/2409.06433)|null|
 |**2024-09-09**|**Assessing SPARQL capabilities of Large Language Models**|Lars-Peter Meyer et.al.|[2409.05925](http://arxiv.org/abs/2409.05925)|**[link](https://github.com/aksw/llm-kg-bench-results)**|
-|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
 |**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
 |**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
@@ -1752,7 +1752,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## SFM
 
@@ -1842,7 +1842,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2178,7 +2178,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2307,7 +2307,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2428,7 +2428,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## NeRF
 
@@ -2656,14 +2656,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## RS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297](http://arxiv.org/abs/2409.06297)|null|
-|**2024-09-09**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
+|**2024-09-11**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
 |**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546](http://arxiv.org/abs/2409.05546)|null|
 |**2024-09-10**|**RBoard: A Unified Platform for Reproducible and Reusable Recommender System Benchmarks**|Xinyang Shao et.al.|[2409.05526](http://arxiv.org/abs/2409.05526)|null|
 |**2024-09-09**|**Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets**|Lukas Wegmeth et.al.|[2409.05461](http://arxiv.org/abs/2409.05461)|null|
@@ -4255,7 +4255,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -4263,7 +4263,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
