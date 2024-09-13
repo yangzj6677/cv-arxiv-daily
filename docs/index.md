@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869](http://arxiv.org/abs/2409.07869)|**[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)**|
+|**2024-09-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|**[link](https://github.com/danieladam2001/llm-based-validation)**|
+|**2024-09-09**|**OneEdit: A Neural-Symbolic Collaboratively Knowledge Editing System**|Ningyu Zhang et.al.|[2409.07497](http://arxiv.org/abs/2409.07497)|**[link](https://github.com/zjunlp/oneedit)**|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088](http://arxiv.org/abs/2409.07088)|**[link](https://github.com/daehuikim/WikiOFGraph)**|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
@@ -2647,6 +2650,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**On the challenges of studying bias in Recommender Systems: A UserKNN case study**|Savvina Daniil et.al.|[2409.08046](http://arxiv.org/abs/2409.08046)|null|
+|**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
+|**2024-09-12**|**PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System**|Chaoqun Yang et.al.|[2409.07773](http://arxiv.org/abs/2409.07773)|null|
+|**2024-09-11**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic Headers**|Shanu Vashishtha et.al.|[2409.07627](http://arxiv.org/abs/2409.07627)|null|
+|**2024-09-11**|**Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages**|Makbule Gulcin Ozsoy et.al.|[2409.07604](http://arxiv.org/abs/2409.07604)|null|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
 |**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
