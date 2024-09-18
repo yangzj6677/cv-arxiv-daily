@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
+|**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
 |**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077](http://arxiv.org/abs/2409.10077)|null|
@@ -2673,6 +2676,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
+|**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
+|**2024-09-16**|**Aligning Judgment Using Task Context and Explanations to Improve Human-Recommender System Performance**|Divya Srivastava et.al.|[2409.10717](http://arxiv.org/abs/2409.10717)|null|
+|**2024-09-16**|**Development of Data Evaluation Benchmark for Data Wrangling Recommendation System**|Yuqing Wang et.al.|[2409.10635](http://arxiv.org/abs/2409.10635)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**beeFormer: Bridging the Gap Between Semantic and Interaction Similarity in Recommender Systems**|Vojtěch Vančura et.al.|[2409.10309](http://arxiv.org/abs/2409.10309)|**[link](https://github.com/recombee/beeformer)**|
