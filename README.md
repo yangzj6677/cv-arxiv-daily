@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**A novel DFS/BFS approach towards link prediction**|Jens Dörpinghaus et.al.|[2409.11687](http://arxiv.org/abs/2409.11687)|null|
 |**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
 |**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
@@ -2676,6 +2677,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement**|Liam Hebert et.al.|[2409.11699](http://arxiv.org/abs/2409.11699)|null|
+|**2024-09-18**|**Basket-Enhanced Heterogenous Hypergraph for Price-Sensitive Next Basket Recommendation**|Yuening Zhou et.al.|[2409.11695](http://arxiv.org/abs/2409.11695)|null|
+|**2024-09-18**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
+|**2024-09-18**|**An Enhanced-State Reinforcement Learning Algorithm for Multi-Task Fusion in Large-Scale Recommender Systems**|Peng Liu et.al.|[2409.11678](http://arxiv.org/abs/2409.11678)|null|
+|**2024-09-17**|**A Framework for Ranking Content Providers Using Prompt Engineering and Self-Attention Network**|Gosuddin Kamaruddin Siddiqi et.al.|[2409.11511](http://arxiv.org/abs/2409.11511)|null|
 |**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
 |**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
 |**2024-09-16**|**Aligning Judgment Using Task Context and Explanations to Improve Human-Recommender System Performance**|Divya Srivastava et.al.|[2409.10717](http://arxiv.org/abs/2409.10717)|null|
