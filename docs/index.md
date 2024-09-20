@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2662,7 +2662,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement**|Liam Hebert et.al.|[2409.11699](http://arxiv.org/abs/2409.11699)|null|
 |**2024-09-18**|**Basket-Enhanced Heterogenous Hypergraph for Price-Sensitive Next Basket Recommendation**|Yuening Zhou et.al.|[2409.11695](http://arxiv.org/abs/2409.11695)|null|
-|**2024-09-18**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
+|**2024-09-19**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
 |**2024-09-18**|**An Enhanced-State Reinforcement Learning Algorithm for Multi-Task Fusion in Large-Scale Recommender Systems**|Peng Liu et.al.|[2409.11678](http://arxiv.org/abs/2409.11678)|null|
 |**2024-09-17**|**A Framework for Ranking Content Providers Using Prompt Engineering and Self-Attention Network**|Gosuddin Kamaruddin Siddiqi et.al.|[2409.11511](http://arxiv.org/abs/2409.11511)|null|
 |**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
