@@ -53,7 +53,7 @@
 |**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009](http://arxiv.org/abs/2409.04009)|null|
 |**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|**[link](https://github.com/TahsinaHashem/FaithD2T)**|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
-|**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|null|
+|**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|**[link](https://github.com/gitOmmix/gitOmmix)**|
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284](http://arxiv.org/abs/2409.03284)|**[link](https://github.com/AuvaLab/itext2kg)**|
 |**2024-09-05**|**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**|Chenglizhao Chen et.al.|[2409.03236](http://arxiv.org/abs/2409.03236)|**[link](https://github.com/liuxy3366/DecoAD)**|
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
@@ -2523,7 +2523,7 @@
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871v1](http://arxiv.org/abs/2212.12871v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|**[link](https://github.com/dreamguo/UNIKD)**|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang et.al.|[2212.10699v1](http://arxiv.org/abs/2212.10699v1)|null|
 |**2022-12-20**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735v2](http://arxiv.org/abs/2212.09735v2)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
@@ -2792,7 +2792,7 @@
 |**2024-08-15**|**DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System**|Xihong Yang et.al.|[2408.08231](http://arxiv.org/abs/2408.08231)|null|
 |**2024-08-15**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**|Changshuo Zhang et.al.|[2408.08209](http://arxiv.org/abs/2408.08209)|null|
 |**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
-|**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|null|
+|**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|**[link](https://github.com/ISG-Siegen/recsys-carbon-footprint)**|
 |**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
 |**2024-08-15**|**A Systematic Mapping Study of Crowd Knowledge Enhanced Software Engineering Research Using Stack Overflow**|Minaoar Tanzil et.al.|[2408.07913](http://arxiv.org/abs/2408.07913)|null|
 |**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
@@ -3105,7 +3105,7 @@
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Optimistic Regret Bounds for Online Learning in Adversarial Markov Decision Processes**|Sang Bin Moon et.al.|[2405.02188](http://arxiv.org/abs/2405.02188)|null|
 |**2024-05-03**|**How to Diversify any Personalized Recommender? A User-centric Pre-processing approach**|Manel Slokom et.al.|[2405.02156](http://arxiv.org/abs/2405.02156)|null|
-|**2024-05-03**|**Multi-Objective Recommendation via Multivariate Policy Learning**|Olivier Jeunen et.al.|[2405.02141](http://arxiv.org/abs/2405.02141)|null|
+|**2024-05-03**|**Multi-Objective Recommendation via Multivariate Policy Learning**|Olivier Jeunen et.al.|[2405.02141](http://arxiv.org/abs/2405.02141)|**[link](https://github.com/olivierjeunen/multivariate-policy-learning-recsys-2024)**|
 |**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
 |**2024-05-03**|**Discrete Aware Matrix Completion via Convexized $\ell_0$ -Norm Approximation**|Niclas Führling et.al.|[2405.02101](http://arxiv.org/abs/2405.02101)|null|
 |**2024-05-03**|**Ah, that's the great puzzle: On the Quest of a Holistic Understanding of the Harms of Recommender Systems on Children**|Robin Ungruh et.al.|[2405.02050](http://arxiv.org/abs/2405.02050)|null|
