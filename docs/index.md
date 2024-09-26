@@ -2670,6 +2670,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
+|**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
+|**2024-09-25**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|null|
+|**2024-09-25**|**CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models**|Xin Jing et.al.|[2409.16619](http://arxiv.org/abs/2409.16619)|null|
+|**2024-09-25**|**Bias Reduction in Social Networks through Agent-Based Simulations**|Nathan Bartley et.al.|[2409.16558](http://arxiv.org/abs/2409.16558)|null|
+|**2024-09-24**|**Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences**|Erica Coppolillo et.al.|[2409.16478](http://arxiv.org/abs/2409.16478)|null|
 |**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
 |**2024-09-24**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998](http://arxiv.org/abs/2409.15998)|null|
 |**2024-09-24**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971](http://arxiv.org/abs/2409.15971)|**[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)**|
