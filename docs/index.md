@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
+|**2024-09-26**|**Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**|Zahra Sepasdar et.al.|[2409.17580](http://arxiv.org/abs/2409.17580)|null|
+|**2024-09-26**|**MUSE: Integrating Multi-Knowledge for Knowledge Graph Completion**|Pengjie Liu et.al.|[2409.17536](http://arxiv.org/abs/2409.17536)|null|
+|**2024-09-25**|**KIPPS: Knowledge infusion in Privacy Preserving Synthetic Data Generation**|Anantaa Kotal et.al.|[2409.17315](http://arxiv.org/abs/2409.17315)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
 |**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902](http://arxiv.org/abs/2409.15902)|**[link](https://github.com/s-nlp/konstruktor)**|
 |**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|null|
@@ -2670,6 +2674,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
+|**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864](http://arxiv.org/abs/2409.17864)|null|
+|**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
+|**2024-09-26**|**Value Identification in Multistakeholder Recommender Systems for Humanities and Historical Research: The Case of the Digital Archive Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769](http://arxiv.org/abs/2409.17769)|null|
+|**2024-09-26**|**Autoregressive Generation Strategies for Top-K Sequential Recommendations**|Anna Volodkevich et.al.|[2409.17730](http://arxiv.org/abs/2409.17730)|null|
+|**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
+|**2024-09-26**|**Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies**|Chih-Wei Hsu et.al.|[2409.17436](http://arxiv.org/abs/2409.17436)|null|
+|**2024-09-25**|**Enhancing Investment Opinion Ranking through Argument-Based Sentiment Analysis**|Chung-Chi Chen et.al.|[2409.17417](http://arxiv.org/abs/2409.17417)|null|
+|**2024-09-25**|**Enhancing Recommendation with Denoising Auxiliary Task**|Pengsheng Liu et.al.|[2409.17402](http://arxiv.org/abs/2409.17402)|null|
 |**2024-09-25**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
 |**2024-09-25**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|null|
