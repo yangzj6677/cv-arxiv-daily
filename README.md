@@ -36,10 +36,10 @@
 |**2024-09-21**|**AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues**|Oliver Bensch et.al.|[2409.14206](http://arxiv.org/abs/2409.14206)|null|
 |**2024-09-21**|**One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs**|Krzysztof Olejniczak et.al.|[2409.13959](http://arxiv.org/abs/2409.13959)|null|
 |**2024-09-20**|**A Change Language for Ontologies and Knowledge Graphs**|Harshad Hegde et.al.|[2409.13906](http://arxiv.org/abs/2409.13906)|null|
-|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|null|
+|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|**[link](https://github.com/zaiwen/cropgpt)**|
 |**2024-09-20**|**Procedure Model for Building Knowledge Graphs for Industry Applications**|Sascha Meckler et.al.|[2409.13425](http://arxiv.org/abs/2409.13425)|null|
 |**2024-09-18**|**A novel DFS/BFS approach towards link prediction**|Jens Dörpinghaus et.al.|[2409.11687](http://arxiv.org/abs/2409.11687)|null|
-|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
+|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|**[link](https://github.com/plasma-mds/plasma-ontology)**|
 |**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
@@ -234,7 +234,7 @@
 |**2024-07-04**|**Neural Probabilistic Logic Learning for Knowledge Graph Reasoning**|Fengsong Sun et.al.|[2407.03704](http://arxiv.org/abs/2407.03704)|null|
 |**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
 |**2024-07-08**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922](http://arxiv.org/abs/2407.02922)|null|
-|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|null|
+|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|**[link](https://github.com/oreozhao/cmr)**|
 |**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|**[link](https://github.com/fanourakis/hybea)**|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779](http://arxiv.org/abs/2407.02779)|null|
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762](http://arxiv.org/abs/2407.02762)|null|
@@ -810,7 +810,7 @@
 |**2023-11-15**|**Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?**|Yusuke Sakai et.al.|[2311.09109](http://arxiv.org/abs/2311.09109)|null|
 |**2023-11-15**|**Enhancing Emergency Decision-making with Knowledge Graphs and Large Language Models**|Minze Chen et.al.|[2311.08732](http://arxiv.org/abs/2311.08732)|null|
 |**2023-11-15**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724](http://arxiv.org/abs/2311.08724)|null|
-|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614](http://arxiv.org/abs/2311.08614)|null|
+|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614](http://arxiv.org/abs/2311.08614)|**[link](https://github.com/chen-zichen/xplainllm_dataset)**|
 |**2023-11-14**|**Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning**|Xin Su et.al.|[2311.08505](http://arxiv.org/abs/2311.08505)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
@@ -1115,7 +1115,7 @@
 |**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
 |**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|**[link](https://github.com/agnesion/zero-shot-nlg-from-kgs-data)**|
 |**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|**[link](https://github.com/siddharthl93/design_kgex)**|
-|**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|null|
+|**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|**[link](https://github.com/aksw/ai-tomorrow-2023-kg-chatgpt-experiments)**|
 |**2023-07-19**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|**[link](https://github.com/lcai2/lighttea)**|
@@ -2710,11 +2710,11 @@
 |**2024-09-24**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998](http://arxiv.org/abs/2409.15998)|null|
 |**2024-09-24**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971](http://arxiv.org/abs/2409.15971)|**[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)**|
 |**2024-09-24**|**Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2409.15857](http://arxiv.org/abs/2409.15857)|**[link](https://github.com/sisinflab/Ducho-meets-Elliot)**|
-|**2024-09-23**|**Cross-Domain Latent Factors Sharing via Implicit Matrix Factorization**|Abdulaziz Samra et.al.|[2409.15568](http://arxiv.org/abs/2409.15568)|null|
+|**2024-09-23**|**Cross-Domain Latent Factors Sharing via Implicit Matrix Factorization**|Abdulaziz Samra et.al.|[2409.15568](http://arxiv.org/abs/2409.15568)|**[link](https://github.com/aa-samra/cd-imf)**|
 |**2024-09-23**|**Designing an Interpretable Interface for Contextual Bandits**|Andrew Maher et.al.|[2409.15143](http://arxiv.org/abs/2409.15143)|null|
 |**2024-09-23**|**EMERS: Energy Meter for Recommender Systems**|Lukas Wegmeth et.al.|[2409.15060](http://arxiv.org/abs/2409.15060)|null|
 |**2024-09-23**|**Efficient Tabular Data Preprocessing of ML Pipelines**|Yu Zhu et.al.|[2409.14912](http://arxiv.org/abs/2409.14912)|null|
-|**2024-09-23**|**FedSlate:A Federated Deep Reinforcement Learning Recommender System**|Yongxin Deng et.al.|[2409.14872](http://arxiv.org/abs/2409.14872)|null|
+|**2024-09-23**|**FedSlate:A Federated Deep Reinforcement Learning Recommender System**|Yongxin Deng et.al.|[2409.14872](http://arxiv.org/abs/2409.14872)|**[link](https://github.com/tianyady/fedslate)**|
 |**2024-09-23**|**Pre-trained Language Model and Knowledge Distillation for Lightweight Sequential Recommendation**|Li Li et.al.|[2409.14810](http://arxiv.org/abs/2409.14810)|null|
 |**2024-09-18**|**FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement**|Liam Hebert et.al.|[2409.11699](http://arxiv.org/abs/2409.11699)|null|
 |**2024-09-18**|**Basket-Enhanced Heterogenous Hypergraph for Price-Sensitive Next Basket Recommendation**|Yuening Zhou et.al.|[2409.11695](http://arxiv.org/abs/2409.11695)|null|
@@ -2766,7 +2766,7 @@
 |**2024-09-03**|**Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information**|Xinyu Zhang et.al.|[2409.01605](http://arxiv.org/abs/2409.01605)|null|
 |**2024-09-03**|**Blockchain-based Federated Recommendation with Incentive Mechanism**|Jianhai Chen et.al.|[2409.01563](http://arxiv.org/abs/2409.01563)|null|
 |**2024-09-02**|**SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation**|Haohao Qu et.al.|[2409.01192](http://arxiv.org/abs/2409.01192)|null|
-|**2024-09-02**|**Improved Diversity-Promoting Collaborative Metric Learning for Recommendation**|Shilong Bao et.al.|[2409.01012](http://arxiv.org/abs/2409.01012)|null|
+|**2024-09-02**|**Improved Diversity-Promoting Collaborative Metric Learning for Recommendation**|Shilong Bao et.al.|[2409.01012](http://arxiv.org/abs/2409.01012)|**[link](https://github.com/statusrank/LibCML)**|
 |**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
 |**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|**[link](https://github.com/CyberAgentAILab/FairReciprocalRecommendation)**|
 |**2024-08-31**|**PSLF: A PID Controller-incorporated Second-order Latent Factor Analysis Model for Recommender System**|Jialiang Wang et.al.|[2409.00448](http://arxiv.org/abs/2409.00448)|null|
@@ -3292,7 +3292,7 @@
 |**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|**[link](https://github.com/aim-se/da4rec)**|
 |**2024-03-15**|**PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction**|Yuanbo Gao et.al.|[2403.10049](http://arxiv.org/abs/2403.10049)|null|
 |**2024-03-19**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|**[link](https://github.com/granelle/naacl24-user-sim)**|
-|**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623](http://arxiv.org/abs/2403.07623)|null|
+|**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623](http://arxiv.org/abs/2403.07623)|**[link](https://github.com/mingyue-cheng/tssr)**|
 |**2024-03-12**|**Proactive Recommendation with Iterative Preference Guidance**|Shuxian Bi et.al.|[2403.07571](http://arxiv.org/abs/2403.07571)|**[link](https://github.com/gabyustc/ipg-rec)**|
 |**2024-03-12**|**Self-supervised Contrastive Learning for Implicit Collaborative Filtering**|Shipeng Song et.al.|[2403.07265](http://arxiv.org/abs/2403.07265)|null|
 |**2024-03-12**|**Learn and Search: An Elegant Technique for Object Lookup using Contrastive Learning**|Chandan Kumar et.al.|[2403.07231](http://arxiv.org/abs/2403.07231)|null|
@@ -3622,7 +3622,7 @@
 |**2023-11-14**|**VizPut: Insight-Aware Imputation of Incomplete Data for Visualization Recommendation**|Rischan Mafrur et.al.|[2311.07926](http://arxiv.org/abs/2311.07926)|null|
 |**2023-11-12**|**Modeling User Viewing Flow using Large Language Models for Article Recommendation**|Zhenghao Liu et.al.|[2311.07619](http://arxiv.org/abs/2311.07619)|null|
 |**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127](http://arxiv.org/abs/2311.07127)|null|
-|**2023-11-13**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study**|Chen Xu et.al.|[2311.07054](http://arxiv.org/abs/2311.07054)|null|
+|**2023-11-13**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study**|Chen Xu et.al.|[2311.07054](http://arxiv.org/abs/2311.07054)|**[link](https://github.com/xuchen0427/implicit_rank_unfairness)**|
 |**2023-11-11**|**Metric Optimization and Mainstream Bias Mitigation in Recommender Systems**|Roger Zhe Li et.al.|[2311.06689](http://arxiv.org/abs/2311.06689)|null|
 |**2023-11-10**|**Augmented Degree Correction for Bipartite Networks with Applications to Recommender Systems**|Benjamin Leinwand et.al.|[2311.06436](http://arxiv.org/abs/2311.06436)|null|
 |**2023-11-10**|**Reviewing Developments of Graph Convolutional Network Techniques for Recommendation Systems**|Haojun Zhu et.al.|[2311.06323](http://arxiv.org/abs/2311.06323)|null|
