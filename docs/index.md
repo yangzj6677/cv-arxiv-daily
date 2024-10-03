@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1300,11 +1300,11 @@ layout: default
 |**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010](http://arxiv.org/abs/2409.20010)|null|
 |**2024-10-01**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979](http://arxiv.org/abs/2409.19979)|**[link](https://github.com/WangXFng/ELMRec)**|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977](http://arxiv.org/abs/2409.19977)|**[link](https://github.com/changyi7231/nfe)**|
-|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753](http://arxiv.org/abs/2409.19753)|null|
+|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753](http://arxiv.org/abs/2409.19753)|**[link](https://github.com/wuyike2000/CoTKR)**|
 |**2024-09-27**|**CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**|Haobo Li et.al.|[2409.19058](http://arxiv.org/abs/2409.19058)|null|
 |**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678](http://arxiv.org/abs/2409.18678)|null|
-|**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|null|
+|**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|**[link](https://github.com/ranking-agent/edgar)**|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
 |**2024-09-26**|**Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**|Zahra Sepasdar et.al.|[2409.17580](http://arxiv.org/abs/2409.17580)|null|
 |**2024-09-26**|**MUSE: Integrating Multi-Knowledge for Knowledge Graph Completion**|Pengjie Liu et.al.|[2409.17536](http://arxiv.org/abs/2409.17536)|null|
@@ -2686,9 +2686,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483](http://arxiv.org/abs/2409.20483)|null|
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
-|**2024-09-30**|**Neural Click Models for Recommender Systems**|Mikhail Shirokikh et.al.|[2409.20055](http://arxiv.org/abs/2409.20055)|null|
+|**2024-09-30**|**Neural Click Models for Recommender Systems**|Mikhail Shirokikh et.al.|[2409.20055](http://arxiv.org/abs/2409.20055)|**[link](https://github.com/arabel1a/Neural-Click-Models-for-Recommender-Systems)**|
 |**2024-09-30**|**Mitigating Propensity Bias of Large Language Models for Recommender Systems**|Guixian Zhang et.al.|[2409.20052](http://arxiv.org/abs/2409.20052)|null|
-|**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|null|
+|**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|**[link](https://github.com/liuqidong07/LLMEmb)**|
 |**2024-09-29**|**Counterfactual Evaluation of Ads Ranking Models through Domain Adaptation**|Mohamed A. Radwan et.al.|[2409.19824](http://arxiv.org/abs/2409.19824)|null|
 |**2024-09-29**|**Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models**|Xin Li et.al.|[2409.19667](http://arxiv.org/abs/2409.19667)|**[link](https://github.com/bupt-gamma/prograph)**|
 |**2024-09-29**|**The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective**|Binbin Hu et.al.|[2409.19574](http://arxiv.org/abs/2409.19574)|null|
