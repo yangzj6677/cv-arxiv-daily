@@ -1319,11 +1319,11 @@ layout: default
 |**2024-09-25**|**KIPPS: Knowledge infusion in Privacy Preserving Synthetic Data Generation**|Anantaa Kotal et.al.|[2409.17315](http://arxiv.org/abs/2409.17315)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
 |**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902](http://arxiv.org/abs/2409.15902)|**[link](https://github.com/s-nlp/konstruktor)**|
-|**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|null|
+|**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|**[link](https://github.com/TomHopeLab/ScicoRadar)**|
 |**2024-09-24**|**Embedding Knowledge Graph in Function Spaces**|Louis Mozart Kamdem Teyou et.al.|[2409.14857](http://arxiv.org/abs/2409.14857)|null|
 |**2024-09-22**|**RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph**|Linxi Wei et.al.|[2409.14556](http://arxiv.org/abs/2409.14556)|null|
 |**2024-09-21**|**AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues**|Oliver Bensch et.al.|[2409.14206](http://arxiv.org/abs/2409.14206)|null|
-|**2024-09-21**|**One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs**|Krzysztof Olejniczak et.al.|[2409.13959](http://arxiv.org/abs/2409.13959)|null|
+|**2024-09-21**|**One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs**|Krzysztof Olejniczak et.al.|[2409.13959](http://arxiv.org/abs/2409.13959)|**[link](https://github.com/kolejnyy/ANYCQ)**|
 |**2024-09-20**|**A Change Language for Ontologies and Knowledge Graphs**|Harshad Hegde et.al.|[2409.13906](http://arxiv.org/abs/2409.13906)|null|
 |**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|**[link](https://github.com/zaiwen/cropgpt)**|
 |**2024-09-20**|**Procedure Model for Building Knowledge Graphs for Industry Applications**|Sascha Meckler et.al.|[2409.13425](http://arxiv.org/abs/2409.13425)|null|
@@ -1769,7 +1769,7 @@ layout: default
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
 |**2024-04-07**|**OSS Malicious Package Analysis in the Wild**|Xiaoyan Zhou et.al.|[2404.04991](http://arxiv.org/abs/2404.04991)|null|
 |**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
-|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|**[link](https://github.com/clear-nus/edc)**|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|**[link](https://github.com/Ipazia-AI/latent-explorer)**|
 |**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
@@ -2716,7 +2716,7 @@ layout: default
 |**2024-09-29**|**The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective**|Binbin Hu et.al.|[2409.19574](http://arxiv.org/abs/2409.19574)|null|
 |**2024-09-28**|**CausalVE: Face Video Privacy Encryption via Causal Video Prediction**|Yubo Huang et.al.|[2409.19306](http://arxiv.org/abs/2409.19306)|null|
 |**2024-09-28**|**Utilizing Collaborative Filtering in a Personalized Research-Paper Recommendation System**|Mahamudul Hasan et.al.|[2409.19267](http://arxiv.org/abs/2409.19267)|null|
-|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
+|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|**[link](https://github.com/AIRI-Institute/Scalable-SASRec)**|
 |**2024-09-27**|**Less is More: Towards Sustainability-Aware Persuasive Explanations in Recommender Systems**|Thi Ngoc Trang Tran et.al.|[2409.18690](http://arxiv.org/abs/2409.18690)|null|
 |**2024-09-27**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498](http://arxiv.org/abs/2409.18498)|null|
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
@@ -2730,7 +2730,7 @@ layout: default
 |**2024-09-25**|**Enhancing Recommendation with Denoising Auxiliary Task**|Pengsheng Liu et.al.|[2409.17402](http://arxiv.org/abs/2409.17402)|null|
 |**2024-09-25**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
-|**2024-09-25**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|null|
+|**2024-09-25**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|**[link](https://github.com/yueqirex/fmrlrec)**|
 |**2024-09-25**|**CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models**|Xin Jing et.al.|[2409.16619](http://arxiv.org/abs/2409.16619)|null|
 |**2024-09-25**|**Bias Reduction in Social Networks through Agent-Based Simulations**|Nathan Bartley et.al.|[2409.16558](http://arxiv.org/abs/2409.16558)|null|
 |**2024-09-24**|**Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences**|Erica Coppolillo et.al.|[2409.16478](http://arxiv.org/abs/2409.16478)|null|
@@ -3085,7 +3085,7 @@ layout: default
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|**[link](https://github.com/liuqidong07/LLM-ESR)**|
 |**2024-05-31**|**Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems**|Shengyu Zhang et.al.|[2405.20626](http://arxiv.org/abs/2405.20626)|null|
 |**2024-05-30**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483](http://arxiv.org/abs/2405.20483)|null|
-|**2024-05-30**|**Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation**|Shi Mu et.al.|[2405.20358](http://arxiv.org/abs/2405.20358)|null|
+|**2024-05-30**|**Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation**|Shi Mu et.al.|[2405.20358](http://arxiv.org/abs/2405.20358)|**[link](https://github.com/guangyunms/bimorec)**|
 |**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
 |**2024-05-29**|**Quantum Algorithms for tensor-SVD**|Jezer Jojo et.al.|[2405.19485](http://arxiv.org/abs/2405.19485)|null|
@@ -3100,7 +3100,7 @@ layout: default
 |**2024-05-28**|**Rethinking Recommender Systems: Cluster-based Algorithm Selection**|Andreas Lizenberger et.al.|[2405.18011](http://arxiv.org/abs/2405.18011)|null|
 |**2024-05-28**|**Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**|Yuqi Zhou et.al.|[2405.17998](http://arxiv.org/abs/2405.17998)|null|
 |**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959](http://arxiv.org/abs/2405.17959)|null|
-|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
+|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|**[link](https://github.com/wujiangxu/slmrec)**|
 |**2024-05-28**|**Dataset Regeneration for Sequential Recommendation**|Mingjia Yin et.al.|[2405.17795](http://arxiv.org/abs/2405.17795)|**[link](https://github.com/ustc-starteam/dr4sr)**|
 |**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
 |**2024-05-27**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced Music Recommendations**|Armin Moradi et.al.|[2405.17607](http://arxiv.org/abs/2405.17607)|null|
@@ -3704,7 +3704,7 @@ layout: default
 |**2023-10-27**|**Lifting the Veil: Unlocking the Power of Depth in Q-learning**|Shao-Bo Lin et.al.|[2310.17915](http://arxiv.org/abs/2310.17915)|null|
 |**2023-10-26**|**Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems**|Lidiya Murakhovs'ka et.al.|[2310.17749](http://arxiv.org/abs/2310.17749)|**[link](https://github.com/salesforce/salesbot)**|
 |**2023-10-29**|**Tackling Interference Induced by Data Training Loops in A/B Tests: A Weighted Training Approach**|Nian Si et.al.|[2310.17496](http://arxiv.org/abs/2310.17496)|null|
-|**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373](http://arxiv.org/abs/2310.17373)|null|
+|**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373](http://arxiv.org/abs/2310.17373)|**[link](https://github.com/weixinchen98/fmmrec)**|
 |**2023-10-25**|**Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation**|Xi Wang et.al.|[2310.16738](http://arxiv.org/abs/2310.16738)|**[link](https://github.com/wangxieric/bias-crs)**|
 |**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
 |**2023-10-25**|**Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452](http://arxiv.org/abs/2310.16452)|null|
