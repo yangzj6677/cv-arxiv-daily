@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval**|SeungHeon Doh et.al.|[2410.03264](http://arxiv.org/abs/2410.03264)|null|
+|**2024-10-04**|**Enriching Ontologies with Disjointness Axioms using Large Language Models**|Elias Crum et.al.|[2410.03235](http://arxiv.org/abs/2410.03235)|**[link](https://github.com/n28div/llm-disjointness)**|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
 |**2024-10-03**|**Semantic-Guided RL for Interpretable Feature Engineering**|Mohamed Bouadi et.al.|[2410.02519](http://arxiv.org/abs/2410.02519)|null|
 |**2024-10-03**|**Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks**|Junlin Hou et.al.|[2410.02331](http://arxiv.org/abs/2410.02331)|null|
@@ -2709,6 +2711,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**EB-NeRD: A Large-Scale Dataset for News Recommendation**|Johannes Kruse et.al.|[2410.03432](http://arxiv.org/abs/2410.03432)|null|
+|**2024-10-03**|**Vehicle Suspension Recommendation System: Multi-Fidelity Neural Network-based Mechanism Design Optimization**|Sumin Lee et.al.|[2410.03045](http://arxiv.org/abs/2410.03045)|null|
+|**2024-10-03**|**Cognitive Biases in Large Language Models for News Recommendation**|Yougang Lyu et.al.|[2410.02897](http://arxiv.org/abs/2410.02897)|null|
 |**2024-10-03**|**Long-Sequence Recommendation Models Need Decoupled Embeddings**|Ningya Feng et.al.|[2410.02604](http://arxiv.org/abs/2410.02604)|null|
 |**2024-10-03**|**Quantifying User Coherence: A Unified Framework for Cross-Domain Recommendation Analysis**|Michaël Soumm et.al.|[2410.02453](http://arxiv.org/abs/2410.02453)|null|
 |**2024-10-03**|**Multi-modal clothing recommendation model based on large model and VAE enhancement**|Bingjie Huang et.al.|[2410.02219](http://arxiv.org/abs/2410.02219)|null|
