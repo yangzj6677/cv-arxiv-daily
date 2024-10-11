@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,7 +1298,7 @@ layout: default
 |**2024-10-09**|**Inference over Unseen Entities, Relations and Literals on Knowledge Graphs**|Caglar Demir et.al.|[2410.06742](http://arxiv.org/abs/2410.06742)|null|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121](http://arxiv.org/abs/2410.06121)|null|
 |**2024-10-08**|**Posets and Bounded Probabilities for Discovering Order-inducing Features in Event Knowledge Graphs**|Christoffer Olling Back et.al.|[2410.06065](http://arxiv.org/abs/2410.06065)|null|
-|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010](http://arxiv.org/abs/2410.06010)|null|
 |**2024-10-08**|**Bottom-up Anytime Discovery of Generalised Multimodal Graph Patterns for Knowledge Graphs**|Xander Wilcke et.al.|[2410.05839](http://arxiv.org/abs/2410.05839)|null|
 |**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763](http://arxiv.org/abs/2410.05763)|null|
