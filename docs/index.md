@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
+|**2024-10-11**|**GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**|Jiashu He et.al.|[2410.08475](http://arxiv.org/abs/2410.08475)|null|
+|**2024-10-10**|**The Effects of Hallucinations in Synthetic Training Data for Relation Extraction**|Steven Rogulsky et.al.|[2410.08393](http://arxiv.org/abs/2410.08393)|null|
+|**2024-10-10**|**Generalization from Starvation: Hints of Universality in LLM Knowledge Graph Learning**|David D. Baek et.al.|[2410.08255](http://arxiv.org/abs/2410.08255)|null|
 |**2024-10-10**|**SAKA: An Intelligent Platform for Semi-automated Knowledge Graph Construction and Application**|Hanrong Zhang et.al.|[2410.08094](http://arxiv.org/abs/2410.08094)|null|
 |**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085](http://arxiv.org/abs/2410.08085)|null|
 |**2024-10-10**|**PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in biomedical science**|Jian Xu et.al.|[2410.07969](http://arxiv.org/abs/2410.07969)|null|
@@ -2717,6 +2721,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Compressing regularised dynamics improves link prediction in sparse networks**|Maja Lindström et.al.|[2410.08777](http://arxiv.org/abs/2410.08777)|null|
+|**2024-10-11**|**Personalized Item Embeddings in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478](http://arxiv.org/abs/2410.08478)|null|
+|**2024-10-10**|**MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations**|Federico Retyk et.al.|[2410.08319](http://arxiv.org/abs/2410.08319)|**[link](https://github.com/avature/melo-benchmark)**|
 |**2024-10-10**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
 |**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
 |**2024-10-09**|**Learning Recommender Systems with Soft Target: A Decoupled Perspective**|Hao Zhang et.al.|[2410.06536](http://arxiv.org/abs/2410.06536)|**[link](https://github.com/zh-ustc/desorec)**|
