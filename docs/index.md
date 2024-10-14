@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2721,7 +2721,7 @@ layout: default
 |**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
 |**2024-10-09**|**Learning Recommender Systems with Soft Target: A Decoupled Perspective**|Hao Zhang et.al.|[2410.06536](http://arxiv.org/abs/2410.06536)|**[link](https://github.com/zh-ustc/desorec)**|
 |**2024-10-09**|**ERCache: An Efficient and Reliable Caching Framework for Large-Scale User Representations in Meta's Ads System**|Fang Zhou et.al.|[2410.06497](http://arxiv.org/abs/2410.06497)|null|
-|**2024-10-08**|**Improved Estimation of Ranks for Learning ItemRecommenders with Negative Sampling**|Anushya Subbiah et.al.|[2410.06371](http://arxiv.org/abs/2410.06371)|null|
+|**2024-10-10**|**Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling**|Anushya Subbiah et.al.|[2410.06371](http://arxiv.org/abs/2410.06371)|null|
 |**2024-10-08**|**RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking**|Chao Sun et.al.|[2410.05939](http://arxiv.org/abs/2410.05939)|null|
 |**2024-10-08**|**MDAP: A Multi-view Disentangled and Adaptive Preference Learning Framework for Cross-Domain Recommendation**|Junxiong Tong et.al.|[2410.05877](http://arxiv.org/abs/2410.05877)|**[link](https://github.com/the-garden-of-sinner/mdap)**|
 |**2024-10-08**|**Enhancing Playback Performance in Video Recommender Systems with an On-Device Gating and Ranking Framework**|Yunfei Yang et.al.|[2410.05863](http://arxiv.org/abs/2410.05863)|null|
