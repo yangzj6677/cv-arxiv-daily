@@ -1295,6 +1295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
+|**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765](http://arxiv.org/abs/2410.13765)|null|
+|**2024-10-17**|**Disjointness Violations in Wikidata**|Ege Atacan Doğan et.al.|[2410.13707](http://arxiv.org/abs/2410.13707)|null|
+|**2024-10-17**|**Attr-Int: A Simple and Effective Entity Alignment Framework for Heterogeneous Knowledge Graphs**|Linyan Yang et.al.|[2410.13409](http://arxiv.org/abs/2410.13409)|null|
+|**2024-10-17**|**A Simplifying and Learnable Graph Convolutional Attention Network for Unsupervised Knowledge Graphs Alignment**|Weishan Cai et.al.|[2410.13263](http://arxiv.org/abs/2410.13263)|null|
+|**2024-10-16**|**Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models**|Linhao Luo et.al.|[2410.13080](http://arxiv.org/abs/2410.13080)|**[link](https://github.com/RManLuo/graph-constrained-reasoning)**|
+|**2024-10-16**|**Learning Representations for Reasoning: Generalizing Across Diverse Structures**|Zhaocheng Zhu et.al.|[2410.13018](http://arxiv.org/abs/2410.13018)|null|
+|**2024-10-16**|**Large Language Models as a Tool for Mining Object Knowledge**|Hannah YoungEun An et.al.|[2410.12959](http://arxiv.org/abs/2410.12959)|null|
 |**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609](http://arxiv.org/abs/2410.12609)|null|
 |**2024-10-16**|**Is Complex Query Answering Really Complex?**|Cosimo Gregucci et.al.|[2410.12537](http://arxiv.org/abs/2410.12537)|null|
 |**2024-10-16**|**Privacy-Preserving Synthetically Augmented Knowledge Graphs with Semantic Utility**|Luigi Bellomarini et.al.|[2410.12418](http://arxiv.org/abs/2410.12418)|null|
@@ -2743,6 +2751,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Pessimistic Evaluation**|Fernando Diaz et.al.|[2410.13680](http://arxiv.org/abs/2410.13680)|null|
+|**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604](http://arxiv.org/abs/2410.13604)|null|
+|**2024-10-17**|**Dynamic Range Compression and Its Effect on Music Genre Classification**|Arlyn Reese Madsen III et.al.|[2410.13581](http://arxiv.org/abs/2410.13581)|null|
+|**2024-10-17**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
+|**2024-10-17**|**Preference Diffusion for Recommendation**|Shuo Liu et.al.|[2410.13117](http://arxiv.org/abs/2410.13117)|**[link](https://github.com/lswhim/preferdiff)**|
+|**2024-10-16**|**How Do AI Companies "Fine-Tune" Policy? Examining Regulatory Capture in AI Governance**|Kevin Wei et.al.|[2410.13042](http://arxiv.org/abs/2410.13042)|null|
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
 |**2024-10-16**|**Mitigating Dual Latent Confounding Biases in Recommender Systems**|Jianfeng Deng et.al.|[2410.12451](http://arxiv.org/abs/2410.12451)|null|
 |**2024-10-16**|**Multi-Cause Deconfounding for Recommender Systems with Latent Confounders**|Zhirong Huang et.al.|[2410.12366](http://arxiv.org/abs/2410.12366)|null|
