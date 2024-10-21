@@ -1295,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**|Wei Ai et.al.|[2410.14584](http://arxiv.org/abs/2410.14584)|null|
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571](http://arxiv.org/abs/2410.14571)|null|
+|**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
+|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
+|**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
+|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
+|**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
 |**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765](http://arxiv.org/abs/2410.13765)|null|
 |**2024-10-17**|**Disjointness Violations in Wikidata**|Ege Atacan Doğan et.al.|[2410.13707](http://arxiv.org/abs/2410.13707)|null|
@@ -2751,6 +2758,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Neural Combinatorial Clustered Bandits for Recommendation Systems**|Baran Atalar et.al.|[2410.14586](http://arxiv.org/abs/2410.14586)|null|
+|**2024-10-18**|**Measuring Diversity: Axioms and Challenges**|Mikhail Mironov et.al.|[2410.14556](http://arxiv.org/abs/2410.14556)|null|
+|**2024-10-18**|**Graph Neural Patching for Cold-Start Recommendations**|Hao Chen et.al.|[2410.14241](http://arxiv.org/abs/2410.14241)|null|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
 |**2024-10-17**|**Pessimistic Evaluation**|Fernando Diaz et.al.|[2410.13680](http://arxiv.org/abs/2410.13680)|null|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604](http://arxiv.org/abs/2410.13604)|null|
 |**2024-10-17**|**Dynamic Range Compression and Its Effect on Music Genre Classification**|Arlyn Reese Madsen III et.al.|[2410.13581](http://arxiv.org/abs/2410.13581)|null|
