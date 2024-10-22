@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1298,7 +1298,7 @@ layout: default
 |**2024-10-18**|**MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**|Wei Ai et.al.|[2410.14584](http://arxiv.org/abs/2410.14584)|null|
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571](http://arxiv.org/abs/2410.14571)|null|
 |**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
-|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
+|**2024-10-21**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
 |**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
 |**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
