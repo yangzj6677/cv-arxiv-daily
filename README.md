@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
+|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|null|
+|**2024-10-21**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008](http://arxiv.org/abs/2410.16008)|null|
+|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981](http://arxiv.org/abs/2410.15981)|null|
+|**2024-10-21**|**GIG: Graph Data Imputation With Graph Differential Dependencies**|Jiang Hua et.al.|[2410.15747](http://arxiv.org/abs/2410.15747)|null|
+|**2024-10-19**|**Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models**|Qitan Lv et.al.|[2410.15116](http://arxiv.org/abs/2410.15116)|null|
+|**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah et.al.|[2410.15064](http://arxiv.org/abs/2410.15064)|null|
+|**2024-10-18**|**The S2 Hierarchical Discrete Global Grid as a Nexus for Data Representation, Integration, and Querying Across Geospatial Knowledge Graphs**|Shirly Stephen et.al.|[2410.14808](http://arxiv.org/abs/2410.14808)|null|
 |**2024-10-18**|**MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**|Wei Ai et.al.|[2410.14584](http://arxiv.org/abs/2410.14584)|null|
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571](http://arxiv.org/abs/2410.14571)|null|
 |**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
@@ -2775,6 +2783,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Unleashing the Potential of Multi-Channel Fusion in Retrieval for Personalized Recommendations**|Junjie Huang et.al.|[2410.16080](http://arxiv.org/abs/2410.16080)|null|
+|**2024-10-21**|**ComPO: Community Preferences for Language Model Personalization**|Sachin Kumar et.al.|[2410.16027](http://arxiv.org/abs/2410.16027)|null|
+|**2024-10-21**|**LightFusionRec: Lightweight Transformers-Based Cross-Domain Recommendation Model**|Vansh Kharidia et.al.|[2410.15656](http://arxiv.org/abs/2410.15656)|null|
+|**2024-10-20**|**Performance-Driven QUBO for Recommender Systems on Quantum Annealers**|Jiayang Niu et.al.|[2410.15272](http://arxiv.org/abs/2410.15272)|null|
+|**2024-10-20**|**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**|Bo Pan et.al.|[2410.15268](http://arxiv.org/abs/2410.15268)|null|
+|**2024-10-19**|**Incorporating Group Prior into Variational Inference for Tail-User Behavior Modeling in CTR Prediction**|Han Xu et.al.|[2410.15098](http://arxiv.org/abs/2410.15098)|null|
+|**2024-10-19**|**A Recommendation Model Utilizing Separation Embedding and Self-Attention for Feature Mining**|Wenyi Liu et.al.|[2410.15026](http://arxiv.org/abs/2410.15026)|null|
+|**2024-10-19**|**Audio Processing using Pattern Recognition for Music Genre Classification**|Sivangi Chatterjee et.al.|[2410.14990](http://arxiv.org/abs/2410.14990)|null|
+|**2024-10-19**|**Taming the Long Tail in Human Mobility Prediction**|Xiaohang Xu et.al.|[2410.14970](http://arxiv.org/abs/2410.14970)|**[link](https://github.com/yukayo/lotnext)**|
 |**2024-10-18**|**Neural Combinatorial Clustered Bandits for Recommendation Systems**|Baran Atalar et.al.|[2410.14586](http://arxiv.org/abs/2410.14586)|null|
 |**2024-10-18**|**Measuring Diversity: Axioms and Challenges**|Mikhail Mironov et.al.|[2410.14556](http://arxiv.org/abs/2410.14556)|null|
 |**2024-10-18**|**Graph Neural Patching for Cold-Start Recommendations**|Hao Chen et.al.|[2410.14241](http://arxiv.org/abs/2410.14241)|null|
