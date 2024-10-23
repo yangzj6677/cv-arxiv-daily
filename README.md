@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing**|Kento Nishi et.al.|[2410.17194](http://arxiv.org/abs/2410.17194)|null|
+|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803](http://arxiv.org/abs/2410.16803)|null|
+|**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708](http://arxiv.org/abs/2410.16708)|null|
+|**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
+|**2024-10-21**|**Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight**|Oliver Bensch et.al.|[2410.16397](http://arxiv.org/abs/2410.16397)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
 |**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|null|
 |**2024-10-21**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008](http://arxiv.org/abs/2410.16008)|null|
@@ -2783,6 +2788,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Improving Pinterest Search Relevance Using Large Language Models**|Han Wang et.al.|[2410.17152](http://arxiv.org/abs/2410.17152)|null|
+|**2024-10-22**|**Neural Collaborative Filtering Classification Model to Obtain Prediction Reliabilities**|Jesús Bobadilla et.al.|[2410.16838](http://arxiv.org/abs/2410.16838)|null|
+|**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
+|**2024-10-22**|**Beyond Retrieval: Generating Narratives in Conversational Recommender Systems**|Krishna Sayana et.al.|[2410.16780](http://arxiv.org/abs/2410.16780)|null|
+|**2024-10-21**|**STAR: A Simple Training-free Approach for Recommendations using Large Language Models**|Dong-Ho Lee et.al.|[2410.16458](http://arxiv.org/abs/2410.16458)|null|
 |**2024-10-21**|**Unleashing the Potential of Multi-Channel Fusion in Retrieval for Personalized Recommendations**|Junjie Huang et.al.|[2410.16080](http://arxiv.org/abs/2410.16080)|null|
 |**2024-10-21**|**ComPO: Community Preferences for Language Model Personalization**|Sachin Kumar et.al.|[2410.16027](http://arxiv.org/abs/2410.16027)|null|
 |**2024-10-21**|**LightFusionRec: Lightweight Transformers-Based Cross-Domain Recommendation Model**|Vansh Kharidia et.al.|[2410.15656](http://arxiv.org/abs/2410.15656)|null|
