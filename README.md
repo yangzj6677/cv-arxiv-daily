@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
+|**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345](http://arxiv.org/abs/2410.18345)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600](http://arxiv.org/abs/2410.17600)|null|
 |**2024-10-22**|**Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing**|Kento Nishi et.al.|[2410.17194](http://arxiv.org/abs/2410.17194)|null|
 |**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803](http://arxiv.org/abs/2410.16803)|null|
@@ -31,7 +33,7 @@
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
 |**2024-10-21**|**Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight**|Oliver Bensch et.al.|[2410.16397](http://arxiv.org/abs/2410.16397)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
-|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|null|
+|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|**[link](https://github.com/autocs-wyh/automotive-cyber-threat-intelligence-corpus)**|
 |**2024-10-21**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008](http://arxiv.org/abs/2410.16008)|null|
 |**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981](http://arxiv.org/abs/2410.15981)|null|
 |**2024-10-21**|**GIG: Graph Data Imputation With Graph Differential Dependencies**|Jiang Hua et.al.|[2410.15747](http://arxiv.org/abs/2410.15747)|null|
@@ -2789,6 +2791,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-23**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651](http://arxiv.org/abs/2410.17651)|null|
 |**2024-10-23**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644](http://arxiv.org/abs/2410.17644)|null|
 |**2024-10-23**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning**|Wei Chen et.al.|[2410.17555](http://arxiv.org/abs/2410.17555)|**[link](https://github.com/cwei01/fairdgcl)**|
