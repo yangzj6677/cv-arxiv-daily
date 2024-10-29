@@ -24,6 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
+|**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
+|**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
+|**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060](http://arxiv.org/abs/2410.21060)|null|
+|**2024-10-28**|**Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future**|Piotr Sowinski et.al.|[2410.20984](http://arxiv.org/abs/2410.20984)|null|
+|**2024-10-28**|**SEG:Seeds-Enhanced Iterative Refinement Graph Neural Network for Entity Alignment**|Wei Ai et.al.|[2410.20733](http://arxiv.org/abs/2410.20733)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|null|
+|**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321](http://arxiv.org/abs/2410.20321)|null|
+|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
@@ -2793,6 +2802,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
+|**2024-10-28**|**Challenges in Implementing a Recommender System for Historical Research in the Humanities**|Florian Atzenhofer-Baumgartner et.al.|[2410.20909](http://arxiv.org/abs/2410.20909)|null|
+|**2024-10-28**|**RecFlow: An Industrial Full Flow Recommendation Dataset**|Qi Liu et.al.|[2410.20868](http://arxiv.org/abs/2410.20868)|**[link](https://github.com/recflow-iclr/recflow)**|
+|**2024-10-28**|**Beyond Positive History: Re-ranking with List-level Hybrid Feedback**|Muyan Weng et.al.|[2410.20778](http://arxiv.org/abs/2410.20778)|null|
+|**2024-10-28**|**GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems**|Wilson Wongso et.al.|[2410.20643](http://arxiv.org/abs/2410.20643)|**[link](https://github.com/w11wo/genup)**|
+|**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
+|**2024-10-27**|**Coherence-guided Preference Disentanglement for Cross-domain Recommendations**|Zongyi Xiang et.al.|[2410.20580](http://arxiv.org/abs/2410.20580)|null|
+|**2024-10-27**|**Beyond Trivial Edges: A Fractional Approach to Cohesive Subgraph Detection in Hypergraphs**|Hyewon Kim et.al.|[2410.20350](http://arxiv.org/abs/2410.20350)|null|
 |**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719](http://arxiv.org/abs/2410.19719)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
