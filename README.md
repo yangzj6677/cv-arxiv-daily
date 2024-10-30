@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**DAGE: DAG Query Answering via Relational Combinator with Logical Constraints**|Yunjie He et.al.|[2410.22105](http://arxiv.org/abs/2410.22105)|null|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
 |**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
@@ -2802,6 +2803,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity**|Shaked Brody et.al.|[2410.22136](http://arxiv.org/abs/2410.22136)|**[link](https://github.com/amazon-science/sequential-recommendation-using-similarity)**|
+|**2024-10-28**|**Semantic Search Evaluation**|Chujie Zheng et.al.|[2410.21549](http://arxiv.org/abs/2410.21549)|null|
 |**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
 |**2024-10-28**|**Challenges in Implementing a Recommender System for Historical Research in the Humanities**|Florian Atzenhofer-Baumgartner et.al.|[2410.20909](http://arxiv.org/abs/2410.20909)|null|
 |**2024-10-28**|**RecFlow: An Industrial Full Flow Recommendation Dataset**|Qi Liu et.al.|[2410.20868](http://arxiv.org/abs/2410.20868)|**[link](https://github.com/recflow-iclr/recflow)**|
