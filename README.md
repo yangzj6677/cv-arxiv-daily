@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996](http://arxiv.org/abs/2410.22996)|null|
+|**2024-10-30**|**Scalable Sampling for High Utility Patterns**|Lamine Diop et.al.|[2410.22964](http://arxiv.org/abs/2410.22964)|**[link](https://github.com/ScalableSamplingInLargeDatabases/QPlus)**|
+|**2024-10-30**|**Knowledge Graph Based Visual Search Application**|Pawandeep Kaur Betz et.al.|[2410.22846](http://arxiv.org/abs/2410.22846)|null|
+|**2024-10-30**|**Beyond Ontology in Dialogue State Tracking for Goal-Oriented Chatbot**|Sejin Lee et.al.|[2410.22767](http://arxiv.org/abs/2410.22767)|**[link](https://github.com/eastha0526/beyond-ontology-in-dst)**|
+|**2024-10-30**|**DECRL: A Deep Evolutionary Clustering Jointed Temporal Knowledge Graph Representation Learning Approach**|Qian Chen et.al.|[2410.22631](http://arxiv.org/abs/2410.22631)|null|
+|**2024-10-30**|**Symbolic Graph Inference for Compound Scene Understanding**|FNU Aryan et.al.|[2410.22626](http://arxiv.org/abs/2410.22626)|null|
 |**2024-10-29**|**DAGE: DAG Query Answering via Relational Combinator with Logical Constraints**|Yunjie He et.al.|[2410.22105](http://arxiv.org/abs/2410.22105)|null|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
 |**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
@@ -2803,6 +2809,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
+|**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
+|**2024-10-30**|**DataRec: A Framework for Standardizing Recommendation Data Processing and Analysis**|Alberto Carlo Maria Mancino et.al.|[2410.22972](http://arxiv.org/abs/2410.22972)|null|
+|**2024-10-30**|**Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation**|Kaike Zhang et.al.|[2410.22844](http://arxiv.org/abs/2410.22844)|null|
+|**2024-10-30**|**Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation**|Yang Zhang et.al.|[2410.22809](http://arxiv.org/abs/2410.22809)|**[link](https://github.com/itsmeyjt/cft)**|
+|**2024-10-30**|**Dual Contrastive Transformer for Hierarchical Preference Modeling in Sequential Recommendation**|Chengkai Huang et.al.|[2410.22790](http://arxiv.org/abs/2410.22790)|null|
 |**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity**|Shaked Brody et.al.|[2410.22136](http://arxiv.org/abs/2410.22136)|**[link](https://github.com/amazon-science/sequential-recommendation-using-similarity)**|
 |**2024-10-28**|**Semantic Search Evaluation**|Chujie Zheng et.al.|[2410.21549](http://arxiv.org/abs/2410.21549)|null|
