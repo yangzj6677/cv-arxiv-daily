@@ -1366,7 +1366,7 @@ layout: default
 |**2024-10-13**|**ChartKG: A Knowledge-Graph-Based Representation for Chart Images**|Zhiguang Zhou et.al.|[2410.09761](http://arxiv.org/abs/2410.09761)|null|
 |**2024-10-13**|**Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG**|Xinxi Chen et.al.|[2410.09699](http://arxiv.org/abs/2410.09699)|null|
 |**2024-10-12**|**LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning**|Jiachun Li et.al.|[2410.09541](http://arxiv.org/abs/2410.09541)|**[link](https://github.com/bugmakerzzz/linked_code)**|
-|**2024-10-12**|**Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation**|Jinyoung Park et.al.|[2410.09350](http://arxiv.org/abs/2410.09350)|null|
+|**2024-10-12**|**Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation**|Jinyoung Park et.al.|[2410.09350](http://arxiv.org/abs/2410.09350)|**[link](https://github.com/mlvlab/dialoggsr)**|
 |**2024-10-11**|**ReasonPlanner: Enhancing Autonomous Planning in Dynamic Environments with Temporal Knowledge Graphs and LLMs**|Minh Pham Dinh et.al.|[2410.09252](http://arxiv.org/abs/2410.09252)|null|
 |**2024-10-11**|**TIGER: Temporally Improved Graph Entity Linker**|Pengyu Zhang et.al.|[2410.09128](http://arxiv.org/abs/2410.09128)|**[link](https://github.com/pengyu-zhang/tiger-temporally-improved-graph-entity-linker)**|
 |**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
@@ -1705,7 +1705,7 @@ layout: default
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-06-12**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|**[link](https://github.com/jkminder/data2neo)**|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989](http://arxiv.org/abs/2406.04989)|**[link](https://github.com/ltgoslo/text-graph-generalization)**|
-|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|null|
+|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|**[link](https://github.com/facebookresearch/crag)**|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953](http://arxiv.org/abs/2406.03953)|**[link](https://github.com/LCS2-IIITD/TOXBART)**|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
 |**2024-06-06**|**Efficient Knowledge Infusion via KG-LLM Alignment**|Zhouyu Jiang et.al.|[2406.03746](http://arxiv.org/abs/2406.03746)|null|
@@ -2925,7 +2925,7 @@ layout: default
 |**2024-09-27**|**Less is More: Towards Sustainability-Aware Persuasive Explanations in Recommender Systems**|Thi Ngoc Trang Tran et.al.|[2409.18690](http://arxiv.org/abs/2409.18690)|null|
 |**2024-09-27**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498](http://arxiv.org/abs/2409.18498)|null|
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
-|**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864](http://arxiv.org/abs/2409.17864)|null|
+|**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864](http://arxiv.org/abs/2409.17864)|**[link](https://github.com/hcai-mms/sibrar---single-branch-recommender)**|
 |**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
 |**2024-09-26**|**Value Identification in Multistakeholder Recommender Systems for Humanities and Historical Research: The Case of the Digital Archive Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769](http://arxiv.org/abs/2409.17769)|null|
 |**2024-09-26**|**Autoregressive Generation Strategies for Top-K Sequential Recommendations**|Anna Volodkevich et.al.|[2409.17730](http://arxiv.org/abs/2409.17730)|null|
@@ -3048,7 +3048,7 @@ layout: default
 |**2024-08-20**|**Accelerating the Surrogate Retraining for Poisoning Attacks against Recommender Systems**|Yunfan Wu et.al.|[2408.10666](http://arxiv.org/abs/2408.10666)|**[link](https://github.com/WuYunfan/GradientPassingAttack)**|
 |**2024-08-20**|**Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models**|Yunjia Xi et.al.|[2408.10520](http://arxiv.org/abs/2408.10520)|null|
 |**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
-|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|**[link](https://github.com/akalikong/ilora)**|
 |**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
 |**2024-08-19**|**Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method**|Chen Yang et.al.|[2408.09748](http://arxiv.org/abs/2408.09748)|**[link](https://github.com/rucaibox/crrs)**|
 |**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
@@ -3195,7 +3195,7 @@ layout: default
 |**2024-07-01**|**Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation**|Yuting Zhang et.al.|[2407.00912](http://arxiv.org/abs/2407.00912)|**[link](https://github.com/17231087/UDITSR)**|
 |**2024-07-01**|**Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation**|Xiaopeng Liu et.al.|[2407.00909](http://arxiv.org/abs/2407.00909)|null|
 |**2024-06-30**|**Benchmarks for Reinforcement Learning with Biased Offline Data and Imperfect Simulators**|Ori Linial et.al.|[2407.00806](http://arxiv.org/abs/2407.00806)|null|
-|**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317](http://arxiv.org/abs/2406.19317)|null|
+|**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317](http://arxiv.org/abs/2406.19317)|**[link](https://github.com/BorealisAI/jump-starting-bandits)**|
 |**2024-06-27**|**MINE GRAPH RULE: A New Cypher-like Operator for Mining Association Rules on Property Graphs**|Francesco Cambria et.al.|[2406.19106](http://arxiv.org/abs/2406.19106)|null|
 |**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
 |**2024-07-01**|**Amplify Graph Learning for Recommendation via Sparsity Completion**|Peng Yuan et.al.|[2406.18984](http://arxiv.org/abs/2406.18984)|**[link](https://github.com/yp8976/AGL_SC)**|
@@ -3751,7 +3751,7 @@ layout: default
 |**2024-01-03**|**Poisoning Attacks against Recommender Systems: A Survey**|Zongwei Wang et.al.|[2401.01527](http://arxiv.org/abs/2401.01527)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-01-02**|**Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces**|Li Sun et.al.|[2401.01243](http://arxiv.org/abs/2401.01243)|null|
 |**2023-12-29**|**Xorbits: Automating Operator Tiling for Distributed Data Science**|Weizheng Lu et.al.|[2401.00865](http://arxiv.org/abs/2401.00865)|**[link](https://github.com/xorbitsai/xorbits)**|
-|**2024-01-01**|**Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models**|Wenqi Sun et.al.|[2401.00797](http://arxiv.org/abs/2401.00797)|null|
+|**2024-01-01**|**Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models**|Wenqi Sun et.al.|[2401.00797](http://arxiv.org/abs/2401.00797)|**[link](https://github.com/rucaibox/ckd-mdsr)**|
 |**2024-01-01**|**Temporal Validity Change Prediction**|Georg Wenzel et.al.|[2401.00779](http://arxiv.org/abs/2401.00779)|null|
 |**2023-12-30**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353](http://arxiv.org/abs/2401.00353)|null|
 |**2023-12-30**|**Dual-space Hierarchical Learning for Goal-guided Conversational Recommendation**|Can Chen et.al.|[2401.00272](http://arxiv.org/abs/2401.00272)|**[link](https://github.com/ggchen1997/neurocomputing)**|
