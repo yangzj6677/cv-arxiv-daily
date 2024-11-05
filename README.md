@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
+|**2024-11-04**|**Grid-Based Projection of Spatial Data into Knowledge Graphs**|Amin Anjomshoaa et.al.|[2411.02309](http://arxiv.org/abs/2411.02309)|null|
+|**2024-11-03**|**Ontology Population using LLMs**|Sanaz Saki Norouzi et.al.|[2411.01612](http://arxiv.org/abs/2411.01612)|null|
+|**2024-11-03**|**DPCL-Diff: The Temporal Knowledge Graph Reasoning based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**|Yukun Cao et.al.|[2411.01477](http://arxiv.org/abs/2411.01477)|null|
+|**2024-11-03**|**PageRank Bandits for Link Prediction**|Yikun Ban et.al.|[2411.01410](http://arxiv.org/abs/2411.01410)|null|
+|**2024-11-02**|**Towards a Knowledge Graph for Teaching Knowledge Graphs**|Eleni Ilkou et.al.|[2411.01304](http://arxiv.org/abs/2411.01304)|null|
+|**2024-11-01**|**Capturing and Anticipating User Intents in Data Analytics via Knowledge Graphs**|Gerard Pons et.al.|[2411.01023](http://arxiv.org/abs/2411.01023)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021](http://arxiv.org/abs/2410.24021)|null|
 |**2024-10-31**|**Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**|Liyi Chen et.al.|[2410.23875](http://arxiv.org/abs/2410.23875)|**[link](https://github.com/liyichen-cly/pog)**|
 |**2024-10-31**|**OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models**|Junda Wu et.al.|[2410.23703](http://arxiv.org/abs/2410.23703)|null|
@@ -2812,6 +2819,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Boulder2Vec: Modeling Climber Performances in Professional Bouldering Competitions**|Ethan Baron et.al.|[2411.02343](http://arxiv.org/abs/2411.02343)|null|
+|**2024-11-04**|**An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Machine Learning**|Allan Grønlund et.al.|[2411.02087](http://arxiv.org/abs/2411.02087)|null|
+|**2024-11-04**|**Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling**|Weibo Gao et.al.|[2411.02066](http://arxiv.org/abs/2411.02066)|**[link](https://github.com/bigdata-ustc/coral)**|
+|**2024-11-04**|**Enhancing ID-based Recommendation with Large Language Models**|Lei Chen et.al.|[2411.02041](http://arxiv.org/abs/2411.02041)|null|
+|**2024-11-04**|**HACD: Harnessing Attribute Semantics and Mesoscopic Structure for Community Detection**|Anran Zhang et.al.|[2411.01947](http://arxiv.org/abs/2411.01947)|**[link](https://github.com/anniran1/hacd1-wsdm)**|
+|**2024-11-04**|**Differentially private and decentralized randomized power method**|Julien Nicolas et.al.|[2411.01931](http://arxiv.org/abs/2411.01931)|null|
+|**2024-11-04**|**Dissertation: On the Theoretical Foundation of Model Comparison and Evaluation for Recommender System**|Dong Li et.al.|[2411.01843](http://arxiv.org/abs/2411.01843)|null|
+|**2024-11-04**|**Transferable Sequential Recommendation via Vector Quantized Meta Learning**|Zhenrui Yue et.al.|[2411.01785](http://arxiv.org/abs/2411.01785)|null|
+|**2024-11-04**|**A General Recipe for Contractive Graph Neural Networks -- Technical Report**|Maya Bechler-Speicher et.al.|[2411.01717](http://arxiv.org/abs/2411.01717)|null|
+|**2024-11-03**|**Co-clustering for Federated Recommender System**|Xinrui He et.al.|[2411.01690](http://arxiv.org/abs/2411.01690)|null|
 |**2024-10-31**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757](http://arxiv.org/abs/2410.23757)|null|
 |**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
