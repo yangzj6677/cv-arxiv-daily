@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
+|**2024-11-06**|**Fully Hyperbolic Rotation for Knowledge Graph Embedding**|Qiuyu Liang et.al.|[2411.03622](http://arxiv.org/abs/2411.03622)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572](http://arxiv.org/abs/2411.03572)|null|
+|**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568](http://arxiv.org/abs/2411.03568)|null|
 |**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
 |**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695](http://arxiv.org/abs/2411.02695)|null|
 |**2024-11-05**|**JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs**|Wanying Ding et.al.|[2411.02692](http://arxiv.org/abs/2411.02692)|null|
@@ -2806,6 +2810,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**DM4Steal: Diffusion Model For Link Stealing Attack On Graph Neural Networks**|Jinyin Chen et.al.|[2411.03364](http://arxiv.org/abs/2411.03364)|null|
+|**2024-11-04**|**Enhancing Table Representations with LLM-powered Synthetic Data Generation**|Dayu Yang et.al.|[2411.03356](http://arxiv.org/abs/2411.03356)|null|
 |**2024-11-05**|**Empowering Library Users: Creative Strategies for Engagement and Innovation**|Snehasish Paul et.al.|[2411.02993](http://arxiv.org/abs/2411.02993)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-04**|**Boulder2Vec: Modeling Climber Performances in Professional Bouldering Competitions**|Ethan Baron et.al.|[2411.02343](http://arxiv.org/abs/2411.02343)|null|
