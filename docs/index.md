@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2831,8 +2831,8 @@ layout: default
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
 |**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
 |**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181](http://arxiv.org/abs/2411.09181)|null|
-|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065](http://arxiv.org/abs/2411.09065)|null|
-|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
+|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065](http://arxiv.org/abs/2411.09065)|**[link](https://github.com/awslabs/language-model-prior-4-item-cold-start)**|
+|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|**[link](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)**|
 |**2024-11-13**|**Rethinking negative sampling in content-based news recommendation**|Miguel Ângelo Rebelo et.al.|[2411.08700](http://arxiv.org/abs/2411.08700)|null|
 |**2024-11-12**|**A Theoretical Analysis of Recommendation Loss Functions under Negative Sampling**|Giulia Di Teodoro et.al.|[2411.07770](http://arxiv.org/abs/2411.07770)|null|
 |**2024-11-12**|**Advancing Sustainability via Recommender Systems: A Survey**|Xin Zhou et.al.|[2411.07658](http://arxiv.org/abs/2411.07658)|**[link](https://github.com/enoche/susrec)**|
