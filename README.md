@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277](http://arxiv.org/abs/2411.14277)|null|
+|**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258](http://arxiv.org/abs/2411.14258)|null|
+|**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012](http://arxiv.org/abs/2411.14012)|null|
+|**2024-11-21**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773](http://arxiv.org/abs/2411.13773)|null|
 |**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950](http://arxiv.org/abs/2411.12950)|null|
 |**2024-11-20**|**Neon: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449](http://arxiv.org/abs/2411.12449)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
@@ -2855,6 +2859,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892](http://arxiv.org/abs/2411.13892)|null|
+|**2024-11-21**|**When Online Algorithms Influence the Environment: A Dynamical Systems Analysis of the Unintended Consequences**|Prabhat Lankireddy et.al.|[2411.13883](http://arxiv.org/abs/2411.13883)|null|
+|**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|null|
+|**2024-11-21**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
+|**2024-11-20**|**A Collaborative Ensemble Framework for CTR Prediction**|Xiaolong Liu et.al.|[2411.13700](http://arxiv.org/abs/2411.13700)|null|
+|**2024-11-20**|**Hierarchical Text Classification (HTC) vs. eXtreme Multilabel Classification (XML): Two Sides of the Same Medal**|Nerijus Bertalis et.al.|[2411.13687](http://arxiv.org/abs/2411.13687)|**[link](https://github.com/flohauss/xmc_htc)**|
+|**2024-11-20**|**No Free Delivery Service: Epistemic limits of passive data collection in complex social systems**|Maximilian Nickel et.al.|[2411.13653](http://arxiv.org/abs/2411.13653)|null|
 |**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|null|
 |**2024-11-20**|**Probably Approximately Precision and Recall Learning**|Lee Cohen et.al.|[2411.13029](http://arxiv.org/abs/2411.13029)|null|
 |**2024-11-20**|**Data Watermarking for Sequential Recommender Systems**|Sixiao Zhang et.al.|[2411.12989](http://arxiv.org/abs/2411.12989)|null|
