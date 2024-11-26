@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403](http://arxiv.org/abs/2411.16403)|null|
+|**2024-11-24**|**Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT**|Siqi Wang et.al.|[2411.15758](http://arxiv.org/abs/2411.15758)|**[link](https://github.com/tongji-kgllm/industryscope)**|
+|**2024-11-24**|**Deep Sparse Latent Feature Models for Knowledge Graph Completion**|Haotian Li et.al.|[2411.15694](http://arxiv.org/abs/2411.15694)|null|
+|**2024-11-23**|**IRSKG: Unified Intrusion Response System Knowledge Graph Ontology for Cyber Defense**|Damodar Panigrahi et.al.|[2411.15672](http://arxiv.org/abs/2411.15672)|null|
 |**2024-11-22**|**Domain and Range Aware Synthetic Negatives Generation for Knowledge Graph Embedding Models**|Alberto Bernardi et.al.|[2411.14858](http://arxiv.org/abs/2411.14858)|null|
 |**2024-11-19**|**Associative Knowledge Graphs for Efficient Sequence Storage and Retrieval**|Przemysław Stokłosa et.al.|[2411.14480](http://arxiv.org/abs/2411.14480)|**[link](https://github.com/PrzemyslawStok/ssakg)**|
 |**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479](http://arxiv.org/abs/2411.14479)|null|
@@ -2862,6 +2866,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters**|Dietmar Jannach et.al.|[2411.16645](http://arxiv.org/abs/2411.16645)|null|
+|**2024-11-25**|**A Data-Driven Approach to Dataflow-Aware Online Scheduling for Graph Neural Network Inference**|Pol Puigdemont et.al.|[2411.16342](http://arxiv.org/abs/2411.16342)|null|
+|**2024-11-25**|**Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems**|Sunghwan Kim et.al.|[2411.16160](http://arxiv.org/abs/2411.16160)|null|
+|**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
+|**2024-11-25**|**VisualLens: Personalization through Visual History**|Wang Bill Zhu et.al.|[2411.16034](http://arxiv.org/abs/2411.16034)|null|
+|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|null|
 |**2024-11-22**|**The 1st Workshop on Human-Centered Recommender Systems**|Kaike Zhang et.al.|[2411.14760](http://arxiv.org/abs/2411.14760)|null|
 |**2024-11-22**|**LIBER: Lifelong User Behavior Modeling Based on Large Language Models**|Chenxu Zhu et.al.|[2411.14713](http://arxiv.org/abs/2411.14713)|null|
 |**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892](http://arxiv.org/abs/2411.13892)|null|
