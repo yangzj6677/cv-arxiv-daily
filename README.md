@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Abductive Symbolic Solver on Abstraction and Reasoning Corpus**|Mintaek Lim et.al.|[2411.18158](http://arxiv.org/abs/2411.18158)|null|
+|**2024-11-27**|**Online Knowledge Integration for 3D Semantic Mapping: A Survey**|Felix Igelbrink et.al.|[2411.18147](http://arxiv.org/abs/2411.18147)|null|
 |**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542](http://arxiv.org/abs/2411.17542)|null|
 |**2024-11-26**|**Can LLMs be Good Graph Judger for Knowledge Graph Construction?**|Haoyu Huang et.al.|[2411.17388](http://arxiv.org/abs/2411.17388)|**[link](https://github.com/hhy-huang/graphjudger)**|
 |**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403](http://arxiv.org/abs/2411.16403)|null|
@@ -2868,6 +2870,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-26**|**Can LLMs be Good Graph Judger for Knowledge Graph Construction?**|Haoyu Huang et.al.|[2411.17388](http://arxiv.org/abs/2411.17388)|**[link](https://github.com/hhy-huang/graphjudger)**|
 |**2024-11-25**|**Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters**|Dietmar Jannach et.al.|[2411.16645](http://arxiv.org/abs/2411.16645)|null|
 |**2024-11-25**|**A Data-Driven Approach to Dataflow-Aware Online Scheduling for Graph Neural Network Inference**|Pol Puigdemont et.al.|[2411.16342](http://arxiv.org/abs/2411.16342)|null|
