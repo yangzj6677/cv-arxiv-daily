@@ -2877,7 +2877,7 @@
 |**2024-11-25**|**Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems**|Sunghwan Kim et.al.|[2411.16160](http://arxiv.org/abs/2411.16160)|null|
 |**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
 |**2024-11-25**|**VisualLens: Personalization through Visual History**|Wang Bill Zhu et.al.|[2411.16034](http://arxiv.org/abs/2411.16034)|null|
-|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|**[link](https://github.com/dataparameters/Ternary-Embedding-Models)**|
+|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|null|
 |**2024-11-22**|**The 1st Workshop on Human-Centered Recommender Systems**|Kaike Zhang et.al.|[2411.14760](http://arxiv.org/abs/2411.14760)|null|
 |**2024-11-22**|**LIBER: Lifelong User Behavior Modeling Based on Large Language Models**|Chenxu Zhu et.al.|[2411.14713](http://arxiv.org/abs/2411.14713)|null|
 |**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892](http://arxiv.org/abs/2411.13892)|null|
