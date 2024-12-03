@@ -2877,7 +2877,7 @@
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
 |**2024-11-29**|**CAdam: Confidence-Based Optimization for Online Learning**|Shaowen Wang et.al.|[2411.19647](http://arxiv.org/abs/2411.19647)|null|
 |**2024-11-29**|**A Review of LLM-based Explanations in Recommender Systems**|Alan Said et.al.|[2411.19576](http://arxiv.org/abs/2411.19576)|null|
-|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|null|
+|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|**[link](https://github.com/kumo-ai/ContextGNN)**|
 |**2024-11-28**|**OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation**|Se-eun Yoon et.al.|[2411.19352](http://arxiv.org/abs/2411.19352)|null|
 |**2024-11-28**|**Parallel and Mini-Batch Stable Matching for Large-Scale Reciprocal Recommender Systems**|Kento Nakada et.al.|[2411.19214](http://arxiv.org/abs/2411.19214)|null|
 |**2024-11-27**|**Unifying Generative and Dense Retrieval for Sequential Recommendation**|Liu Yang et.al.|[2411.18814](http://arxiv.org/abs/2411.18814)|null|
