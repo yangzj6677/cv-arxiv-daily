@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,7 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119](http://arxiv.org/abs/2412.04119)|null|
 |**2024-12-05**|**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**|Weihua Wang et.al.|[2412.04076](http://arxiv.org/abs/2412.04076)|null|
 |**2024-12-05**|**How Good is ChatGPT in Giving Adaptive Guidance Using Knowledge Graphs in E-Learning Environments?**|Patrick Ocheja et.al.|[2412.03856](http://arxiv.org/abs/2412.03856)|null|
@@ -2872,7 +2872,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466](http://arxiv.org/abs/2412.04466)|null|
+|**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466](http://arxiv.org/abs/2412.04466)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|null|
 |**2024-12-05**|**Learning to Hash for Recommendation: A Survey**|Fangyuan Luo et.al.|[2412.03875](http://arxiv.org/abs/2412.03875)|**[link](https://github.com/luo-fangyuan/hashrec)**|
