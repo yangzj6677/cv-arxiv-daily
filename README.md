@@ -24,6 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-06**|**A*Net and NBFNet Learn Negative Patterns on Knowledge Graphs**|Patrick Betz et.al.|[2412.05114](http://arxiv.org/abs/2412.05114)|null|
+|**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028](http://arxiv.org/abs/2412.05028)|**[link](https://github.com/wondercs1213/uniea)**|
+|**2024-12-06**|**Improving data sharing and knowledge transfer via the Neuroelectrophysiology Analysis Ontology (NEAO)**|Cristiano André Köhler et.al.|[2412.05021](http://arxiv.org/abs/2412.05021)|null|
+|**2024-12-06**|**ORKG ASK: a Neuro-symbolic Scholarly Search and Exploration System**|Allard Oelen et.al.|[2412.04977](http://arxiv.org/abs/2412.04977)|null|
+|**2024-12-06**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948](http://arxiv.org/abs/2412.04948)|null|
+|**2024-12-06**|**eXpath: Explaining Knowledge Graph Link Prediction with Ontological Closed Path Rules**|Ye Sun et.al.|[2412.04846](http://arxiv.org/abs/2412.04846)|null|
+|**2024-12-06**|**Anomaly Detection and Classification in Knowledge Graphs**|Asara Senaratne et.al.|[2412.04780](http://arxiv.org/abs/2412.04780)|null|
+|**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690](http://arxiv.org/abs/2412.04690)|null|
 |**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119](http://arxiv.org/abs/2412.04119)|null|
 |**2024-12-05**|**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**|Weihua Wang et.al.|[2412.04076](http://arxiv.org/abs/2412.04076)|null|
@@ -2889,6 +2898,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**From Models to Systems: A Comprehensive Fairness Framework for Compositional Recommender Systems**|Brian Hsu et.al.|[2412.04655](http://arxiv.org/abs/2412.04655)|null|
+|**2024-12-05**|**Game-Theoretic Foundations for Cyber Resilience Against Deceptive Information Attacks in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2412.04627](http://arxiv.org/abs/2412.04627)|null|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466](http://arxiv.org/abs/2412.04466)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|null|
