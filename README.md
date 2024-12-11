@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
+|**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430](http://arxiv.org/abs/2412.07430)|null|
+|**2024-12-10**|**RAG-based Question Answering over Heterogeneous Data and Text**|Philipp Christmann et.al.|[2412.07420](http://arxiv.org/abs/2412.07420)|null|
+|**2024-12-10**|**Generating Knowledge Graphs from Large Language Models: A Comparative Study of GPT-4, LLaMA 2, and BERT**|Ahan Bhatt et.al.|[2412.07412](http://arxiv.org/abs/2412.07412)|null|
+|**2024-12-10**|**StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization**|Jinlu Zhang et.al.|[2412.07375](http://arxiv.org/abs/2412.07375)|**[link](https://github.com/aria-zhangjl/storyweaver)**|
+|**2024-12-10**|**When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study**|Yang Xiong et.al.|[2412.07189](http://arxiv.org/abs/2412.07189)|null|
 |**2024-12-09**|**Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**|Melo Castillo Angie Nataly et.al.|[2412.06549](http://arxiv.org/abs/2412.06549)|null|
 |**2024-12-08**|**Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design**|Sakhinana Sagar Srinivas et.al.|[2412.05937](http://arxiv.org/abs/2412.05937)|null|
 |**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868](http://arxiv.org/abs/2412.05868)|null|
@@ -2905,6 +2911,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Benchmark for Evaluation and Analysis of Citation Recommendation Models**|Puja Maharjan et.al.|[2412.07713](http://arxiv.org/abs/2412.07713)|null|
+|**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585](http://arxiv.org/abs/2412.07585)|**[link](https://github.com/mercadolibre/srt)**|
+|**2024-12-10**|**IntellectSeeker: A Personalized Literature Management System with the Probabilistic Model and Large Language Model**|Weizhen Bian et.al.|[2412.07213](http://arxiv.org/abs/2412.07213)|**[link](https://github.com/luckybian/isy5001)**|
+|**2024-12-09**|**Bridging Conversational and Collaborative Signals for Conversational Recommendation**|Ahmad Bin Rabiah et.al.|[2412.06949](http://arxiv.org/abs/2412.06949)|null|
+|**2024-12-07**|**The Helicobacter pylori AI-Clinician: Harnessing Artificial Intelligence to Personalize H. pylori Treatment Recommendations**|Kyle Higgins et.al.|[2412.06841](http://arxiv.org/abs/2412.06841)|null|
 |**2024-12-09**|**PRECISE: Pre-training Sequential Recommenders with Collaborative and Semantic Information**|Chonggang Song et.al.|[2412.06308](http://arxiv.org/abs/2412.06308)|null|
 |**2024-12-08**|**Fuzzy Norm-Explicit Product Quantization for Recommender Systems**|Mohammadreza Jamalifard et.al.|[2412.06069](http://arxiv.org/abs/2412.06069)|null|
 |**2024-12-07**|**Interactions Between Artificial Intelligence and Digital Public Infrastructure: Concepts, Benefits, and Challenges**|Sarosh Nagar et.al.|[2412.05761](http://arxiv.org/abs/2412.05761)|null|
