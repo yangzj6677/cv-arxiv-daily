@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
+|**2024-12-10**|**Fine-grained graph representation learning for heterogeneous mobile networks with attentive fusion and contrastive learning**|Shengheng Liu et.al.|[2412.07809](http://arxiv.org/abs/2412.07809)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430](http://arxiv.org/abs/2412.07430)|null|
 |**2024-12-10**|**RAG-based Question Answering over Heterogeneous Data and Text**|Philipp Christmann et.al.|[2412.07420](http://arxiv.org/abs/2412.07420)|null|
@@ -2894,6 +2896,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
+|**2024-12-11**|**AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems**|Pengyue Jia et.al.|[2412.08516](http://arxiv.org/abs/2412.08516)|null|
+|**2024-12-11**|**Large Language Models for Scholarly Ontology Generation: An Extensive Analysis in the Engineering Field**|Tanay Aggarwal et.al.|[2412.08258](http://arxiv.org/abs/2412.08258)|null|
+|**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071](http://arxiv.org/abs/2412.08071)|null|
 |**2024-12-10**|**Benchmark for Evaluation and Analysis of Citation Recommendation Models**|Puja Maharjan et.al.|[2412.07713](http://arxiv.org/abs/2412.07713)|null|
 |**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585](http://arxiv.org/abs/2412.07585)|**[link](https://github.com/mercadolibre/srt)**|
 |**2024-12-10**|**IntellectSeeker: A Personalized Literature Management System with the Probabilistic Model and Large Language Model**|Weizhen Bian et.al.|[2412.07213](http://arxiv.org/abs/2412.07213)|**[link](https://github.com/luckybian/isy5001)**|
