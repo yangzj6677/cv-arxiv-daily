@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2903,7 +2903,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations**|Chongming Gao et.al.|[2412.09243](http://arxiv.org/abs/2412.09243)|null|
 |**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911](http://arxiv.org/abs/2412.08911)|null|
-|**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|null|
+|**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
 |**2024-12-11**|**Reducing Popularity Influence by Addressing Position Bias**|Andrii Dzhoha et.al.|[2412.08780](http://arxiv.org/abs/2412.08780)|null|
 |**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
 |**2024-12-11**|**AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems**|Pengyue Jia et.al.|[2412.08516](http://arxiv.org/abs/2412.08516)|null|
