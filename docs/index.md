@@ -1659,7 +1659,7 @@ layout: default
 |**2024-08-01**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|**[link](https://github.com/amazon-science/tree-of-traversals)**|
 |**2024-07-31**|**Multi-Level Querying using A Knowledge Pyramid**|Rubing Chen et.al.|[2407.21276](http://arxiv.org/abs/2407.21276)|null|
-|**2024-07-30**|**A Scalable Tool For Analyzing Genomic Variants Of Humans Using Knowledge Graphs and Machine Learning**|Shivika Prasanna et.al.|[2407.20879](http://arxiv.org/abs/2407.20879)|null|
+|**2024-07-30**|**A Scalable Tool For Analyzing Genomic Variants Of Humans Using Knowledge Graphs and Machine Learning**|Shivika Prasanna et.al.|[2407.20879](http://arxiv.org/abs/2407.20879)|**[link](https://github.com/mu-data-science/gaf)**|
 |**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595](http://arxiv.org/abs/2407.20595)|null|
 |**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564](http://arxiv.org/abs/2407.20564)|null|
 |**2024-07-29**|**What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**|Navapat Nananukul et.al.|[2407.20382](http://arxiv.org/abs/2407.20382)|null|
@@ -1705,7 +1705,7 @@ layout: default
 |**2024-07-16**|**Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation**|Garima Agrawal et.al.|[2407.12216](http://arxiv.org/abs/2407.12216)|null|
 |**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821](http://arxiv.org/abs/2407.11821)|null|
 |**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|**[link](https://github.com/xiaohui-victor-li/FinDKG)**|
-|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805](http://arxiv.org/abs/2407.10805)|null|
+|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805](http://arxiv.org/abs/2407.10805)|**[link](https://github.com/idea-finai/tog-2)**|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794](http://arxiv.org/abs/2407.10794)|**[link](https://github.com/irenezihuili/cgprompt)**|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|null|
 |**2024-07-15**|**Semantic Units: Increasing Expressivity and Simplicity of Formal Representations of Data and Knowledge in Knowledge Graphs**|Lars Vogt et.al.|[2407.10720](http://arxiv.org/abs/2407.10720)|null|
@@ -2952,7 +2952,7 @@ layout: default
 |**2024-11-25**|**Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems**|Sunghwan Kim et.al.|[2411.16160](http://arxiv.org/abs/2411.16160)|null|
 |**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
 |**2024-11-25**|**VisualLens: Personalization through Visual History**|Wang Bill Zhu et.al.|[2411.16034](http://arxiv.org/abs/2411.16034)|null|
-|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|null|
+|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|**[link](https://github.com/dataparameters/Ternary-Embedding-Models)**|
 |**2024-11-22**|**The 1st Workshop on Human-Centered Recommender Systems**|Kaike Zhang et.al.|[2411.14760](http://arxiv.org/abs/2411.14760)|null|
 |**2024-11-22**|**LIBER: Lifelong User Behavior Modeling Based on Large Language Models**|Chenxu Zhu et.al.|[2411.14713](http://arxiv.org/abs/2411.14713)|null|
 |**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892](http://arxiv.org/abs/2411.13892)|null|
@@ -3223,14 +3223,14 @@ layout: default
 |**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
 |**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|**[link](https://github.com/CyberAgentAILab/FairReciprocalRecommendation)**|
 |**2024-08-31**|**PSLF: A PID Controller-incorporated Second-order Latent Factor Analysis Model for Recommender System**|Jialiang Wang et.al.|[2409.00448](http://arxiv.org/abs/2409.00448)|null|
-|**2024-08-31**|**An Enhanced Batch Query Architecture in Real-time Recommendation**|Qiang Zhang et.al.|[2409.00400](http://arxiv.org/abs/2409.00400)|null|
+|**2024-08-31**|**An Enhanced Batch Query Architecture in Real-time Recommendation**|Qiang Zhang et.al.|[2409.00400](http://arxiv.org/abs/2409.00400)|**[link](https://github.com/slow-steppers/neighborhash)**|
 |**2024-08-30**|**PRADA: Proactive Risk Assessment and Mitigation of Misinformed Demand Attacks on Navigational Route Recommendations**|Ya-Ting Yang et.al.|[2409.00243](http://arxiv.org/abs/2409.00243)|null|
 |**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
 |**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
 |**2024-08-29**|**Mitigating Polarization in Recommender Systems via Network-aware Feedback Optimization**|Sanjay Chandrasekaran et.al.|[2408.16899](http://arxiv.org/abs/2408.16899)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|**[link](https://github.com/deezer/recsys24-pisa)**|
-|**2024-08-29**|**HYGENE: A Diffusion-based Hypergraph Generation Method**|Dorian Gailhard et.al.|[2408.16457](http://arxiv.org/abs/2408.16457)|null|
+|**2024-08-29**|**HYGENE: A Diffusion-based Hypergraph Generation Method**|Dorian Gailhard et.al.|[2408.16457](http://arxiv.org/abs/2408.16457)|**[link](https://github.com/DorianGailhard/HYGENE)**|
 |**2024-08-29**|**Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data**|Kristina Matrosova et.al.|[2408.16430](http://arxiv.org/abs/2408.16430)|**[link](https://github.com/kmatrosova/fairnessrecsys2024)**|
 |**2024-08-29**|**Efficient Transfer Learning Framework for Cross-Domain Click-Through Rate Prediction**|Qi Liu et.al.|[2408.16238](http://arxiv.org/abs/2408.16238)|null|
 |**2024-08-28**|**An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders**|Shuang Feng et.al.|[2408.16032](http://arxiv.org/abs/2408.16032)|null|
@@ -4019,7 +4019,7 @@ layout: default
 |**2023-12-12**|**TT-RecS: The Taxonomic Trace Recommender System**|Michael Unterkalmsteiner et.al.|[2312.07093](http://arxiv.org/abs/2312.07093)|null|
 |**2023-12-11**|**Efficient and Effective Similarity Search over Bipartite Graphs**|Renchi Yang et.al.|[2312.06724](http://arxiv.org/abs/2312.06724)|null|
 |**2023-12-11**|**Cross Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction**|Ruijie Hou et.al.|[2312.06424](http://arxiv.org/abs/2312.06424)|null|
-|**2023-12-11**|**Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection**|Maximilian Böther et.al.|[2312.06254](http://arxiv.org/abs/2312.06254)|null|
+|**2023-12-11**|**Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection**|Maximilian Böther et.al.|[2312.06254](http://arxiv.org/abs/2312.06254)|**[link](https://github.com/eth-easl/modyn)**|
 |**2023-12-11**|**RecJPQ: Training Large-Catalogue Sequential Recommenders**|Aleksandr V. Petrov et.al.|[2312.06165](http://arxiv.org/abs/2312.06165)|**[link](https://github.com/asash/recjpq)**|
 |**2023-12-11**|**Proxy-based Item Representation for Attribute and Context-aware Recommendation**|Jinseok Seol et.al.|[2312.06145](http://arxiv.org/abs/2312.06145)|**[link](https://github.com/theeluwin/ProxyRCA)**|
 |**2023-12-11**|**Efficient Estimation of Pairwise Effective Resistance**|Renchi Yang et.al.|[2312.06123](http://arxiv.org/abs/2312.06123)|**[link](https://github.com/anryyang/geer)**|
