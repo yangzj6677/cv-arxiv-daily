@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
+|**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643](http://arxiv.org/abs/2412.12643)|null|
+|**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612](http://arxiv.org/abs/2412.12612)|null|
+|**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
+|**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
+|**2024-12-16**|**Enhancing Temporal Link Prediction with HierTKG: A Hierarchical Temporal Knowledge Graph Framework**|Mariam Almutairi et.al.|[2412.12385](http://arxiv.org/abs/2412.12385)|null|
 |**2024-12-16**|**Intention Knowledge Graph Construction for User Intention Relation Modeling**|Jiaxin Bai et.al.|[2412.11500](http://arxiv.org/abs/2412.11500)|null|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
 |**2024-12-16**|**How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**|Abdulrahman Althobaiti et.al.|[2412.11387](http://arxiv.org/abs/2412.11387)|null|
@@ -2912,9 +2918,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions**|Yuyuan Li et.al.|[2412.12836](http://arxiv.org/abs/2412.12836)|null|
+|**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
+|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
+|**2024-12-16**|**Accelerating Sparse Graph Neural Networks with Tensor Core Optimization**|Ka Wai Wu et.al.|[2412.12218](http://arxiv.org/abs/2412.12218)|null|
+|**2024-12-15**|**A multi-theoretical kernel-based approach to social network-based recommendation**|Xin Li et.al.|[2412.12202](http://arxiv.org/abs/2412.12202)|null|
 |**2024-12-16**|**One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation**|Huishi Luo et.al.|[2412.11905](http://arxiv.org/abs/2412.11905)|**[link](https://github.com/chrissie-law/aread-multi-domain-recommendation)**|
 |**2024-12-16**|**Classification of Spontaneous and Scripted Speech for Multilingual Audio**|Shahar Elisha et.al.|[2412.11896](http://arxiv.org/abs/2412.11896)|null|
-|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|null|
+|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|**[link](https://github.com/jessicahuang0163/TMLP)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-15**|**Modeling the Heterogeneous Duration of User Interest in Time-Dependent Recommendation: A Hidden Semi-Markov Approach**|Haidong Zhang et.al.|[2412.11127](http://arxiv.org/abs/2412.11127)|null|
 |**2024-12-15**|**RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models**|Zhuo Wu et.al.|[2412.11068](http://arxiv.org/abs/2412.11068)|**[link](https://github.com/anonyprojects/recsys-arena)**|
