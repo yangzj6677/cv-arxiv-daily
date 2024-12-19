@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
+|**2024-12-18**|**Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement**|Qianyue Wang et.al.|[2412.13575](http://arxiv.org/abs/2412.13575)|**[link](https://github.com/qianyue-wang/dome)**|
+|**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643](http://arxiv.org/abs/2412.12643)|null|
 |**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612](http://arxiv.org/abs/2412.12612)|null|
@@ -2918,6 +2922,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
+|**2024-12-18**|**CRM: Retrieval Model with Controllable Condition**|Chi Liu et.al.|[2412.13844](http://arxiv.org/abs/2412.13844)|null|
+|**2024-12-18**|**Heterogeneous Graph Collaborative Filtering**|Lianghao Xia et.al.|[2412.13825](http://arxiv.org/abs/2412.13825)|**[link](https://github.com/hkuds/mixrec)**|
+|**2024-12-18**|**Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization**|Guanghan Li et.al.|[2412.13771](http://arxiv.org/abs/2412.13771)|null|
+|**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
+|**2024-12-18**|**Large Language Model Enhanced Recommender Systems: Taxonomy, Trend, Application and Future**|Qidong Liu et.al.|[2412.13432](http://arxiv.org/abs/2412.13432)|**[link](https://github.com/liuqidong07/awesome-llm-enhanced-recommender-systems)**|
 |**2024-12-17**|**A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions**|Yuyuan Li et.al.|[2412.12836](http://arxiv.org/abs/2412.12836)|null|
 |**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
