@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2923,7 +2923,7 @@ layout: default
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
 |**2024-12-16**|**Accelerating Sparse Graph Neural Networks with Tensor Core Optimization**|Ka Wai Wu et.al.|[2412.12218](http://arxiv.org/abs/2412.12218)|null|
 |**2024-12-15**|**A multi-theoretical kernel-based approach to social network-based recommendation**|Xin Li et.al.|[2412.12202](http://arxiv.org/abs/2412.12202)|null|
-|**2024-12-16**|**One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation**|Huishi Luo et.al.|[2412.11905](http://arxiv.org/abs/2412.11905)|**[link](https://github.com/chrissie-law/aread-multi-domain-recommendation)**|
+|**2024-12-18**|**One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation**|Huishi Luo et.al.|[2412.11905](http://arxiv.org/abs/2412.11905)|**[link](https://github.com/chrissie-law/aread-multi-domain-recommendation)**|
 |**2024-12-16**|**Classification of Spontaneous and Scripted Speech for Multilingual Audio**|Shahar Elisha et.al.|[2412.11896](http://arxiv.org/abs/2412.11896)|null|
 |**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|**[link](https://github.com/jessicahuang0163/TMLP)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
