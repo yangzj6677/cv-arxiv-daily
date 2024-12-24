@@ -1295,6 +1295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
+|**2024-12-23**|**Advances in Machine Learning Research Using Knowledge Graphs**|Jing Si et.al.|[2412.17643](http://arxiv.org/abs/2412.17643)|null|
+|**2024-12-23**|**Markov Process-Based Graph Convolutional Networks for Entity Classification in Knowledge Graphs**|Johannes Mäkelburg et.al.|[2412.17438](http://arxiv.org/abs/2412.17438)|null|
+|**2024-12-23**|**APEX $^2$ : Adaptive and Extreme Summarization for Personalized Knowledge Graphs**|Zihao Li et.al.|[2412.17336](http://arxiv.org/abs/2412.17336)|null|
+|**2024-12-23**|**A Dual-Perspective Metaphor Detection Framework Using Large Language Models**|Yujie Lin et.al.|[2412.17332](http://arxiv.org/abs/2412.17332)|**[link](https://github.com/deeplearnxmu/dmd)**|
+|**2024-12-22**|**Semantic Web: Past, Present, and Future**|Ansgar Scherp et.al.|[2412.17159](http://arxiv.org/abs/2412.17159)|**[link](https://github.com/ascherp/semantic-web-primer)**|
+|**2024-12-22**|**GraphAgent: Agentic Graph Language Assistant**|Yuhao Yang et.al.|[2412.17029](http://arxiv.org/abs/2412.17029)|null|
+|**2024-12-22**|**Enhancing Supply Chain Transparency in Emerging Economies Using Online Contents and LLMs**|Bohan Jin et.al.|[2412.16922](http://arxiv.org/abs/2412.16922)|null|
+|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833](http://arxiv.org/abs/2412.16833)|null|
+|**2024-12-21**|**Apples to Apples: Establishing Comparability in Knowledge Generation Tasks Involving Users**|Christophe Debruyne et.al.|[2412.16766](http://arxiv.org/abs/2412.16766)|null|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829](http://arxiv.org/abs/2412.15829)|null|
 |**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822](http://arxiv.org/abs/2412.15822)|null|
@@ -2928,6 +2938,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Popularity Estimation and New Bundle Generation using Content and Context based Embeddings**|Ashutosh Nayak et.al.|[2412.17310](http://arxiv.org/abs/2412.17310)|null|
+|**2024-12-23**|**GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems**|Xinyi Wu et.al.|[2412.17245](http://arxiv.org/abs/2412.17245)|null|
+|**2024-12-22**|**COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations**|Vanessa Su et.al.|[2412.17180](http://arxiv.org/abs/2412.17180)|null|
+|**2024-12-22**|**Enhancing Item Tokenization for Generative Recommendation through Self-Improvement**|Runjin Chen et.al.|[2412.17171](http://arxiv.org/abs/2412.17171)|null|
+|**2024-12-22**|**LLM-Powered User Simulator for Recommender System**|Zijian Zhang et.al.|[2412.16984](http://arxiv.org/abs/2412.16984)|null|
+|**2024-12-22**|**Towards a Unified Paradigm: Integrating Recommendation Systems as a New Language in Large Models**|Kai Zheng et.al.|[2412.16933](http://arxiv.org/abs/2412.16933)|null|
+|**2024-12-22**|**Mitigating Trauma in Qualitative Research Infrastructure: Roles for Machine Assistance and Trauma-Informed Design**|Emily Tseng et.al.|[2412.16866](http://arxiv.org/abs/2412.16866)|null|
+|**2024-12-21**|**STKDRec: Spatial-Temporal Knowledge Distillation for Takeaway Recommendation**|Shuyuan Zhao et.al.|[2412.16502](http://arxiv.org/abs/2412.16502)|null|
 |**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957](http://arxiv.org/abs/2412.15957)|null|
 |**2024-12-20**|**On the Power of Strategic Corpus Enrichment in Content Creation Games**|Haya Nachimovsky et.al.|[2412.15878](http://arxiv.org/abs/2412.15878)|null|
 |**2024-12-19**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005](http://arxiv.org/abs/2412.15005)|null|
