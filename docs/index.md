@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2949,13 +2949,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802](http://arxiv.org/abs/2412.20802)|null|
+|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802](http://arxiv.org/abs/2412.20802)|**[link](https://github.com/aalfons/rdmc)**|
 |**2024-12-29**|**Protégé: Learn and Generate Basic Makeup Styles with Generative Adversarial Networks (GANs)**|Jia Wei Sii et.al.|[2412.20381](http://arxiv.org/abs/2412.20381)|null|
 |**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211](http://arxiv.org/abs/2412.20211)|null|
 |**2024-12-28**|**Topic-Aware Knowledge Graph with Large Language Models for Interoperability in Recommender Systems**|Minhye Jeon et.al.|[2412.20163](http://arxiv.org/abs/2412.20163)|null|
 |**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036](http://arxiv.org/abs/2412.20036)|**[link](https://github.com/bai-lab/kd-debias)**|
 |**2024-12-27**|**A Matrix Logic Approach to Efficient Frequent Itemset Discovery in Large Data Sets**|Xuan Li et.al.|[2412.19420](http://arxiv.org/abs/2412.19420)|null|
-|**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|null|
+|**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|**[link](https://github.com/hughvd/um-cai-fellowship)**|
 |**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|null|
 |**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172](http://arxiv.org/abs/2412.19172)|null|
 |**2024-12-25**|**Recommending Pre-Trained Models for IoT Devices**|Parth V. Patil et.al.|[2412.18972](http://arxiv.org/abs/2412.18972)|null|
