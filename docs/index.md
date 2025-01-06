@@ -1295,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644](http://arxiv.org/abs/2501.01644)|null|
 |**2025-01-01**|**Enhancing Transformers for Generalizable First-Order Logical Entailment**|Tianshi Zheng et.al.|[2501.00759](http://arxiv.org/abs/2501.00759)|null|
 |**2024-12-31**|**KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities**|Chengcheng Mai et.al.|[2501.00571](http://arxiv.org/abs/2501.00571)|null|
 |**2024-12-31**|**Efficient support ticket resolution using Knowledge Graphs**|Sherwin Varghese et.al.|[2501.00461](http://arxiv.org/abs/2501.00461)|null|
@@ -2956,6 +2957,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
 |**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242](http://arxiv.org/abs/2501.01242)|null|
 |**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
 |**2024-12-31**|**Global dense vector representations for words or items using shared parameter alternating Tweedie model**|Taejoon Kim et.al.|[2501.00623](http://arxiv.org/abs/2501.00623)|null|
