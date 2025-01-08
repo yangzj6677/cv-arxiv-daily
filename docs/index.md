@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**RecKG: Knowledge Graph for Recommender Systems**|Junhyuk Kwon et.al.|[2501.03598](http://arxiv.org/abs/2501.03598)|**[link](https://github.com/tree-jhk/reckg)**|
+|**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566](http://arxiv.org/abs/2501.03566)|null|
+|**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560](http://arxiv.org/abs/2501.03560)|null|
+|**2025-01-04**|**Heterogeneous Graph Pre-training Based Model for Secure and Efficient Prediction of Default Risk Propagation among Bond Issuers**|Xurui Li et.al.|[2501.03268](http://arxiv.org/abs/2501.03268)|null|
 |**2025-01-06**|**KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models**|Zaiyi Zheng et.al.|[2501.02711](http://arxiv.org/abs/2501.02711)|null|
 |**2025-01-04**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226](http://arxiv.org/abs/2501.02226)|null|
 |**2025-01-04**|**Personalized Graph-Based Retrieval for Large Language Models**|Steven Au et.al.|[2501.02157](http://arxiv.org/abs/2501.02157)|**[link](https://github.com/pgraphrag-benchmark/pgr-llm)**|
@@ -2960,6 +2964,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Multi-label Cross-lingual automatic music genre classification from lyrics with Sentence BERT**|Tiago Fernandes Tavares et.al.|[2501.03769](http://arxiv.org/abs/2501.03769)|null|
+|**2025-01-07**|**RecKG: Knowledge Graph for Recommender Systems**|Junhyuk Kwon et.al.|[2501.03598](http://arxiv.org/abs/2501.03598)|**[link](https://github.com/tree-jhk/reckg)**|
+|**2025-01-06**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301](http://arxiv.org/abs/2501.03301)|null|
 |**2025-01-06**|**Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation**|Kairui Fu et.al.|[2501.02837](http://arxiv.org/abs/2501.02837)|null|
 |**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727](http://arxiv.org/abs/2501.02727)|null|
 |**2025-01-05**|**Quantum Cognition-Inspired EEG-based Recommendation via Graph Neural Networks**|Jinkun Han et.al.|[2501.02671](http://arxiv.org/abs/2501.02671)|null|
