@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120](http://arxiv.org/abs/2501.08120)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766](http://arxiv.org/abs/2501.07766)|null|
 |**2025-01-13**|**An ontology-based description of nano computed tomography measurements in electronic laboratory notebooks: from metadata schema to first user experience**|Fabian Kirchner et.al.|[2501.07398](http://arxiv.org/abs/2501.07398)|null|
 |**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078](http://arxiv.org/abs/2501.07078)|**[link](https://github.com/csjywu1/adkgd)**|
 |**2025-01-12**|**Causal Claims in Economics**|Prashant Garg et.al.|[2501.06873](http://arxiv.org/abs/2501.06873)|null|
@@ -2974,13 +2977,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044](http://arxiv.org/abs/2501.08044)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**Impatient Bandits: Optimizing for the Long-Term Without Delay**|Kelly W. Zhang et.al.|[2501.07761](http://arxiv.org/abs/2501.07761)|null|
 |**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324](http://arxiv.org/abs/2501.07324)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
 |**2025-01-13**|**Dataset-Agnostic Recommender Systems**|Tri Kurniawan Wijaya et.al.|[2501.07294](http://arxiv.org/abs/2501.07294)|null|
 |**2025-01-13**|**Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**|Chongming Gao et.al.|[2501.07212](http://arxiv.org/abs/2501.07212)|null|
 |**2025-01-13**|**Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation**|Yijin Choi et.al.|[2501.07096](http://arxiv.org/abs/2501.07096)|null|
 |**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078](http://arxiv.org/abs/2501.07078)|**[link](https://github.com/csjywu1/adkgd)**|
 |**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985](http://arxiv.org/abs/2501.06985)|null|
-|**2025-01-12**|**On the effect of the average clustering coefficient on topology-based link prediction in featureless graphs**|Mehrdad Rafiepour et.al.|[2501.06721](http://arxiv.org/abs/2501.06721)|null|
+|**2025-01-12**|**On the effect of the average clustering coefficient on topology-based link prediction in featureless graphs**|Mehrdad Rafiepour et.al.|[2501.06721](http://arxiv.org/abs/2501.06721)|**[link](https://github.com/rafiepour/ClusteringEffect)**|
 |**2025-01-10**|**kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search**|Leonardo Delfino et.al.|[2501.06121](http://arxiv.org/abs/2501.06121)|**[link](https://github.com/tuskanny/kannolo)**|
 |**2025-01-10**|**Recommender Systems for Social Good: The Role of Accountability and Sustainability**|Alan Said et.al.|[2501.05964](http://arxiv.org/abs/2501.05964)|null|
 |**2025-01-10**|**Text2Playlist: Generating Personalized Playlists from Text on Deezer**|Mathieu Delcluze et.al.|[2501.05894](http://arxiv.org/abs/2501.05894)|**[link](https://github.com/deezer/text2playlist-ecir2025)**|
