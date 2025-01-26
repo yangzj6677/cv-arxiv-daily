@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1303,7 +1303,7 @@ layout: default
 |**2025-01-22**|**Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications**|Yuxing Lu et.al.|[2501.11632](http://arxiv.org/abs/2501.11632)|null|
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560](http://arxiv.org/abs/2501.11560)|null|
 |**2025-01-17**|**CSSDM Ontology to Enable Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2501.10160](http://arxiv.org/abs/2501.10160)|null|
-|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|**[link](https://github.com/yeonseokjeong/narrativefactscore)**|
 |**2025-01-22**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
 |**2025-01-17**|**Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs**|Reham Omar et.al.|[2501.09928](http://arxiv.org/abs/2501.09928)|null|
 |**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
@@ -2994,7 +2994,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|**[link](https://github.com/davidzwz/cde-cf)**|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
 |**2025-01-23**|**MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems**|Yi Zhang et.al.|[2501.13579](http://arxiv.org/abs/2501.13579)|**[link](https://github.com/blueghostyi/id-grec)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2025-01-22**|**Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications**|Yuxing Lu et.al.|[2501.11632](http://arxiv.org/abs/2501.11632)|null|
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560](http://arxiv.org/abs/2501.11560)|null|
 |**2025-01-17**|**CSSDM Ontology to Enable Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2501.10160](http://arxiv.org/abs/2501.10160)|null|
-|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|**[link](https://github.com/yeonseokjeong/narrativefactscore)**|
 |**2025-01-22**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
 |**2025-01-17**|**Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs**|Reham Omar et.al.|[2501.09928](http://arxiv.org/abs/2501.09928)|null|
 |**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
@@ -2101,7 +2101,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## SFM
 
@@ -2191,7 +2191,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2527,7 +2527,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2656,7 +2656,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2777,7 +2777,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## NeRF
 
@@ -3005,13 +3005,13 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## RS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|**[link](https://github.com/davidzwz/cde-cf)**|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
 |**2025-01-23**|**MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems**|Yi Zhang et.al.|[2501.13579](http://arxiv.org/abs/2501.13579)|**[link](https://github.com/blueghostyi/id-grec)**|
@@ -5024,7 +5024,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -5032,7 +5032,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
