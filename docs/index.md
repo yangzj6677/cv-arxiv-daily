@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
+|**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579](http://arxiv.org/abs/2501.14579)|null|
+|**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530](http://arxiv.org/abs/2501.14530)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
+|**2025-01-24**|**Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph**|Xujian Liang et.al.|[2501.14300](http://arxiv.org/abs/2501.14300)|**[link](https://github.com/dosonleung/fasttog)**|
+|**2025-01-23**|**StreamingRAG: Real-time Contextual Retrieval and Generation Framework**|Murugan Sankaradas et.al.|[2501.14101](http://arxiv.org/abs/2501.14101)|null|
+|**2025-01-23**|**GraphRAG under Fire**|Jiacheng Liang et.al.|[2501.14050](http://arxiv.org/abs/2501.14050)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
 |**2025-01-22**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual Question Answering**|Qian Tao et.al.|[2501.12697](http://arxiv.org/abs/2501.12697)|null|
 |**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300](http://arxiv.org/abs/2501.12300)|null|
@@ -2994,6 +3000,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
+|**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399](http://arxiv.org/abs/2501.14399)|null|
+|**2025-01-24**|**Graph Feedback Bandits on Similar Arms: With and Without Graph Structures**|Han Qi et.al.|[2501.14314](http://arxiv.org/abs/2501.14314)|null|
+|**2025-01-24**|**Pre-train and Fine-tune: Recommenders as Large Models**|Zhenhao Jiang et.al.|[2501.14268](http://arxiv.org/abs/2501.14268)|null|
 |**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|**[link](https://github.com/davidzwz/cde-cf)**|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
