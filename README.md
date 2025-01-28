@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791](http://arxiv.org/abs/2501.15791)|**[link](https://github.com/kse-eleven/makged)**|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
+|**2025-01-26**|**Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion**|Guanglin Niu et.al.|[2501.15393](http://arxiv.org/abs/2501.15393)|null|
+|**2025-01-26**|**How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback**|Manzong Huang et.al.|[2501.15378](http://arxiv.org/abs/2501.15378)|null|
+|**2025-01-24**|**MISCON: A Mission-Driven Conversational Consultant for Pre-Venture Entrepreneurs in Food Deserts**|Subhasis Dasgupta et.al.|[2501.14954](http://arxiv.org/abs/2501.14954)|null|
+|**2025-01-24**|**Causal Graphs Meet Thoughts: Enhancing Complex Reasoning in Graph-Augmented LLMs**|Hang Luo et.al.|[2501.14892](http://arxiv.org/abs/2501.14892)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
 |**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579](http://arxiv.org/abs/2501.14579)|null|
 |**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530](http://arxiv.org/abs/2501.14530)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
@@ -3017,6 +3024,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
+|**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985](http://arxiv.org/abs/2501.15985)|null|
+|**2025-01-27**|**Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System**|Yongchun Zhu et.al.|[2501.15817](http://arxiv.org/abs/2501.15817)|null|
+|**2025-01-27**|**AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System**|Yongchun Zhu et.al.|[2501.15816](http://arxiv.org/abs/2501.15816)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555](http://arxiv.org/abs/2501.15555)|null|
+|**2025-01-25**|**Generating Negative Samples for Multi-Modal Recommendation**|Yanbiao Ji et.al.|[2501.15183](http://arxiv.org/abs/2501.15183)|null|
+|**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087](http://arxiv.org/abs/2501.15087)|null|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
 |**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399](http://arxiv.org/abs/2501.14399)|null|
 |**2025-01-24**|**Graph Feedback Bandits on Similar Arms: With and Without Graph Structures**|Han Qi et.al.|[2501.14314](http://arxiv.org/abs/2501.14314)|**[link](https://github.com/qh1874/GraphBandits_SimilarArms)**|
