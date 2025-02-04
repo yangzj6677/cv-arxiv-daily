@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3023,7 +3023,7 @@ layout: default
 |**2025-01-28**|**Secure Federated Graph-Filtering for Recommender Systems**|Julien Nicolas et.al.|[2501.16888](http://arxiv.org/abs/2501.16888)|null|
 |**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884](http://arxiv.org/abs/2501.16884)|null|
 |**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
-|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450](http://arxiv.org/abs/2501.16450)|null|
+|**2025-02-01**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450](http://arxiv.org/abs/2501.16450)|null|
 |**2025-01-31**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
 |**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985](http://arxiv.org/abs/2501.15985)|null|
 |**2025-01-27**|**Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System**|Yongchun Zhu et.al.|[2501.15817](http://arxiv.org/abs/2501.15817)|null|
