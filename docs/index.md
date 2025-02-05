@@ -1295,6 +1295,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067](http://arxiv.org/abs/2502.02067)|**[link](https://github.com/sssshivvvv/adaptbot)**|
+|**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772](http://arxiv.org/abs/2502.01772)|null|
+|**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549](http://arxiv.org/abs/2502.01549)|null|
+|**2025-02-03**|**Augmented Knowledge Graph Querying leveraging LLMs**|Marco Arazzi et.al.|[2502.01298](http://arxiv.org/abs/2502.01298)|null|
+|**2025-02-03**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113](http://arxiv.org/abs/2502.01113)|null|
+|**2025-02-03**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language Model**|Seungri Yoon et.al.|[2502.01059](http://arxiv.org/abs/2502.01059)|null|
+|**2025-02-03**|**Deep Active Learning based Experimental Design to Uncover Synergistic Genetic Interactions for Host Targeted Therapeutics**|Haonan Zhu et.al.|[2502.01012](http://arxiv.org/abs/2502.01012)|null|
+|**2025-02-02**|**A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models**|Qika Lin et.al.|[2502.00681](http://arxiv.org/abs/2502.00681)|null|
+|**2025-02-01**|**Graph Data Management and Graph Machine Learning: Synergies and Opportunities**|Arijit Khan et.al.|[2502.00529](http://arxiv.org/abs/2502.00529)|null|
 |**2025-01-31**|**PathE: Leveraging Entity-Agnostic Paths for Parameter-Efficient Knowledge Graph Embeddings**|Ioannis Reklos et.al.|[2501.19095](http://arxiv.org/abs/2501.19095)|**[link](https://github.com/ireklos/pathe)**|
 |**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
 |**2025-01-30**|**A Video-grounded Dialogue Dataset and Metric for Event-driven Activities**|Wiradee Imrattanatrai et.al.|[2501.18324](http://arxiv.org/abs/2501.18324)|**[link](https://github.com/aistairc/VDAct)**|
@@ -3016,6 +3025,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
+|**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448](http://arxiv.org/abs/2502.02448)|null|
+|**2025-02-04**|**Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation**|Siyu Wang et.al.|[2502.02327](http://arxiv.org/abs/2502.02327)|null|
+|**2025-02-04**|**Online Clustering of Dueling Bandits**|Zhiyong Wang et.al.|[2502.02079](http://arxiv.org/abs/2502.02079)|null|
+|**2025-02-03**|**Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations**|Giorgos Filandrianos et.al.|[2502.01349](http://arxiv.org/abs/2502.01349)|null|
+|**2025-02-03**|**Federated Linear Dueling Bandits**|Xuhan Huang et.al.|[2502.01085](http://arxiv.org/abs/2502.01085)|null|
+|**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
+|**2025-02-01**|**MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling**|Bencheng Yan et.al.|[2502.00321](http://arxiv.org/abs/2502.00321)|null|
 |**2025-01-31**|**Collaborative Diffusion Model for Recommender System**|Gyuseok Lee et.al.|[2501.18997](http://arxiv.org/abs/2501.18997)|null|
 |**2025-01-30**|**Are Representation Disentanglement and Interpretability Linked in Recommendation Models? A Critical Review and Reproducibility Study**|Ervin Dervishaj et.al.|[2501.18805](http://arxiv.org/abs/2501.18805)|**[link](https://github.com/edervishaj/disentanglement-interpretability-recsys)**|
 |**2025-01-30**|**HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback**|Xufeng Cai et.al.|[2501.18126](http://arxiv.org/abs/2501.18126)|null|
