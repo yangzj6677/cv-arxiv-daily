@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644](http://arxiv.org/abs/2502.04644)|null|
+|**2025-02-06**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|null|
 |**2025-02-06**|**Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**|Longquan Jiang et.al.|[2502.03992](http://arxiv.org/abs/2502.03992)|null|
 |**2025-02-06**|**CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos**|Yuanhao Zhang et.al.|[2502.03767](http://arxiv.org/abs/2502.03767)|null|
 |**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
@@ -3048,6 +3050,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Aligning Black-box Language Models with Human Judgments**|Gerrit J. J. van den Burg et.al.|[2502.04997](http://arxiv.org/abs/2502.04997)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-05**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
