@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**|Yuxing Lu et.al.|[2502.06472](http://arxiv.org/abs/2502.06472)|null|
+|**2025-02-10**|**K-ON: Stacking Knowledge On the Head Layer of Large Language Model**|Lingbing Guo et.al.|[2502.06257](http://arxiv.org/abs/2502.06257)|null|
+|**2025-02-09**|**Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs**|Han Meng et.al.|[2502.06075](http://arxiv.org/abs/2502.06075)|null|
+|**2025-02-08**|**LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning**|Hanqing Yang et.al.|[2502.05453](http://arxiv.org/abs/2502.05453)|null|
+|**2025-02-07**|**Enhancing Knowledge Graph Construction: Evaluating with Emphasis on Hallucination, Omission, and Graph Similarity Metrics**|Hussam Ghanem et.al.|[2502.05239](http://arxiv.org/abs/2502.05239)|null|
 |**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644](http://arxiv.org/abs/2502.04644)|null|
 |**2025-02-06**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|null|
 |**2025-02-06**|**Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**|Longquan Jiang et.al.|[2502.03992](http://arxiv.org/abs/2502.03992)|null|
@@ -3050,6 +3055,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**RSAttAE: An Information-Aware Attention-based Autoencoder Recommender System**|Amirhossein Dadashzadeh Taromi et.al.|[2502.06705](http://arxiv.org/abs/2502.06705)|null|
+|**2025-02-10**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|null|
+|**2025-02-10**|**NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems**|Shuli Wang et.al.|[2502.06097](http://arxiv.org/abs/2502.06097)|null|
+|**2025-02-09**|**Quality Assurance for LLM-RAG Systems: Empirical Insights from Tourism Application Testing**|Bestoun S. Ahmed et.al.|[2502.05782](http://arxiv.org/abs/2502.05782)|null|
+|**2025-02-08**|**Diffusion Model for Interest Refinement in Multi-Interest Recommendation**|Yankun Le et.al.|[2502.05561](http://arxiv.org/abs/2502.05561)|null|
+|**2025-02-08**|**Large Memory Network for Recommendation**|Hui Lu et.al.|[2502.05558](http://arxiv.org/abs/2502.05558)|null|
+|**2025-02-07**|**A Tutorial On Intersectionality in Fair Rankings**|Chiara Criscuolo et.al.|[2502.05333](http://arxiv.org/abs/2502.05333)|null|
 |**2025-02-07**|**Aligning Black-box Language Models with Human Judgments**|Gerrit J. J. van den Burg et.al.|[2502.04997](http://arxiv.org/abs/2502.04997)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-05**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
