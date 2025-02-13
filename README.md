@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data**|Doudou Zhou et.al.|[2502.08547](http://arxiv.org/abs/2502.08547)|null|
 |**2025-02-11**|**Unified Graph Networks (UGN): A Deep Neural Framework for Solving Graph Problems**|Rudrajit Dawn et.al.|[2502.07500](http://arxiv.org/abs/2502.07500)|null|
 |**2025-02-11**|**Graph RAG-Tool Fusion**|Elias Lumer et.al.|[2502.07223](http://arxiv.org/abs/2502.07223)|null|
 |**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|null|
@@ -3058,6 +3059,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
+|**2025-02-12**|**ChorusCVR: Chorus Supervision for Entire Space Post-Click Conversion Rate Modeling**|Wei Cheng et.al.|[2502.08277](http://arxiv.org/abs/2502.08277)|null|
+|**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
+|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161](http://arxiv.org/abs/2502.08161)|null|
+|**2025-02-12**|**SS4Rec: Continuous-Time Sequential Recommendation with State Space Models**|Wei Xiao et.al.|[2502.08132](http://arxiv.org/abs/2502.08132)|null|
 |**2025-02-11**|**IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform**|Wenhao Wu et.al.|[2502.07658](http://arxiv.org/abs/2502.07658)|null|
 |**2025-02-11**|**CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry**|Xiaopeng Ye et.al.|[2502.07307](http://arxiv.org/abs/2502.07307)|null|
 |**2025-02-11**|**Flow Matching for Collaborative Filtering**|Chengkai Liu et.al.|[2502.07303](http://arxiv.org/abs/2502.07303)|null|
