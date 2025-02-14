@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379](http://arxiv.org/abs/2502.09379)|null|
+|**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|null|
+|**2025-02-13**|**The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics**|Danni Feng et.al.|[2502.09247](http://arxiv.org/abs/2502.09247)|null|
+|**2025-02-13**|**Musical Heritage Historical Entity Linking**|Arianna Graciotti et.al.|[2502.09168](http://arxiv.org/abs/2502.09168)|null|
+|**2025-02-10**|**RoToR: Towards More Reliable Responses for Order-Invariant Inputs**|Soyoung Yoon et.al.|[2502.08662](http://arxiv.org/abs/2502.08662)|null|
 |**2025-02-12**|**Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data**|Doudou Zhou et.al.|[2502.08547](http://arxiv.org/abs/2502.08547)|null|
 |**2025-02-11**|**Unified Graph Networks (UGN): A Deep Neural Framework for Solving Graph Problems**|Rudrajit Dawn et.al.|[2502.07500](http://arxiv.org/abs/2502.07500)|null|
 |**2025-02-11**|**Graph RAG-Tool Fusion**|Elias Lumer et.al.|[2502.07223](http://arxiv.org/abs/2502.07223)|**[link](https://github.com/eliaslumer/graph-rag-tool-fusion-toollinkos)**|
@@ -3059,6 +3064,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation**|Chen Xu et.al.|[2502.09319](http://arxiv.org/abs/2502.09319)|null|
+|**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
+|**2025-02-13**|**Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2502.09046](http://arxiv.org/abs/2502.09046)|null|
+|**2025-02-13**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|null|
+|**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
+|**2025-02-12**|**Optimal Dataset Size for Recommender Systems: Evaluating Algorithms' Performance via Downsampling**|Ardalan Arabzadeh et.al.|[2502.08845](http://arxiv.org/abs/2502.08845)|null|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
 |**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**ChorusCVR: Chorus Supervision for Entire Space Post-Click Conversion Rate Modeling**|Wei Cheng et.al.|[2502.08277](http://arxiv.org/abs/2502.08277)|null|
