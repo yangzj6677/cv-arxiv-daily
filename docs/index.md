@@ -1295,6 +1295,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
+|**2025-02-17**|**Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering**|Runxuan Liu et.al.|[2502.11491](http://arxiv.org/abs/2502.11491)|null|
+|**2025-02-17**|**GLTW: Joint Improved Graph Transformer and LLM via Three-Word Language for Knowledge Graph Completion**|Kangyang Luo et.al.|[2502.11471](http://arxiv.org/abs/2502.11471)|null|
+|**2025-02-17**|**RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**|Haoyu Han et.al.|[2502.11371](http://arxiv.org/abs/2502.11371)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
+|**2025-02-16**|**RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation**|Pengcheng Jiang et.al.|[2502.10996](http://arxiv.org/abs/2502.10996)|null|
+|**2025-02-15**|**Evaluating improvements on using Large Language Models (LLMs) for property extraction in the Open Research Knowledge Graph (ORKG)**|Sandra Schaftner et.al.|[2502.10768](http://arxiv.org/abs/2502.10768)|null|
+|**2025-02-15**|**K-Edit: Language Model Editing with Contextual Knowledge Awareness**|Elan Markowitz et.al.|[2502.10626](http://arxiv.org/abs/2502.10626)|null|
+|**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
 |**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
 |**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
 |**2025-02-14**|**Unsupervised Entity Alignment Based on Personalized Discriminative Rooted Tree**|Yaming Yang et.al.|[2502.10044](http://arxiv.org/abs/2502.10044)|null|
@@ -3052,6 +3061,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
+|**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
+|**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|null|
+|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|null|
+|**2025-02-16**|**AI Generations: From AI 1.0 to AI 4.0**|Jiahao Wu et.al.|[2502.11312](http://arxiv.org/abs/2502.11312)|null|
+|**2025-02-16**|**DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**|Aili Chen et.al.|[2502.11078](http://arxiv.org/abs/2502.11078)|null|
+|**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
+|**2025-02-14**|**Benchmarking the rationality of AI decision making using the transitivity axiom**|Kiwon Song et.al.|[2502.10554](http://arxiv.org/abs/2502.10554)|null|
+|**2025-02-14**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
 |**2025-02-14**|**A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems**|Binglei Zhao et.al.|[2502.10284](http://arxiv.org/abs/2502.10284)|null|
 |**2025-02-14**|**ProReco: A Process Discovery Recommender System**|Tsung-Hao Huang et.al.|[2502.10230](http://arxiv.org/abs/2502.10230)|null|
 |**2025-02-14**|**Combinatorial Reinforcement Learning with Preference Feedback**|Joongkyu Lee et.al.|[2502.10158](http://arxiv.org/abs/2502.10158)|null|
