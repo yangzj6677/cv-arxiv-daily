@@ -1297,7 +1297,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
-|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
+|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|**[link](https://github.com/evan01225/narrative-driven-travel-planning)**|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
 |**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192](http://arxiv.org/abs/2502.14192)|null|
 |**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086](http://arxiv.org/abs/2502.14086)|null|
@@ -1307,7 +1307,7 @@ layout: default
 |**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|**[link](https://github.com/ys-feng/DemoGraph)**|
 |**2025-02-19**|**Explore-Construct-Filter: An Automated Framework for Rich and Reliable API Knowledge Graph Construction**|Yanbang Sun et.al.|[2502.13412](http://arxiv.org/abs/2502.13412)|null|
 |**2025-02-19**|**Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval**|Aditya Sharma et.al.|[2502.13369](http://arxiv.org/abs/2502.13369)|null|
-|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|null|
+|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|**[link](https://github.com/rsinghlab/K-Paths)**|
 |**2025-02-18**|**How Expressive are Knowledge Graph Foundation Models?**|Xingyue Huang et.al.|[2502.13339](http://arxiv.org/abs/2502.13339)|null|
 |**2025-02-18**|**Grounding LLM Reasoning with Knowledge Graphs**|Alfonso Amayuelas et.al.|[2502.13247](http://arxiv.org/abs/2502.13247)|null|
 |**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
@@ -1318,8 +1318,8 @@ layout: default
 |**2025-02-17**|**Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering**|Runxuan Liu et.al.|[2502.11491](http://arxiv.org/abs/2502.11491)|null|
 |**2025-02-17**|**GLTW: Joint Improved Graph Transformer and LLM via Three-Word Language for Knowledge Graph Completion**|Kangyang Luo et.al.|[2502.11471](http://arxiv.org/abs/2502.11471)|null|
 |**2025-02-17**|**RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**|Haoyu Han et.al.|[2502.11371](http://arxiv.org/abs/2502.11371)|null|
-|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
-|**2025-02-16**|**RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation**|Pengcheng Jiang et.al.|[2502.10996](http://arxiv.org/abs/2502.10996)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|**[link](https://github.com/alexlecu/llmkgraph)**|
+|**2025-02-16**|**RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation**|Pengcheng Jiang et.al.|[2502.10996](http://arxiv.org/abs/2502.10996)|**[link](https://github.com/pat-jj/Retrieval-And-Structure)**|
 |**2025-02-15**|**Evaluating improvements on using Large Language Models (LLMs) for property extraction in the Open Research Knowledge Graph (ORKG)**|Sandra Schaftner et.al.|[2502.10768](http://arxiv.org/abs/2502.10768)|null|
 |**2025-02-15**|**K-Edit: Language Model Editing with Contextual Knowledge Awareness**|Elan Markowitz et.al.|[2502.10626](http://arxiv.org/abs/2502.10626)|null|
 |**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
@@ -1329,7 +1329,7 @@ layout: default
 |**2025-02-14**|**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**|Belinda Mo et.al.|[2502.09956](http://arxiv.org/abs/2502.09956)|null|
 |**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
 |**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379](http://arxiv.org/abs/2502.09379)|null|
-|**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|null|
+|**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|**[link](https://github.com/waetr/KET-RAG)**|
 |**2025-02-13**|**The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics**|Danni Feng et.al.|[2502.09247](http://arxiv.org/abs/2502.09247)|null|
 |**2025-02-13**|**Musical Heritage Historical Entity Linking**|Arianna Graciotti et.al.|[2502.09168](http://arxiv.org/abs/2502.09168)|null|
 |**2025-02-10**|**RoToR: Towards More Reliable Responses for Order-Invariant Inputs**|Soyoung Yoon et.al.|[2502.08662](http://arxiv.org/abs/2502.08662)|null|
@@ -1337,7 +1337,7 @@ layout: default
 |**2025-02-11**|**Unified Graph Networks (UGN): A Deep Neural Framework for Solving Graph Problems**|Rudrajit Dawn et.al.|[2502.07500](http://arxiv.org/abs/2502.07500)|null|
 |**2025-02-11**|**Graph RAG-Tool Fusion**|Elias Lumer et.al.|[2502.07223](http://arxiv.org/abs/2502.07223)|**[link](https://github.com/eliaslumer/graph-rag-tool-fusion-toollinkos)**|
 |**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|**[link](https://github.com/nju-websoft/KG2RAG)**|
-|**2025-02-10**|**KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**|Yuxing Lu et.al.|[2502.06472](http://arxiv.org/abs/2502.06472)|null|
+|**2025-02-10**|**KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**|Yuxing Lu et.al.|[2502.06472](http://arxiv.org/abs/2502.06472)|**[link](https://github.com/YuxingLu613/KARMA)**|
 |**2025-02-10**|**K-ON: Stacking Knowledge On the Head Layer of Large Language Model**|Lingbing Guo et.al.|[2502.06257](http://arxiv.org/abs/2502.06257)|null|
 |**2025-02-09**|**Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs**|Han Meng et.al.|[2502.06075](http://arxiv.org/abs/2502.06075)|null|
 |**2025-02-08**|**LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning**|Hanqing Yang et.al.|[2502.05453](http://arxiv.org/abs/2502.05453)|null|
@@ -1352,7 +1352,7 @@ layout: default
 |**2025-02-05**|**A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs**|Bradley P. Allen et.al.|[2502.02896](http://arxiv.org/abs/2502.02896)|null|
 |**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067](http://arxiv.org/abs/2502.02067)|**[link](https://github.com/sssshivvvv/adaptbot)**|
 |**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772](http://arxiv.org/abs/2502.01772)|null|
-|**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549](http://arxiv.org/abs/2502.01549)|null|
+|**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549](http://arxiv.org/abs/2502.01549)|**[link](https://github.com/hkuds/videorag)**|
 |**2025-02-03**|**Augmented Knowledge Graph Querying leveraging LLMs**|Marco Arazzi et.al.|[2502.01298](http://arxiv.org/abs/2502.01298)|null|
 |**2025-02-03**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113](http://arxiv.org/abs/2502.01113)|**[link](https://github.com/RManLuo/gfm-rag)**|
 |**2025-02-03**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language Model**|Seungri Yoon et.al.|[2502.01059](http://arxiv.org/abs/2502.01059)|null|
@@ -1603,7 +1603,7 @@ layout: default
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
 |**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345](http://arxiv.org/abs/2410.18345)|null|
-|**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600](http://arxiv.org/abs/2410.17600)|null|
+|**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600](http://arxiv.org/abs/2410.17600)|**[link](https://github.com/irenezihuili/graphusion)**|
 |**2024-10-22**|**Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing**|Kento Nishi et.al.|[2410.17194](http://arxiv.org/abs/2410.17194)|null|
 |**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803](http://arxiv.org/abs/2410.16803)|**[link](https://github.com/idea-finai/cats)**|
 |**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708](http://arxiv.org/abs/2410.16708)|null|
@@ -3081,16 +3081,16 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration**|Minjie Hong et.al.|[2502.14735](http://arxiv.org/abs/2502.14735)|null|
-|**2025-02-20**|**InstructAgent: Building User Controllable Recommender via LLM Agent**|Wujiang Xu et.al.|[2502.14662](http://arxiv.org/abs/2502.14662)|null|
+|**2025-02-20**|**InstructAgent: Building User Controllable Recommender via LLM Agent**|Wujiang Xu et.al.|[2502.14662](http://arxiv.org/abs/2502.14662)|**[link](https://github.com/wujiangxu/iagent)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
 |**2025-02-20**|**LLM-based User Profile Management for Recommender System**|Seunghwan Bang et.al.|[2502.14541](http://arxiv.org/abs/2502.14541)|null|
 |**2025-02-20**|**A Note on Efficient Privacy-Preserving Similarity Search for Encrypted Vectors**|Dongfang Zhao et.al.|[2502.14291](http://arxiv.org/abs/2502.14291)|null|
-|**2025-02-19**|**Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems**|Yaochen Zhu et.al.|[2502.14137](http://arxiv.org/abs/2502.14137)|null|
+|**2025-02-19**|**Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems**|Yaochen Zhu et.al.|[2502.14137](http://arxiv.org/abs/2502.14137)|**[link](https://github.com/yaochenzhu/crag)**|
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
 |**2025-02-19**|**Mitigating Popularity Bias in Collaborative Filtering through Fair Sampling**|Jiahao Liu et.al.|[2502.13840](http://arxiv.org/abs/2502.13840)|null|
 |**2025-02-19**|**Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation**|Hao Wang et.al.|[2502.13783](http://arxiv.org/abs/2502.13783)|null|
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|**[link](https://github.com/dbis-uibk/gcnext)**|
 |**2025-02-20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
 |**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
 |**2025-02-19**|**Breaking the Clusters: Uniformity-Optimization for Text-Based Sequential Recommendation**|Wuhan Chen et.al.|[2502.13530](http://arxiv.org/abs/2502.13530)|null|
@@ -3101,16 +3101,16 @@ layout: default
 |**2025-02-18**|**Preventing the Popular Item Embedding Based Attack in Federated Recommendations**|Jun Zhang et.al.|[2502.12958](http://arxiv.org/abs/2502.12958)|null|
 |**2025-02-18**|**Envious Explore and Exploit**|Omer Ben-Porat et.al.|[2502.12798](http://arxiv.org/abs/2502.12798)|null|
 |**2025-02-18**|**Efficient Individually Rational Recommender System under Stochastic Order**|Gal Bahar et.al.|[2502.12766](http://arxiv.org/abs/2502.12766)|null|
-|**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|null|
+|**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|**[link](https://github.com/aixplain/Efficient-MT)**|
 |**2025-02-18**|**Introducing Context Information in Lifelong Sequential Modeling using Temporal Convolutional Networks**|Ting Guo et.al.|[2502.12634](http://arxiv.org/abs/2502.12634)|null|
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-18**|**Solving the Cold Start Problem on One's Own as an End User via Preference Transfer**|Ryoma Sato et.al.|[2502.12398](http://arxiv.org/abs/2502.12398)|null|
 |**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
 |**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
 |**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|null|
-|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|null|
+|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|**[link](https://github.com/ll0ruc/divsr)**|
 |**2025-02-16**|**AI Generations: From AI 1.0 to AI 4.0**|Jiahao Wu et.al.|[2502.11312](http://arxiv.org/abs/2502.11312)|null|
-|**2025-02-16**|**DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**|Aili Chen et.al.|[2502.11078](http://arxiv.org/abs/2502.11078)|null|
+|**2025-02-16**|**DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**|Aili Chen et.al.|[2502.11078](http://arxiv.org/abs/2502.11078)|**[link](https://github.com/sheep333c/deeper)**|
 |**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
 |**2025-02-14**|**Benchmarking the rationality of AI decision making using the transitivity axiom**|Kiwon Song et.al.|[2502.10554](http://arxiv.org/abs/2502.10554)|null|
 |**2025-02-14**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
@@ -3125,11 +3125,11 @@ layout: default
 |**2025-02-13**|**The AI-Therapist Duo: Exploring the Potential of Human-AI Collaboration in Personalized Art Therapy for PICS Intervention**|Bereket A. Yilma et.al.|[2502.09757](http://arxiv.org/abs/2502.09757)|null|
 |**2025-02-13**|**Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation**|Chen Xu et.al.|[2502.09319](http://arxiv.org/abs/2502.09319)|**[link](https://github.com/xuchen0427/fairdual)**|
 |**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
-|**2025-02-13**|**Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2502.09046](http://arxiv.org/abs/2502.09046)|null|
-|**2025-02-13**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|null|
+|**2025-02-13**|**Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2502.09046](http://arxiv.org/abs/2502.09046)|**[link](https://github.com/jindeok/CA-GF)**|
+|**2025-02-13**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|**[link](https://github.com/yjdy/cape)**|
 |**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
 |**2025-02-12**|**Optimal Dataset Size for Recommender Systems: Evaluating Algorithms' Performance via Downsampling**|Ardalan Arabzadeh et.al.|[2502.08845](http://arxiv.org/abs/2502.08845)|null|
-|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
 |**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**ChorusCVR: Chorus Supervision for Entire Space Post-Click Conversion Rate Modeling**|Wei Cheng et.al.|[2502.08277](http://arxiv.org/abs/2502.08277)|null|
