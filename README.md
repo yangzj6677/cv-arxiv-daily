@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
+|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|null|
+|**2025-02-21**|**From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants**|Manisha Mukherjee et.al.|[2502.15237](http://arxiv.org/abs/2502.15237)|null|
+|**2025-02-20**|**A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems**|Lew Lefton et.al.|[2502.15005](http://arxiv.org/abs/2502.15005)|null|
+|**2025-02-20**|**Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection**|Han Zhang et.al.|[2502.14932](http://arxiv.org/abs/2502.14932)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
 |**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|**[link](https://github.com/evan01225/narrative-driven-travel-planning)**|
@@ -3097,6 +3102,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
+|**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
+|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
+|**2025-02-21**|**Lightweight yet Efficient: An External Attentive Graph Convolutional Network with Positional Prompts for Sequential Recommendation**|Jinyu Zhang et.al.|[2502.15331](http://arxiv.org/abs/2502.15331)|null|
+|**2025-02-21**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
+|**2025-02-21**|**A BERT Based Hybrid Recommendation System For Academic Collaboration**|Sangeetha N et.al.|[2502.15223](http://arxiv.org/abs/2502.15223)|null|
 |**2025-02-20**|**EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration**|Minjie Hong et.al.|[2502.14735](http://arxiv.org/abs/2502.14735)|null|
 |**2025-02-20**|**InstructAgent: Building User Controllable Recommender via LLM Agent**|Wujiang Xu et.al.|[2502.14662](http://arxiv.org/abs/2502.14662)|**[link](https://github.com/wujiangxu/iagent)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
