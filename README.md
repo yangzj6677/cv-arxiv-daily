@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
+|**2025-02-24**|**An Enhanced Large Language Model For Cross Modal Query Understanding System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000](http://arxiv.org/abs/2502.17000)|null|
+|**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
+|**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648](http://arxiv.org/abs/2502.16648)|null|
+|**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
+|**2025-02-23**|**A Fine-Tuning Approach for T5 Using Knowledge Graphs to Address Complex Tasks**|Xiaoxuan Liao et.al.|[2502.16484](http://arxiv.org/abs/2502.16484)|null|
+|**2025-02-22**|**EPERM: An Evidence Path Enhanced Reasoning Model for Knowledge Graph Question and Answering**|Xiao Long et.al.|[2502.16171](http://arxiv.org/abs/2502.16171)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|null|
 |**2025-02-21**|**From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants**|Manisha Mukherjee et.al.|[2502.15237](http://arxiv.org/abs/2502.15237)|null|
@@ -3102,6 +3109,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924](http://arxiv.org/abs/2502.16924)|null|
+|**2025-02-24**|**The Blessing of Reasoning: LLM-Based Contrastive Explanations in Black-Box Recommender Systems**|Yuyan Wang et.al.|[2502.16759](http://arxiv.org/abs/2502.16759)|null|
+|**2025-02-23**|**Unified Semantic and ID Representation Learning for Deep Recommenders**|Guanyu Lin et.al.|[2502.16474](http://arxiv.org/abs/2502.16474)|null|
+|**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
+|**2025-02-22**|**Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling**|Heng Chang et.al.|[2502.16239](http://arxiv.org/abs/2502.16239)|null|
+|**2025-02-22**|**ESANS: Effective and Semantic-Aware Negative Sampling for Large-Scale Retrieval Systems**|Haibo Xing et.al.|[2502.16077](http://arxiv.org/abs/2502.16077)|null|
+|**2025-02-22**|**Inference Computation Scaling for Feature Augmentation in Recommendation Systems**|Weihao Liu et.al.|[2502.16040](http://arxiv.org/abs/2502.16040)|null|
+|**2025-02-21**|**Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search**|Jayant Sachdev et.al.|[2502.15990](http://arxiv.org/abs/2502.15990)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
 |**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
