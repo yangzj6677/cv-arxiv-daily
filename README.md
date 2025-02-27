@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|null|
+|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023](http://arxiv.org/abs/2502.19023)|null|
+|**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961](http://arxiv.org/abs/2502.18961)|null|
+|**2025-02-26**|**Talking like Piping and Instrumentation Diagrams (P&IDs)**|Achmad Anggawirya Alimin et.al.|[2502.18928](http://arxiv.org/abs/2502.18928)|null|
+|**2025-02-26**|**Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal**|Weipeng Jiang et.al.|[2502.18810](http://arxiv.org/abs/2502.18810)|null|
+|**2025-02-26**|**CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model**|Feibo Jiang et.al.|[2502.18763](http://arxiv.org/abs/2502.18763)|null|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
 |**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973](http://arxiv.org/abs/2502.17973)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
@@ -3111,6 +3118,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems**|Saman Forouzandeh et.al.|[2502.19271](http://arxiv.org/abs/2502.19271)|null|
+|**2025-02-26**|**A 106K Multi-Topic Multilingual Conversational User Dataset with Emoticons**|Heng Er Metilda Chee et.al.|[2502.19108](http://arxiv.org/abs/2502.19108)|null|
+|**2025-02-26**|**Overcoming the Price of Anarchy by Steering with Recommendations**|Cesare Carissimo et.al.|[2502.18988](http://arxiv.org/abs/2502.18988)|null|
+|**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961](http://arxiv.org/abs/2502.18961)|null|
+|**2025-02-26**|**Training Large Recommendation Models via Graph-Language Token Alignment**|Mingdai Yang et.al.|[2502.18757](http://arxiv.org/abs/2502.18757)|null|
+|**2025-02-26**|**AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms**|Yuwei Yan et.al.|[2502.18754](http://arxiv.org/abs/2502.18754)|null|
 |**2025-02-25**|**Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness**|Tahsin Alamgir Kheya et.al.|[2502.17921](http://arxiv.org/abs/2502.17921)|null|
 |**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924](http://arxiv.org/abs/2502.16924)|null|
 |**2025-02-24**|**The Blessing of Reasoning: LLM-Based Contrastive Explanations in Black-Box Recommender Systems**|Yuyan Wang et.al.|[2502.16759](http://arxiv.org/abs/2502.16759)|null|
