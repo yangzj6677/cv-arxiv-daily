@@ -1295,6 +1295,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
+|**2025-03-10**|**POINT: a web-based platform for pharmacological investigation enhanced by multi-omics networks and knowledge graphs**|Zihao He et.al.|[2503.07203](http://arxiv.org/abs/2503.07203)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202](http://arxiv.org/abs/2503.07202)|null|
+|**2025-03-09**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567](http://arxiv.org/abs/2503.06567)|null|
+|**2025-03-09**|**ExKG-LLM: Leveraging Large Language Models for Automated Expansion of Cognitive Neuroscience Knowledge Graphs**|Ali Sarabadani et.al.|[2503.06479](http://arxiv.org/abs/2503.06479)|null|
+|**2025-03-09**|**SKG-LLM: Developing a Mathematical Model for Stroke Knowledge Graph Construction Using Large Language Models**|Ali Sarabadani et.al.|[2503.06475](http://arxiv.org/abs/2503.06475)|null|
+|**2025-03-09**|**Identifying Evidence Subgraphs for Financial Risk Detection via Graph Counterfactual and Factual Reasoning**|Huaming Du et.al.|[2503.06441](http://arxiv.org/abs/2503.06441)|null|
+|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060](http://arxiv.org/abs/2503.06060)|null|
+|**2025-03-08**|**Interpretable High-order Knowledge Graph Neural Network for Predicting Synthetic Lethality in Human Cancers**|Xuexin Chen et.al.|[2503.06052](http://arxiv.org/abs/2503.06052)|null|
 |**2025-03-07**|**ZOGRASCOPE: A New Benchmark for Property Graphs**|Francesco Cazzaro et.al.|[2503.05268](http://arxiv.org/abs/2503.05268)|null|
 |**2025-03-07**|**Path Pooling: Train-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|null|
 |**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193](http://arxiv.org/abs/2503.05193)|null|
@@ -3127,6 +3136,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
+|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
+|**2025-03-10**|**Multi-Behavior Recommender Systems: A Survey**|Kyungho Kim et.al.|[2503.06963](http://arxiv.org/abs/2503.06963)|null|
+|**2025-03-10**|**AlignPxtr: Aligning Predicted Behavior Distributions for Bias-Free Video Recommendations**|Chengzhi Lin et.al.|[2503.06920](http://arxiv.org/abs/2503.06920)|null|
+|**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430](http://arxiv.org/abs/2503.06430)|null|
+|**2025-03-08**|**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**|Kibum Kim et.al.|[2503.06238](http://arxiv.org/abs/2503.06238)|null|
+|**2025-03-08**|**A Digital Twin-Driven Recommendation System for Adaptive Campus Course Timetabling**|Keshu Wu et.al.|[2503.06109](http://arxiv.org/abs/2503.06109)|null|
+|**2025-03-08**|**Prefer2SD: A Human-in-the-Loop Approach to Balancing Similarity and Diversity in In-Game Friend Recommendations**|Xiyuan Wang et.al.|[2503.06105](http://arxiv.org/abs/2503.06105)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493](http://arxiv.org/abs/2503.05493)|null|
 |**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680](http://arxiv.org/abs/2503.04680)|null|
