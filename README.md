@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549](http://arxiv.org/abs/2503.08549)|null|
+|**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189](http://arxiv.org/abs/2503.08189)|null|
+|**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075](http://arxiv.org/abs/2503.08075)|null|
+|**2025-03-11**|**LLM-Powered Knowledge Graphs for Enterprise Intelligence and Analytics**|Rajeev Kumar et.al.|[2503.07993](http://arxiv.org/abs/2503.07993)|null|
+|**2025-03-10**|**A Time Series Multitask Framework Integrating a Large Language Model, Pre-Trained Time Series Model, and Knowledge Graph**|Shule Hao et.al.|[2503.07682](http://arxiv.org/abs/2503.07682)|null|
 |**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
 |**2025-03-10**|**POINT: a web-based platform for pharmacological investigation enhanced by multi-omics networks and knowledge graphs**|Zihao He et.al.|[2503.07203](http://arxiv.org/abs/2503.07203)|null|
@@ -3154,6 +3159,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Weighted Tensor Decompositions for Context-aware Collaborative Filtering**|Joey De Pauw et.al.|[2503.08393](http://arxiv.org/abs/2503.08393)|null|
+|**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
+|**2025-03-10**|**Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing**|Maurizio Ferrari Dacrema et.al.|[2503.07823](http://arxiv.org/abs/2503.07823)|null|
+|**2025-03-10**|**Uncovering Cross-Domain Recommendation Ability of Large Language Models**|Xinyi Liu et.al.|[2503.07761](http://arxiv.org/abs/2503.07761)|null|
 |**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
 |**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
 |**2025-03-10**|**Multi-Behavior Recommender Systems: A Survey**|Kyungho Kim et.al.|[2503.06963](http://arxiv.org/abs/2503.06963)|null|
