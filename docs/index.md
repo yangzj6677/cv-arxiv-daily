@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Multi-Modal Foundation Models for Computational Pathology: A Survey**|Dong Li et.al.|[2503.09091](http://arxiv.org/abs/2503.09091)|null|
+|**2025-03-12**|**TSConnect: An Enhanced MOOC Platform for Bridging Communication Gaps Between Instructors and Students in Light of the Curse of Knowledge**|Qianyu Liu et.al.|[2503.09062](http://arxiv.org/abs/2503.09062)|null|
 |**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549](http://arxiv.org/abs/2503.08549)|null|
 |**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189](http://arxiv.org/abs/2503.08189)|null|
 |**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075](http://arxiv.org/abs/2503.08075)|null|
@@ -3142,6 +3144,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526](http://arxiv.org/abs/2503.09526)|null|
+|**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|null|
+|**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315](http://arxiv.org/abs/2503.09315)|null|
+|**2025-03-11**|**Exposing Product Bias in LLM Investment Recommendation**|Yuhan Zhi et.al.|[2503.08750](http://arxiv.org/abs/2503.08750)|null|
 |**2025-03-11**|**Weighted Tensor Decompositions for Context-aware Collaborative Filtering**|Joey De Pauw et.al.|[2503.08393](http://arxiv.org/abs/2503.08393)|null|
 |**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
 |**2025-03-10**|**Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing**|Maurizio Ferrari Dacrema et.al.|[2503.07823](http://arxiv.org/abs/2503.07823)|null|
