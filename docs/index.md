@@ -1295,6 +1295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
+|**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
+|**2025-03-13**|**Type Information-Assisted Self-Supervised Knowledge Graph Denoising**|Jiaqi Sun et.al.|[2503.09916](http://arxiv.org/abs/2503.09916)|null|
+|**2025-03-12**|**What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**|Abhipsha Das et.al.|[2503.09894](http://arxiv.org/abs/2503.09894)|null|
+|**2025-03-12**|**All Your Knowledge Belongs to Us: Stealing Knowledge Graphs via Reasoning APIs**|Zhaohan Xi et.al.|[2503.09727](http://arxiv.org/abs/2503.09727)|null|
+|**2025-03-12**|**BYOS: Knowledge-driven Large Language Models Bring Your Own Operating System More Excellent**|Hongyu Lin et.al.|[2503.09663](http://arxiv.org/abs/2503.09663)|null|
 |**2025-03-12**|**Multi-Modal Foundation Models for Computational Pathology: A Survey**|Dong Li et.al.|[2503.09091](http://arxiv.org/abs/2503.09091)|null|
 |**2025-03-12**|**TSConnect: An Enhanced MOOC Platform for Bridging Communication Gaps Between Instructors and Students in Light of the Curse of Knowledge**|Qianyu Liu et.al.|[2503.09062](http://arxiv.org/abs/2503.09062)|null|
 |**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549](http://arxiv.org/abs/2503.08549)|null|
@@ -3144,6 +3150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Adaptive Preference Aggregation**|Benjamin Heymann et.al.|[2503.10215](http://arxiv.org/abs/2503.10215)|null|
 |**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526](http://arxiv.org/abs/2503.09526)|null|
 |**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|null|
 |**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315](http://arxiv.org/abs/2503.09315)|null|
