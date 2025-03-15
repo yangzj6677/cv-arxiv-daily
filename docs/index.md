@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3151,15 +3151,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Adaptive Preference Aggregation**|Benjamin Heymann et.al.|[2503.10215](http://arxiv.org/abs/2503.10215)|null|
-|**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526](http://arxiv.org/abs/2503.09526)|null|
-|**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|null|
+|**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526](http://arxiv.org/abs/2503.09526)|**[link](https://github.com/raquelanamb/spotify-feature-network)**|
+|**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|**[link](https://github.com/jiani-huang/recbench)**|
 |**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315](http://arxiv.org/abs/2503.09315)|null|
 |**2025-03-11**|**Exposing Product Bias in LLM Investment Recommendation**|Yuhan Zhi et.al.|[2503.08750](http://arxiv.org/abs/2503.08750)|null|
 |**2025-03-11**|**Weighted Tensor Decompositions for Context-aware Collaborative Filtering**|Joey De Pauw et.al.|[2503.08393](http://arxiv.org/abs/2503.08393)|null|
 |**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
 |**2025-03-10**|**Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing**|Maurizio Ferrari Dacrema et.al.|[2503.07823](http://arxiv.org/abs/2503.07823)|null|
 |**2025-03-10**|**Uncovering Cross-Domain Recommendation Ability of Large Language Models**|Xinyi Liu et.al.|[2503.07761](http://arxiv.org/abs/2503.07761)|null|
-|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|**[link](https://github.com/mr-peach0301/flower)**|
 |**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
 |**2025-03-10**|**Multi-Behavior Recommender Systems: A Survey**|Kyungho Kim et.al.|[2503.06963](http://arxiv.org/abs/2503.06963)|null|
 |**2025-03-11**|**AlignPxtr: Aligning Predicted Behavior Distributions for Bias-Free Video Recommendations**|Chengzhi Lin et.al.|[2503.06920](http://arxiv.org/abs/2503.06920)|null|
