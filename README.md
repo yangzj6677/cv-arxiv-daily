@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
+|**2025-03-15**|**A Mechanistic Study on the Impact of Entity Degree Distribution in Open-World Link Prediction**|Jiang Xiaobo et.al.|[2503.12139](http://arxiv.org/abs/2503.12139)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
 |**2025-03-17**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
 |**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
@@ -3170,12 +3172,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Leveraging the Dynamics of Leadership in Group Recommendation Systems**|Peijin Yu et.al.|[2503.12877](http://arxiv.org/abs/2503.12877)|null|
+|**2025-03-17**|**A Linearized Alternating Direction Multiplier Method for Federated Matrix Completion Problems**|Patrick Hytla et.al.|[2503.12733](http://arxiv.org/abs/2503.12733)|null|
+|**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
+|**2025-03-15**|**Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation**|Enze Liu et.al.|[2503.12183](http://arxiv.org/abs/2503.12183)|null|
 |**2025-03-14**|**MUSS: Multilevel Subset Selection for Relevance and Diversity**|Vu Nguyen et.al.|[2503.11126](http://arxiv.org/abs/2503.11126)|null|
 |**2025-03-14**|**Variational Bayesian Personalized Ranking**|Bin Liu et.al.|[2503.11067](http://arxiv.org/abs/2503.11067)|null|
 |**2025-03-13**|**Adaptive Preference Aggregation**|Benjamin Heymann et.al.|[2503.10215](http://arxiv.org/abs/2503.10215)|null|
 |**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526](http://arxiv.org/abs/2503.09526)|**[link](https://github.com/raquelanamb/spotify-feature-network)**|
 |**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|**[link](https://github.com/jiani-huang/recbench)**|
-|**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315](http://arxiv.org/abs/2503.09315)|**[link](https://github.com/goldenNormal/ShuffleGate)**|
+|**2025-03-17**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315](http://arxiv.org/abs/2503.09315)|**[link](https://github.com/goldenNormal/ShuffleGate)**|
 |**2025-03-11**|**Exposing Product Bias in LLM Investment Recommendation**|Yuhan Zhi et.al.|[2503.08750](http://arxiv.org/abs/2503.08750)|null|
 |**2025-03-11**|**Weighted Tensor Decompositions for Context-aware Collaborative Filtering**|Joey De Pauw et.al.|[2503.08393](http://arxiv.org/abs/2503.08393)|null|
 |**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
