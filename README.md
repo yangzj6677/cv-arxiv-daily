@@ -24,12 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
 |**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804](http://arxiv.org/abs/2503.13804)|null|
 |**2025-03-14**|**RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration**|Hong Qing Yu et.al.|[2503.13514](http://arxiv.org/abs/2503.13514)|null|
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-15**|**A Mechanistic Study on the Impact of Entity Degree Distribution in Open-World Link Prediction**|Jiang Xiaobo et.al.|[2503.12139](http://arxiv.org/abs/2503.12139)|null|
-|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-17**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
 |**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
 |**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
@@ -3175,6 +3176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**ACE: A Cardinality Estimator for Set-Valued Queries**|Yufan Sheng et.al.|[2503.14929](http://arxiv.org/abs/2503.14929)|null|
+|**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813](http://arxiv.org/abs/2503.14813)|null|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
 |**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110](http://arxiv.org/abs/2503.14110)|null|
 |**2025-03-14**|**Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce**|Jingying Zeng et.al.|[2503.13518](http://arxiv.org/abs/2503.13518)|null|
