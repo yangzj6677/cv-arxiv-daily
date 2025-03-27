@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3176,7 +3176,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-25**|**Beyond Relevance: An Adaptive Exploration-Based Framework for Personalized Recommendations**|Edoardo Bianchi et.al.|[2503.19525](http://arxiv.org/abs/2503.19525)|null|
 |**2025-03-25**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
-|**2025-03-24**|**PRECTR: A Synergistic Framework for Integrating Personalized Search Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395](http://arxiv.org/abs/2503.18395)|null|
+|**2025-03-26**|**PRECTR: A Synergistic Framework for Integrating Personalized Search Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395](http://arxiv.org/abs/2503.18395)|null|
 |**2025-03-24**|**Food Recommendation With Balancing Comfort and Curiosity**|Yuto Sakai et.al.|[2503.18355](http://arxiv.org/abs/2503.18355)|null|
 |**2025-03-24**|**RAU: Towards Regularized Alignment and Uniformity for Representation Learning in Recommendation**|Xi Wu et.al.|[2503.18300](http://arxiv.org/abs/2503.18300)|null|
 |**2025-03-23**|**FROG: Fair Removal on Graphs**|Ziheng Chen et.al.|[2503.18197](http://arxiv.org/abs/2503.18197)|null|
