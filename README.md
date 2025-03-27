@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning**|Gongzhu Yin et.al.|[2503.20676](http://arxiv.org/abs/2503.20676)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
+|**2025-03-26**|**Advancements in Natural Language Processing: Exploring Transformer-Based Architectures for Text Understanding**|Tianhao Wu et.al.|[2503.20227](http://arxiv.org/abs/2503.20227)|null|
 |**2025-03-25**|**ImageSet2Text: Describing Sets of Images through Text**|Piera Riccio et.al.|[2503.19361](http://arxiv.org/abs/2503.19361)|null|
 |**2025-03-24**|**AssertionForge: Enhancing Formal Verification Assertion Generation with Structured Representation of Specifications and RTL**|Yunsheng Bai et.al.|[2503.19174](http://arxiv.org/abs/2503.19174)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
@@ -3191,6 +3194,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739](http://arxiv.org/abs/2503.20739)|null|
+|**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
 |**2025-03-25**|**Beyond Relevance: An Adaptive Exploration-Based Framework for Personalized Recommendations**|Edoardo Bianchi et.al.|[2503.19525](http://arxiv.org/abs/2503.19525)|null|
 |**2025-03-25**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
 |**2025-03-26**|**PRECTR: A Synergistic Framework for Integrating Personalized Search Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395](http://arxiv.org/abs/2503.18395)|null|
