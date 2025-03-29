@@ -3200,7 +3200,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471](http://arxiv.org/abs/2503.21471)|null|
-|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468](http://arxiv.org/abs/2503.21468)|null|
+|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468](http://arxiv.org/abs/2503.21468)|**[link](https://github.com/trantin84/wigcn)**|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189](http://arxiv.org/abs/2503.21189)|null|
 |**2025-03-27**|**Are We Solving a Well-Defined Problem? A Task-Centric Perspective on Recommendation Tasks**|Aixin Sun et.al.|[2503.21188](http://arxiv.org/abs/2503.21188)|null|
 |**2025-03-27**|**FAIR-QR: Enhancing Fairness-aware Information Retrieval through Query Refinement**|Fumian Chen et.al.|[2503.21092](http://arxiv.org/abs/2503.21092)|null|
