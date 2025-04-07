@@ -3213,7 +3213,7 @@ layout: default
 |**2025-04-02**|**Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**|Changshuo Zhang et.al.|[2504.01489](http://arxiv.org/abs/2504.01489)|null|
 |**2025-04-01**|**Preference-Centric Route Recommendation: Equilibrium, Learning, and Provable Efficiency**|Ya-Ting Yang et.al.|[2504.01192](http://arxiv.org/abs/2504.01192)|null|
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
-|**2025-03-30**|**Dynamic hashtag recommendation in social media with trend shift detection and adaptation**|Riccardo Cantini et.al.|[2504.00044](http://arxiv.org/abs/2504.00044)|null|
+|**2025-03-30**|**Dynamic hashtag recommendation in social media with trend shift detection and adaptation**|Riccardo Cantini et.al.|[2504.00044](http://arxiv.org/abs/2504.00044)|**[link](https://github.com/scalabunical/h-adapts)**|
 |**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
 |**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027](http://arxiv.org/abs/2503.24027)|**[link](https://github.com/fcarichon/Cultural_Novelty)**|
 |**2025-03-31**|**Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems**|Shiyi Yang et.al.|[2503.23804](http://arxiv.org/abs/2503.23804)|null|
@@ -3243,13 +3243,13 @@ layout: default
 |**2025-03-23**|**FROG: Fair Removal on Graphs**|Ziheng Chen et.al.|[2503.18197](http://arxiv.org/abs/2503.18197)|null|
 |**2025-03-23**|**Interpersonal Trust Among Students in Virtual Learning Environments: A Comprehensive Review**|Marcelo Pereira Barbosa et.al.|[2503.17976](http://arxiv.org/abs/2503.17976)|null|
 |**2025-03-22**|**MultiScale Contextual Bandits for Long Term Objectives**|Richa Rastogi et.al.|[2503.17674](http://arxiv.org/abs/2503.17674)|null|
-|**2025-03-21**|**Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation**|Raoul Kalisvaart et.al.|[2503.17201](http://arxiv.org/abs/2503.17201)|null|
+|**2025-03-21**|**Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation**|Raoul Kalisvaart et.al.|[2503.17201](http://arxiv.org/abs/2503.17201)|**[link](https://github.com/RaoulKalisvaart/green-recommender-systems)**|
 |**2025-03-21**|**Rankformer: A Graph Transformer for Recommendation based on Ranking Objective**|Sirui Chen et.al.|[2503.16927](http://arxiv.org/abs/2503.16927)|**[link](https://github.com/stupidthree/rankformer)**|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-20**|**ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)**|Alejandro Ariza-Casabona et.al.|[2503.16661](http://arxiv.org/abs/2503.16661)|**[link](https://github.com/danielemalitesta/rel-deeplearning-recsys)**|
 |**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290](http://arxiv.org/abs/2503.16290)|null|
 |**2025-03-19**|**ACE: A Cardinality Estimator for Set-Valued Queries**|Yufan Sheng et.al.|[2503.14929](http://arxiv.org/abs/2503.14929)|null|
-|**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813](http://arxiv.org/abs/2503.14813)|null|
+|**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813](http://arxiv.org/abs/2503.14813)|**[link](https://github.com/zyouyang/ImpLipReg_CTR)**|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
 |**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110](http://arxiv.org/abs/2503.14110)|null|
 |**2025-03-14**|**Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce**|Jingying Zeng et.al.|[2503.13518](http://arxiv.org/abs/2503.13518)|null|
@@ -4922,7 +4922,7 @@ layout: default
 |**2023-09-05**|**Tidying Up the Conversational Recommender Systems' Biases**|Armin Moradi et.al.|[2309.02550](http://arxiv.org/abs/2309.02550)|null|
 |**2023-09-05**|**Fairness of Exposure in Dynamic Recommendation**|Masoud Mansoury et.al.|[2309.02322](http://arxiv.org/abs/2309.02322)|null|
 |**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064](http://arxiv.org/abs/2309.02064)|**[link](https://github.com/dudwns511/mvfs_cikm23)**|
-|**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
+|**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|**[link](https://github.com/kaike-zhang/robust-recommender-system)**|
 |**2023-09-05**|**Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2309.02052](http://arxiv.org/abs/2309.02052)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
 |**2023-09-04**|**OutRank: Speeding up AutoML-based Model Search for Large Sparse Data sets with Cardinality-aware Feature Ranking**|Blaž Škrlj et.al.|[2309.01552](http://arxiv.org/abs/2309.01552)|**[link](https://github.com/outbrain/outrank)**|
@@ -5243,7 +5243,7 @@ layout: default
 |**2023-05-26**|**Representation Online Matters: Practical End-to-End Diversification in Search and Recommender Systems**|Pedro Silva et.al.|[2305.15534](http://arxiv.org/abs/2305.15534)|null|
 |**2023-05-24**|**Large Language Models for User Interest Journeys**|Konstantina Christakopoulou et.al.|[2305.15498](http://arxiv.org/abs/2305.15498)|null|
 |**2023-05-24**|**Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time**|Kiarash Banihashem et.al.|[2305.15192](http://arxiv.org/abs/2305.15192)|null|
-|**2023-05-24**|**GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking**|Jiayan Guo et.al.|[2305.15066](http://arxiv.org/abs/2305.15066)|null|
+|**2023-05-24**|**GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking**|Jiayan Guo et.al.|[2305.15066](http://arxiv.org/abs/2305.15066)|**[link](https://github.com/spacelearner/graph-gpt)**|
 |**2023-05-24**|**Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights**|Junchen Fu et.al.|[2305.15036](http://arxiv.org/abs/2305.15036)|**[link](https://github.com/westlake-repl/adapter4rec)**|
 |**2023-05-24**|**Identifying Informational Sources in News Articles**|Alexander Spangher et.al.|[2305.14904](http://arxiv.org/abs/2305.14904)|**[link](https://github.com/alex2awesome/source-exploration)**|
 |**2023-05-24**|**How Graph Convolutions Amplify Popularity Bias for Recommendation?**|Jiajia Chen et.al.|[2305.14886](http://arxiv.org/abs/2305.14886)|**[link](https://github.com/meicrs/dap)**|
