@@ -1317,14 +1317,14 @@ layout: default
 |**2025-04-08**|**Crowdsourcing-Based Knowledge Graph Construction for Drug Side Effects Using Large Language Models with an Application on Semaglutide**|Zhijie Duan et.al.|[2504.04346](http://arxiv.org/abs/2504.04346)|null|
 |**2025-04-05**|**JsStories: Improving Social Inclusion in Computer Science Education Through Interactive Stories**|Inas Ghazouani Ghailani et.al.|[2504.04006](http://arxiv.org/abs/2504.04006)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
-|**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327](http://arxiv.org/abs/2504.03327)|null|
+|**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327](http://arxiv.org/abs/2504.03327)|**[link](https://github.com/nec-research/emu-kg)**|
 |**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137](http://arxiv.org/abs/2504.03137)|null|
 |**2025-04-02**|**Embedding Method for Knowledge Graph with Densely Defined Ontology**|Takanori Ugai et.al.|[2504.02889](http://arxiv.org/abs/2504.02889)|null|
 |**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/abs/2504.02670)|null|
-|**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589](http://arxiv.org/abs/2504.02589)|null|
+|**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589](http://arxiv.org/abs/2504.02589)|**[link](https://github.com/hse-cs/migtf)**|
 |**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577](http://arxiv.org/abs/2504.02577)|null|
 |**2025-04-03**|**Improving Harmful Text Detection with Joint Retrieval and External Knowledge**|Zidong Yu et.al.|[2504.02310](http://arxiv.org/abs/2504.02310)|null|
-|**2025-04-02**|**Graph Analytics for Cyber-Physical System Resilience Quantification**|Romain Dagnas et.al.|[2504.02120](http://arxiv.org/abs/2504.02120)|null|
+|**2025-04-02**|**Graph Analytics for Cyber-Physical System Resilience Quantification**|Romain Dagnas et.al.|[2504.02120](http://arxiv.org/abs/2504.02120)|**[link](https://github.com/romaindgns/cyber_resilience_analytics)**|
 |**2025-04-02**|**PolyG: Effective and Efficient GraphRAG with Adaptive Graph Traversal**|Renjie Liu et.al.|[2504.02112](http://arxiv.org/abs/2504.02112)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
 |**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993](http://arxiv.org/abs/2504.00993)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
@@ -3456,7 +3456,7 @@ layout: default
 |**2025-02-04**|**Online Clustering of Dueling Bandits**|Zhiyong Wang et.al.|[2502.02079](http://arxiv.org/abs/2502.02079)|null|
 |**2025-02-03**|**Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations**|Giorgos Filandrianos et.al.|[2502.01349](http://arxiv.org/abs/2502.01349)|null|
 |**2025-02-03**|**Federated Linear Dueling Bandits**|Xuhan Huang et.al.|[2502.01085](http://arxiv.org/abs/2502.01085)|null|
-|**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
+|**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|**[link](https://github.com/kaike-zhang/pld)**|
 |**2025-02-01**|**MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling**|Bencheng Yan et.al.|[2502.00321](http://arxiv.org/abs/2502.00321)|null|
 |**2025-01-31**|**Collaborative Diffusion Model for Recommender System**|Gyuseok Lee et.al.|[2501.18997](http://arxiv.org/abs/2501.18997)|null|
 |**2025-01-30**|**Are Representation Disentanglement and Interpretability Linked in Recommendation Models? A Critical Review and Reproducibility Study**|Ervin Dervishaj et.al.|[2501.18805](http://arxiv.org/abs/2501.18805)|**[link](https://github.com/edervishaj/disentanglement-interpretability-recsys)**|
