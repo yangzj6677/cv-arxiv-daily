@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200](http://arxiv.org/abs/2504.11200)|null|
+|**2025-04-15**|**Enhancing multimodal analogical reasoning with Logic Augmented Generation**|Anna Sofia Lippolis et.al.|[2504.11190](http://arxiv.org/abs/2504.11190)|null|
+|**2025-04-15**|**Exploring the Role of KG-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
 |**2025-04-14**|**Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models**|Yujing Wang et.al.|[2504.09910](http://arxiv.org/abs/2504.09910)|null|
 |**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877](http://arxiv.org/abs/2504.09877)|null|
 |**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|null|
@@ -3234,6 +3237,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|null|
+|**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
+|**2025-04-15**|**Why am I seeing this? Towards recognizing social media recommender systems with missing recommendations**|Sabrina Guidotti et.al.|[2504.11000](http://arxiv.org/abs/2504.11000)|null|
+|**2025-04-15**|**Transfer Learning for Temporal Link Prediction**|Ayan Chatterjee et.al.|[2504.10925](http://arxiv.org/abs/2504.10925)|null|
+|**2025-04-15**|**MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems**|Yibiao Wei et.al.|[2504.10921](http://arxiv.org/abs/2504.10921)|null|
+|**2025-04-14**|**Epistemic Uncertainty-aware Recommendation Systems via Bayesian Deep Ensemble Learning**|Radin Cheraghi et.al.|[2504.10753](http://arxiv.org/abs/2504.10753)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
 |**2025-04-14**|**Change Your Perspective, Widen Your Worldview! Societally Beneficial Perceptual Filter Bubbles in Personalized Reality**|Jannis Strecker et.al.|[2504.10271](http://arxiv.org/abs/2504.10271)|null|
