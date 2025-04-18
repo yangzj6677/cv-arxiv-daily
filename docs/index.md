@@ -1295,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734](http://arxiv.org/abs/2504.12734)|null|
+|**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422](http://arxiv.org/abs/2504.12422)|null|
 |**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544](http://arxiv.org/abs/2504.11544)|null|
 |**2025-04-13**|**Leveraging Knowledge Graphs and Large Language Models to Track and Analyze Learning Trajectories**|Yu-Hxiang Chen et.al.|[2504.11481](http://arxiv.org/abs/2504.11481)|null|
 |**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200](http://arxiv.org/abs/2504.11200)|null|
@@ -3239,6 +3241,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095](http://arxiv.org/abs/2504.13095)|null|
+|**2025-04-17**|**SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**|Nicolas Bougie et.al.|[2504.12722](http://arxiv.org/abs/2504.12722)|null|
 |**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086](http://arxiv.org/abs/2504.12086)|null|
 |**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
 |**2025-04-16**|**Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach**|Donghee Han et.al.|[2504.11889](http://arxiv.org/abs/2504.11889)|null|
