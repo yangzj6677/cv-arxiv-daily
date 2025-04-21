@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
+|**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631](http://arxiv.org/abs/2504.13631)|null|
+|**2025-04-18**|**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**|Feiyang Li et.al.|[2504.13534](http://arxiv.org/abs/2504.13534)|null|
 |**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734](http://arxiv.org/abs/2504.12734)|null|
 |**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422](http://arxiv.org/abs/2504.12422)|null|
 |**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544](http://arxiv.org/abs/2504.11544)|null|
@@ -3241,6 +3244,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
+|**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
+|**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|null|
+|**2025-04-18**|**How to Mine Potentially Popular Items? A Reverse MIPS-based Approach**|Daichi Amagata et.al.|[2504.13445](http://arxiv.org/abs/2504.13445)|null|
 |**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095](http://arxiv.org/abs/2504.13095)|**[link](https://github.com/iai-group/umap2025-convstyles)**|
 |**2025-04-17**|**SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**|Nicolas Bougie et.al.|[2504.12722](http://arxiv.org/abs/2504.12722)|null|
 |**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086](http://arxiv.org/abs/2504.12086)|null|
