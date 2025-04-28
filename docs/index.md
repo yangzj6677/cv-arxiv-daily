@@ -1319,7 +1319,7 @@ layout: default
 |**2025-04-17**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
 |**2025-04-14**|**Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models**|Yujing Wang et.al.|[2504.09910](http://arxiv.org/abs/2504.09910)|null|
 |**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877](http://arxiv.org/abs/2504.09877)|null|
-|**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|null|
+|**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|**[link](https://github.com/lmmapplication/rakg)**|
 |**2025-04-13**|**CLEAR-KGQA: Clarification-Enhanced Ambiguity Resolution for Knowledge Graph Question Answering**|Liqiang Wen et.al.|[2504.09665](http://arxiv.org/abs/2504.09665)|null|
 |**2025-04-12**|**Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale**|Priyan Vaithilingam et.al.|[2504.09283](http://arxiv.org/abs/2504.09283)|null|
 |**2025-04-11**|**On Large-scale Evaluation of Embedding Models for Knowledge Graph Completion**|Nasim Shirvani-Mahdavi et.al.|[2504.08970](http://arxiv.org/abs/2504.08970)|null|
@@ -1774,7 +1774,7 @@ layout: default
 |**2024-10-28**|**SEG:Seeds-Enhanced Iterative Refinement Graph Neural Network for Entity Alignment**|Wei Ai et.al.|[2410.20733](http://arxiv.org/abs/2410.20733)|null|
 |**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|**[link](https://github.com/graph-com/subgraphrag)**|
 |**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321](http://arxiv.org/abs/2410.20321)|null|
-|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
+|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|**[link](https://github.com/humphreyhuu/dualk)**|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
@@ -3326,7 +3326,7 @@ layout: default
 |**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|**[link](https://github.com/adityashahane10/gotham--graph-based-class-incremental-learning-framework-under-weak-supervision)**|
 |**2025-04-07**|**Investigating Popularity Bias Amplification in Recommender Systems Employed in the Entertainment Domain**|Dominik Kowald et.al.|[2504.04752](http://arxiv.org/abs/2504.04752)|null|
-|**2025-04-07**|**Can LLM-Driven Hard Negative Sampling Empower Collaborative Filtering? Findings and Potentials**|Chu Zhao et.al.|[2504.04726](http://arxiv.org/abs/2504.04726)|null|
+|**2025-04-07**|**Can LLM-Driven Hard Negative Sampling Empower Collaborative Filtering? Findings and Potentials**|Chu Zhao et.al.|[2504.04726](http://arxiv.org/abs/2504.04726)|**[link](https://github.com/user683/hnlmrec)**|
 |**2025-04-06**|**SiameseDuo++: Active Learning from Data Streams with Dual Augmented Siamese Networks**|Kleanthis Malialis et.al.|[2504.04613](http://arxiv.org/abs/2504.04613)|null|
 |**2025-04-06**|**Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering**|Zheyu Chen et.al.|[2504.04443](http://arxiv.org/abs/2504.04443)|null|
 |**2025-04-06**|**Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent**|Yi Xu et.al.|[2504.04386](http://arxiv.org/abs/2504.04386)|null|
@@ -3791,7 +3791,7 @@ layout: default
 |**2024-10-31**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757](http://arxiv.org/abs/2410.23757)|**[link](https://github.com/yueliu1999/ITR)**|
 |**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
-|**2024-10-30**|**DataRec: A Framework for Standardizing Recommendation Data Processing and Analysis**|Alberto Carlo Maria Mancino et.al.|[2410.22972](http://arxiv.org/abs/2410.22972)|null|
+|**2024-10-30**|**DataRec: A Framework for Standardizing Recommendation Data Processing and Analysis**|Alberto Carlo Maria Mancino et.al.|[2410.22972](http://arxiv.org/abs/2410.22972)|**[link](https://github.com/sisinflab/datarec)**|
 |**2024-10-30**|**Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation**|Kaike Zhang et.al.|[2410.22844](http://arxiv.org/abs/2410.22844)|**[link](https://github.com/Kaike-Zhang/PamaCF)**|
 |**2024-10-30**|**Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation**|Yang Zhang et.al.|[2410.22809](http://arxiv.org/abs/2410.22809)|**[link](https://github.com/itsmeyjt/cft)**|
 |**2024-10-30**|**Dual Contrastive Transformer for Hierarchical Preference Modeling in Sequential Recommendation**|Chengkai Huang et.al.|[2410.22790](http://arxiv.org/abs/2410.22790)|null|
@@ -4595,7 +4595,7 @@ layout: default
 |**2024-02-21**|**Linear-Time Graph Neural Networks for Scalable Recommendations**|Jiahao Zhang et.al.|[2402.13973](http://arxiv.org/abs/2402.13973)|**[link](https://github.com/qwq2000/thewebconf24-ltgnn-pytorch)**|
 |**2024-02-21**|**Retention Induced Biases in a Recommendation System with Heterogeneous Users**|Shichao Ma et.al.|[2402.13959](http://arxiv.org/abs/2402.13959)|null|
 |**2024-02-21**|**Diversity-Aware $k$ -Maximum Inner Product Search Revisited**|Qiang Huang et.al.|[2402.13858](http://arxiv.org/abs/2402.13858)|null|
-|**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|null|
+|**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|**[link](https://github.com/tsinghua-fib-lab/llm4sbr)**|
 |**2024-02-21**|**General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout**|An Zhang et.al.|[2402.13769](http://arxiv.org/abs/2402.13769)|**[link](https://github.com/arthurma71/advdrop)**|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
 |**2024-02-21**|**FLAME: Self-Supervised Low-Resource Taxonomy Expansion using Large Language Models**|Sahil Mishra et.al.|[2402.13623](http://arxiv.org/abs/2402.13623)|**[link](https://github.com/sahilmishra0012/flame)**|
@@ -5546,7 +5546,7 @@ layout: default
 |**2023-03-24**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|null|
 |**2023-03-23**|**GiveMeLabeledIssues: An Open Source Issue Recommendation System**|Joseph Vargovich et.al.|[2303.13418](http://arxiv.org/abs/2303.13418)|null|
 |**2023-03-23**|**Limits of Predictability in Top-N Recommendation**|En Xu et.al.|[2303.13091](http://arxiv.org/abs/2303.13091)|null|
-|**2023-03-23**|**Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation**|Wenbo Hu et.al.|[2303.12973](http://arxiv.org/abs/2303.12973)|null|
+|**2023-03-23**|**Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation**|Wenbo Hu et.al.|[2303.12973](http://arxiv.org/abs/2303.12973)|**[link](https://github.com/sunxin000/uncertainty4recsys)**|
 |**2023-03-22**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and Computational Issues**|Morgane Goibert et.al.|[2303.12878](http://arxiv.org/abs/2303.12878)|**[link](https://github.com/robustconsensusranking/robustconsensusranking)**|
 |**2023-03-22**|**Self-Reflection as a Tool to Foster Profound Sustainable Consumption Decisions**|Florian Bemmann et.al.|[2303.12434](http://arxiv.org/abs/2303.12434)|null|
 |**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879](http://arxiv.org/abs/2303.11879)|null|
