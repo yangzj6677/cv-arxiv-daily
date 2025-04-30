@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
-|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
+|**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-27**|**Representing and querying data tensors in RDF and SPARQL**|Piotr Marciniak et.al.|[2504.19224](http://arxiv.org/abs/2504.19224)|null|
 |**2025-04-25**|**World Food Atlas Project**|Ali Rostami et.al.|[2504.18727](http://arxiv.org/abs/2504.18727)|null|
 |**2025-04-24**|**Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach**|Iizalaarab Elhaimeur et.al.|[2504.18603](http://arxiv.org/abs/2504.18603)|null|
@@ -3265,7 +3265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
+|**2025-04-29**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
 |**2025-04-28**|**Optimal Sequential Recommendations: Exploiting User and Item Structure**|Mina Karzand et.al.|[2504.19476](http://arxiv.org/abs/2504.19476)|null|
 |**2025-04-27**|**AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration**|Zhuoping Yang et.al.|[2504.19365](http://arxiv.org/abs/2504.19365)|null|
 |**2025-04-26**|**Feature Fusion Revisited: Multimodal CTR Prediction for MMCTR Challenge**|Junjie Zhou et.al.|[2504.18961](http://arxiv.org/abs/2504.18961)|null|
