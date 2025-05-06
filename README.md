@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352](http://arxiv.org/abs/2505.02352)|null|
+|**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271](http://arxiv.org/abs/2505.02271)|null|
+|**2025-05-04**|**Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use**|Justin Ho et.al.|[2505.02164](http://arxiv.org/abs/2505.02164)|null|
+|**2025-05-03**|**Interpretable graph-based models on multimodal biomedical data integration: A technical review and benchmarking**|Alireza Sadeghi et.al.|[2505.01696](http://arxiv.org/abs/2505.01696)|null|
 |**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305](http://arxiv.org/abs/2505.01305)|null|
 |**2025-05-02**|**Design for a Digital Twin in Clinical Patient Care**|Anna-Katharina Nitschke et.al.|[2505.01206](http://arxiv.org/abs/2505.01206)|null|
 |**2025-05-01**|**Towards a format for describing networks / 1. Networks and knowledge graphs**|Vladimir Batagelj et.al.|[2505.00912](http://arxiv.org/abs/2505.00912)|null|
@@ -3294,6 +3300,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Robustness questions the interpretability of graph neural networks: what to do?**|Kirill Lukyanov et.al.|[2505.02566](http://arxiv.org/abs/2505.02566)|null|
+|**2025-05-05**|**Uncertainty in Repeated Implicit Feedback as a Measure of Reliability**|Bruno Sguerra et.al.|[2505.02492](http://arxiv.org/abs/2505.02492)|null|
+|**2025-05-04**|**Minimally Supervised Hierarchical Domain Intent Learning for CRS**|Safikureshi Mondal et.al.|[2505.02209](http://arxiv.org/abs/2505.02209)|null|
+|**2025-05-04**|**Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems**|Xiao Zhou et.al.|[2505.02120](http://arxiv.org/abs/2505.02120)|null|
+|**2025-05-04**|**Wide & Deep Learning for Node Classification**|Yancheng Chen et.al.|[2505.02020](http://arxiv.org/abs/2505.02020)|null|
+|**2025-05-03**|**Embedding based retrieval for long tail search queries in ecommerce**|Akshay Kekuda et.al.|[2505.01946](http://arxiv.org/abs/2505.01946)|null|
+|**2025-05-02**|**One Search Fits All: Pareto-Optimal Eco-Friendly Model Selection**|Filippo Betello et.al.|[2505.01468](http://arxiv.org/abs/2505.01468)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
 |**2025-05-02**|**Enhancing User Sequence Modeling through Barlow Twins-based Self-Supervised Learning**|Yuhan Liu et.al.|[2505.00953](http://arxiv.org/abs/2505.00953)|null|
 |**2025-05-02**|**Preserving Privacy and Utility in LLM-Based Product Recommendations**|Tina Khezresmaeilzadeh et.al.|[2505.00951](http://arxiv.org/abs/2505.00951)|null|
