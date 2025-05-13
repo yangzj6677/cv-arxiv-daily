@@ -24,6 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
+|**2025-05-12**|**Injecting Knowledge Graphs into Large Language Models**|Erica Coppolillo et.al.|[2505.07554](http://arxiv.org/abs/2505.07554)|null|
+|**2025-05-12**|**HALO: Half Life-Based Outdated Fact Filtering in Temporal Knowledge Graphs**|Feng Ding et.al.|[2505.07509](http://arxiv.org/abs/2505.07509)|**[link](https://github.com/yushuowiki/k-half)**|
+|**2025-05-12**|**Computational Fact-Checking of Online Discourse: Scoring scientific accuracy in climate change related news articles**|Tim Wittenborg et.al.|[2505.07409](http://arxiv.org/abs/2505.07409)|null|
+|**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|**[link](https://github.com/weiyifan1023/senator)**|
+|**2025-05-12**|**ReCDAP: Relation-Based Conditional Diffusion with Attention Pooling for Few-Shot Knowledge Graph Completion**|Jeongho Kim et.al.|[2505.07171](http://arxiv.org/abs/2505.07171)|**[link](https://github.com/hou27/recdap-fkgc)**|
+|**2025-05-11**|**Causal knowledge graph analysis identifies adverse drug effects**|Sumyyah Toonsi et.al.|[2505.06949](http://arxiv.org/abs/2505.06949)|null|
+|**2025-05-11**|**Incremental Analysis of Legacy Applications Using Knowledge Graphs for Application Modernization**|Saravanan Krishnan et.al.|[2505.06885](http://arxiv.org/abs/2505.06885)|null|
+|**2025-05-09**|**A Grounded Memory System For Smart Personal Assistants**|Felix Ocker et.al.|[2505.06328](http://arxiv.org/abs/2505.06328)|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020](http://arxiv.org/abs/2505.06020)|null|
 |**2025-05-08**|**Prompted Meta-Learning for Few-shot Knowledge Graph Completion**|Han Wu et.al.|[2505.05684](http://arxiv.org/abs/2505.05684)|null|
 |**2025-05-08**|**KG-HTC: Integrating Knowledge Graphs into LLMs for Effective Zero-shot Hierarchical Text Classification**|Qianbo Zang et.al.|[2505.05583](http://arxiv.org/abs/2505.05583)|**[link](https://github.com/qianbozang/kg-htc)**|
@@ -3309,6 +3318,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation**|Jianan Li et.al.|[2505.07431](http://arxiv.org/abs/2505.07431)|null|
+|**2025-05-12**|**ViMRHP: A Vietnamese Benchmark Dataset for Multimodal Review Helpfulness Prediction via Human-AI Collaborative Annotation**|Truc Mai-Thanh Nguyen et.al.|[2505.07416](http://arxiv.org/abs/2505.07416)|null|
+|**2025-05-12**|**DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward**|Yi Zhang et.al.|[2505.07257](http://arxiv.org/abs/2505.07257)|null|
+|**2025-05-12**|**A Generative Re-ranking Model for List-level Multi-objective Optimization at Taobao**|Yue Meng et.al.|[2505.07197](http://arxiv.org/abs/2505.07197)|null|
+|**2025-05-11**|**COMRECGC: Global Graph Counterfactual Explainer through Common Recourse**|Gregoire Fournier et.al.|[2505.07081](http://arxiv.org/abs/2505.07081)|null|
+|**2025-05-11**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841](http://arxiv.org/abs/2505.06841)|null|
+|**2025-05-10**|**RuleGenie: SIEM Detection Rule Set Optimization**|Akansha Shukla et.al.|[2505.06701](http://arxiv.org/abs/2505.06701)|null|
+|**2025-05-10**|**Burger: Robust Graph Denoising-augmentation Fusion and Multi-semantic Modeling in Social Recommendation**|Yuqin Lan et.al.|[2505.06612](http://arxiv.org/abs/2505.06612)|null|
+|**2025-05-09**|**Tweedie Regression for Video Recommendation System**|Yan Zheng et.al.|[2505.06445](http://arxiv.org/abs/2505.06445)|null|
 |**2025-05-09**|**Differentiable Fuzzy Neural Networks for Recommender Systems**|Stephan Bartl et.al.|[2505.06000](http://arxiv.org/abs/2505.06000)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083](http://arxiv.org/abs/2505.05083)|null|
