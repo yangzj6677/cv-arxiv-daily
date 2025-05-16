@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|
+|**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
+|**2025-05-15**|**Knowledge-Based Aerospace Engineering -- A Systematic Literature Review**|Tim Wittenborg et.al.|[2505.10142](http://arxiv.org/abs/2505.10142)|null|
+|**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
+|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-14**|**Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts**|Bojan Ristov et.al.|[2505.09798](http://arxiv.org/abs/2505.09798)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
 |**2025-05-13**|**A Social Robot with Inner Speech for Dietary Guidance**|Valerio Belcamino et.al.|[2505.08664](http://arxiv.org/abs/2505.08664)|**[link](https://github.com/valeriobelcamino/unipa_inner_speech)**|
 |**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|**[link](https://github.com/sunshy-1/HCMKR)**|
@@ -3323,6 +3331,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471](http://arxiv.org/abs/2505.10471)|null|
+|**2025-05-15**|**Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M**|Dario Di Palma et.al.|[2505.10212](http://arxiv.org/abs/2505.10212)|**[link](https://github.com/sisinflab/llm-memoryinspector)**|
+|**2025-05-14**|**A Survey on Large Language Models in Multimodal Recommender Systems**|Alejo Lopez-Avila et.al.|[2505.09777](http://arxiv.org/abs/2505.09777)|null|
 |**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
 |**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
 |**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
