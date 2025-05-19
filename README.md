@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
 |**2025-05-15**|**Knowledge-Based Aerospace Engineering -- A Systematic Literature Review**|Tim Wittenborg et.al.|[2505.10142](http://arxiv.org/abs/2505.10142)|null|
 |**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
-|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-16**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
 |**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
 |**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|**[link](https://github.com/asu-kim/personal-llm-kg)**|
 |**2025-05-14**|**Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts**|Bojan Ristov et.al.|[2505.09798](http://arxiv.org/abs/2505.09798)|null|
@@ -2421,7 +2421,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## SFM
 
@@ -2511,7 +2511,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2847,7 +2847,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2976,7 +2976,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3097,7 +3097,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## NeRF
 
@@ -3325,7 +3325,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## RS
 
@@ -3336,7 +3336,7 @@
 |**2025-05-14**|**A Survey on Large Language Models in Multimodal Recommender Systems**|Alejo Lopez-Avila et.al.|[2505.09777](http://arxiv.org/abs/2505.09777)|null|
 |**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
 |**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
-|**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
+|**2025-05-15**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
 |**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205](http://arxiv.org/abs/2505.09205)|null|
 |**2025-05-14**|**Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey**|Weiqing Li et.al.|[2505.09065](http://arxiv.org/abs/2505.09065)|null|
 |**2025-05-14**|**Item Level Exploration Traffic Allocation in Large-scale Recommendation Systems**|Dong Wang et.al.|[2505.09033](http://arxiv.org/abs/2505.09033)|null|
@@ -5717,7 +5717,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -5725,7 +5725,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
