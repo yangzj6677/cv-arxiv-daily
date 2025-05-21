@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |---|---|---|---|---|
 |**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
 |**2025-05-19**|**MRM3: Machine Readable ML Model Metadata**|Andrej Čop et.al.|[2505.13343](http://arxiv.org/abs/2505.13343)|null|
-|**2025-05-19**|**$\textit{Rank, Chunk and Expand}$ : Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
+|**2025-05-20**|**Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
 |**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276](http://arxiv.org/abs/2505.13276)|null|
 |**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
 |**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
@@ -2438,7 +2438,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## SFM
 
@@ -2528,7 +2528,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2864,7 +2864,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2993,7 +2993,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3114,7 +3114,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## NeRF
 
@@ -3342,7 +3342,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## RS
 
@@ -3350,14 +3350,14 @@
 |---|---|---|---|---|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
-|**2025-05-19**|**$\textit{Rank, Chunk and Expand}$ : Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
+|**2025-05-20**|**Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
 |**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453](http://arxiv.org/abs/2505.12453)|null|
 |**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
 |**2025-05-17**|**Conversational Recommendation System using NLP and Sentiment Analysis**|Piyush Talegaonkar et.al.|[2505.11933](http://arxiv.org/abs/2505.11933)|null|
 |**2025-05-16**|**The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems**|Petr Kasalický et.al.|[2505.11388](http://arxiv.org/abs/2505.11388)|null|
 |**2025-05-16**|**On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective**|Donald Loveland et.al.|[2505.11318](http://arxiv.org/abs/2505.11318)|null|
 |**2025-05-16**|**From Intent Discovery to Recognition with Topic Modeling and Synthetic Data**|Aaron Rodrigues et.al.|[2505.11176](http://arxiv.org/abs/2505.11176)|null|
-|**2025-05-16**|**Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation**|Qing Yu et.al.|[2505.10940](http://arxiv.org/abs/2505.10940)|null|
+|**2025-05-20**|**Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation**|Qing Yu et.al.|[2505.10940](http://arxiv.org/abs/2505.10940)|null|
 |**2025-05-16**|**Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM**|Wenqing Zheng et.al.|[2505.10900](http://arxiv.org/abs/2505.10900)|null|
 |**2025-05-15**|**AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems**|Feng Cheng et.al.|[2505.10748](http://arxiv.org/abs/2505.10748)|null|
 |**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471](http://arxiv.org/abs/2505.10471)|null|
@@ -5746,7 +5746,7 @@
 |**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588](http://arxiv.org/abs/2303.06588)|null|
 |**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456](http://arxiv.org/abs/2303.06456)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## knowledge graph recommend system
 
@@ -5754,7 +5754,7 @@
 |---|---|---|---|---|
 |**2022-07-29**|**Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering**|Elise van der Pol et.al.|[2207.14589](http://arxiv.org/abs/2207.14589)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
