@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034](http://arxiv.org/abs/2505.18034)|null|
+|**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794](http://arxiv.org/abs/2505.17794)|null|
+|**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|null|
+|**2025-05-23**|**The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes**|Vladimir Baulin et.al.|[2505.17500](http://arxiv.org/abs/2505.17500)|null|
+|**2025-05-23**|**Managing FAIR Knowledge Graphs as Polyglot Data End Points: A Benchmark based on the rdf2pg Framework and Plant Biology Data**|Marco Brandizi et.al.|[2505.17498](http://arxiv.org/abs/2505.17498)|null|
+|**2025-05-23**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464](http://arxiv.org/abs/2505.17464)|null|
+|**2025-05-22**|**MEDMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**|Xiaochen Wang et.al.|[2505.17214](http://arxiv.org/abs/2505.17214)|null|
 |**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877](http://arxiv.org/abs/2505.16877)|null|
 |**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
 |**2025-05-22**|**Filling in the Blanks? A Systematic Review and Theoretical Conceptualisation for Measuring WikiData Content Gaps**|Marisa Ripoll et.al.|[2505.16383](http://arxiv.org/abs/2505.16383)|null|
@@ -3367,6 +3374,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-22**|**LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**|Shurui Zhong et.al.|[2505.17152](http://arxiv.org/abs/2505.17152)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
 |**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-22**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752](http://arxiv.org/abs/2505.16752)|null|
