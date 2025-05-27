@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities**|Chuangtao Ma et.al.|[2505.20099](http://arxiv.org/abs/2505.20099)|null|
+|**2025-05-26**|**Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents**|Tao Wu et.al.|[2505.19997](http://arxiv.org/abs/2505.19997)|null|
+|**2025-05-26**|**Conversational Lexicography: Querying Lexicographic Data on Knowledge Graphs with SPARQL through Natural Language**|Kilian Sennrich et.al.|[2505.19971](http://arxiv.org/abs/2505.19971)|null|
+|**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
+|**2025-05-26**|**Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering**|Jiajun Zhu et.al.|[2505.19410](http://arxiv.org/abs/2505.19410)|null|
+|**2025-05-25**|**Is Architectural Complexity Overrated? Competitive and Interpretable Knowledge Graph Completion with RelatE**|Abhijit Chakraborty et.al.|[2505.18971](http://arxiv.org/abs/2505.18971)|null|
+|**2025-05-24**|**Applying Ontologies and Knowledge Augmented Large Language Models to Industrial Automation: A Decision-Making Guidance for Achieving Human-Robot Collaboration in Industry 5.0**|John Oyekan et.al.|[2505.18553](http://arxiv.org/abs/2505.18553)|null|
+|**2025-05-24**|**RoleRAG: Enhancing LLM Role-Playing via Graph Guided Retrieval**|Yongjie Wang et.al.|[2505.18541](http://arxiv.org/abs/2505.18541)|null|
 |**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034](http://arxiv.org/abs/2505.18034)|null|
 |**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794](http://arxiv.org/abs/2505.17794)|null|
 |**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|null|
@@ -3374,6 +3382,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Catoni-Style Change Point Detection for Regret Minimization in Non-Stationary Heavy-Tailed Bandits**|Gianmarco Genalti et.al.|[2505.20051](http://arxiv.org/abs/2505.20051)|null|
+|**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
+|**2025-05-26**|**MedDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support**|Qianyi Xu et.al.|[2505.19785](http://arxiv.org/abs/2505.19785)|null|
+|**2025-05-26**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
+|**2025-05-26**|**Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach**|Jialei Chen et.al.|[2505.19544](http://arxiv.org/abs/2505.19544)|null|
+|**2025-05-26**|**Hierarchical Tree Search-based User Lifelong Behavior Modeling on Large Language Model**|Yu Xia et.al.|[2505.19505](http://arxiv.org/abs/2505.19505)|null|
+|**2025-05-26**|**Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs**|Hao Kang et.al.|[2505.19481](http://arxiv.org/abs/2505.19481)|null|
+|**2025-05-26**|**Improving Recommendation Fairness without Sensitive Attributes Using Multi-Persona LLMs**|Haoran Xin et.al.|[2505.19473](http://arxiv.org/abs/2505.19473)|null|
+|**2025-05-26**|**Fairness Practices in Industry: A Case Study in Machine Learning Teams Building Recommender Systems**|Jing Nathan Yan et.al.|[2505.19441](http://arxiv.org/abs/2505.19441)|null|
+|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|null|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-22**|**LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**|Shurui Zhong et.al.|[2505.17152](http://arxiv.org/abs/2505.17152)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
