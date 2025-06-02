@@ -1307,7 +1307,7 @@ layout: default
 |**2025-05-28**|**Domain specific ontologies from Linked Open Data (LOD)**|Rosario Uceda-Sosa et.al.|[2505.22550](http://arxiv.org/abs/2505.22550)|null|
 |**2025-05-28**|**BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain**|Yunsoo Kim et.al.|[2505.22240](http://arxiv.org/abs/2505.22240)|null|
 |**2025-05-28**|**Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired**|Ruxiao Chen et.al.|[2505.22087](http://arxiv.org/abs/2505.22087)|null|
-|**2025-05-28**|**Towards Structure-aware Model for Multi-modal Knowledge Graph Completion**|Linyu Li et.al.|[2505.21973](http://arxiv.org/abs/2505.21973)|null|
+|**2025-05-28**|**Towards Structure-aware Model for Multi-modal Knowledge Graph Completion**|Linyu Li et.al.|[2505.21973](http://arxiv.org/abs/2505.21973)|**[link](https://github.com/2391134843/TSAM)**|
 |**2025-05-28**|**Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic Languages**|Pratik Rakesh Singh et.al.|[2505.21937](http://arxiv.org/abs/2505.21937)|null|
 |**2025-05-28**|**Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning**|Yin Hua et.al.|[2505.21926](http://arxiv.org/abs/2505.21926)|null|
 |**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291](http://arxiv.org/abs/2505.21291)|null|
@@ -1329,7 +1329,7 @@ layout: default
 |**2025-05-24**|**RoleRAG: Enhancing LLM Role-Playing via Graph Guided Retrieval**|Yongjie Wang et.al.|[2505.18541](http://arxiv.org/abs/2505.18541)|null|
 |**2025-05-27**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034](http://arxiv.org/abs/2505.18034)|null|
 |**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794](http://arxiv.org/abs/2505.17794)|null|
-|**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|null|
+|**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|**[link](https://github.com/nju-websoft/HuggingBench)**|
 |**2025-05-23**|**The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes**|Vladimir Baulin et.al.|[2505.17500](http://arxiv.org/abs/2505.17500)|null|
 |**2025-05-23**|**Managing FAIR Knowledge Graphs as Polyglot Data End Points: A Benchmark based on the rdf2pg Framework and Plant Biology Data**|Marco Brandizi et.al.|[2505.17498](http://arxiv.org/abs/2505.17498)|null|
 |**2025-05-23**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464](http://arxiv.org/abs/2505.17464)|null|
@@ -1762,7 +1762,7 @@ layout: default
 |**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557](http://arxiv.org/abs/2412.15557)|null|
 |**2024-12-19**|**SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval**|Aakash Mahalingam et.al.|[2412.15443](http://arxiv.org/abs/2412.15443)|null|
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801](http://arxiv.org/abs/2412.14801)|null|
-|**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|null|
+|**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|**[link](https://github.com/ABi-dot/Kedkg)**|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
 |**2024-12-18**|**Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement**|Qianyue Wang et.al.|[2412.13575](http://arxiv.org/abs/2412.13575)|**[link](https://github.com/qianyue-wang/dome)**|
 |**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
@@ -2460,7 +2460,7 @@ layout: default
 |**2024-04-10**|**Knowledge graphs for empirical concept retrieval**|Lenka Tětková et.al.|[2404.07008](http://arxiv.org/abs/2404.07008)|**[link](https://github.com/lenkatetkova/knowledge-graphs-for-empirical-concept-retrieval)**|
 |**2024-04-10**|**Emotion-cause pair extraction method based on multi-granularity information and multi-module interaction**|Mingrui Fu et.al.|[2404.06812](http://arxiv.org/abs/2404.06812)|null|
 |**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571](http://arxiv.org/abs/2404.06571)|null|
-|**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220](http://arxiv.org/abs/2404.06220)|null|
+|**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220](http://arxiv.org/abs/2404.06220)|**[link](https://github.com/luisrui/Multimodal-Relation-Extrapolation)**|
 |**2024-04-09**|**Protection of Guizhou Miao Batik Culture Based on Knowledge Graph and Deep Learning**|Huafeng Quan et.al.|[2404.06168](http://arxiv.org/abs/2404.06168)|null|
 |**2024-04-06**|**Evaluating the Effectiveness of Artificial Intelligence in Predicting Adverse Drug Reactions among Cancer Patients: A Systematic Review and Meta-Analysis**|Fatma Zahra Abdeldjouad et.al.|[2404.05762](http://arxiv.org/abs/2404.05762)|null|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
@@ -3411,12 +3411,12 @@ layout: default
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 |**2025-05-26**|**MedDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support**|Qianyi Xu et.al.|[2505.19785](http://arxiv.org/abs/2505.19785)|null|
 |**2025-05-26**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
-|**2025-05-26**|**Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach**|Jialei Chen et.al.|[2505.19544](http://arxiv.org/abs/2505.19544)|null|
+|**2025-05-26**|**Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach**|Jialei Chen et.al.|[2505.19544](http://arxiv.org/abs/2505.19544)|**[link](https://github.com/nemo-1024/adrec)**|
 |**2025-05-26**|**Hierarchical Tree Search-based User Lifelong Behavior Modeling on Large Language Model**|Yu Xia et.al.|[2505.19505](http://arxiv.org/abs/2505.19505)|null|
-|**2025-05-26**|**Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs**|Hao Kang et.al.|[2505.19481](http://arxiv.org/abs/2505.19481)|null|
+|**2025-05-26**|**Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs**|Hao Kang et.al.|[2505.19481](http://arxiv.org/abs/2505.19481)|**[link](https://github.com/haokang-timmy/latencysensitivebench)**|
 |**2025-05-26**|**Improving Recommendation Fairness without Sensitive Attributes Using Multi-Persona LLMs**|Haoran Xin et.al.|[2505.19473](http://arxiv.org/abs/2505.19473)|null|
 |**2025-05-26**|**Fairness Practices in Industry: A Case Study in Machine Learning Teams Building Recommender Systems**|Jing Nathan Yan et.al.|[2505.19441](http://arxiv.org/abs/2505.19441)|null|
-|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|null|
+|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|**[link](https://github.com/ustc-starteam/dlf)**|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-22**|**LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**|Shurui Zhong et.al.|[2505.17152](http://arxiv.org/abs/2505.17152)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
@@ -3472,7 +3472,7 @@ layout: default
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083](http://arxiv.org/abs/2505.05083)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
-|**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
+|**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|**[link](https://github.com/enoche/lirdrec)**|
 |**2025-05-08**|**Prompt-Based LLMs for Position Bias-Aware Reranking in Personalized Recommendations**|Md Aminul Islam et.al.|[2505.04948](http://arxiv.org/abs/2505.04948)|**[link](https://github.com/aminul7506/llmforreranking)**|
 |**2025-05-08**|**Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis**|Rebecca Aben-Athar et.al.|[2505.04879](http://arxiv.org/abs/2505.04879)|null|
 |**2025-05-07**|**Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems**|Jian Cui et.al.|[2505.04799](http://arxiv.org/abs/2505.04799)|null|
@@ -4001,7 +4001,7 @@ layout: default
 |**2024-11-20**|**No Free Delivery Service: Epistemic limits of passive data collection in complex social systems**|Maximilian Nickel et.al.|[2411.13653](http://arxiv.org/abs/2411.13653)|null|
 |**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|**[link](https://github.com/chenxing1999/shaver)**|
 |**2024-11-20**|**Probably Approximately Precision and Recall Learning**|Lee Cohen et.al.|[2411.13029](http://arxiv.org/abs/2411.13029)|null|
-|**2024-11-20**|**Data Watermarking for Sequential Recommender Systems**|Sixiao Zhang et.al.|[2411.12989](http://arxiv.org/abs/2411.12989)|null|
+|**2024-11-20**|**Data Watermarking for Sequential Recommender Systems**|Sixiao Zhang et.al.|[2411.12989](http://arxiv.org/abs/2411.12989)|**[link](https://github.com/rinnesz/dwrs)**|
 |**2024-11-20**|**On adaptivity and minimax optimality of two-sided nearest neighbors**|Tathagata Sadhukhan et.al.|[2411.12965](http://arxiv.org/abs/2411.12965)|null|
 |**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950](http://arxiv.org/abs/2411.12950)|null|
 |**2024-11-19**|**Sparser Training for On-Device Recommendation Systems**|Yunke Qu et.al.|[2411.12205](http://arxiv.org/abs/2411.12205)|null|
