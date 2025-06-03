@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1296,7 +1296,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation**|Sania Nayab et.al.|[2505.24479](http://arxiv.org/abs/2505.24479)|null|
 |**2025-05-30**|**Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning**|Vasilije Markovic et.al.|[2505.24478](http://arxiv.org/abs/2505.24478)|null|
 |**2025-05-30**|**LLM Inference Enhanced by External Knowledge: A Survey**|Yu-Hsuan Lin et.al.|[2505.24377](http://arxiv.org/abs/2505.24377)|null|
@@ -3403,10 +3403,10 @@ layout: default
 |**2025-05-28**|**StarBASE-GP: Biologically-Guided Automated Machine Learning for Genotype-to-Phenotype Association Analysis**|Jose Guadalupe Hernandez et.al.|[2505.22746](http://arxiv.org/abs/2505.22746)|null|
 |**2025-05-29**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
 |**2025-05-28**|**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**|Xiangxiang Dai et.al.|[2505.22254](http://arxiv.org/abs/2505.22254)|null|
-|**2025-05-28**|**Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval**|A. Ploshkin et.al.|[2505.22238](http://arxiv.org/abs/2505.22238)|null|
+|**2025-06-01**|**Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval**|A. Ploshkin et.al.|[2505.22238](http://arxiv.org/abs/2505.22238)|null|
 |**2025-05-28**|**ConsRec: Denoising Sequential Recommendation through User-Consistent Preference Modeling**|Haidong Xin et.al.|[2505.22130](http://arxiv.org/abs/2505.22130)|null|
 |**2025-05-28**|**Shapley Value-driven Data Pruning for Recommender Systems**|Yansen Zhang et.al.|[2505.22057](http://arxiv.org/abs/2505.22057)|**[link](https://github.com/Forrest-Stone/SVV)**|
-|**2025-05-28**|**Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive Survey and Taxonomy**|Saleh Afzoon et.al.|[2505.21907](http://arxiv.org/abs/2505.21907)|null|
+|**2025-05-31**|**Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive Survey and Taxonomy**|Saleh Afzoon et.al.|[2505.21907](http://arxiv.org/abs/2505.21907)|null|
 |**2025-05-27**|**Revisiting Self-attention for Cross-domain Sequential Recommendation**|Clark Mingxuan Ju et.al.|[2505.21811](http://arxiv.org/abs/2505.21811)|null|
 |**2025-05-27**|**Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits**|Maoli Liu et.al.|[2505.21393](http://arxiv.org/abs/2505.21393)|null|
 |**2025-05-27**|**Crop recommendation with machine learning: leveraging environmental and economic factors for optimal crop selection**|Steven Sam et.al.|[2505.21201](http://arxiv.org/abs/2505.21201)|null|
