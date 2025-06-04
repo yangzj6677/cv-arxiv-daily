@@ -24,6 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
+|**2025-06-03**|**A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning**|Xuejiao Zhao et.al.|[2506.02470](http://arxiv.org/abs/2506.02470)|null|
+|**2025-06-03**|**STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation**|Jiaming Li et.al.|[2506.02347](http://arxiv.org/abs/2506.02347)|null|
+|**2025-06-02**|**DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**|Jennifer Chen et.al.|[2506.01954](http://arxiv.org/abs/2506.01954)|null|
+|**2025-06-02**|**iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering**|Shuai Wang et.al.|[2506.01784](http://arxiv.org/abs/2506.01784)|null|
+|**2025-06-03**|**SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation**|Yinghui Liu et.al.|[2506.01705](http://arxiv.org/abs/2506.01705)|null|
+|**2025-06-02**|**Building Entity Association Mining Framework for Knowledge Discovery**|Anshika Rawal et.al.|[2506.01451](http://arxiv.org/abs/2506.01451)|null|
+|**2025-06-02**|**ThinkEval: Practical Evaluation of Knowledge Preservation and Consistency in LLM Editing with Thought-based Knowledge Graphs**|Manit Baser et.al.|[2506.01386](http://arxiv.org/abs/2506.01386)|null|
+|**2025-06-02**|**Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation**|Yichi Zhang et.al.|[2506.01293](http://arxiv.org/abs/2506.01293)|null|
 |**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation**|Sania Nayab et.al.|[2505.24479](http://arxiv.org/abs/2505.24479)|null|
@@ -3415,6 +3425,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834](http://arxiv.org/abs/2506.02834)|null|
+|**2025-06-03**|**Learning Binarized Representations with Pseudo-positive Sample Enhancement for Efficient Graph Collaborative Filtering**|Yankai Chen et.al.|[2506.02750](http://arxiv.org/abs/2506.02750)|null|
+|**2025-06-03**|**Building a Recommendation System Using Amazon Product Co-Purchasing Network**|Minghao Liu et.al.|[2506.02482](http://arxiv.org/abs/2506.02482)|null|
+|**2025-06-02**|**TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation**|Xue Xia et.al.|[2506.02267](http://arxiv.org/abs/2506.02267)|null|
+|**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
+|**2025-06-02**|**Generate, Not Recommend: Personalized Multimodal Content Generation**|Jiongnan Liu et.al.|[2506.01704](http://arxiv.org/abs/2506.01704)|null|
+|**2025-06-02**|**Understanding and Improving Laplacian Positional Encodings For Temporal GNNs**|Yaniv Galron et.al.|[2506.01596](http://arxiv.org/abs/2506.01596)|null|
+|**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
+|**2025-06-01**|**Data Heterogeneity Modeling for Trustworthy Machine Learning**|Jiashuo Liu et.al.|[2506.00969](http://arxiv.org/abs/2506.00969)|null|
+|**2025-06-01**|**AliBoost: Ecological Boosting Framework in Alibaba Platform**|Qijie Shen et.al.|[2506.00954](http://arxiv.org/abs/2506.00954)|null|
 |**2025-05-30**|**Survey: Graph Databases**|Miguel E. Coimbra et.al.|[2505.24758](http://arxiv.org/abs/2505.24758)|null|
 |**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|null|
 |**2025-05-28**|**StarBASE-GP: Biologically-Guided Automated Machine Learning for Genotype-to-Phenotype Association Analysis**|Jose Guadalupe Hernandez et.al.|[2505.22746](http://arxiv.org/abs/2505.22746)|null|
