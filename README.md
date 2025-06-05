@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
+|**2025-06-04**|**Signals as a First-Class Citizen When Querying Knowledge Graphs**|Tobias Schwarzinger et.al.|[2506.03826](http://arxiv.org/abs/2506.03826)|null|
+|**2025-06-04**|**From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**|Peter Pfeiffer et.al.|[2506.03801](http://arxiv.org/abs/2506.03801)|null|
+|**2025-06-04**|**KG-BiLM: Knowledge Graph Embedding via Bidirectional Language Models**|Zirui Chen et.al.|[2506.03576](http://arxiv.org/abs/2506.03576)|null|
+|**2025-06-03**|**From Instructions to ODRL Usage Policies: An Ontology Guided Approach**|Daham M. Mustafa et.al.|[2506.03301](http://arxiv.org/abs/2506.03301)|null|
+|**2025-06-03**|**Human-In-The-Loop Workflow for Neuro- Symbolic Scholarly Knowledge Organization**|Lena John et.al.|[2506.03221](http://arxiv.org/abs/2506.03221)|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 |**2025-06-03**|**A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning**|Xuejiao Zhao et.al.|[2506.02470](http://arxiv.org/abs/2506.02470)|null|
@@ -3425,6 +3431,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166](http://arxiv.org/abs/2506.04166)|null|
+|**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015](http://arxiv.org/abs/2506.04015)|null|
+|**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
+|**2025-06-04**|**Distinguishing True Influence from Hyperprolificity with Citation Distance**|Lu Li et.al.|[2506.03527](http://arxiv.org/abs/2506.03527)|null|
+|**2025-06-03**|**Quake: Adaptive Indexing for Vector Search**|Jason Mohoney et.al.|[2506.03437](http://arxiv.org/abs/2506.03437)|null|
+|**2025-06-03**|**Universal Reusability in Recommender Systems: The Case for Dataset- and Task-Independent Frameworks**|Tri Kurniawan Wijaya et.al.|[2506.03391](http://arxiv.org/abs/2506.03391)|null|
+|**2025-06-03**|**Optimization of Epsilon-Greedy Exploration**|Ethan Che et.al.|[2506.03324](http://arxiv.org/abs/2506.03324)|null|
 |**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834](http://arxiv.org/abs/2506.02834)|null|
 |**2025-06-03**|**Learning Binarized Representations with Pseudo-positive Sample Enhancement for Efficient Graph Collaborative Filtering**|Yankai Chen et.al.|[2506.02750](http://arxiv.org/abs/2506.02750)|null|
 |**2025-06-03**|**Building a Recommendation System Using Amazon Product Co-Purchasing Network**|Minghao Liu et.al.|[2506.02482](http://arxiv.org/abs/2506.02482)|null|
