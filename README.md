@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation**|Ze Yu Zhang et.al.|[2506.05939](http://arxiv.org/abs/2506.05939)|null|
+|**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766](http://arxiv.org/abs/2506.05766)|null|
+|**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
+|**2025-06-05**|**Two-dimensional Taxonomy for N-ary Knowledge Representation Learning Methods**|Xiaohua Lu et.al.|[2506.05626](http://arxiv.org/abs/2506.05626)|null|
 |**2025-06-05**|**OpenAg: Democratizing Agricultural Intelligence**|Srikanth Thudumu et.al.|[2506.04571](http://arxiv.org/abs/2506.04571)|null|
 |**2025-06-04**|**Schema Generation for Large Knowledge Graphs Using Large Language Models**|Bohui Zhang et.al.|[2506.04512](http://arxiv.org/abs/2506.04512)|null|
 |**2025-06-04**|**Zero-Shot Open-Schema Entity Structure Discovery**|Xueqiang Xu et.al.|[2506.04458](http://arxiv.org/abs/2506.04458)|null|
@@ -3434,6 +3438,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270](http://arxiv.org/abs/2506.06270)|null|
+|**2025-06-06**|**Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation**|Jiang Zhang et.al.|[2506.06239](http://arxiv.org/abs/2506.06239)|null|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
+|**2025-06-05**|**Heterogeneous Sequel-Aware Graph Neural Networks for Sequential Learning**|Anushka Tiwari et.al.|[2506.05625](http://arxiv.org/abs/2506.05625)|null|
 |**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308](http://arxiv.org/abs/2506.05308)|null|
 |**2025-06-05**|**PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation**|Chenglong Ma et.al.|[2506.04551](http://arxiv.org/abs/2506.04551)|null|
 |**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
