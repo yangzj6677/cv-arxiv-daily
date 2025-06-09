@@ -52,7 +52,7 @@
 |**2025-05-30**|**LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing**|Jiaqi Sun et.al.|[2505.24163](http://arxiv.org/abs/2505.24163)|null|
 |**2025-05-29**|**GenIC: An LLM-Based Framework for Instance Completion in Knowledge Graphs**|Amel Gader et.al.|[2505.24036](http://arxiv.org/abs/2505.24036)|null|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944](http://arxiv.org/abs/2505.23944)|null|
-|**2025-05-29**|**AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**|Jiaxin Bai et.al.|[2505.23628](http://arxiv.org/abs/2505.23628)|null|
+|**2025-05-29**|**AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**|Jiaxin Bai et.al.|[2505.23628](http://arxiv.org/abs/2505.23628)|**[link](https://github.com/hkust-knowcomp/autoschemakg)**|
 |**2025-05-29**|**Position Paper: Metadata Enrichment Model: Integrating Neural Networks and Semantic Knowledge Graphs for Cultural Heritage Applications**|Jan Ignatowicz et.al.|[2505.23543](http://arxiv.org/abs/2505.23543)|null|
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**UAQFact: Evaluating Factual Knowledge Utilization of LLMs on Unanswerable Questions**|Chuanyuan Tan et.al.|[2505.23461](http://arxiv.org/abs/2505.23461)|**[link](https://github.com/cytan17726/uaq_fact)**|
@@ -3455,8 +3455,8 @@
 |**2025-06-01**|**Data Heterogeneity Modeling for Trustworthy Machine Learning**|Jiashuo Liu et.al.|[2506.00969](http://arxiv.org/abs/2506.00969)|null|
 |**2025-06-01**|**AliBoost: Ecological Boosting Framework in Alibaba Platform**|Qijie Shen et.al.|[2506.00954](http://arxiv.org/abs/2506.00954)|null|
 |**2025-05-30**|**Survey: Graph Databases**|Miguel E. Coimbra et.al.|[2505.24758](http://arxiv.org/abs/2505.24758)|null|
-|**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|null|
-|**2025-05-28**|**StarBASE-GP: Biologically-Guided Automated Machine Learning for Genotype-to-Phenotype Association Analysis**|Jose Guadalupe Hernandez et.al.|[2505.22746](http://arxiv.org/abs/2505.22746)|null|
+|**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|**[link](https://github.com/miulab/lmrec-survey)**|
+|**2025-05-28**|**StarBASE-GP: Biologically-Guided Automated Machine Learning for Genotype-to-Phenotype Association Analysis**|Jose Guadalupe Hernandez et.al.|[2505.22746](http://arxiv.org/abs/2505.22746)|**[link](https://github.com/epistasislab/starbase-gp)**|
 |**2025-05-29**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
 |**2025-05-28**|**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**|Xiangxiang Dai et.al.|[2505.22254](http://arxiv.org/abs/2505.22254)|null|
 |**2025-06-01**|**Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval**|A. Ploshkin et.al.|[2505.22238](http://arxiv.org/abs/2505.22238)|null|
