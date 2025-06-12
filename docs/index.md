@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
+|**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
+|**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
+|**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
+|**2025-06-11**|**PGDA-KGQA: A Prompt-Guided Generative Framework with Multiple Data Augmentation Strategies for Knowledge Graph Question Answering**|Xiujun Zhou et.al.|[2506.09414](http://arxiv.org/abs/2506.09414)|null|
 |**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970](http://arxiv.org/abs/2506.08970)|null|
 |**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
@@ -3436,6 +3441,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Bayesian Probabilistic Matrix Factorization**|Ruixuan Xu et.al.|[2506.09928](http://arxiv.org/abs/2506.09928)|null|
+|**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898](http://arxiv.org/abs/2506.09898)|null|
+|**2025-06-11**|**Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition**|Jundong Chen et.al.|[2506.09525](http://arxiv.org/abs/2506.09525)|null|
+|**2025-06-10**|**Revisiting Graph Projections for Effective Complementary Product Recommendation**|Leandro Anghinoni et.al.|[2506.09209](http://arxiv.org/abs/2506.09209)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
 |**2025-06-10**|**Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems**|Runze Li et.al.|[2506.08401](http://arxiv.org/abs/2506.08401)|null|
 |**2025-06-10**|**Rule-Assisted Attribute Embedding**|Sibo Zhao et.al.|[2506.08314](http://arxiv.org/abs/2506.08314)|null|
