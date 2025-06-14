@@ -3466,8 +3466,8 @@
 |**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
 |**2025-06-11**|**Bayesian Probabilistic Matrix Factorization**|Ruixuan Xu et.al.|[2506.09928](http://arxiv.org/abs/2506.09928)|null|
-|**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898](http://arxiv.org/abs/2506.09898)|null|
-|**2025-06-11**|**Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition**|Jundong Chen et.al.|[2506.09525](http://arxiv.org/abs/2506.09525)|null|
+|**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898](http://arxiv.org/abs/2506.09898)|**[link](https://github.com/anonyfeb/dsml)**|
+|**2025-06-11**|**Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition**|Jundong Chen et.al.|[2506.09525](http://arxiv.org/abs/2506.09525)|**[link](https://github.com/jundongchen13/pfedclr)**|
 |**2025-06-10**|**Revisiting Graph Projections for Effective Complementary Product Recommendation**|Leandro Anghinoni et.al.|[2506.09209](http://arxiv.org/abs/2506.09209)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
 |**2025-06-10**|**Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems**|Runze Li et.al.|[2506.08401](http://arxiv.org/abs/2506.08401)|null|
