@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1297,12 +1297,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925](http://arxiv.org/abs/2506.11925)|null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600](http://arxiv.org/abs/2506.11600)|null|
-|**2025-06-13**|**A Reference Model and Patterns for Production Event Data Enrichment**|Mark van der Pas et.al.|[2506.11502](http://arxiv.org/abs/2506.11502)|null|
+|**2025-06-16**|**A Reference Model and Patterns for Production Event Data Enrichment**|Mark van der Pas et.al.|[2506.11502](http://arxiv.org/abs/2506.11502)|null|
 |**2025-06-12**|**Jelly: a fast and convenient RDF serialization format**|Piotr Sowinski et.al.|[2506.11298](http://arxiv.org/abs/2506.11298)|null|
 |**2025-06-13**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
 |**2025-06-12**|**Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs**|Yilin Xiao et.al.|[2506.10508](http://arxiv.org/abs/2506.10508)|null|
-|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
-|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
+|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|**[link](https://github.com/1371149/lightkg)**|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|**[link](https://github.com/tianyao-aka/rapl)**|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
 |**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
 |**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
@@ -3448,12 +3448,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
+|**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
 |**2025-06-13**|**Learn to Preserve Personality: Federated Foundation Models in Recommendations**|Zhiwei Li et.al.|[2506.11563](http://arxiv.org/abs/2506.11563)|null|
 |**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 |**2025-06-12**|**Macro Graph of Experts for Billion-Scale Multi-Task Recommendation**|Hongyu Yao et.al.|[2506.10520](http://arxiv.org/abs/2506.10520)|null|
-|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
+|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|**[link](https://github.com/1371149/lightkg)**|
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
 |**2025-06-12**|**Course Project Report: Comparing MCMC and Variational Inference for Bayesian Probabilistic Matrix Factorization on the MovieLens Dataset**|Ruixuan Xu et.al.|[2506.09928](http://arxiv.org/abs/2506.09928)|null|
 |**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898](http://arxiv.org/abs/2506.09898)|**[link](https://github.com/anonyfeb/dsml)**|
