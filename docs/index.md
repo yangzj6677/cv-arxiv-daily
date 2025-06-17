@@ -1295,6 +1295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641](http://arxiv.org/abs/2506.13641)|null|
+|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
+|**2025-06-16**|**Decompositional Reasoning for Graph Retrieval with Large Language Models**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
+|**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
+|**2025-06-16**|**KEPLA: A Knowledge-Enhanced Deep Learning Framework for Accurate Protein-Ligand Binding Affinity Prediction**|Han Liu et.al.|[2506.13196](http://arxiv.org/abs/2506.13196)|null|
+|**2025-06-16**|**Enhancing Large Language Models with Reliable Knowledge Graphs**|Qinggang Zhang et.al.|[2506.13178](http://arxiv.org/abs/2506.13178)|null|
+|**2025-06-16**|**PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone**|Kamilia Zaripova et.al.|[2506.13119](http://arxiv.org/abs/2506.13119)|null|
+|**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026](http://arxiv.org/abs/2506.13026)|null|
+|**2025-06-14**|**OneEval: Benchmarking LLM Knowledge-intensive Reasoning over Diverse Knowledge Bases**|Yongrui Chen et.al.|[2506.12577](http://arxiv.org/abs/2506.12577)|null|
+|**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558](http://arxiv.org/abs/2506.12558)|null|
 |**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925](http://arxiv.org/abs/2506.11925)|null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600](http://arxiv.org/abs/2506.11600)|null|
 |**2025-06-16**|**A Reference Model and Patterns for Production Event Data Enrichment**|Mark van der Pas et.al.|[2506.11502](http://arxiv.org/abs/2506.11502)|null|
@@ -3448,6 +3458,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
+|**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695](http://arxiv.org/abs/2506.13695)|null|
+|**2025-06-16**|**Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories**|Georgios Koutroumpas et.al.|[2506.13409](http://arxiv.org/abs/2506.13409)|null|
+|**2025-06-16**|**Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation**|Juntao Hu et.al.|[2506.13315](http://arxiv.org/abs/2506.13315)|null|
+|**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
+|**2025-06-16**|**C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation**|Siqi Liang et.al.|[2506.13021](http://arxiv.org/abs/2506.13021)|null|
+|**2025-06-15**|**Hierarchical Group-wise Ranking Framework for Recommendation Models**|YaChen Yan et.al.|[2506.12756](http://arxiv.org/abs/2506.12756)|null|
+|**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700](http://arxiv.org/abs/2506.12700)|null|
+|**2025-06-14**|**INTERPOS: Interaction Rhythm Guided Positional Morphing for Mobile App Recommender Systems**|M. H. Maqbool et.al.|[2506.12661](http://arxiv.org/abs/2506.12661)|null|
+|**2025-06-14**|**Are We Really Measuring Progress? Transferring Insights from Evaluating Recommender Systems to Temporal Link Prediction**|Filip Cornell et.al.|[2506.12588](http://arxiv.org/abs/2506.12588)|null|
 |**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
 |**2025-06-13**|**Learn to Preserve Personality: Federated Foundation Models in Recommendations**|Zhiwei Li et.al.|[2506.11563](http://arxiv.org/abs/2506.11563)|null|
 |**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
