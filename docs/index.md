@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704](http://arxiv.org/abs/2506.14704)|null|
+|**2025-06-17**|**From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents**|Seongbo Jang et.al.|[2506.14285](http://arxiv.org/abs/2506.14285)|null|
+|**2025-06-17**|**A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs**|Yimin Deng et.al.|[2506.14235](http://arxiv.org/abs/2506.14235)|null|
+|**2025-06-17**|**Affective-CARA: A Knowledge Graph Driven Framework for Culturally Adaptive Emotional Intelligence in HCI**|Nirodya Pussadeniya et.al.|[2506.14166](http://arxiv.org/abs/2506.14166)|null|
+|**2025-06-16**|**Integrating Knowledge Graphs and Bayesian Networks: A Hybrid Approach for Explainable Disease Risk Prediction**|Mbithe Nzomo et.al.|[2506.13920](http://arxiv.org/abs/2506.13920)|null|
 |**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641](http://arxiv.org/abs/2506.13641)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Decompositional Reasoning for Graph Retrieval with Large Language Models**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
@@ -3458,6 +3463,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**A Systematic Replicability and Comparative Study of BSARec and SASRec for Sequential Recommendation**|Chiara D'Ercoli et.al.|[2506.14692](http://arxiv.org/abs/2506.14692)|null|
+|**2025-06-17**|**ImpReSS: Implicit Recommender System for Support Conversations**|Omri Haller et.al.|[2506.14231](http://arxiv.org/abs/2506.14231)|null|
 |**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
 |**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695](http://arxiv.org/abs/2506.13695)|null|
 |**2025-06-16**|**Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories**|Georgios Koutroumpas et.al.|[2506.13409](http://arxiv.org/abs/2506.13409)|null|
