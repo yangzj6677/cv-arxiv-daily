@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1301,7 +1301,7 @@ layout: default
 |**2025-06-17**|**A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs**|Yimin Deng et.al.|[2506.14235](http://arxiv.org/abs/2506.14235)|null|
 |**2025-06-17**|**Affective-CARA: A Knowledge Graph Driven Framework for Culturally Adaptive Emotional Intelligence in HCI**|Nirodya Pussadeniya et.al.|[2506.14166](http://arxiv.org/abs/2506.14166)|null|
 |**2025-06-16**|**Integrating Knowledge Graphs and Bayesian Networks: A Hybrid Approach for Explainable Disease Risk Prediction**|Mbithe Nzomo et.al.|[2506.13920](http://arxiv.org/abs/2506.13920)|null|
-|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641](http://arxiv.org/abs/2506.13641)|null|
+|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641](http://arxiv.org/abs/2506.13641)|**[link](https://github.com/bernard-yang/evolvtrip)**|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Decompositional Reasoning for Graph Retrieval with Large Language Models**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
@@ -3465,7 +3465,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**|Yu-Ting Lan et.al.|[2506.15267](http://arxiv.org/abs/2506.15267)|null|
-|**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|null|
+|**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
 |**2025-06-17**|**A Systematic Replicability and Comparative Study of BSARec and SASRec for Sequential Recommendation**|Chiara D'Ercoli et.al.|[2506.14692](http://arxiv.org/abs/2506.14692)|null|
 |**2025-06-17**|**ImpReSS: Implicit Recommender System for Support Conversations**|Omri Haller et.al.|[2506.14231](http://arxiv.org/abs/2506.14231)|null|
