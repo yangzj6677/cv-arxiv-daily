@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981](http://arxiv.org/abs/2506.16981)|null|
+|**2025-06-19**|**A Community-driven vision for a new Knowledge Resource for AI**|Vinay K Chaudhri et.al.|[2506.16596](http://arxiv.org/abs/2506.16596)|null|
+|**2025-06-19**|**Analyzing the Influence of Knowledge Graph Information on Relation Extraction**|Cedric Möller et.al.|[2506.16343](http://arxiv.org/abs/2506.16343)|null|
 |**2025-06-18**|**Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs**|Yang Fan et.al.|[2506.15241](http://arxiv.org/abs/2506.15241)|null|
 |**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704](http://arxiv.org/abs/2506.14704)|null|
 |**2025-06-17**|**From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents**|Seongbo Jang et.al.|[2506.14285](http://arxiv.org/abs/2506.14285)|null|
@@ -3481,6 +3485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation**|Zhen Gong et.al.|[2506.16942](http://arxiv.org/abs/2506.16942)|null|
+|**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893](http://arxiv.org/abs/2506.16893)|null|
+|**2025-06-20**|**SIDE: Semantic ID Embedding for effective learning from sequences**|Dinesh Ramasamy et.al.|[2506.16698](http://arxiv.org/abs/2506.16698)|null|
+|**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683](http://arxiv.org/abs/2506.16683)|null|
+|**2025-06-19**|**Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures**|Vijay Prakash Dwivedi et.al.|[2506.16654](http://arxiv.org/abs/2506.16654)|null|
+|**2025-06-19**|**On the Efficient Discovery of Maximum $k$ -Defective Biclique**|Donghang Cui et.al.|[2506.16121](http://arxiv.org/abs/2506.16121)|null|
+|**2025-06-19**|**GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks**|Yejing Wang et.al.|[2506.16114](http://arxiv.org/abs/2506.16114)|null|
+|**2025-06-19**|**SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems**|Tan Loc Nguyen et.al.|[2506.16003](http://arxiv.org/abs/2506.16003)|null|
+|**2025-06-19**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986](http://arxiv.org/abs/2506.15986)|null|
+|**2025-06-18**|**Architecture is All You Need: Improving LLM Recommenders by Dropping the Text**|Kevin Foley et.al.|[2506.15833](http://arxiv.org/abs/2506.15833)|null|
 |**2025-06-18**|**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**|Yu-Ting Lan et.al.|[2506.15267](http://arxiv.org/abs/2506.15267)|null|
 |**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
