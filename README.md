@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559](http://arxiv.org/abs/2506.18559)|null|
+|**2025-06-22**|**medicX-KG: A Knowledge Graph for Pharmacists' Drug Information Needs**|Lizzy Farrugia et.al.|[2506.17959](http://arxiv.org/abs/2506.17959)|null|
+|**2025-06-21**|**Machine Learning Model Integration with Open World Temporal Logic for Process Automation**|Dyuman Aditya et.al.|[2506.17776](http://arxiv.org/abs/2506.17776)|null|
+|**2025-06-21**|**Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion**|Jiheng Liang et.al.|[2506.17761](http://arxiv.org/abs/2506.17761)|null|
+|**2025-06-21**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
+|**2025-06-19**|**Beyond Prediction -- Structuring Epistemic Integrity in Artificial Reasoning Systems**|Craig Steven Wright et.al.|[2506.17331](http://arxiv.org/abs/2506.17331)|null|
 |**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
 |**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981](http://arxiv.org/abs/2506.16981)|null|
 |**2025-06-19**|**A Community-driven vision for a new Knowledge Resource for AI**|Vinay K Chaudhri et.al.|[2506.16596](http://arxiv.org/abs/2506.16596)|null|
@@ -3485,6 +3491,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Experimenting, Fast and Slow: Bayesian Optimization of Long-term Outcomes with Online Experiments**|Qing Feng et.al.|[2506.18744](http://arxiv.org/abs/2506.18744)|null|
+|**2025-06-23**|**Bias vs Bias -- Dawn of Justice: A Fair Fight in Recommendation Systems**|Tahsin Alamgir Kheya et.al.|[2506.18327](http://arxiv.org/abs/2506.18327)|null|
+|**2025-06-23**|**LettinGo: Explore User Profile Generation for Recommendation System**|Lu Wang et.al.|[2506.18309](http://arxiv.org/abs/2506.18309)|null|
+|**2025-06-22**|**HE-LRM: Encrypted Deep Learning Recommendation Models using Fully Homomorphic Encryption**|Karthik Garimella et.al.|[2506.18150](http://arxiv.org/abs/2506.18150)|null|
+|**2025-06-22**|**LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2506.17966](http://arxiv.org/abs/2506.17966)|null|
+|**2025-06-21**|**CARTS: Collaborative Agents for Recommendation Textual Summarization**|Jiao Chen et.al.|[2506.17765](http://arxiv.org/abs/2506.17765)|null|
+|**2025-06-21**|**Reinforcing User Interest Evolution in Multi-Scenario Learning for recommender systems**|Zhijian Feng et.al.|[2506.17682](http://arxiv.org/abs/2506.17682)|null|
+|**2025-06-21**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-20**|**Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation**|Zhen Gong et.al.|[2506.16942](http://arxiv.org/abs/2506.16942)|null|
 |**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893](http://arxiv.org/abs/2506.16893)|null|
 |**2025-06-20**|**SIDE: Semantic ID Embedding for effective learning from sequences**|Dinesh Ramasamy et.al.|[2506.16698](http://arxiv.org/abs/2506.16698)|null|
