@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype**|Xuefei Hou et.al.|[2506.20156](http://arxiv.org/abs/2506.20156)|null|
+|**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
 |**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|
 |**2025-06-24**|**Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study**|Nandana Mihindukulasooriya et.al.|[2506.19773](http://arxiv.org/abs/2506.19773)|null|
 |**2025-06-24**|**Conversational Intent-Driven GraphRAG: Enhancing Multi-Turn Dialogue Systems through Adaptive Dual-Retrieval of Flow Patterns and Context Semantics**|Ziqi Zhu et.al.|[2506.19385](http://arxiv.org/abs/2506.19385)|null|
@@ -3494,6 +3496,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
+|**2025-06-25**|**A Literature Review on Simulation in Conversational Recommender Systems**|Haoran Zhang et.al.|[2506.20291](http://arxiv.org/abs/2506.20291)|null|
+|**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234](http://arxiv.org/abs/2506.20234)|null|
+|**2025-06-24**|**CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems**|Haochen Zhang et.al.|[2506.19993](http://arxiv.org/abs/2506.19993)|null|
 |**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
 |**2025-06-24**|**Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study**|Nandana Mihindukulasooriya et.al.|[2506.19773](http://arxiv.org/abs/2506.19773)|null|
 |**2025-06-24**|**RecLLM-R1: A Two-Stage Training Paradigm with Reinforcement Learning and Chain-of-Thought v1**|Yu Xie et.al.|[2506.19235](http://arxiv.org/abs/2506.19235)|null|
