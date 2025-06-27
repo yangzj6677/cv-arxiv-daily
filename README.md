@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
+|**2025-06-26**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
+|**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
+|**2025-06-25**|**Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach**|Srikar Reddy Gadusu et.al.|[2506.20851](http://arxiv.org/abs/2506.20851)|null|
 |**2025-06-25**|**Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype**|Xuefei Hou et.al.|[2506.20156](http://arxiv.org/abs/2506.20156)|null|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
 |**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|
@@ -3496,6 +3500,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**RecCoT: Enhancing Recommendation via Chain-of-Thought**|Shuo Yang et.al.|[2506.21032](http://arxiv.org/abs/2506.21032)|null|
+|**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
+|**2025-06-25**|**Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications**|Xinye Tang et.al.|[2506.20815](http://arxiv.org/abs/2506.20815)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-25**|**A Literature Review on Simulation in Conversational Recommender Systems**|Haoran Zhang et.al.|[2506.20291](http://arxiv.org/abs/2506.20291)|null|
 |**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234](http://arxiv.org/abs/2506.20234)|null|
