@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1304,7 +1304,7 @@ layout: default
 |**2025-06-22**|**medicX-KG: A Knowledge Graph for Pharmacists' Drug Information Needs**|Lizzy Farrugia et.al.|[2506.17959](http://arxiv.org/abs/2506.17959)|null|
 |**2025-06-21**|**Machine Learning Model Integration with Open World Temporal Logic for Process Automation**|Dyuman Aditya et.al.|[2506.17776](http://arxiv.org/abs/2506.17776)|null|
 |**2025-06-21**|**Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion**|Jiheng Liang et.al.|[2506.17761](http://arxiv.org/abs/2506.17761)|null|
-|**2025-06-21**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
+|**2025-06-26**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
 |**2025-06-19**|**Beyond Prediction -- Structuring Epistemic Integrity in Artificial Reasoning Systems**|Craig Steven Wright et.al.|[2506.17331](http://arxiv.org/abs/2506.17331)|null|
 |**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
 |**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981](http://arxiv.org/abs/2506.16981)|null|
