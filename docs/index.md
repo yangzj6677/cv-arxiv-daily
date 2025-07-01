@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing**|Siyuan Li et.al.|[2506.23141](http://arxiv.org/abs/2506.23141)|null|
+|**2025-06-29**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
+|**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
 |**2025-06-27**|**Breaking Rank Bottlenecks in Knowledge Graph Completion**|Samy Badreddine et.al.|[2506.22271](http://arxiv.org/abs/2506.22271)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
 |**2025-06-27**|**Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion**|Ying Zhang et.al.|[2506.22036](http://arxiv.org/abs/2506.22036)|null|
@@ -3487,6 +3490,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent**|Haocheng Yu et.al.|[2506.23485](http://arxiv.org/abs/2506.23485)|null|
+|**2025-06-30**|**KiseKloset: Comprehensive System For Outfit Retrieval, Recommendation, And Try-On**|Thanh-Tung Phan-Nguyen et.al.|[2506.23471](http://arxiv.org/abs/2506.23471)|null|
+|**2025-06-29**|**Compositions of Variant Experts for Integrating Short-Term and Long-Term Preferences**|Jaime Hieu Do et.al.|[2506.23170](http://arxiv.org/abs/2506.23170)|null|
+|**2025-06-29**|**Multi-task Offline Reinforcement Learning for Online Advertising in Recommender Systems**|Langming Liu et.al.|[2506.23090](http://arxiv.org/abs/2506.23090)|null|
+|**2025-06-29**|**Enhancing Live Broadcast Engagement: A Multi-modal Approach to Short Video Recommendations Using MMGCN and User Preferences**|Saeid Aghasoleymani Najafabadi et.al.|[2506.23085](http://arxiv.org/abs/2506.23085)|null|
+|**2025-06-29**|**Synergizing Implicit and Explicit User Interests: A Multi-Embedding Retrieval Framework at Pinterest**|Zhibo Fan et.al.|[2506.23060](http://arxiv.org/abs/2506.23060)|null|
+|**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648](http://arxiv.org/abs/2506.22648)|null|
 |**2025-06-30**|**Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems**|Wenzheng Shu et.al.|[2506.22112](http://arxiv.org/abs/2506.22112)|null|
 |**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
 |**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
