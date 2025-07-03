@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
+|**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597](http://arxiv.org/abs/2507.01597)|null|
+|**2025-07-01**|**Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**|Félix Lefebvre et.al.|[2507.00965](http://arxiv.org/abs/2507.00965)|null|
+|**2025-07-01**|**On Mitigating Data Sparsity in Conversational Recommender Systems**|Sixiao Zhang et.al.|[2507.00479](http://arxiv.org/abs/2507.00479)|null|
+|**2025-06-28**|**InSight-R: A Framework for Risk-informed Human Failure Event Identification and Interface-Induced Risk Assessment Driven by AutoGraph**|Xingyu Xiao et.al.|[2507.00066](http://arxiv.org/abs/2507.00066)|null|
 |**2025-06-29**|**Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing**|Siyuan Li et.al.|[2506.23141](http://arxiv.org/abs/2506.23141)|null|
 |**2025-07-01**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
 |**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
@@ -3507,6 +3512,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
+|**2025-07-01**|**Towards a Signal Detection Based Measure for Assessing Information Quality of Explainable Recommender Systems**|Yeonbin Son et.al.|[2507.01168](http://arxiv.org/abs/2507.01168)|null|
+|**2025-06-30**|**FAIR-MATCH: A Multi-Objective Framework for Bias Mitigation in Reciprocal Dating Recommendations**|Madhav Kotecha et.al.|[2507.01063](http://arxiv.org/abs/2507.01063)|null|
+|**2025-07-01**|**Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support**|Dietmar Jannach et.al.|[2507.00535](http://arxiv.org/abs/2507.00535)|null|
+|**2025-07-01**|**Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling**|Walid Bendada et.al.|[2507.00518](http://arxiv.org/abs/2507.00518)|null|
+|**2025-07-01**|**On Mitigating Data Sparsity in Conversational Recommender Systems**|Sixiao Zhang et.al.|[2507.00479](http://arxiv.org/abs/2507.00479)|null|
 |**2025-06-30**|**Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent**|Haocheng Yu et.al.|[2506.23485](http://arxiv.org/abs/2506.23485)|null|
 |**2025-06-30**|**KiseKloset: Comprehensive System For Outfit Retrieval, Recommendation, And Try-On**|Thanh-Tung Phan-Nguyen et.al.|[2506.23471](http://arxiv.org/abs/2506.23471)|null|
 |**2025-06-29**|**Compositions of Variant Experts for Integrating Short-Term and Long-Term Preferences**|Jaime Hieu Do et.al.|[2506.23170](http://arxiv.org/abs/2506.23170)|null|
