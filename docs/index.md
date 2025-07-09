@@ -1295,6 +1295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139](http://arxiv.org/abs/2507.06139)|null|
+|**2025-07-08**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107](http://arxiv.org/abs/2507.06107)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs**|Sofiia Chorna et.al.|[2507.05810](http://arxiv.org/abs/2507.05810)|null|
+|**2025-07-08**|**DRAGON: Dynamic RAG Benchmark On News**|Fedor Chernogorskii et.al.|[2507.05713](http://arxiv.org/abs/2507.05713)|null|
 |**2025-07-08**|**Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift**|Shixuan Liu et.al.|[2507.05110](http://arxiv.org/abs/2507.05110)|null|
 |**2025-07-07**|**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**|Zewen Sun et.al.|[2507.04877](http://arxiv.org/abs/2507.04877)|null|
 |**2025-07-07**|**Dialogue-Based Multi-Dimensional Relationship Extraction from Novels**|Yuchen Yan et.al.|[2507.04852](http://arxiv.org/abs/2507.04852)|null|
@@ -3508,6 +3513,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
+|**2025-07-08**|**Kamae: Bridging Spark and Keras for Seamless ML Preprocessing**|George Barrowclough et.al.|[2507.06021](http://arxiv.org/abs/2507.06021)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**Graph Learning**|Feng Xia et.al.|[2507.05636](http://arxiv.org/abs/2507.05636)|null|
+|**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
+|**2025-07-07**|**Enjoying Non-linearity in Multinomial Logistic Bandits**|Pierre Boudart et.al.|[2507.05306](http://arxiv.org/abs/2507.05306)|null|
 |**2025-07-07**|**Interest Networks (iNETs) for Cities: Cross-Platform Insights and Urban Behavior Explanations**|Gustavo H. Santos et.al.|[2507.04995](http://arxiv.org/abs/2507.04995)|null|
 |**2025-07-07**|**SimLab: A Platform for Simulation-based Evaluation of Conversational Information Access Systems**|Nolwenn Bernard et.al.|[2507.04888](http://arxiv.org/abs/2507.04888)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
