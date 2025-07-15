@@ -24,6 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
+|**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156](http://arxiv.org/abs/2507.10156)|null|
+|**2025-07-14**|**Automating SPARQL Query Translations between DBpedia and Wikidata**|Malte Christian Bartels et.al.|[2507.10045](http://arxiv.org/abs/2507.10045)|null|
+|**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998](http://arxiv.org/abs/2507.09998)|null|
+|**2025-07-13**|**Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs**|Margherita Martorana et.al.|[2507.09617](http://arxiv.org/abs/2507.09617)|null|
+|**2025-07-12**|**Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations**|Mengjie Chen et.al.|[2507.09173](http://arxiv.org/abs/2507.09173)|null|
+|**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945](http://arxiv.org/abs/2507.08945)|null|
 |**2025-07-11**|**Knowledge Graph-Based approach for Sustainable 6G End-to-End System Design**|Akshay Jain et.al.|[2507.08717](http://arxiv.org/abs/2507.08717)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
 |**2025-07-11**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529](http://arxiv.org/abs/2507.08529)|null|
@@ -3545,6 +3552,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Diksha Mehta et.al.|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
+|**2025-07-14**|**Experimental Analysis and Evaluation of Cohesive Subgraph Discovery**|Dahee Kim et.al.|[2507.10262](http://arxiv.org/abs/2507.10262)|null|
+|**2025-07-14**|**Visual Analytics for Explainable and Trustworthy Artificial Intelligence**|Angelos Chatzimparmpas et.al.|[2507.10240](http://arxiv.org/abs/2507.10240)|null|
+|**2025-07-14**|**Riding the Carousel: The First Extensive Eye Tracking Analysis of Browsing Behavior in Carousel Recommenders**|Santiago de Leon-Martinez et.al.|[2507.10135](http://arxiv.org/abs/2507.10135)|null|
+|**2025-07-14**|**User Long-Term Multi-Interest Retrieval Model for Recommendation**|Yue Meng et.al.|[2507.10097](http://arxiv.org/abs/2507.10097)|null|
+|**2025-07-14**|**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**|Yang Xiao et.al.|[2507.10070](http://arxiv.org/abs/2507.10070)|null|
+|**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998](http://arxiv.org/abs/2507.09998)|null|
+|**2025-07-14**|**Non-parametric Graph Convolution for Re-ranking in Recommendation Systems**|Zhongyu Ouyang et.al.|[2507.09969](http://arxiv.org/abs/2507.09969)|null|
+|**2025-07-14**|**Radial Neighborhood Smoothing Recommender System**|Zerui Zhang et.al.|[2507.09952](http://arxiv.org/abs/2507.09952)|null|
+|**2025-07-14**|**Hierarchical Job Classification with Similarity Graph Integration**|Md Ahsanul Kabir et.al.|[2507.09949](http://arxiv.org/abs/2507.09949)|null|
 |**2025-07-10**|**Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**|Yeganeh Alimohammadi et.al.|[2507.08108](http://arxiv.org/abs/2507.08108)|null|
 |**2025-07-10**|**Plausible Counterfactual Explanations of Recommendations**|Jakub Černý et.al.|[2507.07919](http://arxiv.org/abs/2507.07919)|null|
 |**2025-07-10**|**Rethinking the Privacy of Text Embeddings: A Reproducibility Study of "Text Embeddings Reveal (Almost) As Much As Text"**|Dominykas Seputis et.al.|[2507.07700](http://arxiv.org/abs/2507.07700)|null|
