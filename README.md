@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion**|Jin Li et.al.|[2507.11229](http://arxiv.org/abs/2507.11229)|null|
+|**2025-07-15**|**An Interpretable AI framework Quantifying Traditional Chinese Medicine Principles Towards Enhancing and Integrating with Modern Biomedicine**|Haoran Li et.al.|[2507.11176](http://arxiv.org/abs/2507.11176)|null|
+|**2025-07-15**|**Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**|Yuhao Wang et.al.|[2507.10923](http://arxiv.org/abs/2507.10923)|null|
+|**2025-07-14**|**Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines**|Jiayuan Chen et.al.|[2507.10737](http://arxiv.org/abs/2507.10737)|null|
+|**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
 |**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
 |**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156](http://arxiv.org/abs/2507.10156)|null|
 |**2025-07-14**|**Automating SPARQL Query Translations between DBpedia and Wikidata**|Malte Christian Bartels et.al.|[2507.10045](http://arxiv.org/abs/2507.10045)|null|
@@ -3552,6 +3557,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Contestability in Quantitative Argumentation**|Xiang Yin et.al.|[2507.11323](http://arxiv.org/abs/2507.11323)|null|
+|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Diksha Mehta et.al.|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
 |**2025-07-14**|**Experimental Analysis and Evaluation of Cohesive Subgraph Discovery**|Dahee Kim et.al.|[2507.10262](http://arxiv.org/abs/2507.10262)|null|
 |**2025-07-14**|**Visual Analytics for Explainable and Trustworthy Artificial Intelligence**|Angelos Chatzimparmpas et.al.|[2507.10240](http://arxiv.org/abs/2507.10240)|null|
