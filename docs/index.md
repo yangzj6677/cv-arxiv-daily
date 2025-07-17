@@ -1295,6 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311](http://arxiv.org/abs/2507.12311)|null|
+|**2025-07-16**|**The benefits of query-based KGQA systems for complex and temporal questions in LLM era**|Artem Alekseev et.al.|[2507.11954](http://arxiv.org/abs/2507.11954)|null|
+|**2025-07-15**|**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**|Giang Nguyen et.al.|[2507.11770](http://arxiv.org/abs/2507.11770)|null|
 |**2025-07-15**|**DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion**|Jin Li et.al.|[2507.11229](http://arxiv.org/abs/2507.11229)|null|
 |**2025-07-15**|**An Interpretable AI framework Quantifying Traditional Chinese Medicine Principles Towards Enhancing and Integrating with Modern Biomedicine**|Haoran Li et.al.|[2507.11176](http://arxiv.org/abs/2507.11176)|null|
 |**2025-07-15**|**Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**|Yuhao Wang et.al.|[2507.10923](http://arxiv.org/abs/2507.10923)|null|
@@ -3540,6 +3543,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Looking for Fairness in Recommender Systems**|Cécile Logé et.al.|[2507.12242](http://arxiv.org/abs/2507.12242)|null|
+|**2025-07-16**|**Granular feedback merits sophisticated aggregation**|Anmol Kagrecha et.al.|[2507.12041](http://arxiv.org/abs/2507.12041)|null|
+|**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032](http://arxiv.org/abs/2507.12032)|null|
+|**2025-07-16**|**Predictable Drifts in Collective Cultural Attention: Evidence from Nation-Level Library Takeout Data**|Anders Weile Larsen et.al.|[2507.12007](http://arxiv.org/abs/2507.12007)|null|
+|**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|null|
 |**2025-07-15**|**Contestability in Quantitative Argumentation**|Xiang Yin et.al.|[2507.11323](http://arxiv.org/abs/2507.11323)|null|
 |**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Diksha Mehta et.al.|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
