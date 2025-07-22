@@ -1295,6 +1295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420](http://arxiv.org/abs/2507.15420)|null|
+|**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-19**|**Towards Temporal Knowledge Graph Alignment in the Wild**|Runhao Zhao et.al.|[2507.14475](http://arxiv.org/abs/2507.14475)|null|
+|**2025-07-19**|**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**|Yitong Lin et.al.|[2507.14468](http://arxiv.org/abs/2507.14468)|null|
+|**2025-07-18**|**Error-Aware Curriculum Learning for Biomedical Relation Classification**|Sinchani Chakraborty et.al.|[2507.14374](http://arxiv.org/abs/2507.14374)|null|
+|**2025-07-18**|**Text-to-SQL for Enterprise Data Analytics**|Albert Chen et.al.|[2507.14372](http://arxiv.org/abs/2507.14372)|null|
 |**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993](http://arxiv.org/abs/2507.13993)|null|
 |**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
 |**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela et.al.|[2507.13910](http://arxiv.org/abs/2507.13910)|null|
@@ -3553,6 +3561,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
+|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
+|**2025-07-21**|**An ML-Driven Participant Selection Technique for Federated Recommendation System in Edge-Cloud Computing**|Jintao Liu et.al.|[2507.15233](http://arxiv.org/abs/2507.15233)|null|
+|**2025-07-20**|**The Tsetlin Machine Goes Deep: Logical Learning and Reasoning With Graphs**|Ole-Christoffer Granmo et.al.|[2507.14874](http://arxiv.org/abs/2507.14874)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-18**|**A Reproducibility Study of Product-side Fairness in Bundle Recommendation**|Huy-Son Nguyen et.al.|[2507.14352](http://arxiv.org/abs/2507.14352)|null|
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
 |**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela et.al.|[2507.13910](http://arxiv.org/abs/2507.13910)|null|
 |**2025-07-18**|**When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**|Haoyang Li et.al.|[2507.13825](http://arxiv.org/abs/2507.13825)|null|
