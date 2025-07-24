@@ -1295,6 +1295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/abs/2507.17273)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971](http://arxiv.org/abs/2507.16971)|null|
 |**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
 |**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011](http://arxiv.org/abs/2507.16011)|null|
@@ -3565,6 +3569,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users**|Weixin Chen et.al.|[2507.17749](http://arxiv.org/abs/2507.17749)|null|
+|**2025-07-23**|**Generalized Low-Rank Matrix Contextual Bandits with Graph Information**|Yao Wang et.al.|[2507.17528](http://arxiv.org/abs/2507.17528)|null|
+|**2025-07-23**|**"Beyond the past": Leveraging Audio and Human Memory for Sequential Music Recommendation**|Viet-Tran Anh et.al.|[2507.17356](http://arxiv.org/abs/2507.17356)|null|
+|**2025-07-23**|**Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems**|Li Kang et.al.|[2507.17290](http://arxiv.org/abs/2507.17290)|null|
+|**2025-07-23**|**R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems**|Hao Gu et.al.|[2507.17249](http://arxiv.org/abs/2507.17249)|null|
+|**2025-07-23**|**Eco-Friendly AI: Unleashing Data Power for Green Federated Learning**|Mattia Sabella et.al.|[2507.17241](http://arxiv.org/abs/2507.17241)|null|
+|**2025-07-23**|**PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**|Sukjin Kim et.al.|[2507.17094](http://arxiv.org/abs/2507.17094)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao et.al.|[2507.16969](http://arxiv.org/abs/2507.16969)|null|
 |**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
 |**2025-07-22**|**AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review**|Choro Ulan Uulu et.al.|[2507.16586](http://arxiv.org/abs/2507.16586)|null|
 |**2025-07-22**|**Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems**|Octavian M. Machidon et.al.|[2507.16430](http://arxiv.org/abs/2507.16430)|null|
